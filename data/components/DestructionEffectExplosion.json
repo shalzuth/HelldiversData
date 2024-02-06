@@ -1,0 +1,4 @@
+{ "DestructionEffectExplosion" : {
+    "explosion_node" : { "type": "uint", "description": "[node] The node in the unit where the explosion will be played at." },
+    "explosion_type" : { "type": "ExplosionType", "description": "The defined explosion type to trigger." }
+}}

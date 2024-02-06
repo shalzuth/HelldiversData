@@ -1,0 +1,7 @@
+{ "BuoyancySphereInfo" : {
+    "radius" : { "type": "float", "default": 0, "description": "The radius of the buoyancy sphere." },
+    "offset" : { "type": "CApiVector3", "description": "the offset of the buoyancy sphere from the vehicles actor_shape center." },
+    "floatyness" : { "type": "float", "default": 0, "description": "The floatyness of the buoyancy sphere." },
+    "dragginess_min" : { "type": "float", "default": 0, "description": "The min dragginess of the buoyancy sphere." },
+    "dragginess_max" : { "type": "float", "default": 0, "description": "The max dragginess of the buoyancy sphere." }
+}}

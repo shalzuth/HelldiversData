@@ -1,0 +1,13 @@
+{ "WorldLootManagerComponent" : {
+    "supply_pickups_per_mission_min" : { "type": "array", "subtype": "uint" },
+    "supply_pickups_per_mission_max" : { "type": "array", "subtype": "uint" },
+    "weapons_per_mission_min" : { "type": "array", "subtype": "uint" },
+    "weapons_per_mission_max" : { "type": "array", "subtype": "uint" },
+    "hellpod_pinatas_per_mission_min" : { "type": "array", "subtype": "uint" },
+    "hellpod_pinatas_per_mission_max" : { "type": "array", "subtype": "uint" },
+    "vehicles_per_mission_min" : { "type": "array", "subtype": "uint" },
+    "vehicles_per_mission_max" : { "type": "array", "subtype": "uint" },
+    "intel_chance_per_mission" : { "type": "array", "subtype": "float" },
+    "sample_spawn_groups" : { "type": "array", "subtype": "WorldLootSampleSpawnGroup" },
+    "max_super_samples_per_mission" : { "type": "uint", "default": 1 }
+}}

@@ -1,0 +1,4 @@
+{ "StatusEffectContinuousEffect" : {
+    "type" : { "type": "StatusEffectType", "default": "StatusEffectType_None" },
+    "value_per_second" : { "type": "float", "default": 1 }
+}}

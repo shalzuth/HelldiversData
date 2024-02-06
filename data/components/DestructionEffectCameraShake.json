@@ -1,0 +1,4 @@
+{ "DestructionEffectCameraShake" : {
+    "camera_shake_asset" : { "type": "ulong", "description": "[camera_shake]" },
+    "camera_shake_radius" : { "type": "float", "description": "In meters, the radius of the camera shake." }
+}}

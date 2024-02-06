@@ -1,0 +1,15 @@
+{ "ThrusterInfo" : {
+    "node" : { "type": "uint", "description": "[string]The name of node where this engine is located." },
+    "actor_name" : { "type": "uint", "description": "[string]The name of actor to apply thruster impulses to during the crash." },
+    "angle_animation_variable" : { "type": "uint", "description": "[string]The name of animation variable to control the angle of the engine." },
+    "damageable_zone_name" : { "type": "uint", "description": "[string]The name of the damageable zone to link this thruster to. When the zone dies, the thruster dies." },
+    "on_destroyed_event" : { "type": "uint", "description": "[string]The name of the flow event to send when the thruster dies." },
+    "on_destroyed_stop_particle_references" : { "type": "array", "subtype": "uint", "description": "[string]A list of particle references to stop when this thruster dies." },
+    "on_destroyed_play_particle_references" : { "type": "array", "subtype": "uint", "description": "[string]A list of particle references to play when this thruster dies." },
+    "should_play_particles_on_kill_all" : { "type": "byte", "description": "[bool]Should we play the particle references if we are killing all engines simultaneously?" },
+    "forward_angle_scale" : { "type": "float", "default": 1, "description": "A scaling applied to the thruster angle when steering forward. It can be useful for smaller steering-focused thrusters such as the back of the shuttle." },
+    "destroyed_thruster_power" : { "type": "float", "default": 0.5, "description": "Destroyed thruster power is multiplied by this" },
+    "destroyed_thruster_min_power" : { "type": "float", "default": 0.2, "description": "Destroyed thruster power is multiplied by this" },
+    "destroyed_thruster_power_decrease" : { "type": "float", "default": 0.1, "description": "Power multiplier is decreased byt this per second (if destroyed_thruster_power is 0.5 and destroyed_thruster_power_decrease is 0.1, it takes 5 seconds to reach min power" },
+    "dead_thruster_power" : { "type": "float", "default": 1, "description": "If the entity is dead, the remaining alive thrusters get a multiplier" }
+}}

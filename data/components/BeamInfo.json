@@ -1,0 +1,17 @@
+{ "BeamInfo" : {
+    "type" : { "type": "BeamType" },
+    "radius" : { "type": "float", "default": 0 },
+    "length" : { "type": "float", "default": 1000 },
+    "damage_info_type" : { "type": "DamageInfoType", "default": "DamageInfoType_None" },
+    "focal_shoulder_width" : { "type": "float", "default": 0 },
+    "decal_size" : { "type": "float", "default": 0.15 },
+    "surface_impact_type" : { "type": "SurfaceImpactType", "default": "SurfaceImpactType_None" },
+    "beam_effect_path" : { "type": "ulong", "description": "[particles]" },
+    "falloff_effect_path" : { "type": "ulong", "description": "[particles]" },
+    "beam_unit_path" : { "type": "ulong", "description": "[unit]" },
+    "audio_trail" : { "type": "uint" },
+    "audio_trail_stop" : { "type": "uint" },
+    "raycast_template" : { "type": "RaycastTemplate", "default": "RaycastTemplate_Damage" },
+    "overlap_beam_query" : { "type": "uint", "default": 2435390391 },
+    "effect_damage_type" : { "type": "HitEffectDamageType", "default": "HitEffectDamageType_None" }
+}}

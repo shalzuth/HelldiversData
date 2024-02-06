@@ -1,0 +1,4 @@
+{ "MaterialSwap" : {
+    "name" : { "type": "uint", "description": "[string]The name of the swap." },
+    "material" : { "type": "ulong", "description": "[material]The material to set." }
+}}

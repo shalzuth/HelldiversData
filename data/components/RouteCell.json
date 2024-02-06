@@ -1,0 +1,16 @@
+{ "RouteCell" : {
+    "position" : { "type": "CApiVector2" },
+    "routes" : { "type": "array", "subtype": "Route" },
+    "aabb" : { "type": "array", "subtype": "CApiVector2" },
+    "attached_location" : { "type": "LocationInstance" },
+    "merged_lowest_elevation" : { "type": "float" },
+    "merged_highest_elevation" : { "type": "float" },
+    "subcells_start" : { "type": "uint" },
+    "subcells_end" : { "type": "uint" },
+    "associated_route_start" : { "type": "uint" },
+    "associated_route_end" : { "type": "uint" },
+    "merged_cells_start" : { "type": "uint" },
+    "merged_cells_end" : { "type": "uint" },
+    "secondary_locations" : { "type": "array", "subtype": "LocationInstance" },
+    "secondary_location_count" : { "type": "uint" }
+}}

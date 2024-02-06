@@ -1,0 +1,10 @@
+{ "AiEnemyBarks" : {
+    "suspicious_start" : { "type": "AiEnemyBarkAbility", "description": "When they see an enemy but before confirming it is an enemy." },
+    "suspicious_stop" : { "type": "AiEnemyBarkAbility", "description": "When they saw an enemy that disappeared befored they confirmed it as enemy." },
+    "investigating_start" : { "type": "AiEnemyBarkAbility", "description": "When they hear something and starting to go there to investigate." },
+    "investigating_search_start" : { "type": "AiEnemyBarkAbility", "description": "When starting a search at the investigation area." },
+    "investigating_search_stop" : { "type": "AiEnemyBarkAbility", "description": "When ending a search at the investigation area." },
+    "target_acquired" : { "type": "AiEnemyBarkAbility", "description": "When the target is confirmed and acquired." },
+    "target_changed" : { "type": "AiEnemyBarkAbility", "description": "When the target has changed" },
+    "surprise" : { "type": "AiEnemyBarkAbility", "description": "When startled ???" }
+}}

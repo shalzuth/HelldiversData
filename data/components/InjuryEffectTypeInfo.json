@@ -1,0 +1,7 @@
+{ "InjuryEffectTypeInfo" : {
+    "id" : { "type": "uint", "description": "[string]Unique id" },
+    "is_instantaneous" : { "type": "byte", "description": "[bool]Is this injury effect triggered instantaneously?" },
+    "is_permanent" : { "type": "byte", "description": "[bool]Is this injury effect permanent?" },
+    "duration" : { "type": "float", "default": 1, "description": "The duration this injury effect lasts before it disables itself." },
+    "strength" : { "type": "float", "default": 1, "description": "The strength of the effect, additiv to multipliers." }
+}}

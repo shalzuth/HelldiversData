@@ -1,0 +1,3142 @@
+{
+  "12023841631339054706": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "7208293264043292125": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 0,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0,
+      "y": 0
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "2108432737919758797": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15809454270358060682": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8743388434472300512": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 6,
+    "tilting_speed": 1
+  },
+  "9614788353289254415": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "2210598302234166538": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "14354158653026475511": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "12562787704342269592": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "12300518439027380185": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15855903412068188757": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "9513169167295339035": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "1346028121179999955": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "10861016308832836833": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "14731312854664874139": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "552747719338665864": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "363124815175446673": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4399458158766252490": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "12165351853986040244": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "13575269880792024885": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "16121421951002036444": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "5650246641905721936": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "11224539174350765599": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15529686099596640908": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15621795958426619957": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "14828710641940459992": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "18129582262547983427": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "1825817556220264183": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "9545949827108816555": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "5663271064929335883": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "5268813631875709973": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8883573249939290241": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "9576485996670470682": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "17672347716099392046": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15701184648926402687": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "12008441084326179745": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "10835289456440565066": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 1,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0,
+      "y": 0
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 1,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "17870518574608098412": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 6,
+    "tilting_speed": 1
+  },
+  "15358116161893188517": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4015747776278116983": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8867451643782573472": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "767968035755763": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "17238162226885792459": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "6962260187829921276": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15155335998927187595": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "6041739005686103399": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 1,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "1903375976943875074": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "6927066342767148424": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15659331049401757247": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "7719208875390099550": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0,
+      "y": 0
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "10405460102960147340": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15821153730695962661": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 100,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4469039597602705386": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "31641368152217202": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "9549082741251590168": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "14748816422034837943": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "2190700087544369166": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "13037131039069521275": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "3294140577296249453": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "13340847352459495240": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "16919711124802745493": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "3128706810926128882": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "6674443306042095289": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "11669807341511884260": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "3939129929398354246": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "3583430772214091149": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 1,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "11353844921854370643": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "7196537832909981064": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 1,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "1024464436030047776": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "6676641717166653626": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "14038927220542196401": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 2100334968,
+    "default_motion_mode": "MotionMode_Mover",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.75,
+      "y": 1
+    },
+    "position_lerp_fraction_per_second": 0.999998987,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4571403555494335481": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4083821917710944045": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "16841371283351459334": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "5250245939082938461": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "13006740284537092303": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "7057055776013546117": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "3031503431338798614": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "2896069159183246418": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 4,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "1155202780614770422": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "12013007335500498924": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "18002332014700027641": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 6,
+    "tilting_speed": 1
+  },
+  "4251221953861716889": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0,
+      "y": 0
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "14054387432745785364": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "18047604708754565239": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "11843619417684963016": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "2139899069241334240": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 6,
+    "tilting_speed": 1
+  },
+  "10958708641660631096": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 100,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "641481206831155133": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8806287475843878476": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15691978653806246852": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "9414910092732904122": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "5556372446766824087": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 3527513258,
+    "default_motion_mode": "MotionMode_Mover",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.150000006,
+      "y": 0.300000012
+    },
+    "position_lerp_fraction_per_second": 0.999998987,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 1,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "12566139334605762628": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "1239378520908923324": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "3626558530581732572": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "114072341195801864": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 6,
+    "tilting_speed": 1
+  },
+  "5492393195882837684": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "11457796999526261852": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "11297499216687771913": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8261922003134896957": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "2895453262415111841": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 20
+  },
+  "16653674489725268507": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "5077454099412397096": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15239773297738004195": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 1,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0,
+      "y": 0
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 1,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "1909471264691872944": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0,
+      "y": 0
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "11398074038506794973": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 1,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0,
+      "y": 0
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4375091888770509304": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "1403303179954968823": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "7258218216136199873": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "5938625030399109341": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "3508555955240290181": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "7512712492736498702": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4686290245664085219": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8604848163181421628": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "9137331974793918131": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "7655267415106750589": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "2186831762627068031": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "850711056443892715": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "11135777548304851724": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15599629815890585244": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4618830856548850870": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "17921415124075533547": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "10744843724429302507": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "17756861745706792858": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8930946772956507401": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "12421182327299345565": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 2,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "5909160229139284606": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 14,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "10371974906799355538": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "2995258593083456624": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4577685471418352301": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8785151313511435740": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15336140906172278556": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "17943362722330235151": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "11601043503813400874": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 6,
+    "tilting_speed": 1
+  },
+  "6624453650490018537": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Flying",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 6,
+    "tilting_speed": 1
+  },
+  "3517035000518974420": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "7587445649108074590": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "152751642744350684": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "10514734670540770044": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "10828817397904429935": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "4960479884336891143": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "5903841343181520462": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "12041129896721693842": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8484362704672433843": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "13707236614338800569": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 0,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 0,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "17875655752828743943": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 1,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15438282343866021807": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 0,
+    "use_huge_simple_mover": 1,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0,
+      "y": 0
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 1,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "10770873609175974470": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.100000001,
+      "y": 0.25
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "12706617161845284909": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15062487539698939333": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "2701456486977900736": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "8783342891467425251": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 2100334968,
+    "default_motion_mode": "MotionMode_Mover",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.75,
+      "y": 1
+    },
+    "position_lerp_fraction_per_second": 0.999998987,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "14286719829563111324": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 1,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15726775732878460914": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "18198461672611034237": {
+    "use_root_motion": 0,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 14,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  },
+  "15125779956101896786": {
+    "use_root_motion": 1,
+    "use_navmesh_constraint": 1,
+    "use_simple_mover": 1,
+    "use_huge_simple_mover": 0,
+    "use_simple_mover_as_vehicle_collider": 1,
+    "mover_name": 0,
+    "default_motion_mode": "MotionMode_Navigation",
+    "hover_height": 0,
+    "forcemode_max_speed": 6,
+    "sample_radii": {
+      "x": 0.25,
+      "y": 0.5
+    },
+    "position_lerp_fraction_per_second": 1,
+    "max_predicted_spatial_deviation": 1,
+    "has_footplanting_ik": 0,
+    "expected_maximum_speed_audio": 20,
+    "tilting_speed": 0
+  }
+}

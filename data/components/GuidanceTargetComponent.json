@@ -1,0 +1,15 @@
+{ "GuidanceTargetComponent" : {
+    "always_active" : { "type": "byte", "description": "[bool]Is this target always broadcasting its location for targeting." },
+    "use_target_node" : { "type": "byte", "description": "[bool]Use a node as the target position. Leave disabled if setting manually (eg. laser designator)" },
+    "target_node" : { "type": "uint", "default": 3167719909, "description": "[string]Node to be used as the target position." },
+    "priority" : { "type": "float", "default": 0, "description": "What is the priority of this target. Set higher for things that should be targeted first." },
+    "owner_priority" : { "type": "float", "default": 100, "description": "What is the priority of this target if the entity and target are both owned by the same player." },
+    "lock_on_target_time" : { "type": "float", "default": 2 },
+    "lost_target_time" : { "type": "float", "default": 1 },
+    "requires_target_lock" : { "type": "byte", "description": "[bool]Do we need to perform a target lock before we can fire the weapon?" },
+    "target_lock_dot" : { "type": "float", "default": 0.95, "description": "Dot needed for the target to be within" },
+    "tracking_loop_start" : { "type": "uint", "description": "[wwise]Sound to play when you start locking on." },
+    "tracking_loop_stop" : { "type": "uint", "description": "[wwise]Sound to play when you stop locking on." },
+    "locked_loop_start" : { "type": "uint", "description": "[wwise]Sound to play when you are locked on." },
+    "locked_loop_stop" : { "type": "uint", "description": "[wwise]Sound to play when you are no longer locked on." }
+}}

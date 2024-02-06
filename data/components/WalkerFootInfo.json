@@ -1,0 +1,4 @@
+{ "WalkerFootInfo" : {
+    "node" : { "type": "uint", "description": "[string]Node to use when finding the ground height for this foot." },
+    "anim_variable_distance_to_ground" : { "type": "uint", "description": "[string]Animation variable to send for distance to ground." }
+}}

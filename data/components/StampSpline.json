@@ -1,0 +1,5 @@
+{ "StampSpline" : {
+    "spline_type" : { "type": "StampSplineType" },
+    "segments" : { "type": "array", "subtype": "CApiVector2" },
+    "entrypoints" : { "type": "array", "subtype": "sbyte" }
+}}

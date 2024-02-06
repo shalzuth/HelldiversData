@@ -1,0 +1,8 @@
+{ "SprayWeaponStateInfo" : {
+    "shake" : { "type": "WeaponCameraShakeInfo", "description": "Settings for local and in-world camera shakes to play in this state." },
+    "muzzle_effect" : { "type": "ulong", "description": "[particles]Particle effect to play from the muzzle in this state." },
+    "callout_event_start" : { "type": "uint", "description": "[string]Audio event to player when entering this state." },
+    "audio_event_start" : { "type": "uint", "description": "[string]Audio event to player when entering this state." },
+    "audio_event_stop" : { "type": "uint", "description": "[string]Audio event to player when exiting this state." },
+    "wind_template" : { "type": "WindEffectTemplate", "default": "WindEffectTemplate_None", "description": "Audio event to player when exiting this state." }
+}}

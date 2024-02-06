@@ -1,0 +1,3 @@
+{ "EntityBindComponent" : {
+    "dynamic_link_direction" : { "type": "DynamicLinkDirection", "default": "DynamicLinkDirection_None", "description": "The direction in which we will dynamically link with the binded entity." }
+}}

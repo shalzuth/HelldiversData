@@ -1,0 +1,8 @@
+{ "TransportFormation" : {
+    "id" : { "type": "uint", "description": "[string]Id of this formation, (e.g. dropship). Used by squad transport component to find the specific formation." },
+    "rows" : { "type": "uint", "default": 1, "description": "Number of rows that will get occupied in the dropship when spawning this squad." },
+    "columns" : { "type": "uint", "default": 1, "description": "Number of columns that will get occupied in the dropship when spawning this squad." },
+    "front_priority" : { "type": "uint", "default": 1, "description": "The priority when selecting which spawn is spawned closer to the front / opening." },
+    "type" : { "type": "TransportFormationType", "default": "TransportFormationType_Small", "description": "." },
+    "attach_node" : { "type": "uint", "description": "[string]Name of explicit attach node. Only required if the default should be overwritten." }
+}}

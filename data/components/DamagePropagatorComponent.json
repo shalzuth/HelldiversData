@@ -1,0 +1,3 @@
+{ "DamagePropagatorComponent" : {
+    "propagation_strategy" : { "type": "DamagePropagationStrategy", "default": "DamagePropagationStrategy_HitReactOnly", "description": "The strategy we use for propagating damage or hit reacts." }
+}}

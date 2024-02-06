@@ -1,0 +1,8 @@
+{ "InteractableMinigameComponent" : {
+    "minigames" : { "type": "array", "subtype": "InteractableMinigameInfo", "description": "." },
+    "interact_activation_time" : { "type": "float", "default": 0, "description": "Time between initial activation interaction (if require_activation is set) and the first minigame becoming interactable." },
+    "time_limit" : { "type": "float", "default": 0, "description": "Time limit between the first minigame being completed and all of the being completed. If the time runs out, all of the minigames are reset." },
+    "enable_when_complete" : { "type": "byte" },
+    "errors" : { "type": "array", "subtype": "ObjectiveError", "description": "List of errors that the behavior can trigger, showing the user why the current minigame stage couldn't be completed." },
+    "audio" : { "type": "AudioEvents" }
+}}

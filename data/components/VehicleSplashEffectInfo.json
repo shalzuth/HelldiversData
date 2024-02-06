@@ -1,0 +1,8 @@
+{ "VehicleSplashEffectInfo" : {
+    "particle_infos" : { "type": "array", "subtype": "VehicleEffectParticleInfo", "description": "Information about the particle effects triggered by this status effect." },
+    "buoyancy_sphere_indices" : { "type": "array", "subtype": "int", "description": "The buoyancy sphere indices to use for comparing the threshold." },
+    "buoyancy_drag_threshold" : { "type": "float", "default": 1400, "description": "The threshold of the combined buoyancy sphere dragginess factors before the effect is triggered." },
+    "trigger_cooldown" : { "type": "float", "default": 0.3, "description": "The cooldown between splash effect triggers." },
+    "node" : { "type": "uint", "description": "[string]The node/socket used for the position and rotation of the effect as well as determining the trigger based on the dotp threshold." },
+    "dotp_threshold" : { "type": "float", "default": 0.1, "description": "The dot product threshold between the forward vector and the velocity before the effect is triggered." }
+}}

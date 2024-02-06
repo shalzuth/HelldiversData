@@ -1,0 +1,6 @@
+{ "AlignmentLimits" : {
+    "pitch_limit" : { "type": "float", "default": -1, "description": "The limit (in degrees) for the pitch." },
+    "roll_limit" : { "type": "float", "default": -1, "description": "The limit (in degrees) for the roll." },
+    "pitch_fraction" : { "type": "float", "default": 1, "description": "The percentage of pitch that will contribute to the final alignment." },
+    "roll_fraction" : { "type": "float", "default": 1, "description": "The percentage of roll that will contribute to the final alignment." }
+}}

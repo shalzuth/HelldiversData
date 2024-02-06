@@ -1,0 +1,8 @@
+{ "VehicleCollisionInfo" : {
+    "character_impact_absorb_amount" : { "type": "float", "default": 0.12, "description": "The amount of impact force we will absorb when impacting characters." },
+    "should_collide_with_body" : { "type": "byte", "description": "[bool]Should we collide with this collision body?" },
+    "impact_damage_multiplier" : { "type": "float", "default": 1, "description": "A Multiplier to the damage dealt to this entity." },
+    "knockback_force_multiplier" : { "type": "float", "default": 1, "description": "A Multiplier to the knockback force dealt to this entity." },
+    "minimum_impact_speed_kmh_threshold" : { "type": "float", "default": 8, "description": "The minimum impact speed in kmh threshold needed to stagger/damage this enemy." },
+    "vehicle_impact_damage_multiplier" : { "type": "float", "default": 1, "description": "A Multiplier to the damage dealt to the vehicle." }
+}}

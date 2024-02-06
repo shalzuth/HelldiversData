@@ -1,0 +1,4 @@
+{ "WeaponFunctionInfo" : {
+    "left" : { "type": "WeaponFunctionType", "default": "WeaponFunctionType_None", "description": "What weapon function is related to this input." },
+    "right" : { "type": "WeaponFunctionType", "default": "WeaponFunctionType_None", "description": "What weapon function is related to this input." }
+}}

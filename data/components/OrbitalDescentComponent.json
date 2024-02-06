@@ -1,0 +1,17 @@
+{ "OrbitalDescentComponent" : {
+    "on_hit_ground_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when the object hits the ground." },
+    "on_start_descent_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when the object starts the descent." },
+    "on_init_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when the object is setup (and not already descended)." },
+    "on_done_hotjoin_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when the object has already descended and player joins late." },
+    "on_debug_reset_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play to reset for debug" },
+    "fall_speed_start" : { "type": "float", "default": 500, "description": "The speed to start at" },
+    "deceleration" : { "type": "float", "default": 10, "description": "The speed to end at" },
+    "fall_speed_min" : { "type": "float", "default": 200, "description": "The minimum fall speed" },
+    "time_until_triggered_min" : { "type": "float", "default": 60, "description": "Delay until we trigger the fall min" },
+    "time_until_triggered_max" : { "type": "float", "default": 120, "description": "Delay until we trigger the fall max" },
+    "base_time_added_per_instance" : { "type": "float", "default": 0, "description": "Time that is added per instance of the component, so they fall throughout a mission" },
+    "travel_distance" : { "type": "float", "default": 1000 },
+    "pitch_offset" : { "type": "float", "default": 0 },
+    "yaw_offset" : { "type": "float", "default": 0 },
+    "roll_offset" : { "type": "float", "default": 0 }
+}}

@@ -1,0 +1,6 @@
+{ "DecaySettings" : {
+    "mode" : { "type": "DeathDecayMode", "default": "DeathDecayMode_None", "description": "If and how this entity decays on death." },
+    "acceleration" : { "type": "float", "default": 0.5, "description": "Acceleration (m/s^2) of the decay velocity." },
+    "min_delay" : { "type": "float", "default": 5, "description": "Only valid with Regular decay mode, this dictates how long to wait (at a minimum) before decaying," },
+    "max_delay" : { "type": "float", "default": 90, "description": "Only valid with Regular decay mode, this dictates how long to wait (at a maximum) before decaying," }
+}}

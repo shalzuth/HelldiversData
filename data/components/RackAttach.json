@@ -1,0 +1,11 @@
+{ "RackAttach" : {
+    "item" : { "type": "ulong", "description": "[adhd]" },
+    "node" : { "type": "uint", "default": 3902607911, "description": "[string]Node where to attach the hellpod rack payload." },
+    "offset" : { "type": "CApiVector3", "description": "Offset from 'node'." },
+    "rotation_offset" : { "type": "CApiVector3", "description": "Rotation offset from 'node' in degrees." },
+    "deploy_animation_event" : { "type": "uint", "description": "[string]Animation to play when retracting this attach." },
+    "retract_animation_event" : { "type": "uint", "description": "[string]Animation to play when retracting this attach." },
+    "retract_audio_event" : { "type": "uint", "default": 315488739, "description": "[wwise]" },
+    "apply_deltas" : { "type": "byte", "description": "[bool]If true, apply any stratagem customization deltas to this entity when spawning." },
+    "rack_side" : { "type": "RackSide", "default": "RackSide_None", "description": "Is this item on the left or right side of the rack? Cannot be left on None." }
+}}

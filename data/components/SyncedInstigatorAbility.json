@@ -1,0 +1,15 @@
+{ "SyncedInstigatorAbility" : {
+    "type" : { "type": "SyncedAbilityType", "default": "SyncedAbilityType_None", "description": "Type of synced ability (kill, revive etc.)" },
+    "partner_rig" : { "type": "SyncedAbilityRigType", "default": "SyncedAbilityRigType_None", "description": "Animation rig type of the receiver this ability matches." },
+    "ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to run when executing the sync kill or death." },
+    "weapon_type" : { "type": "AssistedReloadWeaponType", "default": "AssistedReloadWeaponType_None", "description": "Must match the weapon carried by the receiver for the pair to be played." },
+    "emote_type" : { "type": "uint", "default": 1288385068, "description": "[string]Must match the emote currently waiting for by the initiator to be played." },
+    "seater_role" : { "type": "SeaterRole", "default": "SeaterRole_None", "description": "Must match the role of the receiver for the pair to be played, except if set to None which works as a wildcard." },
+    "lerp_duration" : { "type": "float", "default": 1, "description": "Length of the lerp phase, in seconds." },
+    "skip_lerp" : { "type": "byte", "description": "[bool]Should we ignore lerping while doing this synced ability?" },
+    "distance" : { "type": "float", "default": 3, "description": "Distance from root of enemy to lerp the entity to." },
+    "range" : { "type": "float", "default": 10000, "description": "Range for this ability to be active." },
+    "camera_override" : { "type": "byte", "description": "[bool]Overrides the camera with the avatar rig camera node. Only used if entity is an avatar." },
+    "override_motion" : { "type": "byte", "description": "[bool]Overrides the various motion components, such as 'motion', 'rotation' and 'locomotion'." },
+    "attach_node" : { "type": "uint", "description": "[string]Name of the node where to attach the receiver." }
+}}

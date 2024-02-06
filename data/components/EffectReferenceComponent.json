@@ -1,0 +1,6 @@
+{ "EffectReferenceComponent" : {
+    "call_on_destroy_on_entity_removal" : { "type": "byte", "description": "[bool]Should this entity being removed count as the entity being destroyed" },
+    "effects" : { "type": "array", "subtype": "ParticleEffectSetting", "description": "Particle Effect settings." },
+    "units" : { "type": "array", "subtype": "SpawnUnitEffectSettings", "description": "The settings for units to spawn." },
+    "camera_shakes" : { "type": "array", "subtype": "CameraShakeSettings", "description": "The settings for camera shakes to spawn/not spawn.." }
+}}

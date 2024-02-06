@@ -1,0 +1,4 @@
+{ "LevelGenerationSatelliteGroup" : {
+    "id" : { "type": "uint" },
+    "satellites" : { "type": "array", "subtype": "LevelGenerationSatellite" }
+}}

@@ -1,0 +1,6 @@
+{ "SwitchInstance" : {
+    "trigger_script" : { "type": "uint", "description": "[string]Script to trigger when activated" },
+    "text_loc" : { "type": "uint", "description": "[string]Optional text string to appear under the switch" },
+    "error_script" : { "type": "uint", "description": "[string]Script to trigger when the switch is activated but is in an error" },
+    "direction" : { "type": "InteractableMiniGameSwitchDirection", "default": "InteractableMiniGameSwitchDirection_Up", "description": "Whether this is an up toggle switch or a down toggle switch" }
+}}

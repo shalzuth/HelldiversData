@@ -1,0 +1,5 @@
+{ "GameEventShipComponent" : {
+    "tag_to_link_to" : { "type": "uint", "default": 1475346640, "description": "[string]What tag to check for on script data for linking" },
+    "attack_events" : { "type": "array", "subtype": "ShipAttackEvent" },
+    "ship_lights" : { "type": "array", "subtype": "ShipLightSetting" }
+}}

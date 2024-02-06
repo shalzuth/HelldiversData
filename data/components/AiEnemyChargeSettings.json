@@ -1,0 +1,10 @@
+{ "AiEnemyChargeSettings" : {
+    "movement" : { "type": "AiEnemyStateMovementSettings" },
+    "acceleration" : { "type": "float", "default": 2 },
+    "turn_rate_interpolation_speed" : { "type": "float", "default": 3 },
+    "charge_angle" : { "type": "float", "default": 40, "description": "If the target is outside of this angle, then we start to cancel the charge" },
+    "passed_stop_time" : { "type": "float", "default": 3, "description": "Time to stop charging after passing target" },
+    "stop_charge_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when the charger should stop charging." },
+    "lock_rotation_distance" : { "type": "float", "default": 15, "description": "If the target closer than this distance, the charger will lock in." },
+    "lock_rotation_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The one-shot ability to play when the charger is close enough to lock the rotation." }
+}}

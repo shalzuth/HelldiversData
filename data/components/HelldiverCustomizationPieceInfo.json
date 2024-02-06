@@ -1,0 +1,12 @@
+{ "HelldiverCustomizationPieceInfo" : {
+    "path" : { "type": "ulong" },
+    "slot" : { "type": "HelldiverCustomizationSlot", "default": "HelldiverCustomizationSlot_Count" },
+    "type" : { "type": "HelldiverCustomizationPieceType", "default": "HelldiverCustomizationPieceType_Count" },
+    "weight" : { "type": "HelldiverCustomizationWeight", "default": "HelldiverCustomizationWeight_Count" },
+    "material_lut" : { "type": "ulong" },
+    "pattern_lut" : { "type": "ulong" },
+    "cape_lut" : { "type": "ulong" },
+    "cape_gradient" : { "type": "ulong" },
+    "decal_scalar_fields" : { "type": "ulong" },
+    "decal_sheet" : { "type": "ulong" }
+}}

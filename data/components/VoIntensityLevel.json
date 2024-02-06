@@ -1,0 +1,11 @@
+{ "VoIntensityLevel" : {
+    "intensity_value" : { "type": "uint", "description": "[string]" },
+    "min_duration" : { "type": "float", "default": 5 },
+    "combat_intensity" : { "type": "float", "default": 0, "description": "This state will be triggered if Combat intensity is higher than this value" },
+    "enemy_proximity" : { "type": "float", "default": 0, "description": "This state will be triggered if enemy is in less than this value meters from you" },
+    "alert_level" : { "type": "uint", "description": "This state will be triggered if there is an enemy with aler level higher than this value" },
+    "since_last_shot" : { "type": "float", "default": 0, "description": "This state will be triggered if avatar made a shot within time value" },
+    "injury_type" : { "type": "InjuryEffectType", "default": "InjuryEffectType_None", "description": "This state will be triggered if avatar has this injury" },
+    "damage_over_time" : { "type": "uint", "description": "This state will be triggered if damage is higher" },
+    "health_percentage" : { "type": "float", "default": 0, "description": "This state will be triggered if health is lower" }
+}}

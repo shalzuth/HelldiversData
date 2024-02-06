@@ -1,0 +1,8 @@
+{ "SubRegionCell" : {
+    "region_index" : { "type": "uint" },
+    "subregion_type" : { "type": "SubRegionType" },
+    "height_group" : { "type": "SubRegionHeight" },
+    "special_index" : { "type": "uint" },
+    "zone_id" : { "type": "int" },
+    "route_cell" : { "type": "RouteCell" }
+}}

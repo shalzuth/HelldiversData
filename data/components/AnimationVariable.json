@@ -1,0 +1,4 @@
+{ "AnimationVariable" : {
+    "name" : { "type": "uint", "description": "[string]The name of the animation variable to set." },
+    "value" : { "type": "float", "default": 1, "description": "The value to set on the animation variable." }
+}}

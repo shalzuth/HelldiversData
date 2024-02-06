@@ -1,0 +1,4 @@
+{ "HealthEventTrigger" : {
+    "health_percent" : { "type": "float", "default": 0, "description": "Health percent we need to go under in order to trip the event." },
+    "event_name" : { "type": "uint", "description": "[string]Event name that gets fired off to the behavior." }
+}}

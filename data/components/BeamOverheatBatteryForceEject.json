@@ -1,0 +1,8 @@
+{ "BeamOverheatBatteryForceEject" : {
+    "local_camera_shake" : { "type": "ulong", "description": "[camera_shake]The camera shake to play for the local player when the battery force ejects." },
+    "visibility_hide_group" : { "type": "uint", "description": "[string]The visibility group to hide." },
+    "scale_down_node" : { "type": "uint", "description": "[string]The unit node to scale to zero." },
+    "sound_event" : { "type": "uint", "description": "[wwise]The sound effect id to play." },
+    "eject_effect" : { "type": "EffectSetting", "description": "The particle effect to play when the battery is force ejected" },
+    "delay" : { "type": "float", "default": 0, "description": "Any delay (offset from the previous effect) in playing this effect." }
+}}

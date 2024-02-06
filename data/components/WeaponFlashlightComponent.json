@@ -1,0 +1,8 @@
+{ "WeaponFlashlightComponent" : {
+    "default_mode" : { "type": "FlashlightMode", "default": "FlashlightMode_On", "description": "Default flashlight mode for this light." },
+    "surface_visibility_range" : { "type": "float", "default": 30, "description": "At what range enemies can spot the light surface" },
+    "hit_surface_range" : { "type": "float", "default": 25, "description": "At what range the light source will create a 'light surface' that enemies can see" },
+    "source_visibility_range" : { "type": "float", "default": 30, "description": "At what range enemies can spot the light source, i.e. the flashlight" },
+    "source_visibility_angle" : { "type": "float", "default": 35, "description": "At what angle enemies can spot the source of the light" },
+    "angle_decay_by_distance_curve" : { "type": "array", "subtype": "float", "description": " " }
+}}

@@ -1,0 +1,6 @@
+{ "AiEnemyFlankSettings" : {
+    "min_distance" : { "type": "float", "default": 0, "description": "Flanking is enabled if distance to target is more than this and less then max distance." },
+    "max_distance" : { "type": "float", "default": 0, "description": "Flanking is enabled if distance to target is less than this and more then min distance." },
+    "max_flank_angle" : { "type": "float", "default": 30, "description": "The maximum flank angle. If 0, the enemy would travel straight towards the target, 90 would be perpendicular and could orbit the target (if looked at)." },
+    "feeler_length" : { "type": "float", "default": 3, "description": "The length of the flanking feelers. If a feeler is obstructed, the ai will be less likely to flank the closer to the obstacle that it is." }
+}}

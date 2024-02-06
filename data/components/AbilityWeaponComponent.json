@@ -1,0 +1,6 @@
+{ "AbilityWeaponComponent" : {
+    "weapon_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play on the weapon on use." },
+    "wielder_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play on the wielder on use." },
+    "target_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play on the wielder when used on a target." },
+    "can_cancel" : { "type": "byte", "description": "[bool]Whether this ability will be cancelled by letting go of the trigger" }
+}}

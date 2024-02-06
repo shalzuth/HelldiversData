@@ -1,0 +1,4 @@
+{ "SolarSystemSettings" : {
+    "id" : { "type": "ulong" },
+    "solar_systems" : { "type": "array", "subtype": "SolarSystemSetting" }
+}}

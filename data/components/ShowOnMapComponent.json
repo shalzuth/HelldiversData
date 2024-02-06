@@ -1,0 +1,12 @@
+{ "ShowOnMapComponent" : {
+    "start_revealed" : { "type": "byte", "description": "[bool]Whether or not to start revealed." },
+    "is_discoverable" : { "type": "byte", "description": "[bool]Whether or not to start discoverable - e.g. whether it is revealed by going near it." },
+    "icon" : { "type": "ulong", "description": "[material]Icon which should be shown on map." },
+    "discovery_cleared_icon" : { "type": "ulong", "description": "[material]Icon which should be shown on map for discovery locations which have been cleared." },
+    "size_x" : { "type": "float", "default": 32, "description": "Icon size x." },
+    "size_y" : { "type": "float", "default": 32, "description": "Icon size y." },
+    "use_world_coord_size" : { "type": "byte", "description": "[bool]Whether or not to use specified size as world coordinates." },
+    "loc_string" : { "type": "uint", "description": "[string]Loc string which is printed when discovering this location" },
+    "is_discovery_location" : { "type": "byte", "description": "[bool]Discovery locations can be cleared and change icon once all samples are removed." },
+    "revealed_by_map_pulse" : { "type": "byte", "description": "[bool]Can the player's pulse on the map reveal this entity?" }
+}}

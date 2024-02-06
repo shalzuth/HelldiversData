@@ -1,0 +1,10 @@
+{ "VehicleElectricsComponent" : {
+    "turn_blink_duration" : { "type": "float", "default": 0.65, "description": "How long turn signals should stay on or off when blinking." },
+    "emergency_blink_duration" : { "type": "float", "default": 0.65, "description": "How long emergency lights should stay on or off when blinking." },
+    "turn_blink_audio_event" : { "type": "uint", "description": "[string]Audio event to play when blinking turn signals." },
+    "emergency_blink_audio_event" : { "type": "uint", "description": "[string]Audio event to play when blinking emergency lights." },
+    "audio_source_node" : { "type": "uint", "description": "[string]Vehicle node from which to play audio events." },
+    "light_info" : { "type": "array", "subtype": "VehicleLightInfo", "description": "Information about each interactive light on the vehicle." },
+    "toot_start_audio_event" : { "type": "uint", "description": "[string]The audio event to trigger when we begin tooting." },
+    "toot_stop_audio_event" : { "type": "uint", "description": "[string]The audio event to trigger when we stop tooting." }
+}}

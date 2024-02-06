@@ -1,0 +1,6 @@
+{ "FogVolumeShaderSetting" : {
+    "name" : { "type": "uint" },
+    "value" : { "type": "float", "default": 0 },
+    "vector" : { "type": "ShaderValue" },
+    "color_group" : { "type": "ZoneFogColorGroups" }
+}}

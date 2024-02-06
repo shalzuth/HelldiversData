@@ -1,0 +1,5 @@
+{ "SuspensionInfo" : {
+    "suspension_audio_event" : { "type": "uint", "description": "[wwise]The suspensions audio to play." },
+    "camera_shake" : { "type": "ulong", "description": "[camera_shake]The camera shake to play during the suspension." },
+    "cooldown" : { "type": "float", "default": 0.1, "description": "How long until this suspension effect can play again?" }
+}}

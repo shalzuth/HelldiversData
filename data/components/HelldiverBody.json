@@ -1,0 +1,8 @@
+{ "HelldiverBody" : {
+    "body_type" : { "type": "HelldiverCustomizationBodyType" },
+    "id" : { "type": "uint" },
+    "name_upper" : { "type": "uint" },
+    "name_cased" : { "type": "uint" },
+    "desc" : { "type": "uint" },
+    "icon" : { "type": "ulong" }
+}}

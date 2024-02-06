@@ -1,0 +1,6 @@
+{ "WeaponLaserComponent" : {
+    "laser_effect_path" : { "type": "ulong", "description": "[particles]Path to the laser effect." },
+    "dot_effect_path" : { "type": "ulong", "description": "[particles]Path to the dot effect projected onto the hit location." },
+    "max_length" : { "type": "float", "default": 150, "description": "Maximum length of the laser effect." },
+    "attach_node" : { "type": "uint", "default": 633953555, "description": "[string]The node to attach the laser from" }
+}}

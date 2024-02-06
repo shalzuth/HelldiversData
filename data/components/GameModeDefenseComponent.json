@@ -1,0 +1,20 @@
+{ "GameModeDefenseComponent" : {
+    "spawn_direction_count" : { "type": "uint", "default": 3, "description": "Number of different spawn directions the encounters come from" },
+    "spawn_direction_angle" : { "type": "uint", "default": 20, "description": "Angle between each spawn point" },
+    "first_wave_delay" : { "type": "float", "default": 15, "description": "Time before the first wave comes" },
+    "min_wave_length" : { "type": "float", "default": 20, "description": "Minimum amount of time that must pass before checking for a completing wave - to make sure wave spawns in first" },
+    "encounter_point_start" : { "type": "float", "default": 0.75, "description": "What's the multiplier initially at during horde mode?" },
+    "encounter_point_end" : { "type": "float", "default": 1.5, "description": "At what level does the encounter points stop?" },
+    "encounter_distance_start" : { "type": "float", "default": 250 },
+    "encounter_distance_end" : { "type": "float", "default": 50 },
+    "enemies_remaining_wave_trigger" : { "type": "uint", "default": 20, "description": "Max number of enemies before allowing quick next wave trigger" },
+    "total_encounters" : { "type": "uint", "default": 8 },
+    "cutscene_camera_distance" : { "type": "float", "default": 400 },
+    "cutscene_camera_height" : { "type": "float", "default": 0 },
+    "cutscene_lookat_height_offset" : { "type": "float", "default": 90 },
+    "cutscene_camera_fov" : { "type": "float", "default": 40 },
+    "pre_cutscene_duration" : { "type": "float", "default": 5 },
+    "pre_cutscene_duration_dead" : { "type": "float", "default": 5 },
+    "cutscene_duration" : { "type": "float", "default": 22.5 },
+    "victory_fx_spawn_time" : { "type": "array", "subtype": "float" }
+}}

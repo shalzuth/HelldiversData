@@ -1,0 +1,8 @@
+{ "MultiTargetLimits" : {
+    "pitch_limit_min" : { "type": "float", "default": -90, "description": "Vertical limit minimum, in degrees (-90 straight down, 90 straight up)." },
+    "pitch_limit_max" : { "type": "float", "default": 90, "description": "Vertical limit maximum, in degrees (-90 straight down, 90 straight up)." },
+    "yaw_limit_min" : { "type": "float", "default": -180, "description": "Horizontal limit minimum, in degrees (-180 backwards counter clockwise, 180 backwards clockwise)." },
+    "yaw_limit_max" : { "type": "float", "default": 180, "description": "Horizontal limit maximum, in degrees (-180 backwards counter clockwise, 180 backwards clockwise)." },
+    "pitch_deadzone" : { "type": "float", "default": 45, "description": "Vertical deadzone, in degrees (If outside the limits, we do not switch side if we are within 'deadzone' degrees of backwards)." },
+    "yaw_deadzone" : { "type": "float", "default": 45, "description": "Horizontal deadzone, in degrees (If outside the limits, we do not switch side if we are within 'deadzone' degrees of backwards)." }
+}}

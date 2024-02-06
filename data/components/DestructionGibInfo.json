@@ -1,0 +1,4 @@
+{ "DestructionGibInfo" : {
+    "unit" : { "type": "ulong", "description": "[unit] The unit that should be spawned as a gib." },
+    "override_material" : { "type": "ulong", "description": "[material] The material (if any) to override on the gib." }
+}}

@@ -1,0 +1,6 @@
+{ "LoadoutPackageComponent" : {
+    "bundle_tag" : { "type": "uint", "description": "[string]The loadout package will be generated with this bundle tag. Has no runtime effect." },
+    "package" : { "type": "ulong", "description": "[package]The loadout package to laod for this entity." },
+    "audio_resource" : { "type": "ulong", "description": "[wwise_dep]The wwise bank to include in the package for this entity." },
+    "include_default_customizations" : { "type": "byte", "description": "[bool]If set any default customizations are included in the package generated for this .adhd file. Affects the entire package" }
+}}

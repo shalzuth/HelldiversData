@@ -1,0 +1,6 @@
+{ "ShipLightStateSetting" : {
+    "light_enabled" : { "type": "byte" },
+    "light_intensity" : { "type": "float", "default": 0 },
+    "light_color" : { "type": "CApiVector3" },
+    "material" : { "type": "ulong", "description": "[string]" }
+}}

@@ -1,0 +1,4 @@
+{ "RotationSoundPlayerComponent" : {
+    "entries" : { "type": "array", "subtype": "SoundSourceEntry", "description": "Animation variables & constraints for each unit (attached weapon, self, wielder)." },
+    "culling_distance" : { "type": "float", "default": 50, "description": "The distance (in meters) from the camera where the sound is no longer triggered." }
+}}

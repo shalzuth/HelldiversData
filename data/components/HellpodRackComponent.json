@@ -1,0 +1,15 @@
+{ "HellpodRackComponent" : {
+    "payloads" : { "type": "array", "subtype": "RackAttach", "description": "Payloads to attach (what & where)." },
+    "last_retract_delay" : { "type": "float", "default": 0.1, "description": "Extra time deloy to play the retract functionality on the last retracting attachment." },
+    "disable_retract" : { "type": "byte", "description": "[bool]Special case to disable the retract animations from playing on both sides of the rack." },
+    "map_icon" : { "type": "ulong", "description": "[material]Map Icon for this hellpod rack" },
+    "map_name" : { "type": "uint", "description": "[string]Localization tag for the map name of this hellpod rack" },
+    "rack_deploy_audio_event" : { "type": "uint", "default": 889684848, "description": "[wwise]" },
+    "rack_retract_audio_event" : { "type": "uint", "default": 3776080340, "description": "[wwise]" },
+    "door_retract_audio_event" : { "type": "uint", "default": 255494678, "description": "[wwise]" },
+    "deploy_ability" : { "type": "AbilityId", "default": "AbilityId_hellpod_rack_on_deploy", "description": "Ability to play when deploying." },
+    "last_retract_ability" : { "type": "AbilityId", "default": "AbilityId_hellpod_rack_on_last_retract", "description": "Ability to play when we are out of items." },
+    "random_payload_size" : { "type": "uint", "description": "If we have a random payload size above 0, then we will attach random items from the payload settings. Override spawn_payload_size" },
+    "spawn_payload_size" : { "type": "uint", "default": 1, "description": "Indicates how many payloads should spawn from the settings list. " },
+    "disable_initial_interaction" : { "type": "byte", "description": "[bool]Should we prevent the initial interaction for the payload, meaning you have to destroy the rack in order to get them?" }
+}}

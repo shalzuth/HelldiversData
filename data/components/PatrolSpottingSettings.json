@@ -1,0 +1,6 @@
+{ "PatrolSpottingSettings" : {
+    "patrol_basic" : { "type": "uint", "default": 1014103150, "description": "[string]" },
+    "patrol_heavy" : { "type": "uint", "default": 1103945998, "description": "[string]" },
+    "patrol_massive" : { "type": "uint", "default": 1103945998, "description": "[string]" },
+    "patrol_flying" : { "type": "uint", "default": 2618368861, "description": "[string]" }
+}}

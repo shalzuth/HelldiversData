@@ -1,0 +1,11 @@
+{ "PathfindingSettings" : {
+    "route_type_request" : { "type": "RouteTypeRequest" },
+    "prefer_priority_routes" : { "type": "byte" },
+    "prefer_not_through_blockers" : { "type": "byte" },
+    "keep_away_from_locations" : { "type": "byte" },
+    "keep_in_playable_area" : { "type": "byte" },
+    "prefer_flat" : { "type": "byte" },
+    "use_map_center_bias" : { "type": "byte" },
+    "allow_disabled_routes" : { "type": "byte" },
+    "prefer_not_through_locations" : { "type": "byte" }
+}}

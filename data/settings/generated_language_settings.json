@@ -1,0 +1,503 @@
+[
+  {
+    "LanguageListSettings": {
+      "items": [
+        {
+          "name_loc": 2792367458,
+          "suffix": "us",
+          "wwise_name": "us",
+          "wwise_event": 1466069652,
+          "steam_name": "english",
+          "steam_depot": 553854,
+          "steam_depot_is_dlc": 0,
+          "psn_chunk": 1,
+          "psn_name": "en-US",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 5636985444495617602,
+            "confirm_material": 16634609531842353656,
+            "name_size": {
+              "x": 413,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 299,
+              "y": 75
+            },
+            "raw_name": "English US",
+            "phonetic_name": null
+          },
+          "capone_code": "en"
+        },
+        {
+          "name_loc": 1855354149,
+          "suffix": "gb",
+          "wwise_name": null,
+          "wwise_event": 0,
+          "steam_name": null,
+          "steam_depot": 0,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 65535,
+          "psn_name": "en-GB",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 11774836420263158217,
+            "confirm_material": 17595020080167424571,
+            "name_size": {
+              "x": 417,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 307,
+              "y": 75
+            },
+            "raw_name": "English UK",
+            "phonetic_name": null
+          },
+          "capone_code": "en-GB"
+        },
+        {
+          "name_loc": 3145266038,
+          "suffix": "bp",
+          "wwise_name": "bp",
+          "wwise_event": 1116492580,
+          "steam_name": "brazilian",
+          "steam_depot": 2506210,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 7,
+          "psn_name": "pt-BR",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 334188038038086088,
+            "confirm_material": 6636634208019868804,
+            "name_size": {
+              "x": 550,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 391,
+              "y": 75
+            },
+            "raw_name": "Portugu├¬s BR",
+            "phonetic_name": null
+          },
+          "capone_code": "pt-BR"
+        },
+        {
+          "name_loc": 3828601879,
+          "suffix": "de",
+          "wwise_name": "de",
+          "wwise_event": 49085677,
+          "steam_name": "german",
+          "steam_depot": 2506220,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 5,
+          "psn_name": "de-DE",
+          "locale_info": {
+            "whitespace": " -",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 5800758394106509477,
+            "confirm_material": 14909666826057914333,
+            "name_size": {
+              "x": 320,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 390,
+              "y": 75
+            },
+            "raw_name": "Deutsch",
+            "phonetic_name": null
+          },
+          "capone_code": "de"
+        },
+        {
+          "name_loc": 2166845819,
+          "suffix": "es",
+          "wwise_name": "es",
+          "wwise_event": 103641898,
+          "steam_name": "spanish",
+          "steam_depot": 2506240,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 4,
+          "psn_name": "es-ES",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 7586802237059925362,
+            "confirm_material": 5107890364006141443,
+            "name_size": {
+              "x": 301,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 381,
+              "y": 75
+            },
+            "raw_name": "Espa├▒ol",
+            "phonetic_name": null
+          },
+          "capone_code": "es"
+        },
+        {
+          "name_loc": 2896746273,
+          "suffix": "fr",
+          "wwise_name": "fr",
+          "wwise_event": 3903590782,
+          "steam_name": "french",
+          "steam_depot": 2506250,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 2,
+          "psn_name": "fr-FR",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 2863087108188183495,
+            "confirm_material": 7333735690020358491,
+            "name_size": {
+              "x": 313,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 382,
+              "y": 75
+            },
+            "raw_name": "Fran├ºais",
+            "phonetic_name": null
+          },
+          "capone_code": "fr"
+        },
+        {
+          "name_loc": 1517760049,
+          "suffix": "it",
+          "wwise_name": "it",
+          "wwise_event": 757637064,
+          "steam_name": "italian",
+          "steam_depot": 2506260,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 3,
+          "psn_name": "it-IT",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 13852050314257649578,
+            "confirm_material": 9543831553124577376,
+            "name_size": {
+              "x": 297,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 441,
+              "y": 75
+            },
+            "raw_name": "Italiano",
+            "phonetic_name": null
+          },
+          "capone_code": "it"
+        },
+        {
+          "name_loc": 2022789461,
+          "suffix": "jp",
+          "wwise_name": "jp",
+          "wwise_event": 1293332114,
+          "steam_name": "japanese",
+          "steam_depot": 2506270,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 8,
+          "psn_name": "ja-JP",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 3873256059449691856,
+            "confirm_material": 44457321064852010,
+            "name_size": {
+              "x": 197,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 250,
+              "y": 75
+            },
+            "raw_name": "µùÑµ£¼Φ¬₧",
+            "phonetic_name": "Nihongo"
+          },
+          "capone_code": "ja"
+        },
+        {
+          "name_loc": 2667782002,
+          "suffix": "ko",
+          "wwise_name": null,
+          "wwise_event": 0,
+          "steam_name": "koreana",
+          "steam_depot": 0,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 65535,
+          "psn_name": "ko-KR",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 12906914411861763587,
+            "confirm_material": 5972480535221780911,
+            "name_size": {
+              "x": 195,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 132,
+              "y": 75
+            },
+            "raw_name": "φò£Ω╡¡∞û┤",
+            "phonetic_name": "Hengoogo"
+          },
+          "capone_code": "ko"
+        },
+        {
+          "name_loc": 2398403810,
+          "suffix": "ms",
+          "wwise_name": "ms",
+          "wwise_event": 3591767849,
+          "steam_name": "latam",
+          "steam_depot": 2506280,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 6,
+          "psn_name": "es-419",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 1104976425610935710,
+            "confirm_material": 14840442916440278180,
+            "name_size": {
+              "x": 880,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 388,
+              "y": 75
+            },
+            "raw_name": "Espa├▒ol Latinoam├⌐rica",
+            "phonetic_name": null
+          },
+          "capone_code": "es-MX"
+        },
+        {
+          "name_loc": 4099382951,
+          "suffix": "pl",
+          "wwise_name": null,
+          "wwise_event": 0,
+          "steam_name": "polish",
+          "steam_depot": 0,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 65535,
+          "psn_name": "pl-PL",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 16438446671652966341,
+            "confirm_material": 16741412651389929240,
+            "name_size": {
+              "x": 243,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 386,
+              "y": 75
+            },
+            "raw_name": "Polski",
+            "phonetic_name": null
+          },
+          "capone_code": "pl"
+        },
+        {
+          "name_loc": 3855157673,
+          "suffix": "pt",
+          "wwise_name": null,
+          "wwise_event": 0,
+          "steam_name": "portuguese",
+          "steam_depot": 0,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 65535,
+          "psn_name": "pt-PT",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 12579147674405379446,
+            "confirm_material": 13194032154666044163,
+            "name_size": {
+              "x": 523,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 390,
+              "y": 75
+            },
+            "raw_name": "Portugu├¬s",
+            "phonetic_name": null
+          },
+          "capone_code": "pt"
+        },
+        {
+          "name_loc": 2546320491,
+          "suffix": "ru",
+          "wwise_name": null,
+          "wwise_event": 0,
+          "steam_name": "russian",
+          "steam_depot": 0,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 65535,
+          "psn_name": "ru-RU",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 6497747456263601492,
+            "confirm_material": 18034021974070694696,
+            "name_size": {
+              "x": 309,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 335,
+              "y": 75
+            },
+            "raw_name": "╨á╤â╤ü╤ü╨║╨╕╨╣",
+            "phonetic_name": "Russki"
+          },
+          "capone_code": "ru"
+        },
+        {
+          "name_loc": 566372895,
+          "suffix": "sc",
+          "wwise_name": null,
+          "wwise_event": 0,
+          "steam_name": "schinese",
+          "steam_depot": 0,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 65535,
+          "psn_name": "zh-Hans",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 2273386061215789535,
+            "confirm_material": 8569497334195501356,
+            "name_size": {
+              "x": 261,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 139,
+              "y": 75
+            },
+            "raw_name": "τ«ÇΣ╜ôΣ╕¡µûç",
+            "phonetic_name": "Chinese (Simplified)"
+          },
+          "capone_code": "zh-CN"
+        },
+        {
+          "name_loc": 3306354563,
+          "suffix": "tc",
+          "wwise_name": null,
+          "wwise_event": 0,
+          "steam_name": "tchinese",
+          "steam_depot": 0,
+          "steam_depot_is_dlc": 1,
+          "psn_chunk": 65535,
+          "psn_name": "zh-Hant",
+          "locale_info": {
+            "whitespace": " ",
+            "soft_dividers": " ",
+            "return_dividers": "\n",
+            "not_last": "",
+            "not_first": ""
+          },
+          "settings_info": {
+            "name_material": 1813177349292180493,
+            "confirm_material": 6978031488646486853,
+            "name_size": {
+              "x": 258,
+              "y": 75
+            },
+            "confirm_size": {
+              "x": 138,
+              "y": 75
+            },
+            "raw_name": "τ╣üΘ½öΣ╕¡µûç",
+            "phonetic_name": "Chinese (Traditional)"
+          },
+          "capone_code": "zh-TW"
+        }
+      ]
+    }
+  }
+]

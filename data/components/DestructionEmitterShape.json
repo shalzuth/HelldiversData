@@ -1,0 +1,4 @@
+{ "DestructionEmitterShape" : {
+    "sphere" : { "type": "DestructionEmitterSphere" },
+    "box" : { "type": "DestructionEmitterBox" }
+}}

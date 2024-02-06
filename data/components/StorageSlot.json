@@ -1,0 +1,4 @@
+{ "StorageSlot" : {
+    "node" : { "type": "uint", "default": 1243096897, "description": "[string]The node at this slot to attach the entity to." },
+    "offset" : { "type": "CApiVector3", "description": "Offset from 'node'." }
+}}

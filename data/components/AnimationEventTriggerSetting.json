@@ -1,0 +1,4 @@
+{ "AnimationEventTriggerSetting" : {
+    "unit_resource" : { "type": "ulong" },
+    "event_triggers" : { "type": "array", "subtype": "AnimationEventTrigger" }
+}}

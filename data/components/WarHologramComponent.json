@@ -1,0 +1,18 @@
+{ "WarHologramComponent" : {
+    "planet_select_hologram_info" : { "type": "HologramViewInfo", "description": "Contains info for the planet select view" },
+    "operation_select_hologram_info" : { "type": "HologramViewInfo", "description": "Contains info for the territory select view" },
+    "mission_select_hologram_info" : { "type": "HologramViewInfo", "description": "Contains info for the territory select view" },
+    "mission_select_tracking_ship_hologram_info" : { "type": "HologramViewInfo", "description": "Contains info for the territory select tracking ship view" },
+    "drop_select_hologram_info" : { "type": "HologramViewInfo", "description": "A 3D hologram map of the selected mission." },
+    "view_transition_time" : { "type": "float", "default": 1, "description": "Time which it takes to transition from one hologram view to another" },
+    "planet_select_zoom_speed" : { "type": "float", "default": 1, "description": "Planet Select Zoom Speed" },
+    "planet_select_counter_scroll_multiplier" : { "type": "float", "default": 0.002, "description": "Planet Select Counter Scroll Multiplier" },
+    "planet_select_panning_distance_limit_soft" : { "type": "float", "default": 4, "description": "Where ease out to hard limit starts" },
+    "planet_select_panning_distance_limit_hard" : { "type": "float", "default": 5.5, "description": "Furthest distance which the hologram can pan (in space meters)" },
+    "territory_select_surface_distance_offset" : { "type": "float", "default": 3, "description": "Distance from hologram origo to planet surface towards camera" },
+    "planet_unit_scale_multiplier" : { "type": "float", "default": 1.12, "description": "Scale multiplier applied to planet unit which is seen in the territory hologram" },
+    "planet_select_grid_distance_upwards_facing" : { "type": "float", "default": -0.1, "description": "Grid distance of upwards facing grid" },
+    "planet_select_grid_distance_downwards_facing" : { "type": "float", "default": -1, "description": "Grid distance of downwards facing grid" },
+    "planet_select_galaxy_distance" : { "type": "float", "default": -0.1, "description": "Galaxy distance of grid" },
+    "drop_select_surface_distance_offset" : { "type": "float", "default": 0.3, "description": "Surface Distance" }
+}}

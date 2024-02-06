@@ -1,0 +1,4 @@
+{ "WeaponMaterialOverride" : {
+    "material_path" : { "type": "ulong", "description": "[material]The path to the material to assign to the slot." },
+    "material_slot" : { "type": "uint", "description": "[string]The name of the material slot to assign the material to." }
+}}

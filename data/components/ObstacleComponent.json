@@ -1,0 +1,4 @@
+{ "ObstacleComponent" : {
+    "obstacles" : { "type": "array", "subtype": "ObstacleInfo", "description": "Obstacles" },
+    "agent_type" : { "type": "uint", "description": "[string]The agent type to use for this obstacle generator. Agent types are specified in global.havok_ai_properties." }
+}}

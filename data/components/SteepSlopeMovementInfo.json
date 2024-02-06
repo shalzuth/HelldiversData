@@ -1,0 +1,16 @@
+{ "SteepSlopeMovementInfo" : {
+    "slide_enter_angle" : { "type": "float", "default": 45, "description": "The angle at which we will enter the sliding character state." },
+    "slide_enter_minimum_duration" : { "type": "float", "default": 0.3, "description": "The minimum duration we need to stay in a slope considered too steep before we enter into a slide." },
+    "slide_speed" : { "type": "float", "default": 3, "description": "The speed at which we slide at." },
+    "slide_gravity_multiplier" : { "type": "float", "default": 1, "description": "A multiplier for the gravity which brings you to slide down slopes." },
+    "slide_minimum_duration" : { "type": "float", "default": 0.3, "description": "The minimum duration we stay in the sliding character state once we've entered it." },
+    "slide_exit_angle" : { "type": "float", "default": 40, "description": "The angle at which we will exit the sliding character state and be able to move again." },
+    "slide_beyond_mover_max_angle_exit_duration" : { "type": "float", "default": 0.2, "description": "While in a slide, this is the duration we have to be beyond the max mover slopes angle before we choose to exit the slide." },
+    "slowed_movement_start_angle_uphill" : { "type": "float", "default": 10, "description": "The angle at which we will start to move slower in uphill slopes." },
+    "slowed_movement_max_angle_uphill" : { "type": "float", "default": 55, "description": "The angle at which we will move as slowest in uphill slopes." },
+    "slowed_movement_speed_multiplier_uphill" : { "type": "float", "default": 0.01, "description": "The multiplier applied to movement speed when running uphill - scaled from 1 to slowed_movement_speed_multiplier_uphill." },
+    "slowed_movement_start_angle_downhill" : { "type": "float", "default": 30, "description": "The angle at which we will start to move slower in downhill slopes." },
+    "slowed_movement_max_angle_downhill" : { "type": "float", "default": 55, "description": "The angle at which we will move as slowest in downhill slopes." },
+    "slowed_movement_speed_multiplier_downhill" : { "type": "float", "default": 0.02, "description": "The multiplier applied to movement speed when running downhill - scaled from 1 to slowed_movement_speed_multiplier_downhill." },
+    "slope_angle_interpolation_fraction_per_second" : { "type": "float", "default": 0.9999, "description": "The interpolation speed for the slope normal and angle used to calculate all of the slope modifiers." }
+}}

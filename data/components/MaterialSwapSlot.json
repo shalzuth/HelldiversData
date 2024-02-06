@@ -1,0 +1,4 @@
+{ "MaterialSwapSlot" : {
+    "material_slot_name" : { "type": "uint", "description": "[string]The material slot to set on. If not set, then applied to all material slots." },
+    "swap_settings" : { "type": "array", "subtype": "MaterialSwap" }
+}}

@@ -1,0 +1,20 @@
+{ "TargetingComponent" : {
+    "distance_rezeroing_interval" : { "type": "float", "default": 25, "description": "When the distance-to-target changes by this much since the last zeroing calculation, re-calculate zeroing. Should be smaller for projectile with a more pronounced arc." },
+    "height_rezeroing_interval" : { "type": "float", "default": 0.5, "description": "When the distance-to-target changes by this much since the last zeroing calculation, re-calculate zeroing. Should be smaller for projectile with a more pronounced arc." },
+    "aim_drag" : { "type": "float", "default": 0.5, "description": "The drag used to counteract the effect of aim force." },
+    "aim_force_multiplier" : { "type": "float", "default": 5, "description": "The force is calculated by the angle between the current aim position and the optimal position. This multiplies this force." },
+    "aim_force_max_speed" : { "type": "float", "default": 90, "description": "Max speed of the aim direction in degrees per second." },
+    "aim_force_max_angle" : { "type": "float", "default": 180, "description": "Only apply aim force aiming if the target is within this angle. Otherwise just keep aiming forward." },
+    "use_aim_force" : { "type": "byte", "description": "[bool]Use aim_force_multiplier and and aim_drag to push the aim direction towards the optimal aim." },
+    "ignore_inheritance" : { "type": "byte", "description": "[bool]When computing target location, ignore the inherited velocity from the muzzle moving. Can be useful for very long barreled turrets." },
+    "animate_idle_target_position" : { "type": "byte", "description": "[bool]Animate the target position in a circular fashion when not actively targeting something else." },
+    "look_node" : { "type": "uint", "default": 1243096897, "description": "[string]Node used to aim from." },
+    "use_high_arc" : { "type": "byte", "description": "[bool]If true, the zeroing compensation uses the high arc instead of the direct arc. Use for mortars." },
+    "aim_flinch_multiplier" : { "type": "float", "default": 1, "description": "How much the danger value should affect aiming" },
+    "aim_flinch_decrease" : { "type": "float", "default": 1, "description": "How much the aim flinch value decreases per second" },
+    "aim_flinch_max" : { "type": "float", "default": 5, "description": "Max aim flinch value" },
+    "lowered_weapon_aim_offset" : { "type": "CApiVector3", "description": "Where do we aim when weapon is lowered? The point is 10m forward + this offset" },
+    "reset_aim_on_invalid_target" : { "type": "byte", "description": "[bool]If false, this will not update our aim to the root of a dying enemy." },
+    "use_complex_targeting" : { "type": "byte" },
+    "use_prediction" : { "type": "byte" }
+}}

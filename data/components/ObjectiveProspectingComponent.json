@@ -1,0 +1,5 @@
+{ "ObjectiveProspectingComponent" : {
+    "greater_radius" : { "type": "float", "default": 32 },
+    "completion_radius" : { "type": "float", "default": 5 },
+    "location_count" : { "type": "uint", "default": 3 }
+}}

@@ -1,0 +1,4 @@
+{ "VehiclePedalResistance" : {
+    "resistance_end" : { "type": "uint", "description": "Whether this vehicle supports bounce back impact velocity changes when colliding with actors from the overlap damage component" },
+    "resistance_strength" : { "type": "uint", "description": "Whether this vehicle supports bounce back impact velocity changes when colliding with actors from the overlap damage component" }
+}}

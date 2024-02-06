@@ -1,0 +1,5 @@
+{ "PowerSwitchTargetComponent" : {
+    "power_on_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Power on ability" },
+    "power_off_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Power Off ability" },
+    "power_flicker_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Power Flicker ability" }
+}}

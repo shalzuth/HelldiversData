@@ -1,0 +1,4 @@
+{ "WeaponRoundsAmmoType" : {
+    "primary_projectile_type" : { "type": "ProjectileType", "default": "ProjectileType_None", "description": "Projectile type the first magazine contains." },
+    "alternate_projectile_type" : { "type": "ProjectileType", "default": "ProjectileType_None", "description": "Projectile type the second magazine contains." }
+}}

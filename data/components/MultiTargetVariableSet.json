@@ -1,0 +1,16 @@
+{ "MultiTargetVariableSet" : {
+    "unit_type" : { "type": "MultiTargetUnitType", "default": "MultiTargetUnitType_None", "description": "Which unit type this set applies to." },
+    "aim_info_name" : { "type": "uint", "description": "[string]The name of the aim info settings that describe the targeting for this variable set. Leave empty for hotbox." },
+    "pitch_var" : { "type": "uint", "description": "[string]Name of the anmiation variable that controls pitch." },
+    "yaw_var" : { "type": "uint", "description": "[string]Name of the anmiation variable that controls yaw." },
+    "neutral_pitch" : { "type": "float", "default": 0, "description": "Pitch at which this should return to while not in use." },
+    "neutral_yaw" : { "type": "float", "default": 0, "description": "Yaw at which this should return to while not in use." },
+    "neutral_speed" : { "type": "float", "default": 10, "description": "Speed at which pitch and yaw return to neutral while not in use." },
+    "aim_constraint" : { "type": "uint", "description": "[string]Name of the aim constraint target this should set." },
+    "aim_constraint_distance" : { "type": "float", "default": 10, "description": "Distance from the pivot node to the aim constraint target." },
+    "limits" : { "type": "MultiTargetLimits", "description": "Limits of the animation variables (pitch and yaw)." },
+    "normalized" : { "type": "byte", "description": "[bool]If set the animation variables are set to normalized (0-1) values instead of degrees." },
+    "pivot_node" : { "type": "uint", "description": "[string]The aim constraint position is relative to this node." },
+    "rotation_start_event" : { "type": "uint", "description": "[string]Audio event to trigger when the turret starts rotating." },
+    "rotation_stop_event" : { "type": "uint", "description": "[string]Audio event to trigger when the turret stops rotating." }
+}}

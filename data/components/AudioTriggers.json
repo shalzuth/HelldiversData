@@ -1,0 +1,11 @@
+{ "AudioTriggers" : {
+    "on_active_id" : { "type": "uint", "description": "[string]VO line trigger when first active (and reminder)" },
+    "active_is_vo" : { "type": "byte", "description": "[bool]Whether this line is triggered as a VO line or a sound clip" },
+    "active_is_interactor_vo" : { "type": "byte", "description": "[bool]Whether this line is triggered as a VO line on the interactor or a sound clip" },
+    "on_complete_id" : { "type": "uint", "description": "[string]VO line trigger on completion" },
+    "complete_is_vo" : { "type": "byte", "description": "[bool]Whether this line is triggered as a VO line or a sound clip" },
+    "complete_is_interactor_vo" : { "type": "byte", "description": "[bool]Whether this line is triggered as a VO line on the interactor or as a sound clip" },
+    "on_complete_play_corp_jingle" : { "type": "byte" },
+    "on_interact_owner_vo_event" : { "type": "uint", "default": 311306924, "description": "[string]VO event to trigger on the owner when interacting with the minigame." },
+    "play_wait_event" : { "type": "byte" }
+}}

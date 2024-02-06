@@ -1,0 +1,13 @@
+{ "MinigameStratagemArcadeComponent" : {
+    "start_game" : { "type": "uint", "default": 2168564828, "description": "[wwise]" },
+    "button_press" : { "type": "uint", "default": 1700857544, "description": "[wwise]" },
+    "input_completed" : { "type": "uint", "default": 1492723582, "description": "[wwise]" },
+    "input_correct" : { "type": "uint", "default": 668493284, "description": "[wwise]" },
+    "input_incorrect" : { "type": "uint", "default": 2141220419, "description": "[wwise]" },
+    "music_start" : { "type": "uint", "default": 1867715780, "description": "[wwise]" },
+    "round_completed" : { "type": "uint", "default": 932106446, "description": "[wwise]" },
+    "round_failed" : { "type": "uint", "default": 1537532064, "description": "[wwise]" },
+    "round_reset" : { "type": "uint", "default": 2948615492, "description": "[wwise]" },
+    "round_result" : { "type": "uint", "default": 2526047589, "description": "[wwise]" },
+    "round_start" : { "type": "uint", "default": 2447709343, "description": "[wwise]" }
+}}

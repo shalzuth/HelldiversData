@@ -1,0 +1,4 @@
+{ "ObjectiveCarryDeployAreaComponent" : {
+    "deploy_tag" : { "type": "uint", "description": "[string]The identifier tag for this carry deployable type" },
+    "radius" : { "type": "float", "default": 5 }
+}}

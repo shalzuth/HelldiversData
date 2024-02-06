@@ -1,0 +1,7 @@
+{ "StampWeights" : {
+    "slope_weight" : { "type": "array", "subtype": "float" },
+    "height_weight" : { "type": "array", "subtype": "float" },
+    "outside_level_interval" : { "type": "array", "subtype": "float" },
+    "region_weight" : { "type": "array", "subtype": "float" },
+    "flags" : { "type": "byte" }
+}}

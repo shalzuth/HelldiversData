@@ -1,0 +1,9 @@
+{ "StatusEffectVolumeInfo" : {
+    "shape" : { "type": "StatusEffectVolumeType", "default": "StatusEffectVolumeType_None", "description": "Shape of the volume. For level units use the StatusEffectSettings component instead!" },
+    "effect_settings" : { "type": "StatusEffectTemplate", "description": "Effects this applies." },
+    "enemies_only" : { "type": "byte", "description": "[bool]If set the effect only applies to enemies." },
+    "actors" : { "type": "array", "subtype": "uint", "description": "[string]Only used if type is Actor" },
+    "node" : { "type": "uint", "description": "[string]Node in the unit to link the custom volume to. Not used if Actor." },
+    "inner_parameters" : { "type": "CApiVector3", "description": "For spheres & circles, radius in X. For OOBBs and rectangles, the extent of the box in local space. Not used if Actor." },
+    "outer_parameters" : { "type": "CApiVector3", "description": "For spheres & circles, radius in X. For OOBBs and rectangles, the extent of the box in local space. Not used if Actor." }
+}}

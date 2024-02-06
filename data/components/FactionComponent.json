@@ -1,0 +1,8 @@
+{ "FactionComponent" : {
+    "factions" : { "type": "array", "subtype": "FactionInfo", "description": "Which factions this entity belongs to." },
+    "targeting_node" : { "type": "uint", "default": 3167719909, "description": "[string]Node used for line of sight/aiming at entity." },
+    "half_width" : { "type": "float", "default": 1, "description": "Distance from which an enemy can attack you from the side." },
+    "half_forward_size" : { "type": "float", "default": 1, "description": "Distance from which an enemy can attack you from the front or back." },
+    "priority" : { "type": "float", "default": 1, "description": "Used when selecting target" },
+    "complex_targeting_nodes" : { "type": "array", "subtype": "uint", "description": "[string]Multiple nodes specified for larger targets, such as vehicles" }
+}}

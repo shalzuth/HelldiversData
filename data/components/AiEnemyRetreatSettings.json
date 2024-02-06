@@ -1,0 +1,7 @@
+{ "AiEnemyRetreatSettings" : {
+    "movement" : { "type": "AiEnemyStateMovementSettings" },
+    "retreat_distance" : { "type": "float", "default": 50 },
+    "max_retreat_time" : { "type": "float", "default": 10 },
+    "retreat_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid" },
+    "ability_target_distance" : { "type": "float", "default": 20 }
+}}

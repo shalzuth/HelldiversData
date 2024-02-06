@@ -1,0 +1,5 @@
+{ "FootstepEventComponent" : {
+    "footstep_events" : { "type": "array", "subtype": "FootstepSetInfo", "description": "Sets of footstep events." },
+    "culling_distance" : { "type": "float", "default": 96, "description": "All the footsteps effects (audio, pfx, camera shakes) are culled if the enemy is further than this distance." },
+    "use_move_speed" : { "type": "byte", "description": "[bool]Whether the audio events use the Move_speed parameter or not." }
+}}

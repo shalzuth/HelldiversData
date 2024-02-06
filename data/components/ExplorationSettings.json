@@ -1,0 +1,6 @@
+{ "ExplorationSettings" : {
+    "distance_between_locations" : { "type": "float" },
+    "fill_rate" : { "type": "float" },
+    "spawn_layers" : { "type": "array", "subtype": "ExplorationSpawnLayer" },
+    "spawn_limits" : { "type": "array", "subtype": "ExplorationSpawnLimit" }
+}}

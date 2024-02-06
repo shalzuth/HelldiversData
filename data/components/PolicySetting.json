@@ -1,0 +1,6 @@
+{ "PolicySetting" : {
+    "settings_id" : { "type": "uint", "description": "Used to connect to the policy from the backend." },
+    "corporation" : { "type": "Corporation" },
+    "name_loc" : { "type": "uint" },
+    "description_loc" : { "type": "uint" }
+}}

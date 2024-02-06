@@ -1,0 +1,9 @@
+{ "PullupComponent" : {
+    "exhaustion_rate" : { "type": "float", "default": 0.5, "description": "The rate of increase for the exhaustion when over the limit" },
+    "allowed_up_rate" : { "type": "float", "default": 1.5 },
+    "allowed_down_rate" : { "type": "float", "default": 2 },
+    "allowed_total_progress_scalar" : { "type": "float", "default": 2 },
+    "completion_point" : { "type": "float", "default": 0.95 },
+    "failure_timer" : { "type": "float", "default": 1, "description": "Fail timer reset" },
+    "passive_exhaustion_rate" : { "type": "float", "default": 0.02 }
+}}

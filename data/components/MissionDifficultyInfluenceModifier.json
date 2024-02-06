@@ -1,0 +1,4 @@
+{ "MissionDifficultyInfluenceModifier" : {
+    "min_max" : { "type": "CApiVector2", "description": "The minimum and maximum for the modifier" },
+    "falloff_distance" : { "type": "float", "default": 15, "description": "If not directly on a stamp, what's the falloff distance?" }
+}}

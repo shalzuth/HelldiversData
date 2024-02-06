@@ -1,0 +1,21 @@
+{ "ObjectiveCarryComponent" : {
+    "carrying_event" : { "type": "uint", "default": 252763994, "description": "[string]Event which is fired when picked up" },
+    "dropped_event" : { "type": "uint", "default": 935333705, "description": "[string]Event which is fired when dropped" },
+    "lost_event" : { "type": "uint", "default": 469283641, "description": "[string]Event which is fired when the carry objective is lost" },
+    "complete_event" : { "type": "uint", "default": 2366511802, "description": "[string]Event which is fired when the carry objective is in the shuttle or completed" },
+    "delivery_unit_type" : { "type": "ulong", "description": "[unit]The path to the unit type that we can drop to" },
+    "drop_off_attach_offset" : { "type": "CApiVector3", "description": "Drop off offset when attached" },
+    "drop_off_attach_rotation" : { "type": "CApiVector3", "description": "Drop off rotation when attached" },
+    "migrate_owner_on_drop_off" : { "type": "byte", "description": "[bool]Drop off rotation when attached" },
+    "fail_on_lost_time" : { "type": "float", "default": 5, "description": "How long a carry needs to be considered `lost` to fail objective" },
+    "position_marker_unit_type" : { "type": "ulong", "description": "[unit]Marker used for randomly positioning on spawn" },
+    "map_icon" : { "type": "ulong", "description": "[material]icon that this carryable appears as on the minimap" },
+    "carry_complete_type" : { "type": "ObjectiveCarryableCompleteType", "default": "ObjectiveCarryableCompleteType_ShuttleExtraction" },
+    "deploy_area_tag" : { "type": "uint", "description": "[string]Tag to match with an objective carry deployment area component or interaction zone name, when a carryable can be deployed/used." },
+    "deploy_helldiver_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play on helldiver when deploying carryable" },
+    "carryable_deployed_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play on the carryable once deployed" },
+    "complete_deploy_instantly" : { "type": "byte" },
+    "loc_info_deploy" : { "type": "uint", "default": 2498763121, "description": "[string]" },
+    "loc_info_carried" : { "type": "uint", "default": 3702651477, "description": "[string]" },
+    "carry_entity_type" : { "type": "ObjectiveCarryEntityType", "default": "ObjectiveCarryEntityType_None", "description": "Used for identification by the Objective delivery component" }
+}}

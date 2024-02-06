@@ -1,0 +1,8 @@
+{ "OptionalLocation" : {
+    "source" : { "type": "LevelGenerationLocation" },
+    "group_index" : { "type": "byte" },
+    "stamp_index" : { "type": "byte" },
+    "location_type" : { "type": "LocationGameplayType" },
+    "flags" : { "type": "LocationInstanceFlags" },
+    "stamp_path" : { "type": "ulong" }
+}}

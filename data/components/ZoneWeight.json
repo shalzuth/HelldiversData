@@ -1,0 +1,4 @@
+{ "ZoneWeight" : {
+    "zone" : { "type": "ZoneId", "default": "ZONE_ID_UNKNOWN" },
+    "weight_multiplier" : { "type": "float", "default": 1 }
+}}

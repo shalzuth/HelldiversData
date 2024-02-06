@@ -1,0 +1,5 @@
+{ "PathPoint" : {
+    "joint" : { "type": "uint", "description": "[string]Joint the position is offset from. Should be parented under root, must not be parented under the node that is moved, unless that node is the root node." },
+    "position" : { "type": "CApiVector3", "description": "Position of the control point" },
+    "time" : { "type": "float", "default": 0, "description": "Time after start of motion along this path that this point is reached." }
+}}

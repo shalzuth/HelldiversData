@@ -1,0 +1,19 @@
+{ "WeaponCustomizationComponent" : {
+    "default_customizations" : { "type": "array", "subtype": "WeaponDefaultAttachment", "description": "For each unique customization slot, the default attachment." },
+    "customization_slots" : { "type": "array", "subtype": "WeaponCustomizationSlot", "description": "Which slots can we use to customize the weapon?" },
+    "optics_path" : { "type": "ulong", "description": "[unit]Path to the optics/scope unit." },
+    "magazine_path" : { "type": "ulong", "description": "[unit]Path to the magazine unit." },
+    "magazine_secondary_path" : { "type": "ulong", "description": "[unit]Path to the second magazine unit." },
+    "muzzle_path" : { "type": "ulong", "description": "[unit]Path to the muzzle unit." },
+    "optics_crosshair_params" : { "type": "CApiVector2", "description": "Offset and scale applied to the crosshair node in the optics unit. X=Forward offset, Y=Scale." },
+    "underbarrel_path" : { "type": "ulong", "description": "[adhd]Path to the underbarrel entity." },
+    "material_override" : { "type": "WeaponMaterialOverride", "description": "Overrides the base material of the weapon." },
+    "trigger_settings" : { "type": "WeaponTriggerSettings", "description": "Set trigger settings" },
+    "hide_magazine_on_start" : { "type": "byte", "description": "[bool]Hides the magazine upon weapon spawn" },
+    "magazine_adjusting_nodes" : { "type": "array", "subtype": "uint", "description": "[string]Do we have any magazine nodes that need to be autoadjusted based on rounds left?" },
+    "magazine_adjusting_nodes_visible_chambering" : { "type": "byte", "description": "[bool]The very first node in the list will only be hidden if there isn't a chambered round" },
+    "magazine_adjusting_animation" : { "type": "uint", "description": "[string]Animation to play on the magazine when adjusting the rounds (outside of the initial spawn)." },
+    "magazine_adjusting_animation_variable" : { "type": "uint", "description": "[string]Animation variable to adjust with the rounds on the magazine." },
+    "ik_attach_setting" : { "type": "WeaponCustomizationIKAttach", "default": "WeaponCustomizationIKAttach_None", "description": "What unit should we attach our left hand to? If set to None, it will default to the weapon" },
+    "ik_attach_animation_event" : { "type": "uint", "description": "[string]Animation event to call, if an attachment is specified for altering our left hand." }
+}}

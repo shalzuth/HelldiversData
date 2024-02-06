@@ -1,0 +1,16 @@
+{ "Route" : {
+    "positions" : { "type": "array", "subtype": "CApiVector2" },
+    "points" : { "type": "array", "subtype": "RoutePoint" },
+    "cells" : { "type": "array", "subtype": "RouteCell" },
+    "width" : { "type": "float" },
+    "type" : { "type": "RouteType" },
+    "segment_start" : { "type": "uint" },
+    "segment_end" : { "type": "uint" },
+    "hidden" : { "type": "byte" },
+    "disabled" : { "type": "byte" },
+    "permanent" : { "type": "byte" },
+    "priority" : { "type": "byte" },
+    "crossing" : { "type": "byte" },
+    "split_from_road" : { "type": "byte" },
+    "is_within_location" : { "type": "byte" }
+}}

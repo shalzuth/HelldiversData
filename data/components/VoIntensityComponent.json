@@ -1,0 +1,4 @@
+{ "VoIntensityComponent" : {
+    "levels" : { "type": "array", "subtype": "VoIntensityLevel" },
+    "damage_over_time_span" : { "type": "uint", "default": 10 }
+}}

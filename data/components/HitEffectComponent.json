@@ -1,0 +1,7 @@
+{ "HitEffectComponent" : {
+    "type" : { "type": "HitEffectReceiverType", "default": "HitEffectReceiverType_Count", "description": "The type of hit effect to play. Change this from default or it will assert!" },
+    "pain_interval" : { "type": "float", "default": 0.05, "description": "Time over which we amortize damage for pain vo events." },
+    "pain_cooldown" : { "type": "float", "default": 1, "description": "Minimum time between pain vo events." },
+    "effect_level_overrides" : { "type": "array", "subtype": "HitEffectLevelOverride", "description": "Hit effect level overrides (damage thresholds)." },
+    "pain_audio_overrides" : { "type": "array", "subtype": "HitEffectPainOverride", "description": "Hit effect level overrides (damage thresholds)." }
+}}

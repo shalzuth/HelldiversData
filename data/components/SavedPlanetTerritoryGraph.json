@@ -1,0 +1,7 @@
+{ "SavedPlanetTerritoryGraph" : {
+    "id" : { "type": "uint" },
+    "cells" : { "type": "array", "subtype": "TerritoryCell" },
+    "cell_count" : { "type": "uint" },
+    "edges" : { "type": "array", "subtype": "TerritoryEdge" },
+    "edge_count" : { "type": "uint" }
+}}

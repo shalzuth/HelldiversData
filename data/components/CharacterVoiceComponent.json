@@ -1,0 +1,3 @@
+{ "CharacterVoiceComponent" : {
+    "prefix" : { "type": "CharacterVoicePrefix", "default": "CharacterVoicePrefix_None", "description": "The type of prefix to put before callouts to find the vo events, the prefix strings are defined in character_Voice_component.cpp" }
+}}

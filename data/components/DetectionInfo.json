@@ -1,0 +1,5 @@
+{ "DetectionInfo" : {
+    "sight_modifier_standing" : { "type": "float", "default": 1, "description": "Modifier for enemy sight range when standing up" },
+    "sight_modifier_crouching" : { "type": "float", "default": 0.75, "description": "Modifier for enemy sight range when crouching" },
+    "sight_modifier_prone" : { "type": "float", "default": 0.5, "description": "Modifier for enemy sight range when prone" }
+}}

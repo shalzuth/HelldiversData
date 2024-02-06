@@ -1,0 +1,10 @@
+{ "VehicleShuttleComponent" : {
+    "extraction_point" : { "type": "byte", "description": "[bool]True if this shuttle can be used as an extraction point." },
+    "dynamic_door_enabled" : { "type": "byte", "description": "[bool]True means we will raycast to determine the doors wanted angle." },
+    "dynamic_door_min_angle" : { "type": "float", "default": 0, "description": "The minimum angle our door can have." },
+    "dynamic_door_max_angle" : { "type": "float", "default": 180, "description": "The maximum angle our door can have." },
+    "dynamic_door_start_node" : { "type": "uint", "description": "[string]The start node (hinge point) of the door." },
+    "dynamic_door_end_node" : { "type": "uint", "description": "[string]The end node (very top) of the door that we will raycast down from." },
+    "dynamic_door_anim_variable" : { "type": "uint", "description": "[string]The animation variable that we will send the calculated dynamic door angle to." },
+    "dynamic_door_overlap_name" : { "type": "uint", "description": "[string]The name of the overlap that we enable/disable based on if the door is moving or not." }
+}}

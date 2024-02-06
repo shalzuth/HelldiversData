@@ -1,0 +1,11 @@
+{ "WeatherControlComponent" : {
+    "previous_weather_out_time" : { "type": "float", "default": 15 },
+    "target_weather_in_time" : { "type": "float", "default": 15 },
+    "target_weather_active_hold_time" : { "type": "float", "default": 30 },
+    "target_weather_out_time" : { "type": "float", "default": 15 },
+    "weather_catch_up_time" : { "type": "float", "default": 30 },
+    "gameplay_effect_activation_point" : { "type": "float", "default": 0.6 },
+    "remove_entity_on_completion" : { "type": "byte" },
+    "start_active" : { "type": "byte" },
+    "weather_name" : { "type": "uint", "description": "[string]" }
+}}

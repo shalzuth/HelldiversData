@@ -1,0 +1,4 @@
+{ "StratagemComboInfo" : {
+    "num_inputs" : { "type": "uint", "default": 5, "description": "Number of inputs (max 11)." },
+    "directions" : { "type": "array", "subtype": "InteractableMiniGameDirection", "description": "Sets the code, or some inputs can be random" }
+}}

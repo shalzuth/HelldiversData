@@ -1,0 +1,6 @@
+{ "CApiQuaternion" : {
+    "x" : { "type": "float", "default": 0 },
+    "y" : { "type": "float", "default": 0 },
+    "z" : { "type": "float", "default": 0 },
+    "w" : { "type": "float", "default": 1 }
+}}

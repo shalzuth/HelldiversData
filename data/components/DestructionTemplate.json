@@ -1,0 +1,6 @@
+{ "DestructionTemplate" : {
+    "type" : { "type": "DestructionTemplateType" },
+    "demolition_threshold" : { "type": "uint" },
+    "armor" : { "type": "uint" },
+    "demolish_trees" : { "type": "byte" }
+}}

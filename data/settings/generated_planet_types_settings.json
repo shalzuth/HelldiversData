@@ -1,0 +1,4748 @@
+[
+  {
+    "SolarSystemObjectTypes": {
+      "planet_types": [
+        {
+          "type": 6332917336648856073,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.835294008,
+                "y": 0.968626976,
+                "z": 0.925490022
+              },
+              "emissive_intensity": 60,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 11420082467617720595,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.835294008,
+                "y": 0.968626976,
+                "z": 0.925490022
+              },
+              "emissive_intensity": 30,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 16848754902252622604,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.992156982,
+                "y": 0.984314024,
+                "z": 0.968626976
+              },
+              "emissive_intensity": 40,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 9021535878734787690,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.898038983,
+                "z": 0.764706016
+              },
+              "emissive_intensity": 40,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 10578051377546328698,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.533333004,
+                "y": 0.882353008,
+                "z": 0.988234997
+              },
+              "emissive_intensity": 27.5,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 5673194126849591558,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.533333004,
+                "y": 0.882353008,
+                "z": 0.988234997
+              },
+              "emissive_intensity": 6,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 755378977496990840,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.972549021,
+                "z": 0.686275005
+              },
+              "emissive_intensity": 20,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 3534347233677711199,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.988234997,
+                "y": 0.909803987,
+                "z": 0.800000012
+              },
+              "emissive_intensity": 70,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 11753201422109595992,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.964706004,
+                "z": 0.92156899
+              },
+              "emissive_intensity": 40,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 15565519864408695968,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.945097983,
+                "z": 0.878431022
+              },
+              "emissive_intensity": 40,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 7885642843039027600,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.93333298,
+                "z": 0.862744987
+              },
+              "emissive_intensity": 40,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 15954976852841415081,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.972549021,
+                "y": 0.811765015,
+                "z": 0.811765015
+              },
+              "emissive_intensity": 40,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 992288327020633369,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.815685987,
+                "y": 0.854902029,
+                "z": 0.878431022
+              },
+              "emissive_intensity": 5,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 8620415623712478392,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.470587999,
+                "y": 0.388235003,
+                "z": 0.345097989
+              },
+              "emissive_intensity": 15,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 12996315740690458555,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.345097989,
+                "y": 0.403921992,
+                "z": 0.470587999
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 17229264889517370564,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.545098007,
+                "y": 0.725489974,
+                "z": 1
+              },
+              "emissive_intensity": 43,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 10124658486603849786,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.545098007,
+                "y": 0.725489974,
+                "z": 1
+              },
+              "emissive_intensity": 43,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 4242197516157093192,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.800000012,
+                "y": 0.800000012,
+                "z": 1
+              },
+              "emissive_intensity": 1,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 11197534223071820617,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 5468703282933479420,
+              "billboard_scale_mult": 0.800000012,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "emissive_intensity": 63,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 6608886431199375815,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "emissive_intensity": 93,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 8960026549252544695,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 9445722882780195579,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.858824015,
+                "y": 0.141176,
+                "z": 0
+              },
+              "emissive_color": {
+                "x": 0.858824015,
+                "y": 0.141176,
+                "z": 0
+              },
+              "emissive_intensity": 93,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 9445722882780195579,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.858824015,
+                "y": 0.141176,
+                "z": 0
+              },
+              "emissive_color": {
+                "x": 0.858824015,
+                "y": 0.141176,
+                "z": 0
+              },
+              "emissive_intensity": 93,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 12953393567339205086,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 9445722882780195579,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.858824015,
+                "y": 0.333332986,
+                "z": 0.203922004
+              },
+              "emissive_color": {
+                "x": 0.858824015,
+                "y": 0.333332986,
+                "z": 0.203922004
+              },
+              "emissive_intensity": 50,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 9445722882780195579,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.858824015,
+                "y": 0.333332986,
+                "z": 0.203922004
+              },
+              "emissive_color": {
+                "x": 0.858824015,
+                "y": 0.333332986,
+                "z": 0.203922004
+              },
+              "emissive_intensity": 50,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 6027199742049074202,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 5468703282933479420,
+              "billboard_scale_mult": 0.779999971,
+              "surface_color": {
+                "x": 0.858824015,
+                "y": 0.141176,
+                "z": 0
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.431373,
+                "z": 0.0549019985
+              },
+              "emissive_intensity": 30,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 9534944300348580143,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.898038983,
+                "y": 0.588235021,
+                "z": 0.380391985
+              },
+              "emissive_intensity": 20,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 6979283160279612057,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.745097995,
+                "y": 0.831372976,
+                "z": 0.807843029
+              },
+              "emissive_intensity": 60,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 1667954041483998786,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.44313699,
+                "y": 0.631372988,
+                "z": 0.76078397
+              },
+              "emissive_intensity": 30,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 14634122273419054220,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.44313699,
+                "y": 0.631372988,
+                "z": 0.76078397
+              },
+              "emissive_intensity": 0.5,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 14211133813042465312,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.780391991,
+                "y": 0.44313699,
+                "z": 0.25097999
+              },
+              "emissive_intensity": 0.0500000007,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 12915786053928516885,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.44313699,
+                "y": 0.76078397,
+                "z": 0.63529402
+              },
+              "emissive_intensity": 8,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.44313699,
+                "y": 0.76078397,
+                "z": 0.63529402
+              },
+              "emissive_intensity": 8,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 8766185077666782609,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.525489986,
+                "y": 0.756862998,
+                "z": 0.666666985
+              },
+              "emissive_intensity": 90,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.525489986,
+                "y": 0.756862998,
+                "z": 0.666666985
+              },
+              "emissive_intensity": 90,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 13934593911569893557,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "emissive_intensity": 9,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "emissive_intensity": 9,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "emissive_intensity": 9,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 10367220459506788633,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.192157,
+                "y": 0.192157,
+                "z": 0.949020028
+              },
+              "emissive_intensity": 8,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 5540889928718266359,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.917647004,
+                "y": 0.321568996,
+                "z": 0.321568996
+              },
+              "emissive_intensity": 10,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.917647004,
+                "y": 0.321568996,
+                "z": 0.321568996
+              },
+              "emissive_intensity": 10,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.917647004,
+                "y": 0.321568996,
+                "z": 0.321568996
+              },
+              "emissive_intensity": 10,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 13110377112116006974,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0,
+                "y": 0.133332998,
+                "z": 0.945097983
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0,
+                "y": 0.133332998,
+                "z": 0.945097983
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 3940937994509905829,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.886274993,
+                "z": 0.772548974
+              },
+              "emissive_intensity": 2,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 12364554261262822478,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.886274993,
+                "z": 0.772548974
+              },
+              "emissive_intensity": 8,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 9720996252765588247,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.705882013,
+                "z": 0.298038989
+              },
+              "emissive_intensity": 35,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 7894549063609300067,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.666666985,
+                "z": 0.149020001
+              },
+              "emissive_intensity": 20,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 12767647472892411841,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.800000012,
+                "y": 0.800000012,
+                "z": 1
+              },
+              "emissive_intensity": 93,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 15081639549366098807,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.800000012,
+                "y": 0.800000012,
+                "z": 1
+              },
+              "emissive_intensity": 193,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 1483449630140018790,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.792156994,
+                "y": 1,
+                "z": 0.172548994
+              },
+              "emissive_intensity": 20,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 12052148893653001934,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1.20000005,
+                "y": 0.699999988,
+                "z": 0.899999976
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 5803137904977527423,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.800000012,
+                "y": 0.800000012,
+                "z": 1
+              },
+              "emissive_intensity": 30,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            },
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.800000012,
+                "y": 0.800000012,
+                "z": 1
+              },
+              "emissive_intensity": 30,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 2921463035185332298,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.545098007,
+                "y": 0.725489974,
+                "z": 1
+              },
+              "emissive_intensity": 20,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 5766743145637657944,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.545098007,
+                "y": 0.725489974,
+                "z": 1
+              },
+              "emissive_intensity": 63,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 11569098972999519970,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 5468703282933479420,
+              "billboard_scale_mult": 0.699999988,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.699999988,
+                "y": 0.899999976,
+                "z": 0.899999976
+              },
+              "emissive_intensity": 8,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 17833288930862614499,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.721569002,
+                "y": 0.615685999,
+                "z": 0.678430974
+              },
+              "emissive_intensity": 8,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 2655593589457806538,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.800000012,
+                "y": 0.800000012,
+                "z": 1
+              },
+              "emissive_intensity": 20,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 3599934084015495670,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.501960993,
+                "z": 0.270588011
+              },
+              "emissive_intensity": 40,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 14360008070485191903,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.623529017,
+                "y": 0.807843029,
+                "z": 0.835294008
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 13945000614106516592,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.862744987,
+                "y": 0.654901981,
+                "z": 0.333332986
+              },
+              "emissive_intensity": 20,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 14995213648833836303,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.699999988,
+                "y": 0.899999976,
+                "z": 0.899999976
+              },
+              "emissive_intensity": 12,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 8061309880722603455,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.784313977,
+                "z": 0.200000003
+              },
+              "emissive_intensity": 12,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 4099097771245918514,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.200000003,
+                "y": 0.168626994,
+                "z": 1
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 7981757080204857017,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.0941179991,
+                "y": 0.337255001,
+                "z": 0.882353008
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 9601656173020953035,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.282353014,
+                "y": 0.388235003,
+                "z": 0.619607985
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 650559731128683918,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.105881996,
+                "y": 0.63529402,
+                "z": 0.478430986
+              },
+              "emissive_intensity": 14,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 17491306762995338304,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.247059003,
+                "y": 0.494118005,
+                "z": 0.478430986
+              },
+              "emissive_intensity": 6,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 6959919639455673273,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.227450997,
+                "y": 0.203922004,
+                "z": 0.690195978
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 8396765491248021729,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.215685993,
+                "y": 0.352941006,
+                "z": 0.576470971
+              },
+              "emissive_intensity": 4.5,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 7354823765522386441,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.239216,
+                "z": 0.0117650004
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 6533064804412286123,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 6907827328815640913,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 0.0235290006,
+                "y": 0.152941003,
+                "z": 0.713725984
+              },
+              "emissive_intensity": 4,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
+          "type": 8033300886901674880,
+          "planet_settings": [
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 5944072930632289869,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 1,
+                "y": 0.207843006,
+                "z": 0.0117650004
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            }
+          ]
+        },
+        {
+          "type": 8599329379766805025,
+          "planet_settings": [
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 5944072930632289869,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 1,
+                "y": 0.552941024,
+                "z": 0.419607997
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            }
+          ]
+        },
+        {
+          "type": 12923692417760877139,
+          "planet_settings": [
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 5698573603376538830,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.839215994,
+                "y": 0.819607973,
+                "z": 0.823529005
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            }
+          ]
+        },
+        {
+          "type": 14673282749382717933,
+          "planet_settings": [
+            {
+              "unit_id": 16034202310093039378,
+              "material_id": 10253444255066292014,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.450980008,
+                "y": 0.639216006,
+                "z": 1
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 16034202310093039378,
+              "material_id": 11733445562323534827,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.450980008,
+                "y": 0.63529402,
+                "z": 1
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            }
+          ]
+        },
+        {
+          "type": 7164477025843965410,
+          "planet_settings": [
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 12505392107660717094,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.839215994,
+                "y": 0.819607973,
+                "z": 0.823529005
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 15218686868695707085,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.839215994,
+                "y": 0.819607973,
+                "z": 0.823529005
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 15099041288030137752,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.639216006,
+                "y": 0.50980401,
+                "z": 0.498039007
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 3091187933835265478,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.741176009,
+                "y": 0.721569002,
+                "z": 0.705882013
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 6111786041118970891,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.850979984,
+                "y": 0.827450991,
+                "z": 0.827450991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 15511851822849749088,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.850979984,
+                "y": 0.827450991,
+                "z": 0.827450991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 16442885214625756184,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.850979984,
+                "y": 0.827450991,
+                "z": 0.827450991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 15729192650478271987,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.850979984,
+                "y": 0.827450991,
+                "z": 0.827450991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 16218466435770036259,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.850979984,
+                "y": 0.827450991,
+                "z": 0.827450991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 7276747622831031840,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.850979984,
+                "y": 0.827450991,
+                "z": 0.827450991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 9277721323368514939,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.850979984,
+                "y": 0.827450991,
+                "z": 0.827450991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            }
+          ]
+        },
+        {
+          "type": 11341913649800242958,
+          "planet_settings": [
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 14277079173840323647,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.850979984,
+                "z": 0.839215994
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 15617483156475872366,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.898038983,
+                "y": 0.866666973,
+                "z": 0.862744987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 17697084380918402103,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.807843029,
+                "y": 0.725489974,
+                "z": 0.639216006
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 1124437990198571218,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.811765015,
+                "y": 0.678430974,
+                "z": 0.592157006
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 18269602248535130263,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.831372976,
+                "y": 0.756862998,
+                "z": 0.733332992
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_moon"
+            }
+          ]
+        },
+        {
+          "type": 7859116487092405064,
+          "planet_settings": [
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 13504785074301154470,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.662744999,
+                "y": 0.815685987,
+                "z": 0.909803987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 1768915827785160445,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.592157006,
+                "y": 0.698038995,
+                "z": 0.752941012
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 14103280874864158512,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.741176009,
+                "y": 0.788235009,
+                "z": 0.784313977
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 3196516611559378362,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.596077979,
+                "y": 0.647059023,
+                "z": 0.631372988
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 13249653398998016579,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.745097995,
+                "y": 0.780391991,
+                "z": 0.780391991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 2168949589947049261,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.811765015,
+                "y": 0.850979984,
+                "z": 0.917647004
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 15552327135301609713,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.745097995,
+                "y": 0.780391991,
+                "z": 0.780391991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 12490677621007529651,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.752941012,
+                "y": 0.803921998,
+                "z": 0.815685987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 16305760370052863138,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.705882013,
+                "y": 0.717647016,
+                "z": 0.733332992
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 5327349913204645635,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.580392003,
+                "y": 0.639216006,
+                "z": 0.756862998
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 17376603922761435034,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.741176009,
+                "y": 0.905882001,
+                "z": 0.984314024
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            }
+          ]
+        },
+        {
+          "type": 7080112756489116906,
+          "planet_settings": [
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 3467059683904914060,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.662744999,
+                "y": 0.815685987,
+                "z": 0.909803987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 12647108787920097860,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.592157006,
+                "y": 0.698038995,
+                "z": 0.752941012
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 13401366186517511039,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.741176009,
+                "y": 0.788235009,
+                "z": 0.784313977
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 461768996763009157,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.596077979,
+                "y": 0.647059023,
+                "z": 0.631372988
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 18013832770299592137,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.745097995,
+                "y": 0.780391991,
+                "z": 0.780391991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 778535221128947209,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.811765015,
+                "y": 0.850979984,
+                "z": 0.917647004
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 1380161602420323797,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.745097995,
+                "y": 0.780391991,
+                "z": 0.780391991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 17447752513718728303,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.752941012,
+                "y": 0.803921998,
+                "z": 0.815685987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 7190398674595287200,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.705882013,
+                "y": 0.717647016,
+                "z": 0.733332992
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 10269018139193260072,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.580392003,
+                "y": 0.639216006,
+                "z": 0.756862998
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 15979180724643062883,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.741176009,
+                "y": 0.905882001,
+                "z": 0.984314024
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            }
+          ]
+        },
+        {
+          "type": 1337342204059632180,
+          "planet_settings": [
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 8677800265734409161,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.662744999,
+                "y": 0.815685987,
+                "z": 0.909803987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 12332849036741610689,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.592157006,
+                "y": 0.698038995,
+                "z": 0.752941012
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 14326594809908215990,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.741176009,
+                "y": 0.788235009,
+                "z": 0.784313977
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 16521783196052272641,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.596077979,
+                "y": 0.647059023,
+                "z": 0.631372988
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 3924873308906584863,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.745097995,
+                "y": 0.780391991,
+                "z": 0.780391991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 4468136905588793044,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.811765015,
+                "y": 0.850979984,
+                "z": 0.917647004
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 16506269295784137287,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.745097995,
+                "y": 0.780391991,
+                "z": 0.780391991
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 9691955055116440589,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.752941012,
+                "y": 0.803921998,
+                "z": 0.815685987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 5524973163075960643,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.705882013,
+                "y": 0.717647016,
+                "z": 0.733332992
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 10127791304780596102,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.580392003,
+                "y": 0.639216006,
+                "z": 0.756862998
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            {
+              "unit_id": 5551999777115374159,
+              "material_id": 8804617657577650986,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.741176009,
+                "y": 0.905882001,
+                "z": 0.984314024
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            }
+          ]
+        },
+        {
+          "type": 11196420898004577771,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 6267923522653549908,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.92156899,
+                "y": 0.792156994,
+                "z": 0.486274987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 9207622498569427849,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.92156899,
+                "y": 0.792156994,
+                "z": 0.486274987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 13531433576649778316,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.564706028,
+                "y": 0.423528999,
+                "z": 0.313726008
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 17532280222952696288,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.690195978,
+                "y": 0.623529017,
+                "z": 0.596077979
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 2365587269818790469,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 17532280222952696288,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.552941024,
+                "y": 0.607842982,
+                "z": 0.854902029
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 15019736274615904118,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 16134986682788446450,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 8963574449566926966,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 14664212703158100228,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0,
+                "y": 0.360783994,
+                "z": 0.960784018
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 6740866448809786853,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 14664212703158100228,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 14664212703158100228,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 14664212703158100228,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 14664212703158100228,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 14664212703158100228,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 14664212703158100228,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 14664212703158100228,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 14664212703158100228,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 13696919745200429998,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 6632822844794872633,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.301961005,
+                "y": 0.427451015,
+                "z": 0.666666985
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 14708136257170808862,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 6632822844794872633,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.596077979,
+                "y": 0.690195978,
+                "z": 1
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 1303160091479717214,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 7319005590676490452,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 1,
+                "y": 0.239216,
+                "z": 0.0117650004
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 15552351541206673665,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 7319005590676490452,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.494118005,
+                "y": 0.137254998,
+                "z": 0.145098001
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 15525633725334328937,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 8765960678749287122,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.152941003,
+                "y": 0.403921992,
+                "z": 0.76078397
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 16830066003762932088,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 8765960678749287122,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 1,
+                "y": 0.203922004,
+                "z": 0.0980390012
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 11901605484083850761,
+          "planet_settings": [
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 16134986682788446450,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.870588005,
+                "y": 0.733332992,
+                "z": 0.564706028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 6267923522653549908,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.92156899,
+                "y": 0.792156994,
+                "z": 0.486274987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 9207622498569427849,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.92156899,
+                "y": 0.792156994,
+                "z": 0.486274987
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 13531433576649778316,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.564706028,
+                "y": 0.423528999,
+                "z": 0.313726008
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 17532280222952696288,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.690195978,
+                "y": 0.623529017,
+                "z": 0.596077979
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 16888526330789445112,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.776471019,
+                "y": 0.752941012,
+                "z": 0.768626988
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 8669206988901771027,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.803921998,
+                "y": 0.819607973,
+                "z": 0.745097995
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 8551973746521172900,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.525489986,
+                "y": 0.580392003,
+                "z": 0.407842994
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 1821926583661267517,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.290196002,
+                "y": 0.419607997,
+                "z": 0.494118005
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 5351947020870061420,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.341176003,
+                "y": 0.627451003,
+                "z": 0.988234997
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 6270517096096446312,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.368627012,
+                "y": 0.890196025,
+                "z": 0.976471007
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 10445906693087846629,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.650979996,
+                "y": 0.552941024,
+                "z": 0.545098007
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 4013040503086300657,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.454901993,
+                "y": 0.219607994,
+                "z": 0.219607994
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 8175833253401902391,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.792156994,
+                "y": 0.494118005,
+                "z": 0.517647028
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            },
+            {
+              "unit_id": 12387545932745460634,
+              "material_id": 8765960678749287122,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.803921998,
+                "y": 0.807843029,
+                "z": 0.788235009
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_gasgiant"
+            }
+          ]
+        },
+        {
+          "type": 9532425100504619626,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 1335850673079856921,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 10618609514294022109,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 5882240256029242342,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            },
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 17985160788507431019,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            },
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 1335850673079856921,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            },
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 6915529351336431243,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            },
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 15558281352132402788,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            },
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 5610307912455071443,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 5309223123952966577,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 5882240256029242342,
+              "ring_scale_mult": 5,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 13127252383647353352,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 6915529351336431243,
+              "ring_scale_mult": 5,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 9162724999868108986,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 8685423612147687960,
+              "ring_scale_mult": 5,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 6572474795729686550,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 9070237213373883785,
+              "ring_scale_mult": 5,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 17439701531563404532,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 13034195773227047343,
+              "ring_scale_mult": 5,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 9955813310382490004,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 4794260056962051857,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            },
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 10887926769364619263,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            },
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 13884425296394315463,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            },
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 12348298514602506879,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            },
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 4554081190290746775,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 446786593888950224,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 5292312206236251730,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 4702528462225319392,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 16409344358719228170,
+              "ring_material_id": 5857787120756884351,
+              "ring_scale_mult": 8,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_astroid_belt",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 2891548120470055975,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 15791246196753948353,
+              "ring_scale_mult": 10,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 9742530346830065354,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 80957458397070307,
+              "ring_scale_mult": 10,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 1965578010901590402,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 80957458397070307,
+              "ring_scale_mult": 1,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        },
+        {
+          "type": 5857754991061452658,
+          "planet_settings": [
+            {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 4749117617611567231,
+              "ring_material_id": 12234868360975887146,
+              "ring_scale_mult": 10,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_ring"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

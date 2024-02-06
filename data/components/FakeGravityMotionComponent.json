@@ -1,0 +1,3 @@
+{ "FakeGravityMotionComponent" : {
+    "on_hit_ground_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when the object hits the ground." }
+}}

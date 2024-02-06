@@ -1,0 +1,5 @@
+{ "StateSwitchAction" : {
+    "behavior_event" : { "type": "uint", "description": "[string]" },
+    "interactor_animation_event" : { "type": "uint", "description": "[string]" },
+    "switch_animation_event" : { "type": "uint", "description": "[string]" }
+}}

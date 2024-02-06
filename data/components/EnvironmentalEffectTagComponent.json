@@ -1,0 +1,4 @@
+{ "EnvironmentalEffectTagComponent" : {
+    "effect_type" : { "type": "EnvironmentalEffectType", "default": "EnvironmentalEffectType_None", "description": "The effect type to show" },
+    "status_effect_to_apply" : { "type": "StatusEffectType", "default": "StatusEffectType_None", "description": "The status effect to apply to players" }
+}}

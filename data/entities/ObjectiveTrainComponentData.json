@@ -1,0 +1,19 @@
+{
+  "1606828565903665132": {
+    "secure_radius": 10,
+    "secure_rate": 0.0299999993,
+    "lost_rate": -0.0199999996,
+    "animation_variable": 0,
+    "animation_value_min": 0,
+    "animation_value_max": 1,
+    "noise_template": "NoiseTemplate_Objective_Flag",
+    "noise_time": 2,
+    "encounter_refresh_time": 10,
+    "encounter_start_percent": 0.00999999978,
+    "move_amount": {
+      "x": 100,
+      "y": 0,
+      "z": 0
+    }
+  }
+}

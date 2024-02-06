@@ -1,0 +1,16 @@
+{ "StampPlacement" : {
+    "position" : { "type": "CApiVector2" },
+    "rotation" : { "type": "float" },
+    "route_entrypoint_used" : { "type": "array", "subtype": "Route" },
+    "stamp_infos" : { "type": "StampInfoUnion" },
+    "stamp_path" : { "type": "ulong" },
+    "level" : { "type": "ulong" },
+    "aabb_min" : { "type": "CApiVector2" },
+    "aabb_max" : { "type": "CApiVector2" },
+    "height" : { "type": "float" },
+    "stamp_overlap_group" : { "type": "StampOverlapGroups" },
+    "subregion_override" : { "type": "SubRegionType" },
+    "world_stamp_overlap" : { "type": "float" },
+    "zone_index" : { "type": "uint" },
+    "calculated_subregion_height" : { "type": "float" }
+}}

@@ -1,0 +1,4 @@
+{ "FoleySoundComponent" : {
+    "foley_events" : { "type": "array", "subtype": "FoleySetInfo", "description": "Sets of foley events." },
+    "use_move_speed" : { "type": "byte", "description": "[bool]Whether the audio events use the Move_speed parameter or not." }
+}}

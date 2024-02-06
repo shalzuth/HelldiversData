@@ -1,0 +1,4 @@
+{ "ExplorationSpawnLimit" : {
+    "location_sub_category" : { "type": "uint" },
+    "max_amount" : { "type": "uint" }
+}}

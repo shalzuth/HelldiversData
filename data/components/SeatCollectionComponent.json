@@ -1,0 +1,17 @@
+{ "SeatCollectionComponent" : {
+    "transition_script" : { "type": "TransitionId", "default": "TransitionId_None", "description": "The script file containing the transitions between seats in this collection." },
+    "passengers" : { "type": "array", "subtype": "Passenger", "description": "If there are any passengers set, they will get spawned and set at the specified seat when the collection is spawned." },
+    "transition_with_root_motion" : { "type": "byte", "description": "[bool]EXPERIMENTAL: Activate root motion when doing seat transitions. This can be useful if we want bots to jump out of cars." },
+    "should_passenger_inherit_node_velocity_on_exit" : { "type": "byte", "description": "[bool]If set, will take the passengers node velocity upon exit and inherit into motion." },
+    "kill_passengers_on_death" : { "type": "byte", "description": "[bool]." },
+    "kill_attachments_on_death" : { "type": "byte", "description": "[bool]." },
+    "start_open" : { "type": "byte", "description": "[bool]." },
+    "enable_block_check" : { "type": "byte", "description": "[bool]." },
+    "ignore_entrance_check" : { "type": "byte", "description": "[bool]Should we ignore any logic in regards to the entrance updating?" },
+    "play_music_events" : { "type": "byte", "description": "[bool]If true then entering this vehicle triggers music events for the local player" },
+    "stratagem_use_allowed" : { "type": "byte", "description": "[bool]If true then the players should be able to use stratagem inside the vehicle." },
+    "occupy_audio_event" : { "type": "uint", "description": "[wwise]occupy_audio_event" },
+    "leave_audio_event" : { "type": "uint", "description": "[wwise]leave_audio_event" },
+    "can_manually_leave" : { "type": "byte", "description": "[bool]If we can exit the seat collection via manual player input or not." },
+    "hide_seater_nameplate" : { "type": "byte", "description": "[bool]Whether to hide a player's nameplate when in this seat collection." }
+}}

@@ -1,0 +1,6 @@
+{ "CharacterNameComponent" : {
+    "race" : { "type": "RaceType", "default": "RaceType_None", "description": "Must not be none if the name should be selected from random templates." },
+    "random_name_template" : { "type": "uint", "description": "[string]If not empty, use a random name from the name list and insert it into the NAME localization variable of the template." },
+    "character_name" : { "type": "uint", "default": 4002220816, "description": "[string]The localization string identifier of the character name, as displayed in subtitles." },
+    "use_persistent_seed" : { "type": "byte", "description": "[bool]If set, this character uses a predictable seed based on peer id. This is most useful for ship characters." }
+}}

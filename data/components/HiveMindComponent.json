@@ -1,0 +1,13 @@
+{ "HiveMindComponent" : {
+    "faction" : { "type": "FactionType", "default": "FactionType_None", "description": "Which factions this hive mind belongs to." },
+    "max_encounter_members_to_remove" : { "type": "int", "default": 1 },
+    "selected_encounter_member_weight_multiplier" : { "type": "float", "default": 2, "description": "Multiplier to increase the likleyhood of encounter squads containing the selected member" },
+    "traveler_settings" : { "type": "TravelerSettings" },
+    "patrol_spotting_settings" : { "type": "PatrolSpottingSettings", "description": "Callout IDs for spotting patrols against this faction" },
+    "starting_time_limit" : { "type": "float", "default": 2400 },
+    "forced_encounter_point_amount" : { "type": "float", "default": -1, "description": "Encounter points forced value - e.g. for tutorial" },
+    "forced_encounter_enemy_cap" : { "type": "uint", "description": "Encounter enemy cap value - e.g. for tutorial" },
+    "encounter_enemy_cap_multiplier" : { "type": "float", "default": 1, "description": "Multiplier for the difficulty settings enemy cap." },
+    "patrol_spawn_duration_multiplier" : { "type": "float", "default": 1, "description": "Patrol spawn duration multiplier" },
+    "mission_difficulty_settings" : { "type": "MissionDifficultySettings", "description": "How does mission difficulty scale?" }
+}}

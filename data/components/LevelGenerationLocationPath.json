@@ -1,0 +1,7 @@
+{ "LevelGenerationLocationPath" : {
+    "locations" : { "type": "array", "subtype": "LocationInstance" },
+    "flags" : { "type": "PathFlags" },
+    "segment_start" : { "type": "uint" },
+    "segment_end" : { "type": "uint" },
+    "collision_radius" : { "type": "float" }
+}}

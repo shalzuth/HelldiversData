@@ -1,0 +1,11 @@
+{ "EffectSetting" : {
+    "particle_effect" : { "type": "ulong", "description": "[particles]" },
+    "offset" : { "type": "CApiVector3" },
+    "rotation_offset" : { "type": "CApiVector3" },
+    "node_id" : { "type": "uint", "description": "[string]" },
+    "trigger_emit_event" : { "type": "uint", "description": "[string]" },
+    "link_option" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None" },
+    "inherit_rotation" : { "type": "byte" },
+    "linked" : { "type": "byte" },
+    "spawn_on_camera" : { "type": "byte" }
+}}

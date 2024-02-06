@@ -1,0 +1,4 @@
+{ "ProgressionSpawnerComponent" : {
+    "entity_path" : { "type": "ulong", "description": "[adhd]Path to the entity." },
+    "progression_item" : { "type": "uint", "description": "[string]Progression item required to spawn this entity" }
+}}

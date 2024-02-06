@@ -1,0 +1,71 @@
+{
+  "12768986400783294623": {
+    "spawn_direction_count": 3,
+    "spawn_direction_angle": 20,
+    "first_wave_delay": 15,
+    "min_wave_length": 20,
+    "encounter_point_start": 0.75,
+    "encounter_point_end": 1.5,
+    "encounter_distance_start": 250,
+    "encounter_distance_end": 50,
+    "enemies_remaining_wave_trigger": 20,
+    "total_encounters": 8,
+    "cutscene_camera_distance": 400,
+    "cutscene_camera_height": 0,
+    "cutscene_lookat_height_offset": 90,
+    "cutscene_camera_fov": 40,
+    "pre_cutscene_duration": 5,
+    "pre_cutscene_duration_dead": 5,
+    "cutscene_duration": 22.5,
+    "victory_fx_spawn_time": [
+      2,
+      6
+    ]
+  },
+  "15734220103569014877": {
+    "spawn_direction_count": 3,
+    "spawn_direction_angle": 20,
+    "first_wave_delay": 15,
+    "min_wave_length": 20,
+    "encounter_point_start": 0.75,
+    "encounter_point_end": 1.5,
+    "encounter_distance_start": 250,
+    "encounter_distance_end": 50,
+    "enemies_remaining_wave_trigger": 20,
+    "total_encounters": 8,
+    "cutscene_camera_distance": 400,
+    "cutscene_camera_height": 0,
+    "cutscene_lookat_height_offset": 90,
+    "cutscene_camera_fov": 40,
+    "pre_cutscene_duration": 5,
+    "pre_cutscene_duration_dead": 5,
+    "cutscene_duration": 22.5,
+    "victory_fx_spawn_time": [
+      2,
+      6
+    ]
+  },
+  "5808153078233765273": {
+    "spawn_direction_count": 3,
+    "spawn_direction_angle": 20,
+    "first_wave_delay": 15,
+    "min_wave_length": 20,
+    "encounter_point_start": 0.75,
+    "encounter_point_end": 1.5,
+    "encounter_distance_start": 250,
+    "encounter_distance_end": 50,
+    "enemies_remaining_wave_trigger": 20,
+    "total_encounters": 8,
+    "cutscene_camera_distance": 400,
+    "cutscene_camera_height": 0,
+    "cutscene_lookat_height_offset": 90,
+    "cutscene_camera_fov": 40,
+    "pre_cutscene_duration": 5,
+    "pre_cutscene_duration_dead": 5,
+    "cutscene_duration": 22.5,
+    "victory_fx_spawn_time": [
+      2,
+      6
+    ]
+  }
+}

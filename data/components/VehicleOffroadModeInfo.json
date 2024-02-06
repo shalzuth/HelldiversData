@@ -1,0 +1,5 @@
+{ "VehicleOffroadModeInfo" : {
+    "has_offroad_mode" : { "type": "byte", "description": "[bool]Set to true to enable automatic gearbox switching into offroad mode." },
+    "gear_ratio" : { "type": "float", "default": 2, "description": "Ratio to apply to all transmission ratios for the offroad mode gearbox." },
+    "delay" : { "type": "float", "default": 1, "description": "How long the accelerator needs to be >10% in while in first gear before offroad mode kicks in." }
+}}

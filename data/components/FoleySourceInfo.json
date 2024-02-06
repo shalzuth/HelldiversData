@@ -1,0 +1,6 @@
+{ "FoleySourceInfo" : {
+    "event_id" : { "type": "uint", "description": "[string]An animation event that triggers a folie sound." },
+    "audio_event" : { "type": "uint", "description": "[string]The folie sound to trigger." },
+    "node" : { "type": "uint", "description": "[string]The node in the unit to play the folie from." },
+    "culling_distance" : { "type": "float", "default": 50, "description": "The distance (in meters) from the camera where the sound is no longer triggered." }
+}}

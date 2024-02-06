@@ -1,0 +1,11 @@
+{ "SwitchesInfo" : {
+    "switches" : { "type": "array", "subtype": "SwitchInstance", "description": "." },
+    "switch_count" : { "type": "uint", "default": 3, "description": "How many switches are needed" },
+    "send_event_to_linked_units" : { "type": "byte", "description": "[bool]If true, send switch events to linked units" },
+    "error_loc_string" : { "type": "uint", "description": "[string]Optional text string to appear when attempting to use a disabled switch" },
+    "min_error_count" : { "type": "uint", "description": "How many switches will be randomly set as broken (minimum)" },
+    "max_error_count" : { "type": "uint", "description": "How many switches will be randomly set as broken (maximum)" },
+    "switch_type" : { "type": "InteractableMiniGameSwitchType", "default": "InteractableMiniGameSwitchType_Normal", "description": "The type of behavior for this switch" },
+    "attached_to_linked_minigames" : { "type": "byte", "description": "[bool]If true, the number of switches and their disabled state is based on the number of linked units with minigame components" },
+    "error_audio_id" : { "type": "uint", "description": "[string]Audio to play when error event is triggered" }
+}}

@@ -1,0 +1,6 @@
+{ "AiEnemyGuardSettings" : {
+    "movement" : { "type": "AiEnemyStateMovementSettings" },
+    "idle_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid" },
+    "move_distance" : { "type": "array", "subtype": "float", "description": "Min / Max" },
+    "random_wait_time" : { "type": "array", "subtype": "float", "description": "Random time to wait after reaching navigation goal." }
+}}

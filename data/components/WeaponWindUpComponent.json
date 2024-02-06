@@ -1,0 +1,10 @@
+{ "WeaponWindUpComponent" : {
+    "wind_up_time" : { "type": "float", "default": 1, "description": "Time until the weapon fully winds up." },
+    "wind_down_time" : { "type": "float", "default": 1, "description": "Time until the weapon fully winds down." },
+    "rpm_anim_id" : { "type": "uint", "description": "[string]What the animation variable is for rotating the barrel." },
+    "rpm_multiplier" : { "type": "float", "default": 1, "description": "The RPM spin is decided by the weapon RPM, this would act as a multiplier on top." },
+    "wind_up_sound" : { "type": "uint", "description": "[wwise]Sound to play when you start winding up." },
+    "wind_down_sound" : { "type": "uint", "description": "[wwise]Sound to play when you start winding down." },
+    "wind_up_anim" : { "type": "uint", "description": "[string]Animation to play when you start winding up." },
+    "wind_down_anim" : { "type": "uint", "description": "[string]Animation to play when you start winding down." }
+}}

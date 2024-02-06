@@ -1,0 +1,21 @@
+{ "WeaponChargeComponent" : {
+    "min_charge_time" : { "type": "float", "default": 0.9, "description": "The minimum amount of time you must charge to fire the weapon." },
+    "full_charge_time" : { "type": "float", "default": 1.7, "description": "Time it takes for the weapon to reach full charge." },
+    "overcharge_time" : { "type": "float", "default": 2.7, "description": "The time it takes for the weapon to overcharge." },
+    "projectile_multipliers" : { "type": "ProjectileMultipliers", "description": "Multipliers of the setting values for the projectile based on the charge amount." },
+    "charge_start_sound_id" : { "type": "uint", "description": "[string]Sound to start playing when the chargeup starts." },
+    "charge_stop_sound_id" : { "type": "uint", "description": "[string]Sound id to play when the chargeup ends." },
+    "ready_to_fire_sound_id" : { "type": "uint", "description": "[string]Sound id to play when the weapon can fire." },
+    "danger_overcharge_sound_id" : { "type": "uint", "description": "[string]Sound id to play when the chargeup enters the danger zone." },
+    "charge_mesh" : { "type": "uint", "description": "[string]Mesh to set charge value on." },
+    "charge_material" : { "type": "uint", "description": "[string]Material to set charge value on." },
+    "charge_variable" : { "type": "uint", "description": "[string]Material variable to set charge value on." },
+    "charge_up_muzzle_flash" : { "type": "ulong", "description": "[particles]Particle effect of the muzzle flash while charging." },
+    "charge_up_muzzle_flash_loop" : { "type": "ulong", "description": "[particles]Looping particle effect of the muzzle flash while charging." },
+    "charge_anim_id" : { "type": "uint", "description": "[string]What the animation variable is for rotating the barrel." },
+    "charge_end_anim_id" : { "type": "uint", "description": "[string]What the animation variable is for rotating the barrel." },
+    "charge_rate_anim_id" : { "type": "uint", "description": "[string]What the animation variable is for rotating the barrel." },
+    "spin_speed_anim_id" : { "type": "uint", "description": "[string]What the animation variable is for rotating the barrel." },
+    "auto_fire_in_safety" : { "type": "byte", "description": "[bool]If disabled, will allow the user to keep the charge as long as they are holding the trigger." },
+    "dry_fire_audio_event" : { "type": "uint", "description": "[string]." }
+}}

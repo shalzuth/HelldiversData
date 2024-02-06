@@ -1,0 +1,7 @@
+{ "CandidateDescription" : {
+    "name_loc" : { "type": "uint", "description": "We link to backend with this so dont change it." },
+    "portrait_full" : { "type": "ulong" },
+    "favorites_loc" : { "type": "uint" },
+    "biography_loc" : { "type": "uint" },
+    "descriptions" : { "type": "array", "subtype": "CandidateTierSpeech" }
+}}

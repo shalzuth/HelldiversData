@@ -1,0 +1,11 @@
+{ "WeaponWielderComponent" : {
+    "recoil_multiplier" : { "type": "float", "default": 1, "description": "Multiplier applied to all recoil, changing its magnitude" },
+    "aim_interpolation_speed" : { "type": "float", "default": 3.14, "description": "Speed used to rotate the aim position. Is modified by weapon and customizations." },
+    "sway_multiplier" : { "type": "CApiVector2", "description": "Multiplier applied to all sway, changing its magnitude" },
+    "sway_frequency_multiplier" : { "type": "CApiVector2", "description": "Multiplier applied to all sway, changing its frequency" },
+    "correct_world_aim_position" : { "type": "byte", "description": "[bool]If set, correct the world aim position with a raycast into the world. This ensures we match the weapon direction to what we hit with crosshair, and so only really matters for avatar." },
+    "aim_use_interpolation" : { "type": "byte", "description": "[bool]True if we should use Aim Rotation Speed to rotate the aim position." },
+    "smooth_aim_constraint" : { "type": "byte", "description": "[bool]Enables smooth_aim_constraint" },
+    "use_animation_recoil" : { "type": "byte", "description": "[bool]Will send a fire animation event each time you fire the weapon with an animation variable (recoil_amount) which decreases over time." },
+    "smooth_aim_constraint_limit" : { "type": "float", "default": 0.3, "description": "1 = maximum rotation, 0 = stiffs" }
+}}

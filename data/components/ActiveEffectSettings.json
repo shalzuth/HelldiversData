@@ -1,0 +1,5 @@
+{ "ActiveEffectSettings" : {
+    "id" : { "type": "uint", "description": "[string]Identifier for this effect, used when playing effects from behavior" },
+    "start_enabled" : { "type": "byte", "description": "[bool]If true, effect is triggered on spawn" },
+    "effect" : { "type": "EffectSetting", "description": "Particle effect to play while the entity lives and is destroyed on death." }
+}}

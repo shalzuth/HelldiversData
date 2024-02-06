@@ -1,0 +1,17 @@
+{ "MotionComponent" : {
+    "use_root_motion" : { "type": "byte", "description": "[bool]Use root motion when spawned" },
+    "use_navmesh_constraint" : { "type": "byte", "description": "[bool]Use navmesh constraint. Only applicable when using MotionMode_Navigation." },
+    "use_simple_mover" : { "type": "byte", "description": "[bool]Use simple mover when spawned. Simple mover is a simple sphere collision that keep other simple movers from entering." },
+    "use_huge_simple_mover" : { "type": "byte", "description": "[bool]Use huge simple mover when spawned. Huge simple mover is a simple sphere collision that keep other huge simple movers from entering." },
+    "use_simple_mover_as_vehicle_collider" : { "type": "byte", "description": "[bool]Use the simple mover to collide with vehicles as well." },
+    "mover_name" : { "type": "uint", "description": "[string]The name of the default mover to use." },
+    "default_motion_mode" : { "type": "MotionMode", "default": "MotionMode_Navigation", "description": "The starting motion mode that it will spawn into." },
+    "hover_height" : { "type": "float", "default": 0, "description": "The enemy aims to hover this far above ground." },
+    "forcemode_max_speed" : { "type": "float", "default": 6, "description": "The max speed for Forcemode." },
+    "sample_radii" : { "type": "CApiVector2", "description": "For havok movers, this is the area size for which we compute an avg. height when repositionining the unit towards the mover (first value), and for which we determine sliding (both values)." },
+    "position_lerp_fraction_per_second" : { "type": "float", "default": 1, "description": "Determines how strong we should be lerp chasing the position." },
+    "max_predicted_spatial_deviation" : { "type": "float", "default": 1, "description": "How much the predicted position can deviate from the owner before we snap the position." },
+    "has_footplanting_ik" : { "type": "byte", "description": "[bool]If set, we correct the vertical positioning for IK error. Enabling this does nothing if there's no foot placement IK (but it's slower, so don't enable it unless needed)." },
+    "expected_maximum_speed_audio" : { "type": "float", "default": 20, "description": "If above 0, we will start adjusting the Move_speed audio RTPC and assume that the number we specify is the max speed we should go for." },
+    "tilting_speed" : { "type": "float", "default": 0, "description": "If above 0, we will trigger a tilting animation if our speed is greater than what is specified." }
+}}

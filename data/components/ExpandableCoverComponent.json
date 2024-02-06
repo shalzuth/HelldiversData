@@ -1,0 +1,4 @@
+{ "ExpandableCoverComponent" : {
+    "cover_animation_delay" : { "type": "float", "default": 0, "description": "The duration we wait before we start animating the cover walls." },
+    "cover_wall_infos" : { "type": "array", "subtype": "ExpandableCoverWallInfo", "description": "." }
+}}

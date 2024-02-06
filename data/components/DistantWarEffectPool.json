@@ -1,0 +1,8 @@
+{ "DistantWarEffectPool" : {
+    "pool_type" : { "type": "DistantWarEffectPoolType" },
+    "load_type" : { "type": "DistantWarEffectPoolLoadType", "default": "DistantWarEffectPoolLoadType_Persistent" },
+    "package" : { "type": "ulong" },
+    "spawn_range" : { "type": "CApiVector2" },
+    "cooldown_time" : { "type": "CApiVector2" },
+    "effects" : { "type": "array", "subtype": "DistantWarEffect" }
+}}

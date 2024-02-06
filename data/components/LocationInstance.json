@@ -1,0 +1,18 @@
+{ "LocationInstance" : {
+    "source" : { "type": "LocationSatelliteUnion" },
+    "paths" : { "type": "array", "subtype": "LevelGenerationLocationPath" },
+    "used_roads" : { "type": "array", "subtype": "byte" },
+    "stamp_placement" : { "type": "StampPlacement" },
+    "num_paths" : { "type": "byte" },
+    "group_index" : { "type": "byte" },
+    "stamp_index" : { "type": "byte" },
+    "satellite_count" : { "type": "byte" },
+    "position" : { "type": "CApiVector3" },
+    "flags" : { "type": "LocationInstanceFlags" },
+    "location_extension_layers_to_spawn" : { "type": "array", "subtype": "uint" },
+    "location_exploration_layer_to_spawn" : { "type": "uint" },
+    "objective_id" : { "type": "uint" },
+    "location_type" : { "type": "LocationGameplayType" },
+    "parent_cluster" : { "type": "LocationCluster" },
+    "first_satellite" : { "type": "LocationInstance" }
+}}

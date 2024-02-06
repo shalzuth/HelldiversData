@@ -1,0 +1,5 @@
+{ "AiSensorAABB" : {
+    "bottom_extent" : { "type": "float", "default": 0.5, "description": "Distance from character origin down to the bottom of the AABB." },
+    "top_extent" : { "type": "float", "default": 2, "description": "Distance from character origin down to the top of the AABB." },
+    "half_width" : { "type": "float", "default": 10, "description": "Horizontal half-extents. Should be about ten times the character radius." }
+}}

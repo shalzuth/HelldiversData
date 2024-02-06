@@ -1,0 +1,19 @@
+{ "DestructionEffect" : {
+    "force_destruct" : { "type": "DestructionEffectForceDestruct", "description": "[unit_only]" },
+    "spawn_particles" : { "type": "DestructionEffectSpawnParticles" },
+    "explosion" : { "type": "DestructionEffectExplosion", "description": "[unit_only]" },
+    "decay" : { "type": "DestructionEffectDecay", "description": "[unit_only]" },
+    "play_sound" : { "type": "DestructionEffectSound" },
+    "static_animation" : { "type": "DestructionEffectStaticAnimation", "description": "[unit_only]" },
+    "hide_all_meshes" : { "type": "DestructionEffectHideAllMeshes", "description": "[unit_only]" },
+    "swap_visibility_groups" : { "type": "DestructionEffectSwapVisibilityGroups", "description": "[unit_only]" },
+    "impulse_dynamic_actors" : { "type": "DestructionEffectImpulseDynamicActors", "description": "[unit_only]" },
+    "spawn_gibs" : { "type": "DestructionEffectSpawnGibs" },
+    "debris_actors" : { "type": "DestructionEffectDebrisActors", "description": "[unit_only]" },
+    "remove_speedtree_instance" : { "type": "DestructionEffectRemoveSpeedtreeInstance", "description": "[speedtree_only]" },
+    "replace_speedtree_instance" : { "type": "DestructionEffectReplaceSpeedtreeInstance", "description": "[speedtree_only]" },
+    "_set_invulnerable" : { "type": "DestructionEffectSetInvulnerable" },
+    "status_effect_volume" : { "type": "DestructionStatusEffectVolume" },
+    "_set_group_visibility" : { "type": "DestructionEffectSetGroupVisibility" },
+    "camera_shake" : { "type": "DestructionEffectCameraShake" }
+}}

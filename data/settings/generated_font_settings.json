@@ -1,0 +1,1622 @@
+[
+  {
+    "FontSettings": {
+      "name": 10427714581116026522,
+      "languages": [
+        "jp"
+      ],
+      "resource_package": 17850509979160870867,
+      "fonts": [
+        {
+          "types": [
+            "FontType_Title"
+          ],
+          "font": 10404817237964773177,
+          "material": 10404817237964773177,
+          "material_curved": 1484688674436667029,
+          "material_terminal": 5455518933443764008,
+          "material_video": 14808740093961739889,
+          "material_hologram": 0,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Header",
+            "FontType_Body",
+            "FontType_Subtitles",
+            "FontType_Mono"
+          ],
+          "font": 3214037081863485040,
+          "material": 3214037081863485040,
+          "material_curved": 4430271485722077177,
+          "material_terminal": 8709894107163464775,
+          "material_video": 0,
+          "material_hologram": 2593722643868355804,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Runtime_Header",
+            "FontType_Runtime_Body"
+          ],
+          "font": 14037464337698039504,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        }
+      ],
+      "hud": [
+        {
+          "style": "HudFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 48,
+            "shadow_range": 0.800000012
+          }
+        },
+        {
+          "style": "HudFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_SmallText",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        }
+      ],
+      "menu": [
+        {
+          "style": "MenuFontStyle_TitleMedium",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 38,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmall",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmall",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoMedium",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoSmall",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 18,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "FontSettings": {
+      "name": 13535487116453691453,
+      "languages": [
+        "ko"
+      ],
+      "resource_package": 10525711688307955034,
+      "fonts": [
+        {
+          "types": [
+            "FontType_Title"
+          ],
+          "font": 5171553352142015659,
+          "material": 5171553352142015659,
+          "material_curved": 5940259579884443630,
+          "material_terminal": 6557730690518000714,
+          "material_video": 1885851917095747388,
+          "material_hologram": 0,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Header",
+            "FontType_Body",
+            "FontType_Subtitles",
+            "FontType_Mono"
+          ],
+          "font": 11512204371183635795,
+          "material": 11512204371183635795,
+          "material_curved": 2241254457303305272,
+          "material_terminal": 9537453686080223415,
+          "material_video": 0,
+          "material_hologram": 6406040136629301776,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Runtime_Header",
+            "FontType_Runtime_Body"
+          ],
+          "font": 633924675814308858,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        }
+      ],
+      "hud": [
+        {
+          "style": "HudFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 48,
+            "shadow_range": 0.800000012
+          }
+        },
+        {
+          "style": "HudFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_SmallText",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        }
+      ],
+      "menu": [
+        {
+          "style": "MenuFontStyle_TitleMedium",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 38,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmall",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmall",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoMedium",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoSmall",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 18,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "FontSettings": {
+      "name": 8722915570752869512,
+      "languages": [
+        "us",
+        "gb",
+        "fr",
+        "it",
+        "de",
+        "es",
+        "pl",
+        "pt",
+        "bp",
+        "ms"
+      ],
+      "resource_package": 4740302456650352738,
+      "fonts": [
+        {
+          "types": [
+            "FontType_Title"
+          ],
+          "font": 13487307112403714622,
+          "material": 13487307112403714622,
+          "material_curved": 1310909413805297349,
+          "material_terminal": 6049630381985750517,
+          "material_video": 765281490556763370,
+          "material_hologram": 0,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Header"
+          ],
+          "font": 11494796472016309435,
+          "material": 11494796472016309435,
+          "material_curved": 8832054795322894380,
+          "material_terminal": 17477945354395978089,
+          "material_video": 0,
+          "material_hologram": 12070382234087367880,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Body",
+            "FontType_Subtitles"
+          ],
+          "font": 11681591577092535748,
+          "material": 11681591577092535748,
+          "material_curved": 17905216247453885284,
+          "material_terminal": 15633093143809716664,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Mono"
+          ],
+          "font": 13221139438375158527,
+          "material": 13221139438375158527,
+          "material_curved": 5450614339710458865,
+          "material_terminal": 1364360575550668043,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Runtime_Header"
+          ],
+          "font": 15137842181057231226,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        },
+        {
+          "types": [
+            "FontType_Runtime_Body"
+          ],
+          "font": 7850911326803027971,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        }
+      ],
+      "hud": [
+        {
+          "style": "HudFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 48,
+            "shadow_range": 0.800000012
+          }
+        },
+        {
+          "style": "HudFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_SmallText",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        }
+      ],
+      "menu": [
+        {
+          "style": "MenuFontStyle_TitleMedium",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 36,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmall",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmall",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoMedium",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoSmall",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 18,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "FontSettings": {
+      "name": 14248009254309298022,
+      "languages": [
+        "ru"
+      ],
+      "resource_package": 1001127456602036904,
+      "fonts": [
+        {
+          "types": [
+            "FontType_Title"
+          ],
+          "font": 13487307112403714622,
+          "material": 13487307112403714622,
+          "material_curved": 1310909413805297349,
+          "material_terminal": 6049630381985750517,
+          "material_video": 765281490556763370,
+          "material_hologram": 0,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Header",
+            "FontType_Body",
+            "FontType_Subtitles",
+            "FontType_Mono"
+          ],
+          "font": 10450016876446020415,
+          "material": 10450016876446020415,
+          "material_curved": 15305031797829692231,
+          "material_terminal": 7550354478874509209,
+          "material_video": 0,
+          "material_hologram": 5601568883631020480,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Runtime_Header",
+            "FontType_Runtime_Body"
+          ],
+          "font": 11156563793451259688,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        }
+      ],
+      "hud": [
+        {
+          "style": "HudFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 48,
+            "shadow_range": 0.800000012
+          }
+        },
+        {
+          "style": "HudFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_SmallText",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        }
+      ],
+      "menu": [
+        {
+          "style": "MenuFontStyle_TitleMedium",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 45,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 33,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmall",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmall",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoMedium",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoSmall",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 18,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "FontSettings": {
+      "name": 9405570746618363098,
+      "languages": [
+        "sc"
+      ],
+      "resource_package": 705557074416165775,
+      "fonts": [
+        {
+          "types": [
+            "FontType_Title"
+          ],
+          "font": 10952160086348262732,
+          "material": 10952160086348262732,
+          "material_curved": 10258621327535592378,
+          "material_terminal": 485146442490397592,
+          "material_video": 17883662779558070018,
+          "material_hologram": 0,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Header",
+            "FontType_Body",
+            "FontType_Subtitles",
+            "FontType_Mono"
+          ],
+          "font": 16261765967992861005,
+          "material": 16261765967992861005,
+          "material_curved": 6653467601213113395,
+          "material_terminal": 3614653292921838420,
+          "material_video": 0,
+          "material_hologram": 915761757346723153,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Runtime_Header",
+            "FontType_Runtime_Body"
+          ],
+          "font": 12542776143977517526,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        }
+      ],
+      "hud": [
+        {
+          "style": "HudFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 48,
+            "shadow_range": 0.800000012
+          }
+        },
+        {
+          "style": "HudFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_SmallText",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        }
+      ],
+      "menu": [
+        {
+          "style": "MenuFontStyle_TitleMedium",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 38,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmall",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmall",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoMedium",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoSmall",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 18,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "FontSettings": {
+      "name": 11437618214103708755,
+      "languages": [
+        "tc"
+      ],
+      "resource_package": 13886678256918506152,
+      "fonts": [
+        {
+          "types": [
+            "FontType_Title"
+          ],
+          "font": 9503843964995389326,
+          "material": 9503843964995389326,
+          "material_curved": 3247795833412587141,
+          "material_terminal": 649437032108524176,
+          "material_video": 3520008657586707067,
+          "material_hologram": 0,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Header",
+            "FontType_Body",
+            "FontType_Subtitles",
+            "FontType_Mono"
+          ],
+          "font": 7387102229351785004,
+          "material": 7387102229351785004,
+          "material_curved": 7834916415384579461,
+          "material_terminal": 13316358551835024153,
+          "material_video": 0,
+          "material_hologram": 5754889166168008996,
+          "is_runtime_font": 0
+        },
+        {
+          "types": [
+            "FontType_Runtime_Header",
+            "FontType_Runtime_Body"
+          ],
+          "font": 7285484274161237190,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        }
+      ],
+      "hud": [
+        {
+          "style": "HudFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 48,
+            "shadow_range": 0.800000012
+          }
+        },
+        {
+          "style": "HudFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_SmallText",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "HudFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        },
+        {
+          "style": "HudFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 20,
+            "shadow_range": 0.649999976
+          }
+        }
+      ],
+      "menu": [
+        {
+          "style": "MenuFontStyle_TitleMedium",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 38,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_Title",
+          "settings": {
+            "type": "FontType_Title",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumDescription",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 48,
+            "shadow_range": 0.699999988
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBig",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBig",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMedium",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMedium",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmall",
+          "settings": {
+            "type": "FontType_Header",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmall",
+          "settings": {
+            "type": "FontType_Body",
+            "font_size": 20,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoMedium",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_MonoSmall",
+          "settings": {
+            "type": "FontType_Mono",
+            "font_size": 18,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyBigRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 28,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodyMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 24,
+            "shadow_range": 0
+          }
+        }
+      ]
+    }
+  }
+]

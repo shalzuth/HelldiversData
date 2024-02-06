@@ -1,0 +1,12 @@
+{ "FootstepSourceInfo" : {
+    "event_id" : { "type": "uint", "description": "[string]An animation event that triggers a footstep effect." },
+    "node" : { "type": "uint", "description": "[string]The node in the unit to play the footstep from." },
+    "impact_type" : { "type": "SurfaceImpactType", "default": "SurfaceImpactType_None", "description": "The effect to play." },
+    "shake_asset" : { "type": "ulong", "description": "[camera_shake]The camera shake to play." },
+    "shake_range" : { "type": "float", "default": 5, "description": "The range by which the shake is felt." },
+    "shake_falloff_range" : { "type": "float", "default": 10, "description": "The range by which the shakes is no longer felt." },
+    "owner_shake_asset" : { "type": "ulong", "description": "[camera_shake]The camera shake to play for the owner." },
+    "owner_shake_range" : { "type": "float", "default": 5, "description": "The range by which the shake is felt for the owner." },
+    "owner_shake_falloff_range" : { "type": "float", "default": 10, "description": "The range by which the shakes is no longer felt for the owner." },
+    "event_animation_variable_value" : { "type": "float", "default": 0, "description": "The footstep animation variable value." }
+}}

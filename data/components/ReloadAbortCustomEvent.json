@@ -1,0 +1,5 @@
+{ "ReloadAbortCustomEvent" : {
+    "start" : { "type": "float", "default": 1, "description": "The start of the percentage range of the animation where if it is aborted the event is triggered." },
+    "end" : { "type": "float", "default": 0, "description": "The end of the percentage range of the animation where if it is aborted the event is triggered." },
+    "event_name" : { "type": "uint", "description": "[string]The name of the event to trigger" }
+}}

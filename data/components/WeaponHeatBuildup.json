@@ -1,0 +1,6 @@
+{ "WeaponHeatBuildup" : {
+    "heat_build_per_shot" : { "type": "float", "default": 1, "description": "How much heat should build up every time the weapon is fired" },
+    "maximum_heat" : { "type": "float", "default": 100, "description": "What is the maximum heat this weapon can show" },
+    "heat_bleed_speed" : { "type": "float", "default": 10, "description": "How fast should heat bleed off" },
+    "heat_bleed_delay" : { "type": "float", "default": 5, "description": "How long after firing should heat start bleeding off" }
+}}

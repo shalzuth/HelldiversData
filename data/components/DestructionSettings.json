@@ -1,0 +1,6 @@
+{ "DestructionSettings" : {
+    "destruction_levels" : { "type": "array", "subtype": "DestructionEventLevel", "description": "[style_colored, write_empty_too]" },
+    "destroy_entity_on_unit_destruction" : { "type": "byte" },
+    "check_explosion_with_raycast" : { "type": "byte" },
+    "wait_for_queue_before_destroyed_callback" : { "type": "byte" }
+}}

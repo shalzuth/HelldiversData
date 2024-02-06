@@ -1,0 +1,6 @@
+{ "WorldLootSampleSpawnGroup" : {
+    "sample_types" : { "type": "array", "subtype": "SampleType", "description": "Describes the sample types included in this group." },
+    "samples_per_mission_min" : { "type": "array", "subtype": "uint" },
+    "samples_per_mission_max" : { "type": "array", "subtype": "uint" },
+    "spawn_mode" : { "type": "SampleSpawnMode", "default": "SampleSpawnMode_Count", "description": "Sets the spawn mode for this group." }
+}}

@@ -1,0 +1,5 @@
+{ "WeaponMagazineAnimEvent" : {
+    "type" : { "type": "WeaponReloadEventType", "default": "WeaponReloadEventType_None", "description": "Type of reload." },
+    "animation_event_weapon" : { "type": "uint", "description": "[string]Animatiom event to trigger." },
+    "animation_event_wielder" : { "type": "uint", "description": "[string]Animatiom event to trigger." }
+}}

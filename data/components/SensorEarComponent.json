@@ -1,0 +1,4 @@
+{ "SensorEarComponent" : {
+    "noise_max" : { "type": "float", "default": 40, "description": "How high the noise value can go." },
+    "hearing_multiplier" : { "type": "float", "default": 1, "description": "Hearing multiplier is applied to noise and alert range" }
+}}

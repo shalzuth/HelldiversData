@@ -1,0 +1,9 @@
+{ "StratagemCustomizationTypeInfo" : {
+    "extra_uses" : { "type": "byte" },
+    "cooldown_reduction" : { "type": "byte" },
+    "cooldown_reduction_alternate" : { "type": "byte" },
+    "spawn_time_reduction" : { "type": "byte" },
+    "entity_delta" : { "type": "byte" },
+    "entity_swap" : { "type": "byte" },
+    "multi_hellpod" : { "type": "byte" }
+}}

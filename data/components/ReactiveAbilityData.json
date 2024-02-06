@@ -1,0 +1,5 @@
+{ "ReactiveAbilityData" : {
+    "start_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Id of ability to run when triggering the reaction." },
+    "stop_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Id of ability to run endind the reaction." },
+    "cooldown" : { "type": "CApiVector2", "description": "Cooldown min/max. The actual cooldown will be a random between these two values." }
+}}

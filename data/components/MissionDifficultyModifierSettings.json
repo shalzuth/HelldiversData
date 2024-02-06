@@ -1,0 +1,5 @@
+{ "MissionDifficultyModifierSettings" : {
+    "mission_progression_step_multipliers" : { "type": "array", "subtype": "float", "description": "Depending on what progression step we are in, what is our multiplier?" },
+    "player_count_multipliers" : { "type": "array", "subtype": "float", "description": "Depending on what player count we have, what is our multiplier?" },
+    "extraction_available_multiplier" : { "type": "float", "default": 1, "description": "If extraction is available, what is our multiplier?" }
+}}

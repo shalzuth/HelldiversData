@@ -1,0 +1,5 @@
+{ "FakeTankVehicleComponent" : {
+    "audio_engine_source" : { "type": "uint", "description": "[string]The position from where engine audio is played" },
+    "audio_engine_started" : { "type": "uint", "description": "[string]The audio event to send when the engine is started" },
+    "audio_engine_stopped" : { "type": "uint", "description": "[string]The audio event to send when the engine is stopped" }
+}}

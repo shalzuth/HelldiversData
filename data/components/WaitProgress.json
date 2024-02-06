@@ -1,0 +1,5 @@
+{ "WaitProgress" : {
+    "wait_time" : { "type": "float", "default": 10, "description": "How many seconds is this wait" },
+    "start_percentage" : { "type": "float", "default": 0, "description": "Start the timer at this percentage" },
+    "complete_at_percent" : { "type": "float", "default": 1, "description": "At what percent is this minigame considered complete?" }
+}}

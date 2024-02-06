@@ -1,0 +1,6 @@
+{ "ObjectiveEncounterTriggerComponent" : {
+    "encounter_on_time_per_difficulty" : { "type": "array", "subtype": "float", "description": "How long encounter stays active" },
+    "encounter_off_time_per_difficulty" : { "type": "array", "subtype": "float", "description": "How long until encounter is triggered" },
+    "continue_on_completion" : { "type": "byte", "description": "[bool]Should we keep triggering encounters after this objective is completed ?" },
+    "continue_after_mission_time" : { "type": "byte", "description": "[bool]Should we keep triggering encounters after the mission timer expires ?" }
+}}

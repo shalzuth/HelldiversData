@@ -1,0 +1,4 @@
+{ "EntranceInfo" : {
+    "animation_open" : { "type": "uint", "description": "[string]The animation event to play when the entrance opens." },
+    "animation_close" : { "type": "uint", "description": "[string]The animation event to play on the vehicle when the hatch should close" }
+}}

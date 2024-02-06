@@ -1,0 +1,11 @@
+{ "VehicleCrashComponent" : {
+    "crashing_actor_infos" : { "type": "array", "subtype": "CrashingActorInfo", "description": "List of information for the crashing actors." },
+    "delete_unit_on_stopped" : { "type": "byte", "description": "[bool]Mark unit for deletion when all actors have stopped" },
+    "on_stopped_anim_event" : { "type": "uint", "description": "[string]On stopped animation event" },
+    "on_corpse_anim_event" : { "type": "uint", "description": "[string]event when entity is switch to a corpse" },
+    "corpse_collision_filter" : { "type": "uint", "description": "[string]On stopped collision filter to set on actors" },
+    "force_corpse_on_stopped" : { "type": "byte", "description": "[bool]Force a corpse once everything has stopped" },
+    "first_collision_event" : { "type": "uint", "description": "[string]The moment any actor collides with anything, it will trigger this event" },
+    "minimum_land_delay" : { "type": "float", "default": 0, "description": "By how long should we delay the time until we are considered landed?" },
+    "minimum_delay" : { "type": "float", "default": 0, "description": "By how long should we delay the time until we start becoming a corpse?" }
+}}

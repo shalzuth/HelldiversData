@@ -1,0 +1,11 @@
+{ "InteractableComponent" : {
+    "require_waiting_for_result" : { "type": "byte", "description": "[bool]Requires that the interactor needs to wait for the interaction before making new interacts." },
+    "disable_interaction_while_interacting" : { "type": "byte", "description": "[bool]Indicates if we automatically disable the interactable zones when we are start the interaction" },
+    "allow_move" : { "type": "byte", "description": "[bool]True if this interactable is allowed to move in the world." },
+    "perform_line_of_sight_check" : { "type": "byte", "description": "[bool]True if this interactable should perform a line of sight check towards the interactor." },
+    "mode" : { "type": "InteractableMode", "default": "InteractableMode_Everyone", "description": "Describes who may interact with this interactable." },
+    "zones" : { "type": "array", "subtype": "InteractZoneInfo", "description": "." },
+    "hud_icon" : { "type": "ulong", "description": "[material]Icon used for the hud" },
+    "interact_audio_event" : { "type": "uint", "description": "[string]Audio event to trigger when the item is interacted with" },
+    "interact_audio_event_vo" : { "type": "uint", "description": "[string]Audio VO event to trigger when the item is interacted with" }
+}}

@@ -1,0 +1,14 @@
+{ "StanceInfo" : {
+    "sway_move_modifier_scoped" : { "type": "CApiVector2", "description": "Lower and upper bound on the sway move speed multiplier when scoped. sway_multiplier = lerp(lower, upper, saturate(movepseed/max_aim_movespeed))." },
+    "sway_move_modifier_thirdperson" : { "type": "CApiVector2", "description": "Lower and upper bound on the sway move speed multiplier when in thirdperson. sway_multiplier = lerp(lower, upper, saturate(movepseed/max_aim_movespeed))." },
+    "sway_move_frequency_scoped" : { "type": "CApiVector2", "description": "How much the sway should increase in this stance by move speed when scoped." },
+    "sway_move_frequency_thirdperson" : { "type": "CApiVector2", "description": "How much the sway should increase in this stance by move speed when in thirdperson." },
+    "recoil_modifier_scoped" : { "type": "CApiVector2", "description": "How much the sway should increase in this stance when scoped." },
+    "recoil_modifier_thirdperson" : { "type": "CApiVector2", "description": "How much the sway should increase in this stance when in thirdperson." },
+    "noise" : { "type": "CApiVector2", "description": "How much the noise should increase in this stance." },
+    "visibility" : { "type": "CApiVector2", "description": "How much the visibility should increase in this stance." },
+    "animation_event_enter" : { "type": "uint", "description": "[string]The animation to play when entering this stance." },
+    "animation_event_exit" : { "type": "uint", "description": "[string]The animation to play when exiting this stance." },
+    "mover_name" : { "type": "uint", "description": "[string]The mover to activate when entering this stance. Used by local entities." },
+    "collider_name" : { "type": "uint", "description": "[string]The collider to activate when entering this stance. Used by remote entities." }
+}}

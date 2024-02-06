@@ -1,0 +1,4 @@
+{ "ShipCustomizationMaterialTargetInfo" : {
+    "material_type" : { "type": "ShipCustomizationMaterialType", "default": "ShipCustomizationMaterialType_Count", "description": "What type of material customization setting this prop uses" },
+    "material_slot_name" : { "type": "uint", "description": "[string]" }
+}}

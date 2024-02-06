@@ -1,0 +1,15 @@
+{ "MissionDifficultySettings" : {
+    "progress_settings" : { "type": "MissionDifficultyProgressSettings", "description": "Mission progression settings" },
+    "influence_settings" : { "type": "MissionDifficultyInfluenceSettings", "description": "Influence settings" },
+    "encounter_points_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How are encounter points modified?" },
+    "encounter_cooldown_rate_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the encounter cooldown affected?" },
+    "patrol_count_max_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the patrol count maximum modified?" },
+    "patrol_spawn_cooldown_rate_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the patrol spawn cooldown modified?" },
+    "spawner_queue_limit_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the spawner queue limit modified?" },
+    "spawner_production_cooldown_rate_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the spawner production cooldown modified?" },
+    "spawner_spawn_count_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the spawner spawn count modified?" },
+    "spawner_spawn_count_minimum_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the spawner spawn count minimum modified?" },
+    "spawner_spawn_cooldown_rate_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the spawner spawn cooldown modified?" },
+    "guard_force_member_count_max_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the guard force member count max modified?" },
+    "global_spawner_cooldown_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "Indicates how the global spawner cooldown will be modified by progression/player_count." }
+}}

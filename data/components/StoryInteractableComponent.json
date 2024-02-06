@@ -1,0 +1,8 @@
+{ "StoryInteractableComponent" : {
+    "icon" : { "type": "ulong", "description": "[material]" },
+    "label" : { "type": "uint", "description": "[string]" },
+    "audio_event" : { "type": "uint", "description": "[string]" },
+    "animation_event" : { "type": "uint", "description": "[string]" },
+    "header" : { "type": "uint", "description": "[string]" },
+    "texts" : { "type": "array", "subtype": "uint", "description": "[string]." }
+}}

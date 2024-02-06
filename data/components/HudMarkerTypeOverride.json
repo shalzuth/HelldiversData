@@ -1,0 +1,7 @@
+{ "HudMarkerTypeOverride" : {
+    "node" : { "type": "uint", "description": "[string]What node to look for on the unit." },
+    "max_hit_pos_distance" : { "type": "float", "default": 1, "description": "Max distance between raycast hit and node position." },
+    "max_hit_ang_difference" : { "type": "float", "default": 90, "description": "Max angle difference (2D) between raycast dir and node forward." },
+    "max_fuzzy_distance" : { "type": "float", "default": 35, "description": "Max fuzzy distance for the override, a combination between distance and FOV." },
+    "marker_type" : { "type": "HudMarkerType", "default": "HudMarkerType_Count", "description": "Maximum amount rewarded per pick-up." }
+}}

@@ -1,0 +1,6 @@
+{ "LightVariable" : {
+    "light_name" : { "type": "uint", "description": "[string]The name of the light to modify." },
+    "type" : { "type": "LightVariableType", "default": "LightVariableType_Color", "description": "The type of the light variable to set." },
+    "value" : { "type": "CApiVector4", "description": "The value to set on the light." },
+    "animations" : { "type": "array", "subtype": "LightVariableAnimation", "description": "The animations that can be used on this variable." }
+}}

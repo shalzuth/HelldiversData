@@ -1,0 +1,3236 @@
+{
+  "6743737520921451733": {
+    "transition_script": "TransitionId_generic_interact_switch",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 0,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "9342761096312224748": {
+    "transition_script": "TransitionId_cache_button",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "10543305064558090578": {
+    "transition_script": "TransitionId_relay_alignment_switch_interact",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 0,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "17875655752828743943": {
+    "transition_script": "TransitionId_cyborg_walker_scout",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 18129582262547983427
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 0,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "3611943538862128545": {
+    "transition_script": "TransitionId_pullup_station",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 0,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "5197663570806576153": {
+    "transition_script": "TransitionId_ship_hellpod",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 0,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 1
+  },
+  "2616888780303759269": {
+    "transition_script": "TransitionId_manned_turret",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "11682065381586027134": {
+    "transition_script": "TransitionId_power_station_lever_interact",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "18403410395546333600": {
+    "transition_script": "TransitionId_oil_pickup_hose_connection_interact",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 0,
+    "ignore_entrance_check": 1,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "16974551944278808389": {
+    "transition_script": "TransitionId_manned_turret",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "13304934171164889807": {
+    "transition_script": "TransitionId_icbm_lock_interact",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 0,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "3177983950714174823": {
+    "transition_script": "TransitionId_cyborg_emplacement_mg",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "1051445694670701817": {
+    "transition_script": "TransitionId_manned_turret",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "17238162226885792459": {
+    "transition_script": "TransitionId_shuttle",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 0,
+    "enable_block_check": 0,
+    "ignore_entrance_check": 1,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 1
+  },
+  "3306034378071258267": {
+    "transition_script": "TransitionId_stab_machine",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 1,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 0,
+    "hide_seater_nameplate": 0
+  },
+  "5593839514190174445": {
+    "transition_script": "TransitionId_expandable_cover_mount",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 0,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 3112834657,
+    "leave_audio_event": 3112834657,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "15062487539698939333": {
+    "transition_script": "TransitionId_troop_transport",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 2573065520,
+        "path": 8806287475843878476
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 3951117447,
+        "path": 8806287475843878476
+      },
+      {
+        "entrance_index": 1,
+        "entrance_node": 3709100462,
+        "path": 8806287475843878476
+      },
+      {
+        "entrance_index": 2,
+        "entrance_node": 1919287469,
+        "path": 8806287475843878476
+      },
+      {
+        "entrance_index": 3,
+        "entrance_node": 1792442613,
+        "path": 11457796999526261852
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 1,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "7911125090997601213": {
+    "transition_script": "TransitionId_oil_pump_valve_interact",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 0,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "9839990240943553653": {
+    "transition_script": "TransitionId_cargo_car",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 1,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "16204610837508709347": {
+    "transition_script": "TransitionId_manned_turret",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "7880797595543514155": {
+    "transition_script": "TransitionId_ship_hellpod",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 0,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 1
+  },
+  "14709257759554793401": {
+    "transition_script": "TransitionId_frv",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 1,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "8783342891467425251": {
+    "transition_script": "TransitionId_combat_walker",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 1,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 1,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "901379433810974099": {
+    "transition_script": "TransitionId_expandable_cover_mount",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 0,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 3112834657,
+    "leave_audio_event": 3112834657,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "12209482505501190673": {
+    "transition_script": "TransitionId_manned_turret",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "10102631721084298887": {
+    "transition_script": "TransitionId_lav",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 1,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "3003496806383724538": {
+    "transition_script": "TransitionId_expandable_cover_mount",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 0,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 3112834657,
+    "leave_audio_event": 3112834657,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "14038927220542196401": {
+    "transition_script": "TransitionId_combat_walker",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 1,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 1,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "12218137513893139416": {
+    "transition_script": "TransitionId_cyborg_emplacement_hmg",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "14867224128066453588": {
+    "transition_script": "TransitionId_arm_wrestling_station",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 0,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "8885304100860015374": {
+    "transition_script": "TransitionId_rover",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 1,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "6290687013549728522": {
+    "transition_script": "TransitionId_cache_button",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 1,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  },
+  "1837707428311856638": {
+    "transition_script": "TransitionId_manned_turret",
+    "passengers": [
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      },
+      {
+        "entrance_index": 0,
+        "entrance_node": 0,
+        "path": 0
+      }
+    ],
+    "transition_with_root_motion": 0,
+    "should_passenger_inherit_node_velocity_on_exit": 0,
+    "kill_passengers_on_death": 0,
+    "kill_attachments_on_death": 1,
+    "start_open": 1,
+    "enable_block_check": 1,
+    "ignore_entrance_check": 0,
+    "play_music_events": 0,
+    "stratagem_use_allowed": 0,
+    "occupy_audio_event": 0,
+    "leave_audio_event": 0,
+    "can_manually_leave": 1,
+    "hide_seater_nameplate": 0
+  }
+}

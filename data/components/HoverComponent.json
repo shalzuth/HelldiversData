@@ -1,0 +1,8 @@
+{ "HoverComponent" : {
+    "preferred_height_above_ground_min" : { "type": "float", "default": 4, "description": "Minimum height of the preferred height. When below this, the flyer will strive upwards." },
+    "preferred_height_above_ground_max" : { "type": "float", "default": 6, "description": "Maximum height of the preferred height. When above this, the flyer will strive downwards." },
+    "radius" : { "type": "float", "default": 1, "description": "Radius of the flyer." },
+    "view_radius" : { "type": "float", "default": 15, "description": "The radius of the neighborhood. The volume where the flyer will sense other flyers." },
+    "optimal_distance" : { "type": "float", "default": 15, "description": "The distance away from other flyers it will strive towards." },
+    "seperation_multiplier" : { "type": "float", "default": 1, "description": "Multiplier of the seperation force (away from other flyers)." }
+}}

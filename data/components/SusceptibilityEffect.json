@@ -1,0 +1,4 @@
+{ "SusceptibilityEffect" : {
+    "particle_effect_path" : { "type": "ulong", "description": "[particles]Particle effect to play. This overrides the default, if empty, we use the default for this type." },
+    "node_id" : { "type": "uint", "description": "[string]The node to play the particle effect at." }
+}}

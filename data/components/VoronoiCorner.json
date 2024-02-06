@@ -1,0 +1,4 @@
+{ "VoronoiCorner" : {
+    "position" : { "type": "CApiVector2" },
+    "edges" : { "type": "array", "subtype": "VoronoiEdge" }
+}}

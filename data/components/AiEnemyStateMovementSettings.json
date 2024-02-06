@@ -1,0 +1,4 @@
+{ "AiEnemyStateMovementSettings" : {
+    "speed" : { "type": "float", "default": 0 },
+    "locomotion_set" : { "type": "uint", "description": "[string]" }
+}}

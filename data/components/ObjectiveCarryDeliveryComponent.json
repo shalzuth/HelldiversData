@@ -1,0 +1,7 @@
+{ "ObjectiveCarryDeliveryComponent" : {
+    "carry_unit_type" : { "type": "ulong", "description": "[unit]If specified, checks if the unit is supposed to be linked to us" },
+    "carry_entity_type" : { "type": "ObjectiveCarryEntityType", "default": "ObjectiveCarryEntityType_None", "description": "If specified, checks if the entity type is supposed to be linked to us" },
+    "required_delivery_amount" : { "type": "uint", "default": 1, "description": "Required delivery amount" },
+    "link_type" : { "type": "ObjectiveCarryDeliveryLinkType", "default": "ObjectiveCarryDeliveryLinkType_All", "description": "The mode used for figuring out how carryables are linked to us" },
+    "sequential_interactions" : { "type": "byte", "description": "[bool]If enabled, when dropping off a carryable, we will enable the next interactable zone" }
+}}

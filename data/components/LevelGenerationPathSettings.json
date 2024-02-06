@@ -1,0 +1,9 @@
+{ "LevelGenerationPathSettings" : {
+    "mesh_materials" : { "type": "array", "subtype": "ulong" },
+    "mesh_material_opacities" : { "type": "array", "subtype": "float" },
+    "spline_type" : { "type": "StampSplineType" },
+    "collision_width" : { "type": "float", "default": 0 },
+    "mesh_width" : { "type": "float", "default": 0 },
+    "mesh_tiling_length" : { "type": "float", "default": 0 },
+    "creates_path_collision" : { "type": "byte" }
+}}

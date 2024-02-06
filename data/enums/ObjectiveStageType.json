@@ -1,0 +1,22 @@
+{ "ObjectiveStageType": [
+    "ObjectiveStageType_None",
+    "ObjectiveStageType_Interact",
+    "ObjectiveStageType_Destroy",
+    "ObjectiveStageType_MinigameStage",
+    "ObjectiveStageType_MinigameComplete",
+    "ObjectiveStageType_WaitForBehavior",
+    "ObjectiveStageType_KillEnemies",
+    "ObjectiveStageType_CarryComplete",
+    "ObjectiveStageType_Convoy",
+    "ObjectiveStageType_DisableTurrets",
+    "ObjectiveStageType_Prospecting",
+    "ObjectiveStageType_UploadData",
+    "ObjectiveStageType_SecureArea",
+    "ObjectiveStageType_TutorialDestroySpawners",
+    "ObjectiveStageType_Assassinate",
+    "ObjectiveStageType_CollectSamples",
+    "ObjectiveStageType_GlobalDestroySpawners",
+    "ObjectiveStageType_LocalDestroySpawners",
+    "ObjectiveStageType_EscortCivilians",
+    "ObjectiveStageType_GenericCounter"
+]}

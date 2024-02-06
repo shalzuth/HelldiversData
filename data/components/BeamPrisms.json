@@ -1,0 +1,6 @@
+{ "BeamPrisms" : {
+    "light_beam_type" : { "type": "BeamType", "default": "BeamType_None", "description": "Type of beam it fires." },
+    "light_heat_generation_mul" : { "type": "float", "default": 1, "description": "How much to multiply the heat generation" },
+    "heavy_beam_type" : { "type": "BeamType", "default": "BeamType_None", "description": "Type of beam it fires." },
+    "heavy_heat_generation_mul" : { "type": "float", "default": 1, "description": "How much to multiply the heat generation" }
+}}

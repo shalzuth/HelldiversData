@@ -1,0 +1,5 @@
+{ "EnemyPackageComponent" : {
+    "bundle_tag" : { "type": "uint", "description": "[string]The loadout package will be generated with this bundle tag. Has no runtime effect." },
+    "package" : { "type": "ulong", "description": "[package]The loadout package to laod for this entity." },
+    "audio_resource" : { "type": "ulong", "description": "[wwise_dep]The wwise bank to include in the package for this entity." }
+}}

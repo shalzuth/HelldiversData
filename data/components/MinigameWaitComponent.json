@@ -1,0 +1,4 @@
+{ "MinigameWaitComponent" : {
+    "unit_path" : { "type": "ulong", "description": "[unit]The path to the unit that we will link up with." },
+    "wait_type" : { "type": "MinigameWaitType", "default": "MinigameWaitType_TimeProgression", "description": "Which logic to use for this wait minigame" }
+}}

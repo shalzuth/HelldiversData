@@ -1,0 +1,6 @@
+{ "WieldableComponent" : {
+    "allow_ads" : { "type": "byte", "description": "[bool]If set the wielding player can enter aim-down-sights mode for this weapon." },
+    "wielder_enter_animation_event" : { "type": "uint", "description": "[string]Animation event to send when a wielder is set." },
+    "wielder_exit_animation_event" : { "type": "uint", "description": "[string]Animation event to send when the wielder is removed." },
+    "wield_state_audio_event" : { "type": "uint", "description": "[wwise]Wwise event to set the currently-equipped weapon state" }
+}}

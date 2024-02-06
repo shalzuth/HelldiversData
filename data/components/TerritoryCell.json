@@ -1,0 +1,9 @@
+{ "TerritoryCell" : {
+    "average_position" : { "type": "CApiVector3" },
+    "cell_index" : { "type": "uint" },
+    "cell_type" : { "type": "uint" },
+    "edge_indices" : { "type": "array", "subtype": "uint" },
+    "edge_count" : { "type": "uint" },
+    "region_type_index" : { "type": "uint" },
+    "site_position" : { "type": "CApiVector3" }
+}}

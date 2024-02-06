@@ -1,0 +1,19 @@
+{ "TurretComponent" : {
+    "vertical" : { "type": "uint", "default": 4238039248, "description": "[string]Animation variable to control the vertical angle." },
+    "horizontal" : { "type": "uint", "default": 161490677, "description": "[string]Animation variable to control the horizontal angle." },
+    "turn_speed_vertical" : { "type": "float", "default": 45, "description": "Vertical turn speed in degrees per second." },
+    "turn_speed_horizontal" : { "type": "float", "default": 45, "description": "Horizontal turn speed in degrees per second." },
+    "ratio_exponent" : { "type": "float", "default": 0, "description": "How much the turret can move vertically dependent on the distance from horizontal. Formula: Vertical_Speed = pow(delta, -ratio_exponent). 0 is full speed always, 1 is only full speed when horizontal dist is low" },
+    "vertical_limit_min" : { "type": "float", "default": -27, "description": "Vertical limit minimum, in degrees (-90 straight down, 90 straight up)." },
+    "vertical_limit_max" : { "type": "float", "default": 90, "description": "Vertical limit maximum, in degrees (-90 straight down, 90 straight up)." },
+    "horizontal_limit_min" : { "type": "float", "default": -180, "description": "Horizontal limit minimum, in degrees (-180 backwards counter clockwise, 180 backwards clockwise)." },
+    "horizontal_limit_max" : { "type": "float", "default": 180, "description": "Horizontal limit maximum, in degrees (-180 backwards counter clockwise, 180 backwards clockwise)." },
+    "trigger_rotation_sound_timer" : { "type": "float", "default": 0.1, "description": "Since rotation may jitter, we have a delay threshold for triggering the sound effect." },
+    "trigger_pitch_sound_timer" : { "type": "float", "default": 0.1, "description": "Since rotation may jitter, we have a delay threshold for triggering the sound effect." },
+    "rotation_start_event" : { "type": "uint", "description": "[string]Audio event to trigger when the turret starts rotating." },
+    "rotation_stop_event" : { "type": "uint", "description": "[string]Audio event to trigger when the turret stops rotating." },
+    "pitch_start_event" : { "type": "uint", "description": "[string]Audio event to trigger when the turret starts pitching." },
+    "pitch_stop_event" : { "type": "uint", "description": "[string]Audio event to trigger when the turret stops pitching." },
+    "warning_event" : { "type": "uint", "default": 1305891758, "description": "[string]Audio event that is being played on warning" },
+    "pivot_node" : { "type": "uint", "default": 551832871, "description": "[string]The node used for calculating the aim direction start point." }
+}}

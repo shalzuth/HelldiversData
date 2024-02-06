@@ -1,0 +1,10 @@
+{ "LevelGenerationPaletteGroup" : {
+    "palette" : { "type": "ulong" },
+    "asset_grading" : { "type": "ulong" },
+    "sky_settings_group" : { "type": "ulong" },
+    "day_grading" : { "type": "ulong" },
+    "night_grading" : { "type": "ulong" },
+    "sunset_grading" : { "type": "ulong" },
+    "weather_color_set" : { "type": "uint" },
+    "weather_color_set_internal" : { "type": "WeatherColorSet" }
+}}

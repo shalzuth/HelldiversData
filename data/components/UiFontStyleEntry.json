@@ -1,0 +1,5 @@
+{ "UiFontStyleEntry" : {
+    "type" : { "type": "FontType" },
+    "font_size" : { "type": "float" },
+    "shadow_range" : { "type": "float", "default": 0 }
+}}

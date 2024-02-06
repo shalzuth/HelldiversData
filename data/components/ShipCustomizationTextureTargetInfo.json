@@ -1,0 +1,5 @@
+{ "ShipCustomizationTextureTargetInfo" : {
+    "texture_type" : { "type": "ShipCustomizationTextureType", "default": "ShipCustomizationTextureType_Count", "description": "What type of texture customization setting this prop uses" },
+    "material_variable_name" : { "type": "uint", "description": "[string]" },
+    "material_slot_name" : { "type": "uint", "description": "[string]" }
+}}

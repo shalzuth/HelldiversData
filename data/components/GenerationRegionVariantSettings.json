@@ -1,0 +1,11 @@
+{ "GenerationRegionVariantSettings" : {
+    "name" : { "type": "string" },
+    "id" : { "type": "uint" },
+    "type" : { "type": "LevelGenerationRegionVariantType" },
+    "weight" : { "type": "float", "default": 1 },
+    "vista_path" : { "type": "ulong" },
+    "replace_water_with_material" : { "type": "byte" },
+    "replace_water_with_material_height_offset" : { "type": "float", "default": 0 },
+    "replace_water_with_material_water_submerge_offset" : { "type": "float", "default": -0.25 },
+    "settings" : { "type": "GenerationRegionSettings" }
+}}

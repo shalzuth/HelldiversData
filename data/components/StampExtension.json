@@ -1,0 +1,9 @@
+{ "StampExtension" : {
+    "collision_circles" : { "type": "array", "subtype": "StampCircle" },
+    "collision_rectangles" : { "type": "array", "subtype": "StampRectangle" },
+    "layer_name" : { "type": "uint" },
+    "type" : { "type": "StampExtensionType" },
+    "weight_no_spawn" : { "type": "float", "default": 0 },
+    "weight_spawn_layer" : { "type": "float", "default": 1 },
+    "weight_spawn_nature" : { "type": "float", "default": 0 }
+}}

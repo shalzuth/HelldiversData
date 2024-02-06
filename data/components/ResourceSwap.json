@@ -1,0 +1,6 @@
+{ "ResourceSwap" : {
+    "resources_to_replace" : { "type": "array", "subtype": "ulong" },
+    "resources_to_replace_with" : { "type": "array", "subtype": "ulong" },
+    "resource_tag_id" : { "type": "uint" },
+    "resource_type" : { "type": "ulong" }
+}}

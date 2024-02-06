@@ -1,0 +1,3 @@
+{ "WeaponAttachmentComponent" : {
+    "on_added_flow_event" : { "type": "uint", "description": "[string]Flow event sent to the weapon this is attached to when it is added." }
+}}

@@ -1,0 +1,5 @@
+{ "StatusEffectZoneInfo" : {
+    "damageable_zone_name" : { "type": "uint", "description": "[string]Name of the damageable zone these settings apply to. Default damageable zone should be 'default', empty means unused.!" },
+    "effect_node_name" : { "type": "uint", "description": "[string]Name of the node we play status effect VFX and audio on when this zone is hit." },
+    "susceptibilities" : { "type": "array", "subtype": "StatusEffectSusceptibility", "description": "List of status effect types this damageable zone may receive, and their thresholds." }
+}}

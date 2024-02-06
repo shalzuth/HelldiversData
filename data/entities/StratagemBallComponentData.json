@@ -1,0 +1,77 @@
+{
+  "1653832383613497969": {
+    "armed_audio_event": 4086158401,
+    "deployed_audio_event": 2512009224,
+    "deploy_animation_clip": 3959847869968919424,
+    "stratagem_red_audio_start": 747886,
+    "stratagem_red_audio_stop": 3281816116,
+    "stratagem_blue_audio_start": 1032351623,
+    "stratagem_blue_audio_stop": 3766827821,
+    "stratagem_illumination_flare_start": 1491857764,
+    "stratagem_illumination_flare_stop": 1787670954,
+    "stratagem_dialing_audio_start": 3349379488,
+    "stratagem_dialing_audio_stop": 1736903116,
+    "stratagem_orbital_laser_incoming": 519636594,
+    "stratagem_red_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    },
+    "stratagem_blue_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    },
+    "stratagem_yellow_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    },
+    "idle_jump_strength": 8,
+    "bias_jump_strength": 5,
+    "strat_audio_cooldown_time": 20,
+    "strat_audio_cooldown_distance": 20
+  }
+}

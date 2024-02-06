@@ -1,0 +1,7 @@
+{ "DestructionEffectDecay" : {
+    "decay_mode" : { "type": "DeathDecayMode" },
+    "decay_acceleration" : { "type": "float", "default": 0.5 },
+    "decay_delay_min" : { "type": "float", "default": 0 },
+    "decay_delay_max" : { "type": "float", "default": 20 },
+    "decay_distance_factor" : { "type": "float", "default": 0.1 }
+}}

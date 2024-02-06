@@ -1,0 +1,12 @@
+{ "InventoryComponent" : {
+    "default_primary" : { "type": "ulong", "description": "[adhd]Path to the primary equipment entity." },
+    "default_sidearm" : { "type": "ulong", "description": "[adhd]Path to the sidearm equipment entity." },
+    "default_support" : { "type": "ulong", "description": "[adhd]Path to the support equipment entity." },
+    "default_throwable" : { "type": "ulong", "description": "[adhd]Path to the throwable equipment entity." },
+    "default_backpack" : { "type": "ulong", "description": "[adhd]Path to the backpack entity." },
+    "default_melee_weapon" : { "type": "ulong", "description": "[adhd]Path to the melee entity." },
+    "start_amount_stims" : { "type": "uint", "default": 2, "description": "max amount of stims." },
+    "refill_amount_stims" : { "type": "uint", "default": 2, "description": "max amount of stims." },
+    "max_amount_stims" : { "type": "uint", "default": 4, "description": "max amount of stims." },
+    "can_drop_equipment" : { "type": "byte", "description": "[bool]Indicates if this unit can drop the equipment or not" }
+}}

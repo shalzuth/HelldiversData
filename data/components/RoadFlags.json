@@ -1,0 +1,5 @@
+{ "RoadFlags" : {
+    "stamp_source" : { "type": "byte" },
+    "has_generated_stamps" : { "type": "byte" },
+    "is_smooth" : { "type": "byte" }
+}}

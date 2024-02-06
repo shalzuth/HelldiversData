@@ -1,0 +1,7 @@
+{ "SurfaceImpactSetting" : {
+    "particle_effect" : { "type": "ulong" },
+    "camera_targeted_effect" : { "type": "ulong" },
+    "audio_event" : { "type": "uint" },
+    "audio_stop_event" : { "type": "uint" },
+    "particle_effect_is_looping" : { "type": "byte" }
+}}

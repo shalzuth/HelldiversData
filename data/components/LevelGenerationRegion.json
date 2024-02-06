@@ -1,0 +1,9 @@
+{ "LevelGenerationRegion" : {
+    "name" : { "type": "string" },
+    "id" : { "type": "uint" },
+    "type" : { "type": "LevelGenerationRegionType" },
+    "settings" : { "type": "GenerationRegionVariantList" },
+    "weight" : { "type": "float", "default": 1 },
+    "spread_factor" : { "type": "float", "default": 1 },
+    "origin_corner" : { "type": "uint" }
+}}

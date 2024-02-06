@@ -1,0 +1,6 @@
+{ "HitReactAbility" : {
+    "ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play if this hit react ability is selected." },
+    "probability" : { "type": "float", "default": 0, "description": "The probability that this ability will trigger." },
+    "delay_min" : { "type": "float", "default": 0, "description": "The min delay until this ability is triggered." },
+    "delay_max" : { "type": "float", "default": 0, "description": "The max delay until this ability is triggered." }
+}}

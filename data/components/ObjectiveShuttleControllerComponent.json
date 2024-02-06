@@ -1,0 +1,7 @@
+{ "ObjectiveShuttleControllerComponent" : {
+    "hover_offset" : { "type": "CApiVector3" },
+    "shuttle_entity_path" : { "type": "ulong", "description": "[string]" },
+    "shuttle_wait_time" : { "type": "float", "default": 100 },
+    "notify_shuttle_on_attach" : { "type": "uint", "default": 1422131678, "description": "[string]" },
+    "notify_shuttle_on_detach" : { "type": "uint", "default": 3695587303, "description": "[string]" }
+}}

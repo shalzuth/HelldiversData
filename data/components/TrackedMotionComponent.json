@@ -1,0 +1,5 @@
+{ "TrackedMotionComponent" : {
+    "path_type" : { "type": "PathType", "default": "PathType_Linear", "description": "Type of the path specified" },
+    "node" : { "type": "uint", "description": "[string]Joint we are moving. Must be parented under the root." },
+    "path" : { "type": "array", "subtype": "PathPoint", "description": "Path points. Unused points have time 0" }
+}}

@@ -1,0 +1,6 @@
+{ "DestructionEffectSpawnGibs" : {
+    "gibs" : { "type": "array", "subtype": "DestructionGibInfo" },
+    "num_gibs_to_spawn" : { "type": "uint" },
+    "emitter_shape" : { "type": "DestructionEmitterShape" },
+    "decay_mode" : { "type": "DeathDecayMode" }
+}}

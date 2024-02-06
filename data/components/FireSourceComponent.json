@@ -1,0 +1,8 @@
+{ "FireSourceComponent" : {
+    "inner_radius" : { "type": "float", "default": 2, "description": "Inner radius" },
+    "outer_radius" : { "type": "float", "default": 10, "description": "Outer radius" },
+    "spawn_rate" : { "type": "float", "default": 5, "description": "How often the fire is propagated" },
+    "disable_on_destroyed" : { "type": "byte", "description": "[bool]If true, fire spawning is disabled once the unit is destroyed" },
+    "enable_on_destroyed" : { "type": "byte", "description": "[bool]If true, fire spawning is only enabled once the unit is destroyed" },
+    "type" : { "type": "FireTemplate", "default": "FireTemplate_Large", "description": "Which fire template to apply" }
+}}

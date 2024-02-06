@@ -1,0 +1,17 @@
+{ "DrownableComponent" : {
+    "drown_enter_node" : { "type": "uint", "default": 1243096897, "description": "[string]The entity counts as drowning when this node is under water. Mouth for breathing things, fuel intake for vehicles etc." },
+    "drown_enter_offset" : { "type": "float", "default": 0, "description": "Offset from the drown_enter_node used to determine if drowning." },
+    "drown_float_surface_offset" : { "type": "float", "default": 0, "description": "Offset from the surface to position the avatar when floating." },
+    "drown_time" : { "type": "float", "default": 5, "description": "Time from the drown enter node is submerged until the entity drowns." },
+    "drown_recovery_multiplier" : { "type": "float", "default": 4, "description": "When recovering from drowning, this is the multiplier applied to the time. Higher means faster reset of the drowning timer." },
+    "drown_callout_delay" : { "type": "float", "default": 1, "description": "When drowning and this is the local avatar or the local avatar is a passenger of this entity, this is the delay before showing the 'You are drowning' callout." },
+    "slow_while_submerged" : { "type": "byte", "description": "[bool]If enabled, use slow_base_node and drown_node to compute slow amount for the entity, and apply it as a movement modifier. If disabled, don't slow the enetity while sumberged." },
+    "slow_while_drowning" : { "type": "byte", "description": "[bool]If enabled, apply the movement modifier while the entity is drowning." },
+    "should_die" : { "type": "byte", "description": "[bool]If enabled, the entity will die after drowning." },
+    "slow_strength" : { "type": "float", "default": 2, "description": "Maximum slow strength we scale up to. This is reached when the drown node is under water." },
+    "buoyancy_loss" : { "type": "float", "default": 0.5, "description": "The buoyancy lost after having sunk." },
+    "slow_depth_start" : { "type": "float", "default": 0, "description": "The depth where the slow effect starts." },
+    "slow_depth_max" : { "type": "float", "default": 0.5, "description": "The depth where the slow effect is maximized." },
+    "slow_base_nodes" : { "type": "array", "subtype": "uint", "description": "[string]A slow is applied to the entity once the average of these nodes is under water. The slow is scaled linearly from with water level from the average of these nodes to the drown test node height." },
+    "should_float" : { "type": "byte", "description": "[bool]If enabled, the entity will float at the surface of the water." }
+}}

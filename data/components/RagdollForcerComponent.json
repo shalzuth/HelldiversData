@@ -1,0 +1,3 @@
+{ "RagdollForcerComponent" : {
+    "radius" : { "type": "float", "default": 0, "description": "The speed at which the alert value increases as long as it is active." }
+}}

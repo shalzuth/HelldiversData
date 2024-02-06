@@ -1,0 +1,4 @@
+{ "PolicyUnlockedWeaponList" : {
+    "name" : { "type": "uint" },
+    "weapons" : { "type": "array", "subtype": "uint" }
+}}

@@ -1,0 +1,6 @@
+{ "AiEnemyCombatStrafeLocomotionSettings" : {
+    "enabled_distance" : { "type": "float", "default": 0 },
+    "movement" : { "type": "AiEnemyStateMovementSettings" },
+    "on_enter_script_event" : { "type": "uint", "description": "[string]The script event to send on enter." },
+    "on_exit_script_event" : { "type": "uint", "description": "[string]The script event to send on exit." }
+}}

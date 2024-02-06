@@ -1,0 +1,6 @@
+{ "AnimationComponent" : {
+    "merge_options" : { "type": "AnimationMergeOptions", "description": "Animation merge options (or animation sharing options)." },
+    "variables" : { "type": "array", "subtype": "AnimationVariable", "description": "Information about any variables to be set when spawning the animated entity." },
+    "hotjoin_sync_animation_time" : { "type": "byte", "description": "[bool]If set, the time into the current animation is also synced. Useful for long animations, such as the dropship sequence." },
+    "ignore_invisible_units_for_lods" : { "type": "byte", "description": "[bool]If set, invisible units are ignored for the OOBB used to select LOD steps." }
+}}

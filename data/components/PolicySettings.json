@@ -1,0 +1,4 @@
+{ "PolicySettings" : {
+    "policy_settings_array" : { "type": "array", "subtype": "PolicySetting" },
+    "unlockable_weapon_lists" : { "type": "array", "subtype": "PolicyUnlockedWeaponList" }
+}}

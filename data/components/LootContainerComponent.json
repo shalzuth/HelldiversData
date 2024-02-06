@@ -1,0 +1,3 @@
+{ "LootContainerComponent" : {
+    "max_sample_carry" : { "type": "uint", "default": 10, "description": "Max number of samples that can be carried at once" }
+}}

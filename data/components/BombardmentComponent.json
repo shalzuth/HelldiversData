@@ -1,0 +1,21 @@
+{ "BombardmentComponent" : {
+    "initial_delay" : { "type": "float", "default": 0, "description": "Delay before the first bomb is fired." },
+    "num_bombs" : { "type": "uint", "default": 1, "description": "Number of bombs." },
+    "bomb_interval" : { "type": "float", "default": 1, "description": "Bomb interval." },
+    "wander_offset_radius_min" : { "type": "float", "default": 10, "description": "The minimum distance from last bomb in salvoe." },
+    "wander_offset_radius_max" : { "type": "float", "default": 30, "description": "The maximum distance from last bomb in salvoe." },
+    "num_salvos" : { "type": "uint", "default": 3, "description": "Number of times the stratagem will fire." },
+    "salvo_interval" : { "type": "float", "default": 10, "description": "Time between salvos." },
+    "area_size" : { "type": "float", "default": 0, "description": "A random offset applied to a bomb position, not affecting the salvo's wandering." },
+    "wander_start_area_radius" : { "type": "float", "default": 0, "description": "The maximum extents of the bombardment's initial wander offset." },
+    "fire_height" : { "type": "float", "default": 3000, "description": "A fixed height from where the bombs will be fired." },
+    "fire_from_ship" : { "type": "byte", "description": "[bool]Whether to fire from the ship's position, or from straight above." },
+    "projectile_types" : { "type": "array", "subtype": "ProjectileType", "description": "Type of projectile it fires. If more than one is specified, it will act like a pattern until the salvoe ends." },
+    "speed" : { "type": "float", "default": 0, "description": "The forward speed of the bombardment, if it has any. Used on stratagems like the Walking Barrage." },
+    "muzzle_flash" : { "type": "ulong", "description": "[particles]Particle effect of the muzzle flash, played on attach_muzzle." },
+    "start_delay" : { "type": "float", "default": 0, "description": "Delay before the bombardment starts" },
+    "walk_angle" : { "type": "float", "default": 0, "description": "Angle relative to forward direction that the bombardment will walk. Clockwise, in degrees." },
+    "walk_offset_fraction" : { "type": "float", "default": 0, "description": "Fraction of the walk that should happen before behind the target. Set to 0.5 to center on the spawn position." },
+    "destroyer_stratagem_fire" : { "type": "uint", "default": 3511619768, "description": "[wwise]We are triggering a loop for this so we do not get event spamming" },
+    "destroyer_stratagem_fire_stop" : { "type": "uint", "default": 948676210, "description": "[wwise]" }
+}}

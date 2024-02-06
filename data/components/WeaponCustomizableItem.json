@@ -1,0 +1,11 @@
+{ "WeaponCustomizableItem" : {
+    "debug_name" : { "type": "string" },
+    "id" : { "type": "uint" },
+    "name_upper" : { "type": "uint" },
+    "name_cased" : { "type": "uint" },
+    "description" : { "type": "uint" },
+    "fluff" : { "type": "uint" },
+    "add_path" : { "type": "ulong" },
+    "icon" : { "type": "ulong" },
+    "slots" : { "type": "array", "subtype": "WeaponCustomizationSlot" }
+}}

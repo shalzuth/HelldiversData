@@ -1,0 +1,4 @@
+{ "HitEffectLevelOverride" : {
+    "level" : { "type": "HitEffectLevel", "default": "HitEffectLevel_None", "description": "The level to override. Must not be none (the default)." },
+    "threshold" : { "type": "float", "default": 0, "description": "The upper threshold under which this level is valid." }
+}}

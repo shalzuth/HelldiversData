@@ -1,0 +1,9 @@
+{ "ParticleEffectSetting" : {
+    "effect" : { "type": "EffectSetting", "description": "Particle effect." },
+    "id" : { "type": "uint", "description": "[string]The id of this effect. Referenced when playing/stopping this particle effect." },
+    "trigger_on_spawn" : { "type": "byte", "description": "[bool]Should this effect be triggered on spawn?" },
+    "on_destroy" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None", "description": "The strategy on how to handle the particle effect when this entity is destroyed." },
+    "on_replace" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None", "description": "The strategy on how to handle the particle effect when this entity is trying to play an effect that already exists." },
+    "on_death" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None", "description": "The strategy on how to handle the particle effect when this entity dies." },
+    "on_stop" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_Stop", "description": "The strategy on how to handle the particle effect when we stop the particle effect via effect reference." }
+}}

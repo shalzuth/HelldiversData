@@ -1,0 +1,5 @@
+{ "DangerWarningComponent" : {
+    "warning_type" : { "type": "DangerWarningType", "default": "DangerWarningType_None", "description": "Warning enum" },
+    "trigger_radius" : { "type": "float", "default": 20, "description": "If the player is within this radius that will show the warning. If less than 0 then always active" },
+    "start_active" : { "type": "byte", "description": "[bool]If true then this warning is active as soon as this entity exists" }
+}}

@@ -1,0 +1,4 @@
+{ "LocalUnitComponent" : {
+    "unit_path" : { "type": "ulong", "description": "[unit]Path to the unit for this entity." },
+    "scale" : { "type": "float", "default": 1, "description": "Scale value." }
+}}

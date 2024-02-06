@@ -1,0 +1,7 @@
+{ "QuakeEffectSettings" : {
+    "interval" : { "type": "byte" },
+    "shake_effect_id" : { "type": "ulong" },
+    "audio_effect_id" : { "type": "uint" },
+    "shake_effect_inner_radius" : { "type": "byte" },
+    "shake_effect_outer_radius" : { "type": "byte" }
+}}

@@ -1,0 +1,9 @@
+{ "MultiTargetInfo" : {
+    "name" : { "type": "uint", "description": "[string]Target name. Leave empty for hotbox." },
+    "weapon_index" : { "type": "uint", "description": "The index of the (mounted) weapon this concerns. If this entity is itself the weapon (does not have mounted weapons), leave at 0." },
+    "limits" : { "type": "MultiTargetLimits", "description": "Limits of the targeting." },
+    "aim_speed" : { "type": "float", "default": -1, "description": "Speed at which the weapon keeps up with the target. Set to less than zero to disable speed and just snap there." },
+    "parent_node" : { "type": "uint", "description": "[string]Node we are computing our aim direction relative to. Usually the root for mounted weapons, some pivot for turrets/emplacements." },
+    "pivot_node" : { "type": "uint", "description": "[string]Node we are computing our target direction relative to. Usually the node we rotate the muzzle around. If not set, it defaults to the muzzle node for the next shot." },
+    "unit_type" : { "type": "MultiTargetUnitType", "default": "MultiTargetUnitType_Weapon", "description": "Which unit we should get the parent/pivot nodes from." }
+}}

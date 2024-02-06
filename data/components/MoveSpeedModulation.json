@@ -1,0 +1,6 @@
+{ "MoveSpeedModulation" : {
+    "turn_rate_max" : { "type": "float", "default": 0, "description": "Max turn rate (in degrees) to use when modulating speed. The actual turn rate will get clamped to this." },
+    "move_speed_multiplier_min" : { "type": "float", "default": 1, "description": "Move speed multiplier to apply if turn_rate / turn_rate_max is 0." },
+    "move_speed_multiplier_max" : { "type": "float", "default": 1, "description": "Move speed multiplier to apply if turn_rate / turn_rate_max is 1." },
+    "move_speed_max" : { "type": "float", "default": 100, "description": "Max move speed we can ever modulate to." }
+}}

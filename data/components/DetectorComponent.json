@@ -1,0 +1,9 @@
+{ "DetectorComponent" : {
+    "detect_time_min" : { "type": "float", "default": 0.4, "description": "How often to attempt to detect targets." },
+    "detect_time_max" : { "type": "float", "default": 0.5, "description": "How often to attempt to detect targets." },
+    "ignore_sight_range_no_los_time" : { "type": "float", "default": 4, "description": "Keep ignore sight range this amount of time after losing LOS" },
+    "noise_removal_time" : { "type": "float", "default": 1, "description": "After this amount of time we clear the noise intensity" },
+    "vision_intensity_rate" : { "type": "float", "default": 4, "description": "How much to increase vision if we have line of sight" },
+    "vision_intensity_decay" : { "type": "float", "default": 1, "description": "How much to decay vision if no longer have line of sight" },
+    "avatar_always_enemy" : { "type": "byte", "description": "[bool]Even if they are on the same team, avatars will always be treated as hostiles." }
+}}

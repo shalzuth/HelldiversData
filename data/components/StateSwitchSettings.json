@@ -1,0 +1,8 @@
+{ "StateSwitchSettings" : {
+    "position" : { "type": "float", "default": -1 },
+    "revert_to" : { "type": "StateSwitchAction" },
+    "start_transition_to" : { "type": "StateSwitchAction" },
+    "disable_when_active" : { "type": "byte" },
+    "terminal_state_loc_string" : { "type": "uint", "description": "[string]" },
+    "interact_action_loc_string" : { "type": "uint", "description": "[string]" }
+}}

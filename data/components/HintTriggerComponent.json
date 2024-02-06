@@ -1,0 +1,12 @@
+{ "HintTriggerComponent" : {
+    "nearby_hint_id" : { "type": "uint", "description": "[string]The hint ID to trigger when nearby" },
+    "trigger_radius" : { "type": "float", "default": 20, "description": "If the player is within this radius then try to trigger hint" },
+    "node" : { "type": "uint", "description": "[string]Node used for positioning the hint marker" },
+    "node_offset" : { "type": "CApiVector3", "description": "Offset for the hint marker position" },
+    "on_spawn_hint_id" : { "type": "uint", "description": "[string]The hint ID to trigger when spawned" },
+    "highlight_entity" : { "type": "byte", "description": "[bool]Whether to highlight this entity as part of the hint or not. Could be disabled for things like tutorial markers" },
+    "on_kill_hint" : { "type": "uint", "description": "[string]The hint ID to trigger when entity is killed" },
+    "start_enabled" : { "type": "byte", "description": "[bool]Whether this trigger will start enabled or not." },
+    "enable_on_assignments_to_hand_in" : { "type": "byte", "description": "[bool]Enable this when we have assignments to hand in." },
+    "enable_on_unclaimed_mailbox_rewards" : { "type": "byte", "description": "[bool]Enabled this when we have unclaimed rewards in the mailbox system" }
+}}

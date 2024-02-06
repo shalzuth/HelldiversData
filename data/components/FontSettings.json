@@ -1,0 +1,8 @@
+{ "FontSettings" : {
+    "name" : { "type": "ulong" },
+    "languages" : { "type": "array", "subtype": "string" },
+    "resource_package" : { "type": "ulong" },
+    "fonts" : { "type": "array", "subtype": "UiFontSettingsEntry" },
+    "hud" : { "type": "array", "subtype": "UiHudFontStyleEntry" },
+    "menu" : { "type": "array", "subtype": "UiMenuFontStyleEntry" }
+}}

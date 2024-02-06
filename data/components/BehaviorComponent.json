@@ -1,0 +1,5 @@
+{ "BehaviorComponent" : {
+    "behavior_id" : { "type": "BehaviorId", "default": "BehaviorId_None", "description": "Id of behavior to use." },
+    "task_cooldown" : { "type": "float", "default": 20, "description": "time before a task can be used again" },
+    "task_user" : { "type": "TaskUser", "default": "TaskUser_None", "description": "Which task user I am. Will decide which tasks I will be able to take." }
+}}

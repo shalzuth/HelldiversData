@@ -1,0 +1,14 @@
+{ "GameModeHordeComponent" : {
+    "spawn_direction_count" : { "type": "uint", "default": 8, "description": "Number of different spawn directions the encounters come from" },
+    "first_wave_delay" : { "type": "float", "default": 15, "description": "Time before the first wave comes" },
+    "wave_interval" : { "type": "float", "default": 60, "description": "Interval between waves" },
+    "wave_kill_delay" : { "type": "float", "default": 3, "description": "Time until next wave when current wave has been destroyed" },
+    "encounter_point_multiplier_start" : { "type": "float", "default": 1, "description": "What's the multiplier initially at during horde mode?" },
+    "encounter_point_multiplier_end" : { "type": "float", "default": 2, "description": "At what level does the encounter points stop?" },
+    "waves_to_max_difficulty" : { "type": "float", "default": 10, "description": "How many waves until we reach the encounter point end multiplier?" },
+    "spawn_area_percent" : { "type": "float", "default": 0.4, "description": "Percent of the playable area" },
+    "use_circle_spawning" : { "type": "byte", "description": "[bool]If true, uses a circle around the center of the map for spawning. Otherwise it uses the regular encounter rules" },
+    "enemies_remaining_wave_trigger" : { "type": "uint", "default": 5, "description": "Max number of enemies before allowing quick next wave trigger" },
+    "min_wave_length" : { "type": "float", "default": 5, "description": "Minimum amount of time that must pass before checking for a completing wave - to make sure wave spawns in first" },
+    "max_directions" : { "type": "uint", "default": 8 }
+}}

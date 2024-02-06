@@ -1,0 +1,4 @@
+{ "SkySettings" : {
+    "id" : { "type": "ulong" },
+    "settings" : { "type": "array", "subtype": "SkySetting" }
+}}

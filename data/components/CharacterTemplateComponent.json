@@ -1,0 +1,7 @@
+{ "CharacterTemplateComponent" : {
+    "template_type" : { "type": "CharacterTemplateType", "default": "CharacterTemplateType_None", "description": "From which pool do we select characters?." },
+    "use_persistent_seed" : { "type": "byte", "description": "[bool]If set, this character uses a predictable seed based on peer id. This is most useful for ship characters." },
+    "armor_set" : { "type": "uint", "description": "[string]What armor_set to use on the NPC. Empty won't do anything." },
+    "helmet_set" : { "type": "uint", "description": "[string]What helmet_set to use on the NPC. Empty won't do anything." },
+    "cape_set" : { "type": "uint", "description": "[string]What cape_set to use on the NPC. Empty won't do anything." }
+}}

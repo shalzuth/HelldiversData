@@ -1,0 +1,7 @@
+{ "TutorialTargetRangeStage" : {
+    "hint_to_trigger" : { "type": "uint", "description": "[string]Hint to trigger on targets when stage is active" },
+    "script_data_tag_to_trigger" : { "type": "uint" },
+    "stratagem_type" : { "type": "StratagemType", "default": "StratagemType_None", "description": "If set this stratagem will be active/highlighted when this stage is active" },
+    "require_lat" : { "type": "byte" },
+    "highlight_hint_entity" : { "type": "byte" }
+}}

@@ -1,0 +1,6 @@
+{ "SensorDangerComponent" : {
+    "danger_max" : { "type": "float", "default": 20, "description": "How high the danger value can go." },
+    "danger_sphere_radius" : { "type": "float", "default": 10, "description": "The radius of the actor that signals danger when hit." },
+    "miss_react" : { "type": "byte", "description": "[bool]Should the entity react on misses?" },
+    "ignore_stance" : { "type": "byte", "description": "[bool]If set, the danger level does not affect the stance component (sway)." }
+}}

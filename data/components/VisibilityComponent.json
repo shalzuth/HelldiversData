@@ -1,0 +1,7 @@
+{ "VisibilityComponent" : {
+    "base_visibility" : { "type": "float", "default": 1, "description": "Base visibility modifier." },
+    "minimum_visibility" : { "type": "float", "default": 0.1, "description": "Minimum visibility" },
+    "night_visibility" : { "type": "float", "default": 0.8, "description": "Night visibility" },
+    "searchlight_visibility" : { "type": "float", "default": 4, "description": "If in a searchlight this is a multiplier on visibility. Decays over time when not in a searchlight" },
+    "searchlight_decay_rate" : { "type": "float", "default": 4, "description": "Decay rate for searchlight modifier" }
+}}

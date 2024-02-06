@@ -1,0 +1,12 @@
+{ "HitReactComponent" : {
+    "hit_react_sets" : { "type": "array", "subtype": "HitReactSet", "description": "Contains all hit react sets." },
+    "hit_react_abilities" : { "type": "array", "subtype": "HitReactAbility", "description": "The array of possible abilities to trigger on hit react." },
+    "can_get_knocked_back" : { "type": "byte", "description": "[bool]If set, the entity may enter knockback state. Should have a ragdoll or dynamic actors for this to work." },
+    "ragdoll_when_knocked_back" : { "type": "byte", "description": "[bool]If set, the ragdoll is enabled (and other actors disabled) when knocked back." },
+    "min_knockback_duration" : { "type": "float", "default": 1, "description": "The minimum duration of the knockback." },
+    "max_knockback_duration" : { "type": "float", "default": 5, "description": "The maximum duration of the knockback." },
+    "max_impulse" : { "type": "float", "default": 10000, "description": "The maximum impulse we apply. All impulses are clamped to below this value." },
+    "impulse_scale" : { "type": "float", "default": 1, "description": "All impulses are multiplied with this value (before clamping)." },
+    "use_simplified_hit_direction_vectors" : { "type": "byte", "description": "[bool]If set, When we get hit we will use simplified hit direction vectors for non projectile hits. This is useful when for instance a charger hits the combat walker and we want to use a direct vector between the two as the stagger direction vector." },
+    "force_strength_threshold_to_knockback" : { "type": "float", "default": 18, "description": "If the force strength of the hit is greater than or equal to this value it will trigger knockback, only used on avatars" }
+}}

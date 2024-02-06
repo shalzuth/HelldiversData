@@ -1,0 +1,10 @@
+{ "SolarSystemSetting" : {
+    "solar_system_name" : { "type": "string" },
+    "solar_system_sun_settings" : { "type": "SolarSystemObjectSettings" },
+    "solar_system_planet_settings" : { "type": "array", "subtype": "SolarSystemObjectSettings" },
+    "solar_system_ids" : { "type": "array", "subtype": "ulong" },
+    "nighttime_reflectance_intensity_multipler" : { "type": "float", "default": 0.2 },
+    "fallback_light_color" : { "type": "CApiVector3" },
+    "fallback_light_intensity" : { "type": "float", "default": 2 },
+    "needs_packages" : { "type": "array", "subtype": "ulong" }
+}}

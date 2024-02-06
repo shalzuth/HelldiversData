@@ -1,0 +1,4 @@
+{ "FogVolumeShaderProperties" : {
+    "shader" : { "type": "ulong" },
+    "settings" : { "type": "array", "subtype": "FogVolumeShaderSetting" }
+}}

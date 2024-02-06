@@ -1,0 +1,3 @@
+{ "FactionInfo" : {
+    "faction" : { "type": "FactionType", "default": "FactionType_None", "description": "Which factions this entity belongs to." }
+}}

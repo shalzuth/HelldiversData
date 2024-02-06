@@ -1,0 +1,6 @@
+{ "CannonAimingInfo" : {
+    "cannon_aiming_node" : { "type": "uint", "description": "[string]Name of the node we are looking for" },
+    "target_unit_type" : { "type": "ulong", "description": "[unit]The path to the unit that we will link up with." },
+    "target_node" : { "type": "uint", "description": "[string]Name of the node we are looking for on the target node" },
+    "cannon_unit_type" : { "type": "ulong", "description": "[unit]The path to the cannon unit that we will link up with." }
+}}

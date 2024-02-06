@@ -1,0 +1,7 @@
+{ "CameraShakeSettings" : {
+    "id" : { "type": "uint", "default": 1288385068, "description": "[string]The id of this effect. Referenced when playing/stopping this particle effect." },
+    "settings" : { "type": "CameraShake", "description": "Camera shake settings." },
+    "on_destroy" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None", "description": "The strategy on how to handle the camera shake when this entity is destroyed." },
+    "on_replace" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None", "description": "The strategy on how to handle the camera shake when this entity is trying to play an effect that already exists." },
+    "on_death" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None", "description": "The strategy on how to handle the camera shake when this entity dies." }
+}}

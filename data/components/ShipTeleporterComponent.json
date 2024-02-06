@@ -1,0 +1,5 @@
+{ "ShipTeleporterComponent" : {
+    "charge_time" : { "type": "float", "default": 2.5, "description": "How long the teleporter takes to charge" },
+    "spawn_time" : { "type": "float", "default": 2, "description": "How long a window players can spawn" },
+    "cooldown_time" : { "type": "float", "default": 2, "description": "How long until the teleporter can charge again" }
+}}

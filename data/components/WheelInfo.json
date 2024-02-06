@@ -1,0 +1,11 @@
+{ "WheelInfo" : {
+    "suspension_length" : { "type": "float", "default": 1, "description": "Length of suspension, set to same value as in physics file." },
+    "is_drivetrain_wheel" : { "type": "byte", "description": "[bool]Whether the wheel is connected to the drivetrain or not, i.e. whether it applied engine force or rolls." },
+    "on_suspension_threshold" : { "type": "float", "default": 0.5, "description": "The percentage of suspension compression at which the on_suspension event is triggered." },
+    "on_suspension_maxed_threshold" : { "type": "float", "default": 0.9, "description": "The percentage of suspension compression at which the on_suspension_maxed event is triggered." },
+    "suspension_node" : { "type": "uint", "description": "[string]The suspensions / wheel as it appears in the physics file." },
+    "steering_node" : { "type": "uint", "description": "[string]The wheel steering node." },
+    "rotation_node" : { "type": "uint", "description": "[string]The wheel rotation node." },
+    "suspension_animation_variable" : { "type": "uint", "description": "[string]The animation variable to control suspension." },
+    "rotation_animation_variable" : { "type": "uint", "description": "[string]The animation variable to control rotation." }
+}}

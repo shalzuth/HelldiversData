@@ -1,0 +1,15 @@
+{ "MinefieldComponent" : {
+    "mine_unit_path" : { "type": "ulong", "description": "[unit]Path to the mine unit that should be thrown." },
+    "on_mine_triggered_sound_event" : { "type": "uint", "description": "[wwise]The sound to play on the mine when it's is triggered." },
+    "trigger_time" : { "type": "float", "default": 1.8, "description": "Time from trigger to explosion." },
+    "chain_reaction_time" : { "type": "float", "default": 0.2, "description": "Time from explosion near by to self explosion." },
+    "chain_reaction_size" : { "type": "float", "default": 0, "description": "If non-zero exploding mines trigger other mines in this radius." },
+    "arm_time" : { "type": "float", "default": 0.5, "description": "Time over which the mines arm themselves (re-align to ground)." },
+    "trigger_actor" : { "type": "uint", "default": 1117821087, "description": "[string]Name of the trigger volume actor." },
+    "dynamic_actor" : { "type": "uint", "default": 2748617169, "description": "[string]Name of the dnyamic actor." },
+    "trigger_event" : { "type": "uint", "description": "[string]Script event to trigger when activated." },
+    "explosion_type" : { "type": "ExplosionType", "default": "ExplosionType_None", "description": "Explosion type to use when exploding. See explosion_settings.h." },
+    "ai_avoidance_radius" : { "type": "float", "default": 0, "description": "The radius size of obstacle spheres placed on mines for the AI avoidance. If 0 no AI avoidance is used." },
+    "agent_type" : { "type": "uint", "description": "[string]The agent type to use for this obstacle generator. Agent types are specified in global.havok_ai_properties." },
+    "trigger_on_touch" : { "type": "byte", "description": "[bool]The mines will trigger on touch instead of the default, when stepping off it." }
+}}

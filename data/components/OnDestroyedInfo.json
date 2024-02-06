@@ -1,0 +1,6 @@
+{ "OnDestroyedInfo" : {
+    "actors_to_disable" : { "type": "array", "subtype": "uint", "description": "[string]The actors to disable." },
+    "visibility_groups_to_hide" : { "type": "array", "subtype": "uint", "description": "[string]The Visibility groups to hide." },
+    "actors_to_enable" : { "type": "array", "subtype": "uint", "description": "[string]The actors to enable." },
+    "visibility_groups_to_show" : { "type": "array", "subtype": "uint", "description": "[string]The Visibility groups to show." }
+}}

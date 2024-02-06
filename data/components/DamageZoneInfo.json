@@ -1,0 +1,7 @@
+{ "DamageZoneInfo" : {
+    "damage_info_type" : { "type": "DamageInfoType", "default": "DamageInfoType_None", "description": "The damage info type for this damage zone" },
+    "interval" : { "type": "float", "default": 0.1, "description": "How often an entity can be hit by this entity" },
+    "shape" : { "type": "DamageDealerZoneShape", "default": "DamageDealerZoneShape_Capsule", "description": "The zone shape" },
+    "size" : { "type": "CApiVector3", "description": "For a sphere, the size value sets the radius (the largest of X, Y and Z is used). For a box, the size represents the half-extents of the box along each axis. For a capsule, the radius of the cylinder and of the ending hemispheres is set by the larger of the X and Z dimensions, and the Y value gives the half-height of the cylinder." },
+    "gib_corpses" : { "type": "byte", "description": "[bool]If true, any hit dead entity will be gibbed." }
+}}

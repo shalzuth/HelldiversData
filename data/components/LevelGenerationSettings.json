@@ -1,0 +1,18 @@
+{ "LevelGenerationSettings" : {
+    "vista_start_fade_distance_multiplier" : { "type": "float" },
+    "vista_end_fade_distance_multiplier" : { "type": "float" },
+    "flattening_location_min_distance_bias" : { "type": "float" },
+    "flattening_location_min_distance_factor" : { "type": "float" },
+    "non_flattening_location_min_distance_bias" : { "type": "float" },
+    "non_flattening_location_min_distance_factor" : { "type": "float" },
+    "location_playable_area_bias_factor" : { "type": "float" },
+    "location_playable_area_offset" : { "type": "float" },
+    "war_layer_threshold" : { "type": "float" },
+    "war_layer_random_offset" : { "type": "float" },
+    "stamp_flatten_factor" : { "type": "float" },
+    "outside_playable_area_culling_screen_size_weight" : { "type": "float" },
+    "horde_playable_distance" : { "type": "float" },
+    "detailed_distance" : { "type": "float" },
+    "exploration_settings" : { "type": "ExplorationSettings" },
+    "cache_loot_tables" : { "type": "array", "subtype": "CacheLootTable" }
+}}

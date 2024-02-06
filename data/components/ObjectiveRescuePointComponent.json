@@ -1,0 +1,3 @@
+{ "ObjectiveRescuePointComponent" : {
+    "rescue_types" : { "type": "array", "subtype": "ObjectiveRescueTypeSetting", "description": "List of rescue types that we handle." }
+}}

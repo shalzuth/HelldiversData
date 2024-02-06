@@ -1,0 +1,19 @@
+{ "ArcInfo" : {
+    "type" : { "type": "ArcType" },
+    "speed" : { "type": "float", "default": 500 },
+    "distance" : { "type": "float", "default": 10 },
+    "distance_at_max_angle_spread" : { "type": "float", "default": 0 },
+    "distance_at_max_angle_spread_first_shot" : { "type": "float", "default": 0 },
+    "max_angle_spread" : { "type": "float", "default": 180 },
+    "max_angle_spread_first_shot" : { "type": "float", "default": 180 },
+    "max_chain_length" : { "type": "uint", "default": 2 },
+    "max_chain_split" : { "type": "uint", "default": 2 },
+    "damage_info_type" : { "type": "DamageInfoType", "default": "DamageInfoType_None" },
+    "camera_shake_path" : { "type": "ulong", "description": "[camera_shake]" },
+    "particle_effect_path" : { "type": "ulong", "description": "[particles]" },
+    "particle_linger_time" : { "type": "float", "default": 0 },
+    "explosion_effect_path" : { "type": "ulong", "description": "[particles]" },
+    "hit_effect_damage_type" : { "type": "HitEffectDamageType", "default": "HitEffectDamageType_None" },
+    "hit_audio_event" : { "type": "uint" },
+    "beam_path" : { "type": "ulong", "description": "[unit]" }
+}}

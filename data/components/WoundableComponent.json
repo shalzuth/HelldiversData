@@ -1,0 +1,6 @@
+{ "WoundableComponent" : {
+    "wound_lut" : { "type": "WoundLUT", "description": "The object space lookup texture to use for this entity when rendering wounds onto it." },
+    "min_radius" : { "type": "float", "default": 0.1, "description": "The minimum radius of a bullet wound. This is when damage is 0." },
+    "max_radius" : { "type": "float", "default": 0.5, "description": "The maximum radius of a bullet wound. This is when damage is equal or greater than 'max_damage'." },
+    "max_damage" : { "type": "float", "default": 1000, "description": "The damage cap where the radius won't get larger." }
+}}

@@ -1,0 +1,14 @@
+{ "EncyclopediaEntryComponent" : {
+    "loc_name" : { "type": "uint", "description": "[string]The localization string identifier of the name of this entity (type)." },
+    "loc_name_plural" : { "type": "uint", "description": "[string]Plural Variant of the name." },
+    "loc_name_upper" : { "type": "uint", "description": "[string]Upper variant of the name." },
+    "loc_name_short" : { "type": "uint", "description": "[string]Short variant of the name." },
+    "loc_name_short_upper" : { "type": "uint", "description": "[string]Short and Upper variant of the name." },
+    "description" : { "type": "uint", "description": "[string]The localization string identifier the description of this entity." },
+    "description_upper" : { "type": "uint", "description": "[string]Upper variant of the description" },
+    "description_short" : { "type": "uint", "description": "[string]Short variant of the description" },
+    "description_short_upper" : { "type": "uint", "description": "[string]Short and Upper variant of the description" },
+    "prefix" : { "type": "uint", "description": "[string]Prefix - used when doing fancy name displays." },
+    "fluff" : { "type": "uint", "description": "[string]Similar to description, usually lore text." },
+    "icon" : { "type": "ulong", "description": "[material]The icon to use for this entity (type)." }
+}}

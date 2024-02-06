@@ -1,0 +1,6 @@
+{ "TutorialTargetRangeComponent" : {
+    "stages" : { "type": "array", "subtype": "TutorialTargetRangeStage", "description": "List of stages." },
+    "player_activate_distance" : { "type": "float", "default": 5, "description": "How close the player needs to be to activate this range" },
+    "player_deactivate_distance" : { "type": "float", "default": 8, "description": "How far the player needs to be to deactivate this range" },
+    "script_data_tag" : { "type": "uint", "default": 3338735551, "description": "[string]Tag to check for script data" }
+}}

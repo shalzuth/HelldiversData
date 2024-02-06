@@ -1,0 +1,5 @@
+{ "StratagemBlockerComponent" : {
+    "category_type" : { "type": "StratagemCategoryType", "default": "StratagemCategoryType_Count", "description": "If set, this will prevent only this type of stratagem from being blocked" },
+    "block_radius" : { "type": "float", "default": 20, "description": "If the player is within this radius that the stratagems will be disabled" },
+    "start_active" : { "type": "byte", "description": "[bool]If true then this stratagem blocker is active as soon as this entity exists" }
+}}

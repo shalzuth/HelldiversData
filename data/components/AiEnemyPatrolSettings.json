@@ -1,0 +1,5 @@
+{ "AiEnemyPatrolSettings" : {
+    "movement" : { "type": "AiEnemyStateMovementSettings" },
+    "idle_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid" },
+    "random_commander_idle_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The idle ability to run on the (arbitrarily selected) commander." }
+}}

@@ -1,0 +1,7 @@
+{ "StampRectangle" : {
+    "position" : { "type": "CApiVector2" },
+    "half_extents" : { "type": "CApiVector2" },
+    "rotation" : { "type": "float" },
+    "flattening_intensity" : { "type": "float", "default": 1 },
+    "flatten_terrain" : { "type": "byte" }
+}}

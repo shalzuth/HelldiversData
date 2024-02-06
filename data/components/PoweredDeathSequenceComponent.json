@@ -1,0 +1,5 @@
+{ "PoweredDeathSequenceComponent" : {
+    "animation_events" : { "type": "array", "subtype": "uint", "description": "[string]The animation events to trigger when the delays have happened." },
+    "delays" : { "type": "array", "subtype": "CApiVector2", "description": "The delay for each animation event. Min/Max values for each animation event." },
+    "repeat_randomness" : { "type": "array", "subtype": "DeathSequenceRepeatRandomness", "description": "Settings to set up randomized repeats on repeating subsections of the death sequence." }
+}}

@@ -1,0 +1,9 @@
+{ "VehicleLocomotionComponent" : {
+    "spawn_state" : { "type": "VehicleState", "default": "VehicleState_None", "description": "Which state the vehicle should spawn into, see vehicle_state_machine.h for states." },
+    "on_migrated_state" : { "type": "VehicleState", "default": "VehicleState_None", "description": "Which state the vehicle should start in when it has migrated." },
+    "look_at_variable" : { "type": "uint", "description": "[string]This is the look at variable to turn towards." },
+    "rotation_audio_source" : { "type": "uint", "description": "[string]The position from where rotation audio is played" },
+    "rotation_audio_started" : { "type": "uint", "description": "[string]The audio event to send when rotation starts" },
+    "rotation_audio_stopped" : { "type": "uint", "description": "[string]The audio event to send when rotation stops" },
+    "stagger_damage" : { "type": "uint", "default": 150, "description": "How much damage is needed before you stagger." }
+}}

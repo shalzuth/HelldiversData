@@ -1,0 +1,10 @@
+{ "SquadTransportComponent" : {
+    "rows" : { "type": "uint" },
+    "columns" : { "type": "uint" },
+    "formation_id" : { "type": "uint", "description": "[string]Used by lookup the squad transport formation settings per payload." },
+    "clamp_delay" : { "type": "float", "default": 0.2, "description": "Used by the dropships between each clamp is released." },
+    "use_attach_node" : { "type": "byte", "description": "[bool]Should we attach each payload to existing nodes (dropship), or calculate position based on a grid-layout (transporter)" },
+    "precache_formation_type" : { "type": "TransportFormationType", "default": "TransportFormationType_None", "description": "If set to something, it will preemptively cache out spawn info, in case we start with an empty spawn array. Used by the Spawner (Behemoth)" },
+    "give_target_to_payloads" : { "type": "byte", "description": "[bool]If enabled, the target of the squad transport will be applied to its payloads too" },
+    "unit_drop_audio_events" : { "type": "array", "subtype": "UnitConditionalSoundEffect", "description": "Sounds that will be triggered if a specific unit is dropped from the dropship" }
+}}

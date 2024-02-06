@@ -1,0 +1,8 @@
+{ "DestructionEmitterBox" : {
+    "position" : { "type": "CApiVector3", "description": "[gizmo_position] The position of the box, in meters for each axis. Offset from origo of unit." },
+    "initial_rotation" : { "type": "CApiQuaternion", "description": "[gizmo_rotation] The initial rotation (relative to the root) on spawned gibs." },
+    "half_extents" : { "type": "CApiVector3", "description": "[gizmo_radius] Half extents of the box for each axis in meters." },
+    "impulse" : { "type": "float", "default": 30, "description": "The amount of force applied at the instant the gib is spawned, in Ns (Newton seconds)" },
+    "rotational_impulse" : { "type": "float", "default": 10, "description": "The amount of force applied in rotation at the instant the gib is spawned. in Ns (Newton Seconds)" },
+    "random_initial_rotation" : { "type": "byte", "description": "Wether or not the initial rotation of the spawned gib should be completely randomized." }
+}}

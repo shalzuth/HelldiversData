@@ -1,0 +1,5 @@
+{ "IdleAbilityInfo" : {
+    "ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to run at random intervals." },
+    "random_min_time" : { "type": "float", "default": 0, "description": "Random min time, the time between each ability run is at minimum this long." },
+    "random_max_time" : { "type": "float", "default": 0, "description": "Random max time, the time between each ability run is at maximum this long." }
+}}

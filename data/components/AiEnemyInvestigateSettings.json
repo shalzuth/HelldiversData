@@ -1,0 +1,6 @@
+{ "AiEnemyInvestigateSettings" : {
+    "movement" : { "type": "AiEnemyStateMovementSettings" },
+    "idle_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid" },
+    "navigation_agent_type" : { "type": "uint", "description": "[string]The agent type to use when navigating in investigation. Agent types are specified in global.havok_ai_properties." },
+    "search_distance" : { "type": "array", "subtype": "float", "description": "Min / Max" }
+}}

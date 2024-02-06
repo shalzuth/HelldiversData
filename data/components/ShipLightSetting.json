@@ -1,0 +1,9 @@
+{ "ShipLightSetting" : {
+    "unit_paths" : { "type": "array", "subtype": "ulong", "description": "[unit]List of valid units for this settings" },
+    "material_slot" : { "type": "uint", "description": "[string]" },
+    "hellpod_bridge_light" : { "type": "byte" },
+    "normal" : { "type": "ShipLightStateSetting" },
+    "alarm" : { "type": "ShipLightStateSetting" },
+    "hellpods_only" : { "type": "ShipLightStateSetting" },
+    "hellpods_alarm" : { "type": "ShipLightStateSetting" }
+}}

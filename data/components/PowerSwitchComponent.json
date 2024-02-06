@@ -1,0 +1,9 @@
+{ "PowerSwitchComponent" : {
+    "link_to_all_lights" : { "type": "byte", "description": "[bool]If true then link to all lights whether they are tagged or not." },
+    "start_powered" : { "type": "byte", "description": "[bool]If true then start enabled" },
+    "power_on_event" : { "type": "uint", "default": 3964514144, "description": "[string]What event to fire to relevant units when powered on" },
+    "power_off_event" : { "type": "uint", "default": 2364272586, "description": "[string]What event to fire to relevant units when powered of" },
+    "power_on_flicker_event" : { "type": "uint", "default": 2548833656, "description": "[string]What event to fire to relevant units when powered on (and this element is set to flicker)" },
+    "turn_on_during_extraction" : { "type": "byte", "description": "[bool]If true then set enabled when extraction is triggered" },
+    "auto_activate_night" : { "type": "byte", "description": "[bool]Turn on and off auto activate during the day night cycle" }
+}}

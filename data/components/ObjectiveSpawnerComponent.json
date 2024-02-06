@@ -1,0 +1,13 @@
+{ "ObjectiveSpawnerComponent" : {
+    "entity_to_spawn" : { "type": "ulong", "description": "[string]" },
+    "spawn_node_name" : { "type": "uint", "description": "[string]" },
+    "spawn_position_offset" : { "type": "CApiVector3" },
+    "spawn_rotation_offset" : { "type": "CApiVector3" },
+    "spawn_wave_size" : { "type": "uint" },
+    "spawn_delay" : { "type": "float", "default": 2, "description": "The delay between each individual spawn in a 'wave'." },
+    "on_spawn_notify" : { "type": "uint", "description": "[string]" },
+    "on_spawn_wave_start_notify" : { "type": "uint", "description": "[string]" },
+    "on_spawn_wave_finish_with_pending_notify" : { "type": "uint", "description": "[string]" },
+    "on_spawn_wave_finish_without_pending_notify" : { "type": "uint", "description": "[string]" },
+    "on_spawned_entity_death_notify" : { "type": "uint", "description": "[string]" }
+}}

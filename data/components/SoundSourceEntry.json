@@ -1,0 +1,9 @@
+{ "SoundSourceEntry" : {
+    "is_active" : { "type": "byte", "description": "[bool]Is active" },
+    "part_type" : { "type": "PartType", "default": "PartType_Hotbox", "description": "Which part is rotating" },
+    "rotation_start_event" : { "type": "uint", "description": "[wwise]Audio event to play when starting the effect." },
+    "rotation_stop_event" : { "type": "uint", "description": "[wwise]Audio event to trigger when stopping the effect." },
+    "rotation_threshold_start" : { "type": "float", "default": 0, "description": "When rotation speed is higher then this event starts" },
+    "rotation_threshold_stop" : { "type": "float", "default": 0, "description": "When rotation speed is lower then this event stops" },
+    "stoppage_time" : { "type": "float", "default": 0, "description": "Audio will keep playing for X seconds if rotation stops" }
+}}

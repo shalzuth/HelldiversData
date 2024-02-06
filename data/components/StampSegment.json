@@ -1,0 +1,6 @@
+{ "StampSegment" : {
+    "start" : { "type": "CApiVector2" },
+    "end" : { "type": "CApiVector2" },
+    "start_radius" : { "type": "float" },
+    "end_radius" : { "type": "float" }
+}}

@@ -1,0 +1,4 @@
+{ "ShipInventoryComponent" : {
+    "my_ship_alarm_sound" : { "type": "uint", "description": "[wwise][wwise]The sound event to trigger on spawn for my personal bombardments." },
+    "other_ship_alarm_sound" : { "type": "uint", "description": "[wwise][wwise]The sound event to trigger on spawn for other player bombardments." }
+}}

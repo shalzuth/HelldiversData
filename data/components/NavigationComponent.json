@@ -1,0 +1,5 @@
+{ "NavigationComponent" : {
+    "goal_reached_distance" : { "type": "float", "default": 0.5, "description": "The distance the navigator can be from the target for it to be considered reached." },
+    "agent_type" : { "type": "uint", "description": "[string]The agent type to use for this navigatior. Agent types are specified in global.havok_ai_properties." },
+    "agent_radius_override" : { "type": "float", "default": 0, "description": "If greater than 0, the radius of the agent uses this value instead of the unit size. Can be used to prevent large units from failing to pathfind." }
+}}

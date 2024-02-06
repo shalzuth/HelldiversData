@@ -1,0 +1,21 @@
+{ "RotationComponent" : {
+    "turn_speed" : { "type": "float", "default": 0, "description": "Turn speed in degrees per second. Use zero for animation driven rotation." },
+    "acceleration" : { "type": "float", "default": 0, "description": "Acceleration of turn speed in degrees. 0 (or negative) means instant acceleration." },
+    "deceleration" : { "type": "float", "default": 0, "description": "Deceleration of turn speed in degrees. 0 (or negative) means instant deceleration." },
+    "align_strategy" : { "type": "AlignStrategy", "default": "AlignStrategy_Vertical", "description": "How to align the unit" },
+    "quad_distance_right" : { "type": "float", "default": 1, "description": "The distance from the root to the right edge of the alignment quad (if using AlignStrategy_QuadGround)" },
+    "quad_distance_forward" : { "type": "float", "default": 1.5, "description": "The distance from the root to the forward edge of the alignment quad (if using AlignStrategy_QuadGround)" },
+    "quad_distance_back" : { "type": "float", "default": 0, "description": "If this is 0, it will use the value of quad_distance_forward. The distance from the root to the back edge of the alignment quad (if using AlignStrategy_QuadGround)" },
+    "foot_ray_distance" : { "type": "float", "default": 2, "description": "The distance of the raycast to check how far above ground the feets are. Only used if feet_pivots is set." },
+    "supression_strength" : { "type": "float", "default": 1, "description": "The supression strength that pushes a foot up from the ground." },
+    "feet_pivots" : { "type": "array", "subtype": "WalkerFootInfo", "description": "The feets that make up the quad that is aligned to ground (if using AlignStrategy_WalkerGround)." },
+    "feet_extras" : { "type": "array", "subtype": "WalkerFootInfo", "description": "Extra feets that also gets the animation variable for distance above ground, but take no part in alignment." },
+    "height_adjust_node" : { "type": "uint", "description": "[string]MUST HAVE ANIM DISABLED IN SKELETON, Node to use when adjusting body height over ground to make sure feet touch the ground" },
+    "foot_extension_max" : { "type": "float", "default": 0, "description": "How far a leg can be extended" },
+    "foot_extension_min" : { "type": "float", "default": 0, "description": "How far a leg can be contracted" },
+    "can_fall" : { "type": "byte", "description": "[bool]True if the entity can fall or always will try to stick to the walls (if using AlignStrategy_QuadGround)." },
+    "always_check_against_terrain" : { "type": "byte", "description": "[bool]Always do second check to see if we are below terrain" },
+    "alignment_limits" : { "type": "AlignmentLimits", "description": "Limits to roll and pitch when in AlignStrategy_QuadGround, AlignStrategy_WalkerGround and AlignStrategy_WalkerVertical." },
+    "anim_variable_turn_speed" : { "type": "uint", "description": "[string]Animation variable to send for turn speed. This will only work for AlignStrategy_Ground and AlignStrategy_Vertical" },
+    "anim_variable_turn_speed_max" : { "type": "float", "default": 180, "description": "The maximum/minimum value that will be sent to the turn speed animation variable. Will be used to clamp between -max and +max." }
+}}

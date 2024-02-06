@@ -1,0 +1,170 @@
+[
+  {
+    "PaletteSettings": {
+      "region_settings": [
+        {
+          "region": "LevelGenerationRegion_region_arctic_glacier_base",
+          "rock": 2971557291832351990,
+          "dirt_a": 8076726632070736453,
+          "dirt_b": 5220144604728896911
+        }
+      ],
+      "bark": 12419520046559385519,
+      "moss": 1540658134364889839,
+      "grass": 12867424042543669262,
+      "bush": 17286516797085662809,
+      "leaves": 5776072400316826108,
+      "flower": 12459902897023198565,
+      "bug_slime": 4793681965017312361,
+      "bug_structure": 10403312338868879800,
+      "bug_detail": 1096980088448416944
+    }
+  },
+  {
+    "PaletteSettings": {
+      "region_settings": [
+        {
+          "region": "LevelGenerationRegion_region_savanna",
+          "rock": 8811196757805449397,
+          "dirt_a": 12830614513016388555,
+          "dirt_b": 9200471691655150066
+        }
+      ],
+      "bark": 9631176143022020062,
+      "moss": 14915522929994866689,
+      "grass": 7069234017128291798,
+      "bush": 6776710740972843356,
+      "leaves": 15956599039383221876,
+      "flower": 17046543325366289981,
+      "bug_slime": 17669130561761987108,
+      "bug_structure": 4367740067348779116,
+      "bug_detail": 11026275488262074667
+    }
+  },
+  {
+    "PaletteSettings": {
+      "region_settings": [
+        {
+          "region": "LevelGenerationRegion_region_rocky",
+          "rock": 6300534060376380010,
+          "dirt_a": 10894537954464655039,
+          "dirt_b": 12142769237768681296
+        }
+      ],
+      "bark": 16665720324827065890,
+      "moss": 16175572649016632507,
+      "grass": 16181035011699218398,
+      "bush": 354356961556320196,
+      "leaves": 7453259970474161060,
+      "flower": 1666844707485583839,
+      "bug_slime": 17669130561761987108,
+      "bug_structure": 4367740067348779116,
+      "bug_detail": 11026275488262074667
+    }
+  },
+  {
+    "PaletteSettings": {
+      "region_settings": [
+        {
+          "region": "LevelGenerationRegion_region_woods_lowland",
+          "rock": 13530368642279937389,
+          "dirt_a": 4893493144486668133,
+          "dirt_b": 4893493144486668133
+        }
+      ],
+      "bark": 2130987212656859176,
+      "moss": 6396356587096654685,
+      "grass": 12882964166469299932,
+      "bush": 10841120395421366394,
+      "leaves": 12783664038848910243,
+      "flower": 4848892336323480501,
+      "bug_slime": 5410660156061325480,
+      "bug_structure": 17692793111592716655,
+      "bug_detail": 17692793111592716655
+    }
+  },
+  {
+    "PaletteSettings": {
+      "region_settings": [
+        {
+          "region": "LevelGenerationRegion_region_grassland_lowland",
+          "rock": 3813737482537740530,
+          "dirt_a": 3655684206773035934,
+          "dirt_b": 2019975574894901569
+        }
+      ],
+      "bark": 8733352266383756880,
+      "moss": 4358661450824757726,
+      "grass": 6667595157627736546,
+      "bush": 6124100161018744276,
+      "leaves": 9952116144465076493,
+      "flower": 11791073427333129229,
+      "bug_slime": 13385328519597890752,
+      "bug_structure": 13729916087877111136,
+      "bug_detail": 13729916087877111136
+    }
+  },
+  {
+    "PaletteSettings": {
+      "region_settings": [
+        {
+          "region": "LevelGenerationRegion_region_grassland_lowland",
+          "rock": 11384581236818991741,
+          "dirt_a": 3006851984308282035,
+          "dirt_b": 9330103482521444334
+        }
+      ],
+      "bark": 18146228681524495897,
+      "moss": 11422143638451670122,
+      "grass": 18089425866598020189,
+      "bush": 10887168731095126123,
+      "leaves": 15008912583771031048,
+      "flower": 15847707600044133114,
+      "bug_slime": 13577289369556137890,
+      "bug_structure": 1107659141348659180,
+      "bug_detail": 9366495176833242693
+    }
+  },
+  {
+    "PaletteSettings": {
+      "region_settings": [
+        {
+          "region": "LevelGenerationRegion_region_woods_lowland",
+          "rock": 1922798884311285687,
+          "dirt_a": 10047274811955289972,
+          "dirt_b": 10047274811955289972
+        }
+      ],
+      "bark": 889926046043088690,
+      "moss": 2416420968703544319,
+      "grass": 684420038987274518,
+      "bush": 1739639988722996606,
+      "leaves": 5978925282064008132,
+      "flower": 5166882643512925077,
+      "bug_slime": 11682987879679987947,
+      "bug_structure": 10759090257525147346,
+      "bug_detail": 10759090257525147346
+    }
+  },
+  {
+    "PaletteSettings": {
+      "region_settings": [
+        {
+          "region": "LevelGenerationRegion_region_woods_lowland",
+          "rock": 2345247234464686603,
+          "dirt_a": 17671963721663071893,
+          "dirt_b": 12773887478343216155
+        }
+      ],
+      "bark": 5356493384519923365,
+      "moss": 15217454677160274874,
+      "grass": 10394491526373059579,
+      "bush": 16834052971544225400,
+      "leaves": 5484184654205179869,
+      "flower": 720780843970817925,
+      "bug_slime": 7458589420889641376,
+      "bug_structure": 4293391087230264668,
+      "bug_detail": 4293391087230264668
+    }
+  }
+]

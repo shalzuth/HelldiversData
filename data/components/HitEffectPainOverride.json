@@ -1,0 +1,4 @@
+{ "HitEffectPainOverride" : {
+    "level" : { "type": "HitEffectLevel", "default": "HitEffectLevel_None", "description": "The level to override. Must not be none (the default)." },
+    "audio_event" : { "type": "uint", "description": "[string]The pain sound audio event to use for this level." }
+}}

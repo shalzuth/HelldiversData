@@ -1,0 +1,6 @@
+{ "ShipAttackEvent" : {
+    "camera_shake_asset" : { "type": "ulong", "description": "[camera_shake]" },
+    "camera_shake_asset_2" : { "type": "ulong", "description": "[camera_shake]" },
+    "audio_event" : { "type": "uint", "description": "[string]" },
+    "particle_asset" : { "type": "ulong", "description": "[particles]" }
+}}

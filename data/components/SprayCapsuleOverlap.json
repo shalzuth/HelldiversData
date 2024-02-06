@@ -1,0 +1,4 @@
+{ "SprayCapsuleOverlap" : {
+    "length" : { "type": "float", "default": 0, "description": "Length of the capsule." },
+    "expansion_speed" : { "type": "float", "default": 0, "description": "Expansion speed of the length of the capsule. (0 means no expansion, i.e. full length from the start)" }
+}}

@@ -1,0 +1,4 @@
+{ "SpreadInfo" : {
+    "horizontal" : { "type": "float", "default": 10, "description": "The horizontal spread in MRAD." },
+    "vertical" : { "type": "float", "default": 10, "description": "The vertical spread in MRAD." }
+}}

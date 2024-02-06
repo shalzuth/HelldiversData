@@ -1,0 +1,4 @@
+{ "DamageableZone" : {
+    "info" : { "type": "DamageableZoneInfo", "description": "Damageable Zone Info" },
+    "actors" : { "type": "array", "subtype": "uint", "description": "[string]Damageable Zone Actors" }
+}}

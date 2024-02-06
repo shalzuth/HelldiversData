@@ -1,0 +1,6 @@
+{ "StampCircle" : {
+    "position" : { "type": "CApiVector2" },
+    "radius" : { "type": "float" },
+    "flattening_intensity" : { "type": "float", "default": 1 },
+    "flatten_terrain" : { "type": "byte" }
+}}

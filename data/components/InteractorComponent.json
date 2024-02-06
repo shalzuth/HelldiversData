@@ -1,0 +1,6 @@
+{ "InteractorComponent" : {
+    "radius" : { "type": "float", "default": 1, "description": "The radius of this interactor." },
+    "node" : { "type": "uint", "default": 1243096897, "description": "[string]Node name" },
+    "node_offset" : { "type": "CApiVector3", "description": "Local offset relative to node space" },
+    "camera_forward_offset" : { "type": "float", "default": 0, "description": "Local offset relative to camera forward axis" }
+}}

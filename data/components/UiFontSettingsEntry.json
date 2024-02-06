@@ -1,0 +1,10 @@
+{ "UiFontSettingsEntry" : {
+    "types" : { "type": "array", "subtype": "FontType" },
+    "font" : { "type": "ulong" },
+    "material" : { "type": "ulong" },
+    "material_curved" : { "type": "ulong" },
+    "material_terminal" : { "type": "ulong" },
+    "material_video" : { "type": "ulong" },
+    "material_hologram" : { "type": "ulong" },
+    "is_runtime_font" : { "type": "byte" }
+}}

@@ -1,0 +1,8 @@
+{ "MusicIntensifierComponent" : {
+    "unaware_value" : { "type": "float", "default": 1, "description": "The amount of music intensity generated when this enemy is nearby but unaware" },
+    "attacking_value" : { "type": "float", "default": 3, "description": "The amount of music intensity generated when this enemy is in combat alertness" },
+    "engaged_value" : { "type": "float", "default": 20, "description": "The amount of music intensity generated when this enemy is actively playing an ability" },
+    "unaware_distance" : { "type": "float", "default": 50, "description": "The max distance for this enemy to be included in music intensity calculatiosn while it is unaware" },
+    "attacking_distance" : { "type": "float", "default": 55, "description": "The max distance for this enemy to be included in music intensity calculatiosn while it is in combat" },
+    "is_major_unit" : { "type": "byte", "description": "[bool]If this unit is a big scary unit that triggers some specific RTPCs" }
+}}

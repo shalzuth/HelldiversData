@@ -1,0 +1,6 @@
+{ "StampEntry" : {
+    "type" : { "type": "StampEntryType" },
+    "direction" : { "type": "float" },
+    "satellite_type" : { "type": "StampEntrySatelliteType" },
+    "spline_connection" : { "type": "StampSplineConnection" }
+}}

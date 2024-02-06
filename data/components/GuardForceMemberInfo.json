@@ -1,0 +1,9 @@
+{ "GuardForceMemberInfo" : {
+    "entity_path" : { "type": "ulong", "description": "[adhd]" },
+    "required_task_user" : { "type": "TaskUser", "default": "TaskUser_None" },
+    "max_count" : { "type": "uint", "description": "How many can spawn. 0 means no limit." },
+    "difficulty_range" : { "type": "array", "subtype": "uint" },
+    "weight" : { "type": "float", "default": 1, "description": "Chance for this member to be selected" },
+    "cost" : { "type": "float", "default": 0, "description": "If included how much this member will cost from the point pool" },
+    "enemy_tag" : { "type": "EnemyTag", "default": "EnemyTag_none", "description": "Requires this enemy tag to be activate on this mission to spawn" }
+}}

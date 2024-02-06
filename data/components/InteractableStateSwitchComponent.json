@@ -1,0 +1,20 @@
+{ "InteractableStateSwitchComponent" : {
+    "start_value" : { "type": "float", "default": 0 },
+    "start_enabled" : { "type": "byte" },
+    "transition_type" : { "type": "InteractStateTransitionType", "default": "InteractStateTransitionType_Automatic" },
+    "transition_speed" : { "type": "float", "default": 1 },
+    "revert_speed" : { "type": "float", "default": 1 },
+    "force_user_exit_delay" : { "type": "float", "default": 0 },
+    "switch_states_settings" : { "type": "array", "subtype": "StateSwitchSettings" },
+    "loops" : { "type": "byte" },
+    "animation" : { "type": "StateSwitchAnimationSettings" },
+    "custom_input_text" : { "type": "uint", "description": "[string]" },
+    "generic_increase_action" : { "type": "StateSwitchAction" },
+    "generic_decrease_action" : { "type": "StateSwitchAction" },
+    "generic_stop_action" : { "type": "StateSwitchAction" },
+    "can_manually_exit" : { "type": "byte", "description": "[bool]Are we allowed to manually exit from this interaction?" },
+    "start_moving_behavior_event" : { "type": "uint", "description": "[string]" },
+    "stop_moving_behavior_event" : { "type": "uint", "description": "[string]" },
+    "entered_goal_state_behavior_event" : { "type": "uint", "description": "[string]" },
+    "left_goal_state_behavior_event" : { "type": "uint", "description": "[string]" }
+}}

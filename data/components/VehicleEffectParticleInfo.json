@@ -1,0 +1,6 @@
+{ "VehicleEffectParticleInfo" : {
+    "name" : { "type": "ulong", "description": "[particles]The name of the particle effect to play." },
+    "node" : { "type": "uint", "description": "[string]The unit node on which to play the particle effect." },
+    "attach_particles" : { "type": "byte", "description": "[bool]Whether or not to attach the particle effect to this node." },
+    "align_to_water_surface" : { "type": "byte", "description": "[bool]Whether or not to align the particle effect to the water surface." }
+}}

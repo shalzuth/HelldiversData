@@ -1,0 +1,10 @@
+{ "HitEffectInfo" : {
+    "damage_type" : { "type": "HitEffectDamageType" },
+    "receiver_type" : { "type": "HitEffectReceiverType" },
+    "level" : { "type": "HitEffectLevel" },
+    "particle_effect" : { "type": "ulong" },
+    "audio_event_2d" : { "type": "uint" },
+    "audio_stop_event_2d" : { "type": "uint" },
+    "audio_event_3d" : { "type": "uint" },
+    "audio_stop_event_3d" : { "type": "uint" }
+}}

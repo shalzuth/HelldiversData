@@ -1,0 +1,6 @@
+{ "RegionPaletteSettings" : {
+    "region" : { "type": "LevelGenerationRegionType" },
+    "rock" : { "type": "ulong" },
+    "dirt_a" : { "type": "ulong" },
+    "dirt_b" : { "type": "ulong" }
+}}

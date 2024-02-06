@@ -1,0 +1,4 @@
+{ "VideoUIFactionPlanetEvent" : {
+    "claim_ui_ids" : { "type": "array", "subtype": "uint" },
+    "defend_ui_ids" : { "type": "array", "subtype": "uint" }
+}}

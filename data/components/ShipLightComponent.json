@@ -1,0 +1,5 @@
+{ "ShipLightComponent" : {
+    "light_type" : { "type": "ShipLightType", "default": "ShipLightType_Basic", "description": "What type of light this is." },
+    "light_dimmable" : { "type": "byte", "description": "[bool]Wether or not this light is dimmable" },
+    "light_name" : { "type": "uint", "description": "[string]The light that this component manipulates." }
+}}

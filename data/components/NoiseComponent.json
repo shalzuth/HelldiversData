@@ -1,0 +1,4 @@
+{ "NoiseComponent" : {
+    "noises" : { "type": "array", "subtype": "NoiseTemplate", "description": "Contains information about the different noises." },
+    "interval" : { "type": "float", "default": 0.2, "description": "The time in seconds between each noise event" }
+}}

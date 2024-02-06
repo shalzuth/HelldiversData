@@ -1,0 +1,5 @@
+{ "BeamWeaponEffect" : {
+    "effect" : { "type": "ulong", "description": "[particles]A particle effect to play for exhaust effects." },
+    "node" : { "type": "uint", "description": "[string]The node to play the effect at." },
+    "rotation_offset" : { "type": "CApiVector3", "description": "The rotation offset to play the particle effect at (in degrees)." }
+}}

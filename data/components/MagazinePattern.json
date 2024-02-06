@@ -1,0 +1,4 @@
+{ "MagazinePattern" : {
+    "projectiles" : { "type": "array", "subtype": "ProjectileType", "description": "Pattern of projectiles to fire. None denotes end if the full size is not used. Pattern is repeated and aligned so the last projectile in the pattern is always the last in the magazine (should it not divide evenly)." },
+    "first_projectile" : { "type": "ProjectileType", "default": "ProjectileType_None", "description": "to trigger start/stop event" }
+}}

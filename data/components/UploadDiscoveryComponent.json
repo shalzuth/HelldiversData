@@ -1,0 +1,13 @@
+{ "UploadDiscoveryComponent" : {
+    "upload_distance" : { "type": "float", "default": 20, "description": "When within this range, the 'upload discovery' stratagem becomes usable/available" },
+    "fail_distance" : { "type": "float", "default": 40, "description": "When outside this range, the upload will start to cancel. Should be larger than upload distance" },
+    "upload_duration" : { "type": "float", "default": 3, "description": "Duration in seconds which you need to stay within upload range of target until succeeding" },
+    "assignment_id" : { "type": "uint", "description": "[string]Name of the assignment which is awarded and completed when succesfully uploading." },
+    "vo_id_examine" : { "type": "uint", "default": 1791288472, "description": "[string]VO line to play when examining/interacting with the discovery." },
+    "vo_id_completed" : { "type": "uint", "default": 867568099, "description": "[string]VO line to play when successfully uploading the discovery" },
+    "vo_id_ignored" : { "type": "uint", "default": 1960587083, "description": "[string]VO line to play when player leaves the upload distance radius without having completed the upload." },
+    "trigger_for_everyone" : { "type": "byte", "description": "[bool]When interacted with, everyone can access it" },
+    "requires_interact" : { "type": "byte", "description": "[bool]Requires an initial interact" },
+    "trigger_encounter" : { "type": "byte" },
+    "ui_help_text" : { "type": "uint", "description": "[string]UI help text to show for active upload data as part of an objective" }
+}}

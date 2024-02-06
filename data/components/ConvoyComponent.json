@@ -1,0 +1,5 @@
+{ "ConvoyComponent" : {
+    "goal_reached_distance" : { "type": "float", "default": 10, "description": "Goal reached distance" },
+    "move_speed" : { "type": "float", "default": 2, "description": "Move speed of the convoy" },
+    "squads" : { "type": "array", "subtype": "ConvoySquadInfo", "description": "The convoy squads" }
+}}

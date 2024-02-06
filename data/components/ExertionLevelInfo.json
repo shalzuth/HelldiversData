@@ -1,0 +1,15 @@
+{ "ExertionLevelInfo" : {
+    "index" : { "type": "ExertionLevelIndex", "default": "ExertionLevelIndex_None", "description": "The corresponding index to this level." },
+    "exertion_threshold" : { "type": "float", "default": 0, "description": "The Threshold of exertion that considers this level." },
+    "sway_multiplier_scoped" : { "type": "float", "default": 1, "description": "Multiplier to sway when scoped, changing its magnitude" },
+    "sway_multiplier_thirdperson" : { "type": "float", "default": 1, "description": "Multiplier to sway when in thirdperson, changing its magnitude" },
+    "sway_frequency_multiplier_scoped" : { "type": "float", "default": 1, "description": "Multiplier to sway when scoped, changing its frequency" },
+    "sway_frequency_multiplier_thirdperson" : { "type": "float", "default": 1, "description": "Multiplier to sway when in thirdperson, changing its frequency" },
+    "sway_recoil_multiplier_scoped" : { "type": "float", "default": 1, "description": "Multiplier to sway when scoped, changing its recoil" },
+    "sway_recoil_multiplier_thirdperson" : { "type": "float", "default": 1, "description": "Multiplier to sway when in thirdperson, changing its recoil" },
+    "sway_interp_speed" : { "type": "float", "default": 1.2, "description": "The interpolation speed used for all sway values" },
+    "enter_animation_event" : { "type": "uint", "description": "[string]The animation event to play when entering this exertion level." },
+    "exit_animation_event" : { "type": "uint", "description": "[string]The animation event to play when exiting this exertion level." },
+    "exertion_grows_vo" : { "type": "uint", "description": "[string]Breath Audio event" },
+    "exertion_recovers_vo" : { "type": "uint", "description": "[string]Breath Audio event" }
+}}

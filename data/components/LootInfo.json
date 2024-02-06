@@ -1,0 +1,6 @@
+{ "LootInfo" : {
+    "type" : { "type": "LootType", "default": "LootType_Count", "description": "Type of the loot to pick-up." },
+    "sample_type" : { "type": "SampleType", "default": "SampleType_None", "description": "Type of the sample to pick-up." },
+    "amount_min" : { "type": "uint", "description": "Minimum amount rewarded per pick-up." },
+    "amount_max" : { "type": "uint", "description": "Maximum amount rewarded per pick-up." }
+}}

@@ -1,0 +1,4 @@
+{ "ObjectiveError" : {
+    "name" : { "type": "uint", "description": "[string]The identifer of the error. Used to trigger it through the objective behavior." },
+    "loc_error" : { "type": "uint", "description": "[string]The localization id of the error text." }
+}}

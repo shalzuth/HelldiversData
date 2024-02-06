@@ -1,0 +1,6 @@
+{ "ShipCustomizationTargetComponent" : {
+    "color_settings" : { "type": "array", "subtype": "ShipCustomizationColorTargetInfo", "description": "Color settings on this prop" },
+    "material_settings" : { "type": "array", "subtype": "ShipCustomizationMaterialTargetInfo", "description": "Material settings on this prop" },
+    "texture_settings" : { "type": "array", "subtype": "ShipCustomizationTextureTargetInfo", "description": "Texture settings on this prop" },
+    "banner_type" : { "type": "ShipCustomizationBannerStyle", "default": "ShipCustomizationBannerStyle_Count", "description": "What type of banner customization setting this prop uses" }
+}}

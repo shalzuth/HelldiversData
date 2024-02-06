@@ -1,0 +1,5 @@
+{ "StratagemCallInLogic" : {
+    "use_objective_position" : { "type": "byte" },
+    "objective_owner" : { "type": "byte" },
+    "host_confirmation" : { "type": "byte" }
+}}

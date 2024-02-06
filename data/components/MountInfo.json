@@ -1,0 +1,6 @@
+{ "MountInfo" : {
+    "path" : { "type": "ulong", "description": "[adhd]Path to the adhd-entity to mount." },
+    "attach_node" : { "type": "uint", "description": "[string]Node where to attach the adhd-entity." },
+    "mount_side" : { "type": "MountSide", "default": "MountSide_Common", "description": "Is this mounted on the left side of the parent, the right side of the parent, or neither side in particular?" },
+    "name" : { "type": "uint", "description": "[string]The name to use in scripts to refer to this mount." }
+}}

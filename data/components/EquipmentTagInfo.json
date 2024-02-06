@@ -1,0 +1,5 @@
+{ "EquipmentTagInfo" : {
+    "equipment_tag_id" : { "type": "uint", "description": "[string]" },
+    "equipment_tag_loc" : { "type": "uint", "description": "[string]" },
+    "critical" : { "type": "byte" }
+}}

@@ -1,0 +1,15 @@
+{ "DepositComponent" : {
+    "capacity" : { "type": "uint", "default": 1, "description": "Total capacity." },
+    "start_amount" : { "type": "int", "description": "Initial capacity." },
+    "refill_amount" : { "type": "uint", "default": 20, "description": "How much should this backpack be refilled for when getting ammo?" },
+    "deduct_owner_vo_event" : { "type": "uint", "description": "[string]VO event to play on the owner of the deposit component entity when being deducted." },
+    "last_deduct_owner_vo_event" : { "type": "uint", "description": "[string]VO event to play on the owner of the deposit component entity when deducting the last deduct." },
+    "drone_path" : { "type": "ulong", "description": "[adhd]If specified, the backpack will spawn the targeted drone." },
+    "friendly_interact_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "If specified, will enable other helldivers' interact zones, as long as you have ammo." },
+    "self_interact_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "If specified, will allow you to self-interact with your backpack." },
+    "show_self_interact" : { "type": "byte", "description": "[bool]If we don't have an ability for this backpack, but still run self-interact logic, set this to true." },
+    "node_hiding_order" : { "type": "array", "subtype": "uint", "description": "[string]Depending on the amount left, these nodes will be hidden accordingly." },
+    "node_hiding_order_post_anim_event" : { "type": "uint", "description": "[string]After deducting, what animation should we play." },
+    "refill_style" : { "type": "DepositRefill", "default": "DepositRefill_None", "description": "How does this deposit gain charges? Ammo/Meds/None etc." },
+    "assisted_reload_weapon_path" : { "type": "ulong", "description": "[string]If specified, the backpack will only work with the specified assist-reloadable weapon." }
+}}

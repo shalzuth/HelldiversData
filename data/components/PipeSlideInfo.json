@@ -1,0 +1,7 @@
+{ "PipeSlideInfo" : {
+    "connected_to_default_script" : { "type": "uint", "description": "[string]Script to trigger when the connection is reconnected to default node" },
+    "disconnected_from_default_script" : { "type": "uint", "description": "[string]Script to trigger when the connection is broken from default node" },
+    "start_node_loc" : { "type": "uint", "default": 3867135424, "description": "[string]Display text for the start node" },
+    "default_end_node_loc" : { "type": "uint", "default": 1099404385, "description": "[string]Display text for the default end node" },
+    "goal_node_loc" : { "type": "uint", "default": 3275455217, "description": "[string]Display text for the goal node" }
+}}

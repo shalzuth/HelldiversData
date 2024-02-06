@@ -1,0 +1,5 @@
+{ "EmoteInputConfiguration" : {
+    "input_count" : { "type": "uint", "description": "How many inputs for this emote" },
+    "emote_option_loc" : { "type": "array", "subtype": "uint", "description": "[string]The help text for this input" },
+    "random_on_no_input" : { "type": "byte", "description": "[bool]Whether to default to a random value if no input is set" }
+}}

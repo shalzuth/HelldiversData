@@ -1,0 +1,4 @@
+{ "DestructionEffectImpulseDynamicActors" : {
+    "impulse_multiplier" : { "type": "float", "default": 1, "description": "The multiplier to apply to the impulse in order to increase or decrease the magnitude of the impulse applied from whatever destroyed it." },
+    "torque_multiplier" : { "type": "float", "default": 1, "description": "The multiplier to apply to the torque in order to increase or decrease the magnitude of the torque applied from whatever destroyed it." }
+}}

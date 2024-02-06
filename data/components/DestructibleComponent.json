@@ -1,0 +1,3 @@
+{ "DestructibleComponent" : {
+    "start_invincible" : { "type": "byte", "description": "[bool]If set, the destructible starts invincible and has to be enabled before it can be destroyed." }
+}}

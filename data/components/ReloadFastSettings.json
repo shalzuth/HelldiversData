@@ -1,0 +1,4 @@
+{ "ReloadFastSettings" : {
+    "start_percent" : { "type": "float", "default": 0, "description": "The percentage through the animation to start playback." },
+    "end_percent" : { "type": "float", "default": 1, "description": "The percentage through the animation to stop playback." }
+}}

@@ -1,0 +1,4 @@
+{ "UnitConditionalSoundEffect" : {
+    "unit_path" : { "type": "ulong", "description": "[string]Path of the unit upon which the sound effect is conditional" },
+    "on_unit_dropped_audio_event" : { "type": "uint", "description": "[wwise]The sound to play when the respective unit is dropped from the dropship" }
+}}

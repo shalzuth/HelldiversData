@@ -1,0 +1,10 @@
+{ "WeaponMagazineComponent" : {
+    "magazine_type" : { "type": "MagazineType", "default": "MagazineType_Uniform", "description": "Type of magazine." },
+    "magazine_pattern" : { "type": "MagazinePattern", "description": "Only used if magazine type is Pattern." },
+    "magazine_capacity" : { "type": "uint", "default": 30, "description": "Number of rounds in one magazine." },
+    "magazines" : { "type": "uint", "default": 6, "description": "Starting number of magazines." },
+    "magazines_refill" : { "type": "uint", "default": 6, "description": "Number of magazines given on refill." },
+    "magazines_max" : { "type": "uint", "default": 12, "description": "Maximum number of magazines." },
+    "reload_threshold" : { "type": "uint", "description": "Reload is allowed when less than this amount of rounds are left in the clip. Defaults to 0 which means 'Same as clip capacity'." },
+    "chambered" : { "type": "byte", "description": "[bool]Can this weapon hold a round in the chamber while reloading. This makes the max amount of bullets capacity + 1 after reload when weapon has rounds remaining" }
+}}

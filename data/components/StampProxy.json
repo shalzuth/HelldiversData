@@ -1,0 +1,6 @@
+{ "StampProxy" : {
+    "unit_resource" : { "type": "ulong" },
+    "rotation" : { "type": "CApiVector4" },
+    "position" : { "type": "CApiVector3" },
+    "scale" : { "type": "CApiVector3" }
+}}

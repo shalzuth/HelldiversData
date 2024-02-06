@@ -1,0 +1,4 @@
+{ "LoadoutItemCategory" : {
+    "type" : { "type": "LoadoutItemType" },
+    "items" : { "type": "array", "subtype": "LoadoutItem" }
+}}

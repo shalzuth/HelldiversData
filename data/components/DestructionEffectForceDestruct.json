@@ -1,0 +1,4 @@
+{ "DestructionEffectForceDestruct" : {
+    "physics_actors" : { "type": "array", "subtype": "uint", "description": "[actor] The physics actor to use for the world-query when finding which objects to force-destroy." },
+    "destruction_level" : { "type": "DestructionTemplateType", "default": "DestructionTemplateType_none", "description": "The destruction level to trigger when forcing destruction." }
+}}

@@ -1,0 +1,15 @@
+{ "ThrowerComponent" : {
+    "throwable_path" : { "type": "ulong", "description": "[unit]Path to the unit that should be thrown." },
+    "audio_node" : { "type": "uint", "description": "[string]Node to play spinning audio effects from." },
+    "panel_count" : { "type": "uint", "default": 6, "description": "The number of panels this thrower has." },
+    "throwable_count" : { "type": "uint", "default": 8, "description": "The number of throwables to throw per-panel." },
+    "throw_delay" : { "type": "float", "default": 2, "description": "Time from spawn until it starts throwing. Should match the deploy animation timing." },
+    "throw_duration" : { "type": "float", "default": 4, "description": "Duration across which to throw the throwables." },
+    "arming_time" : { "type": "float", "default": 3, "description": "Duration to wait before arming the mines." },
+    "spin_rpm" : { "type": "float", "default": 1, "description": "Spin rate of the thrower, in revolutions per minute (RPM)." },
+    "spindown_duration" : { "type": "float", "default": 0.5, "description": "Duration across which to decelerate when done throwing." },
+    "throw_velocity_min" : { "type": "float", "default": 0.1, "description": "Minimum throw velocity." },
+    "throw_velocity_max" : { "type": "float", "default": 0.5, "description": "Maximum throw velocity." },
+    "throw_spread_range" : { "type": "float", "default": 45, "description": "Degrees of spread in the direction of throwing, for each panel." },
+    "on_throw_effect" : { "type": "EffectSetting", "description": "Effect to play when this unit throws something. Node gets overridden with 'panel_%d_mine_%d' depending on panel/mine." }
+}}

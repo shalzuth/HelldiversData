@@ -1,0 +1,12 @@
+{ "SubRegionSettings" : {
+    "type" : { "type": "SubRegionType", "default": "SubRegionType_None" },
+    "zone" : { "type": "ZoneId", "default": "ZONE_ID_UNKNOWN" },
+    "weight" : { "type": "float", "default": 1 },
+    "height_group" : { "type": "SubRegionHeight", "default": "SubRegionHeight_None" },
+    "cell_merge_chance" : { "type": "float", "default": 1 },
+    "blocker_crossing_chance" : { "type": "float", "default": 0 },
+    "allows_location" : { "type": "AllowLocationMode" },
+    "is_override_location_subregion" : { "type": "byte" },
+    "allow_flattening" : { "type": "byte" },
+    "invalid_zone_proximity" : { "type": "array", "subtype": "ZoneId" }
+}}

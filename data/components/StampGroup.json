@@ -1,0 +1,17 @@
+{ "StampGroup" : {
+    "stamps" : { "type": "array", "subtype": "StampInfo" },
+    "grid_cell_size" : { "type": "float", "default": 16 },
+    "max_random_offset_in_cell" : { "type": "float", "default": 0 },
+    "fill_rate" : { "type": "float", "default": 1 },
+    "max_possible_cells_per_map" : { "type": "uint" },
+    "flags" : { "type": "StampGroupFlags" },
+    "stamp_max_overlap" : { "type": "float", "default": 0 },
+    "stamp_min_overlap" : { "type": "float", "default": 0 },
+    "stamp_overlap_group" : { "type": "StampOverlapGroups" },
+    "route_stamp_offset" : { "type": "float", "default": 0 },
+    "max_distance_from_route" : { "type": "float", "default": 0 },
+    "min_distance_from_route" : { "type": "float", "default": 0 },
+    "max_distance_from_playable_area" : { "type": "float", "default": 1000 },
+    "min_difficulty" : { "type": "byte" },
+    "max_difficulty" : { "type": "byte" }
+}}

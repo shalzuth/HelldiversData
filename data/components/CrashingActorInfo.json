@@ -1,0 +1,18 @@
+{ "CrashingActorInfo" : {
+    "wreck_path" : { "type": "ulong", "description": "[unit]Path to the unit to use for the wreck." },
+    "actor_name" : { "type": "uint", "description": "[string]The name of the actor." },
+    "visibility_group_default" : { "type": "uint", "description": "[string]The name of the visibility group shown by default." },
+    "visibility_group_destroyed" : { "type": "uint", "description": "[string]The name of the visibility group to show when destroyed" },
+    "impact_size" : { "type": "ImpactSize", "default": "ImpactSize_None", "description": "This governs what surface effect to play, size of the terrain deformation, damage caused and so on." },
+    "explosion_type" : { "type": "ExplosionType", "default": "ExplosionType_None", "description": "This governs what explosion to trigger." },
+    "landed_velocity" : { "type": "float", "default": 2, "description": "Clamped velocity after actor has landed" },
+    "landed_velocity_threshold" : { "type": "float", "default": 3, "description": "Velocity needs to be lower to be considered landed" },
+    "landed_hit_count_threshold" : { "type": "uint", "default": 2, "description": "Needs to have hit at least this many times to be considered landed" },
+    "landed_disable_actor" : { "type": "byte", "description": "[bool]Disable actor when landed" },
+    "push_down_depth" : { "type": "float", "default": 1, "description": "Push the actor down by this value after it has landed" },
+    "velocity_multiplier_on_hit" : { "type": "float", "default": 0.2, "description": "Multiply velocity by this on hit" },
+    "smoke_particle_effect_path" : { "type": "ulong", "description": "[particles]Path to the particles attached to the actor when crashing." },
+    "stop_particle_effect_path" : { "type": "ulong", "description": "[particles]Path to the particles that play when actor is stopped." },
+    "sub_actors" : { "type": "array", "subtype": "uint", "description": "[string]Actors that will attach to this actor for client simulation in order to save up on networking." },
+    "sub_actors_are_fixed" : { "type": "byte", "description": "[bool]For proxy shapes that being listed as sub actors" }
+}}

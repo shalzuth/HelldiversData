@@ -1,0 +1,6 @@
+{ "ObjectiveShellComponent" : {
+    "projectile_type" : { "type": "ProjectileType", "default": "ProjectileType_None", "description": "Projectile Type" },
+    "shell_material_color" : { "type": "CApiVector3", "description": "Used to tint certain parts of the shell with the specific color" },
+    "ammo_projectile_key" : { "type": "uint", "default": 2618278517, "description": "[string]Projectile Type" },
+    "shell_icon" : { "type": "ulong", "description": "[material]If specified, will try to apply the texture as an icon to the shell" }
+}}

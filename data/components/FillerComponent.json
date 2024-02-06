@@ -1,0 +1,4 @@
+{ "FillerComponent" : {
+    "drop_off_attach_offset" : { "type": "CApiVector3", "description": "Drop off offset when some entity with FillComponent is attached to us" },
+    "drop_off_attach_rotation" : { "type": "CApiVector3", "description": "Drop off rotation when some entity with FillComponent is attached to us" }
+}}

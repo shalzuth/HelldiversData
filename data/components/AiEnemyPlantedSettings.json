@@ -1,0 +1,4 @@
+{ "AiEnemyPlantedSettings" : {
+    "locomotion_set" : { "type": "uint", "description": "[string]" },
+    "disable_rotation" : { "type": "byte" }
+}}

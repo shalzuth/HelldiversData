@@ -1,0 +1,17 @@
+{ "GoreGroupInfo" : {
+    "gib_damage" : { "type": "float", "default": -1, "description": "The damage needed to gib." },
+    "dismember_damage" : { "type": "float", "default": 0, "description": "The damage needed to dismember." },
+    "force_hollywood_factor" : { "type": "float", "default": 25, "description": "A multiplier on the damage force that is applied as an impulse on a dismembered limb (not on explosions though)." },
+    "dismemberment_effects" : { "type": "array", "subtype": "GoreEffectPair", "description": "The list of effects (particles and audio) to randomly choose from on a dismembered event." },
+    "gib_effects" : { "type": "array", "subtype": "GoreEffectPair", "description": "The list effects (particles and audio) to randomly choose from on a gib event." },
+    "visibility_mask_flip_dismemberment" : { "type": "VisibilityMaskFlip", "description": "The visibility masks to flip (hide/show) when this gore group is dismembered." },
+    "visibility_mask_flip_gib" : { "type": "VisibilityMaskFlip", "description": "The visibility masks to flip (hide/show) when this gore group is gibbed." },
+    "actors" : { "type": "array", "subtype": "uint", "description": "[string]Names of the actors sharing these settings. The name of the actor is also used to find the node to play effects from (if node_overrides is not set)." },
+    "node_overrides" : { "type": "array", "subtype": "uint", "description": "[string]Name of nodes/sockets to use when playing the body (parent) effect instead of using the scene graph parent of the actor." },
+    "links" : { "type": "array", "subtype": "GoreLinkInfo", "description": "List of actors that should also gib or dismember if this group is triggered." },
+    "gib_actor_whitelist" : { "type": "array", "subtype": "uint", "description": "[string]List of actors that we should not disable when gibbed." },
+    "child_actors" : { "type": "array", "subtype": "uint", "description": "[string]List of actors that should trigger a gib/dismember of (one of) the actors in the 'actors' array when they die. Used for avatar limbs where we can only cut on certain actors in the chain." },
+    "dismember_limbs" : { "type": "byte", "description": "[bool]True if the limbs should detach and the ragdoll should cut." },
+    "main_group" : { "type": "byte", "description": "[bool]True this group should be the one affected by the default damage zone getting gibbed." },
+    "gib_force_scale" : { "type": "byte", "description": "[bool]True then we scale the joint to 0 even if it hides a visibility mask." }
+}}

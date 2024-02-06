@@ -1,0 +1,8 @@
+{ "ExplorationSpawnLayer" : {
+    "layer_to_spawn" : { "type": "uint" },
+    "min_to_spawn" : { "type": "uint" },
+    "max_to_spawn" : { "type": "uint" },
+    "priority" : { "type": "uint" },
+    "min_difficulty" : { "type": "byte" },
+    "max_difficulty" : { "type": "byte" }
+}}

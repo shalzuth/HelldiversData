@@ -1,0 +1,8 @@
+{ "RecoilModifiers" : {
+    "horizontal_multiplier" : { "type": "float", "default": 1, "description": "This is both applied to climb and drift, and to both start and end values of recoil" },
+    "vertical_multiplier" : { "type": "float", "default": 1, "description": "This is both applied to climb and drift, and to both start and end values of recoil." },
+    "drift_horizontal_multiplier" : { "type": "float", "default": 1, "description": "This applies only to drift recoil values, and to both start and end values of recoil" },
+    "drift_vertical_multiplier" : { "type": "float", "default": 1, "description": "This applies only to drift recoil values, and to both start and end values of recoil." },
+    "climb_horizontal_multiplier" : { "type": "float", "default": 1, "description": "This applies only to climb recoil values, and to both start and end values of recoil" },
+    "climb_vertical_multiplier" : { "type": "float", "default": 1, "description": "This applies only to climb recoil values, and to both start and end values of recoil." }
+}}

@@ -1,0 +1,4 @@
+{ "VideoFlowSettings" : {
+    "video_segments" : { "type": "array", "subtype": "VideoSegment" },
+    "planet_segments" : { "type": "VideoPlanetSegment" }
+}}

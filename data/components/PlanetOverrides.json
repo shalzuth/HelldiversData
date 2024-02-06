@@ -1,0 +1,6 @@
+{ "PlanetOverrides" : {
+    "name" : { "type": "string" },
+    "id" : { "type": "uint" },
+    "package" : { "type": "ulong" },
+    "resources" : { "type": "array", "subtype": "ResourceOverride" }
+}}

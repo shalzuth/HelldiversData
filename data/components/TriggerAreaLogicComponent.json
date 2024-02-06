@@ -1,0 +1,5 @@
+{ "TriggerAreaLogicComponent" : {
+    "relevant_entity_paths" : { "type": "array", "subtype": "ulong", "description": "[string]" },
+    "trigger_behavior_on_enter" : { "type": "byte" },
+    "trigger_behavior_on_exit" : { "type": "byte" }
+}}

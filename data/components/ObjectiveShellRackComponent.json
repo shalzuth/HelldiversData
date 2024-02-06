@@ -1,0 +1,5 @@
+{ "ObjectiveShellRackComponent" : {
+    "fire_delay" : { "type": "float", "default": 1.5, "description": "How much time before the gun fires, after it is told to do so. (Time is used for aligning the gun's direction)" },
+    "shell_spawn_count" : { "type": "uint", "default": 15, "description": "How many shells can we spawn in the stamp we are in?" },
+    "sync_initial_delay_to_last_minigame" : { "type": "byte", "description": "[bool]If enabled, when prepping the SEAF Gun for the first time, the stratagem delay will be synced to the delay of the last minigame." }
+}}

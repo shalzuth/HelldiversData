@@ -1,0 +1,8 @@
+{ "ExplorationRewardComponent" : {
+    "ability_id_at_interaction" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Indicates the ability that the reward entity will play once the avatar interact with it." },
+    "audio_event_at_interaction" : { "type": "uint", "default": 1288385068, "description": "[wwise]Indicates the audio event that the reward entity will fire once the avatar interact with it." },
+    "animation_event_at_interaction" : { "type": "uint", "default": 1288385068, "description": "[string]Indicates the animation event that the reward entity will fire once the avatar interact with it." },
+    "ability_id_at_interaction_interactor" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Indicates the ability that the avatar will play once interacts with the reward." },
+    "should_destroy_after_interaction" : { "type": "byte", "description": "[bool]Indicates if we should destroy the entity after interaction." },
+    "default_exploration_reward_type" : { "type": "ExplorationRewardType", "default": "ExplorationRewardType_None", "description": "Indicates the reward type that we should give by default if we don't specify any script data in the marker." }
+}}

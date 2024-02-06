@@ -1,0 +1,50 @@
+{
+  "4142614004567995477": {
+    "ability_id_at_interaction": "AbilityId_Invalid",
+    "audio_event_at_interaction": 660920839,
+    "animation_event_at_interaction": 1288385068,
+    "ability_id_at_interaction_interactor": "AbilityId_Invalid",
+    "should_destroy_after_interaction": 1,
+    "default_exploration_reward_type": "ExplorationRewardType_None"
+  },
+  "7742303829890335551": {
+    "ability_id_at_interaction": "AbilityId_Invalid",
+    "audio_event_at_interaction": 1174055755,
+    "animation_event_at_interaction": 1288385068,
+    "ability_id_at_interaction_interactor": "AbilityId_avatar_exploration_reward_interact_generic",
+    "should_destroy_after_interaction": 1,
+    "default_exploration_reward_type": "ExplorationRewardType_exploration_requisition_slips"
+  },
+  "1476012537193590664": {
+    "ability_id_at_interaction": "AbilityId_Invalid",
+    "audio_event_at_interaction": 428935064,
+    "animation_event_at_interaction": 1288385068,
+    "ability_id_at_interaction_interactor": "AbilityId_avatar_exploration_reward_interact_generic",
+    "should_destroy_after_interaction": 1,
+    "default_exploration_reward_type": "ExplorationRewardType_exploration_medals"
+  },
+  "9333151595628803334": {
+    "ability_id_at_interaction": "AbilityId_Invalid",
+    "audio_event_at_interaction": 559098276,
+    "animation_event_at_interaction": 1288385068,
+    "ability_id_at_interaction_interactor": "AbilityId_avatar_exploration_reward_interact_generic",
+    "should_destroy_after_interaction": 1,
+    "default_exploration_reward_type": "ExplorationRewardType_exploration_credit_card"
+  },
+  "3468100940980596463": {
+    "ability_id_at_interaction": "AbilityId_Invalid",
+    "audio_event_at_interaction": 660920839,
+    "animation_event_at_interaction": 1288385068,
+    "ability_id_at_interaction_interactor": "AbilityId_avatar_exploration_reward_interact_generic",
+    "should_destroy_after_interaction": 1,
+    "default_exploration_reward_type": "ExplorationRewardType_None"
+  },
+  "13650214626151558605": {
+    "ability_id_at_interaction": "AbilityId_Invalid",
+    "audio_event_at_interaction": 559098276,
+    "animation_event_at_interaction": 1288385068,
+    "ability_id_at_interaction_interactor": "AbilityId_avatar_exploration_reward_interact_generic",
+    "should_destroy_after_interaction": 1,
+    "default_exploration_reward_type": "ExplorationRewardType_exploration_credit_card"
+  }
+}

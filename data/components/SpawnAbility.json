@@ -1,0 +1,4 @@
+{ "SpawnAbility" : {
+    "job" : { "type": "AiJob", "default": "AiJob_Any", "description": "If spawned with this job, the corresponding ability will trigger. AiJob_Any will match against all jobs." },
+    "ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play if spawned with this job." }
+}}

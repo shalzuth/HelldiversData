@@ -1,0 +1,8 @@
+{ "CountdownInfo" : {
+    "default_countdown_time" : { "type": "uint", "default": 20, "description": "How many seconds is this countdown" },
+    "adjustable_countdown" : { "type": "byte", "description": "[bool]If true, then the player can adjust the length of this countdown before triggering it" },
+    "adjusted_countdown_time_min" : { "type": "uint", "default": 5, "description": "Minimum Time to Set" },
+    "adjusted_countdown_time_max" : { "type": "uint", "default": 20, "description": "Maximum Time to Set" },
+    "adjustable_options_count" : { "type": "uint", "default": 3, "description": "How many options are presented to the user (interpolated from min to max)" },
+    "activate_loc_string" : { "type": "uint", "description": "[string]Text string for activate/start timer button" }
+}}

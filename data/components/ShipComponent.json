@@ -1,0 +1,4 @@
+{ "ShipComponent" : {
+    "loadout_countdown_time" : { "type": "float", "default": 15, "description": "The countdown time before starting loadout" },
+    "dropin_countdown_time" : { "type": "float", "default": 60, "description": "The countdown time before starting drop-in selection" }
+}}

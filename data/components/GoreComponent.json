@@ -1,0 +1,8 @@
+{ "GoreComponent" : {
+    "gore_groups" : { "type": "array", "subtype": "GoreGroupInfo", "description": "Contains all gore groups for the entity." },
+    "gore_actor_overrides" : { "type": "array", "subtype": "ActorGoreOverride" },
+    "overkill_gib_effect" : { "type": "GoreEffect", "description": "Played when this entity is overkilled. We removed the unit and play this effect." },
+    "default_force_hollywood_factor" : { "type": "float", "default": 1, "description": "The multiplier on the force that we apply on hit bodies that isn't part of any Gore Group." },
+    "gib_on_high_velocity_impact" : { "type": "float", "default": 0, "description": "Should this entity gib if we impact at high velocity." },
+    "drop_mounts_on_dead_gib" : { "type": "byte", "description": "[bool]If set, we drop all mounted things when we gib any actor and are dead." }
+}}

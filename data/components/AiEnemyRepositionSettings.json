@@ -1,0 +1,10 @@
+{ "AiEnemyRepositionSettings" : {
+    "min_time_stationary" : { "type": "float", "default": 0, "description": "Minimum time being stationary before beginning to reposition. Time while doing abilities is included." },
+    "max_time_stationary" : { "type": "float", "default": 0, "description": "Maximum time being stationary before beginning to reposition. Time while doing abilities is included." },
+    "min_time_repositioning" : { "type": "float", "default": 0, "description": "Minimum time repositioning before going back to stationary. Time while doing abilities is excluded." },
+    "max_time_repositioning" : { "type": "float", "default": 0, "description": "Maximum time repositioning before going back to stationary. Time while doing abilities is excluded." },
+    "max_flank_angle" : { "type": "float", "default": 30, "description": "The maximum flank angle. If 0, the enemy would travel straight towards the target, 90 would be perpendicular and could orbit the target (if looked at)." },
+    "min_distance" : { "type": "float", "default": 0, "description": "The minimum distance from target where we would enable repositioning." },
+    "max_distance" : { "type": "float", "default": 0, "description": "The maximum distance from target where we would enable repositioning. 0 means no distance limitation." },
+    "allow_abilities" : { "type": "byte", "description": "[bool]Allow using abilities while repositioning." }
+}}

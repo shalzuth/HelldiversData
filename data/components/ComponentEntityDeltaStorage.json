@@ -1,0 +1,7 @@
+{ "ComponentEntityDeltaStorage" : {
+    "hashmap" : { "type": "array", "subtype": "EntityDeltaTypeData" },
+    "settings" : { "type": "array", "subtype": "EntityDeltaSettings" },
+    "component_settings" : { "type": "array", "subtype": "ComponentDeltaSettings" },
+    "deltas" : { "type": "array", "subtype": "ComponentModificationDelta" },
+    "data" : { "type": "array", "subtype": "byte" }
+}}

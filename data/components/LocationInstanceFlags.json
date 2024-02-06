@@ -1,0 +1,10 @@
+{ "LocationInstanceFlags" : {
+    "is_mission_location" : { "type": "byte" },
+    "is_frozen" : { "type": "byte" },
+    "is_debug_spawned" : { "type": "byte" },
+    "is_border_location" : { "type": "byte" },
+    "is_finalized" : { "type": "byte" },
+    "is_hidden_from_player" : { "type": "byte" },
+    "danger_zone" : { "type": "byte" },
+    "has_been_attached_to_route_cell" : { "type": "byte" }
+}}

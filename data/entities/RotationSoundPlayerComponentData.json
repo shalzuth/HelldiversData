@@ -1,0 +1,140 @@
+{
+  "8783342891467425251": {
+    "entries": [
+      {
+        "is_active": 1,
+        "part_type": "PartType_Armament",
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0,
+        "rotation_threshold_start": 5,
+        "rotation_threshold_stop": 3,
+        "stoppage_time": 0.100000001
+      },
+      {
+        "is_active": 0,
+        "part_type": "PartType_Hotbox",
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0,
+        "rotation_threshold_start": 0,
+        "rotation_threshold_stop": 0,
+        "stoppage_time": 0
+      }
+    ],
+    "culling_distance": 50
+  },
+  "12218137513893139416": {
+    "entries": [
+      {
+        "is_active": 1,
+        "part_type": "PartType_Hotbox",
+        "rotation_start_event": 322079471,
+        "rotation_stop_event": 3039607021,
+        "rotation_threshold_start": 1,
+        "rotation_threshold_stop": 0.5,
+        "stoppage_time": 0.100000001
+      },
+      {
+        "is_active": 1,
+        "part_type": "PartType_Armament",
+        "rotation_start_event": 1975980157,
+        "rotation_stop_event": 4161719019,
+        "rotation_threshold_start": 5,
+        "rotation_threshold_stop": 1,
+        "stoppage_time": 0.100000001
+      }
+    ],
+    "culling_distance": 50
+  },
+  "1051445694670701817": {
+    "entries": [
+      {
+        "is_active": 1,
+        "part_type": "PartType_Hotbox",
+        "rotation_start_event": 322079471,
+        "rotation_stop_event": 3039607021,
+        "rotation_threshold_start": 1,
+        "rotation_threshold_stop": 0.5,
+        "stoppage_time": 0.100000001
+      },
+      {
+        "is_active": 1,
+        "part_type": "PartType_Armament",
+        "rotation_start_event": 1975980157,
+        "rotation_stop_event": 4161719019,
+        "rotation_threshold_start": 5,
+        "rotation_threshold_stop": 1,
+        "stoppage_time": 0.100000001
+      }
+    ],
+    "culling_distance": 50
+  },
+  "12209482505501190673": {
+    "entries": [
+      {
+        "is_active": 1,
+        "part_type": "PartType_Hotbox",
+        "rotation_start_event": 322079471,
+        "rotation_stop_event": 3039607021,
+        "rotation_threshold_start": 1,
+        "rotation_threshold_stop": 0.5,
+        "stoppage_time": 0.100000001
+      },
+      {
+        "is_active": 1,
+        "part_type": "PartType_Armament",
+        "rotation_start_event": 1975980157,
+        "rotation_stop_event": 4161719019,
+        "rotation_threshold_start": 5,
+        "rotation_threshold_stop": 1,
+        "stoppage_time": 0.100000001
+      }
+    ],
+    "culling_distance": 50
+  },
+  "14038927220542196401": {
+    "entries": [
+      {
+        "is_active": 1,
+        "part_type": "PartType_Armament",
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0,
+        "rotation_threshold_start": 5,
+        "rotation_threshold_stop": 3,
+        "stoppage_time": 0.100000001
+      },
+      {
+        "is_active": 0,
+        "part_type": "PartType_Hotbox",
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0,
+        "rotation_threshold_start": 0,
+        "rotation_threshold_stop": 0,
+        "stoppage_time": 0
+      }
+    ],
+    "culling_distance": 50
+  },
+  "3177983950714174823": {
+    "entries": [
+      {
+        "is_active": 1,
+        "part_type": "PartType_Hotbox",
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0,
+        "rotation_threshold_start": 1,
+        "rotation_threshold_stop": 0.5,
+        "stoppage_time": 0.100000001
+      },
+      {
+        "is_active": 1,
+        "part_type": "PartType_Armament",
+        "rotation_start_event": 1787764394,
+        "rotation_stop_event": 1490057,
+        "rotation_threshold_start": 5,
+        "rotation_threshold_stop": 1,
+        "stoppage_time": 0.100000001
+      }
+    ],
+    "culling_distance": 50
+  }
+}

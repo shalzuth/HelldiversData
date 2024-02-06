@@ -1,0 +1,4 @@
+{ "TutorialComponent" : {
+    "debug_dictionary" : { "type": "array", "subtype": "uint", "description": "[string]" },
+    "multiple_death_count" : { "type": "uint", "default": 10 }
+}}

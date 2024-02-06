@@ -1,0 +1,716 @@
+{
+  "7911125090997601213": {
+    "start_value": 0,
+    "start_enabled": 0,
+    "transition_type": "InteractStateTransitionType_FlickHorizontal",
+    "transition_speed": 0.49000001,
+    "revert_speed": 2,
+    "force_user_exit_delay": 0,
+    "switch_states_settings": [
+      {
+        "position": 0,
+        "revert_to": {
+          "behavior_event": 2235895672,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 1934909345
+        },
+        "start_transition_to": {
+          "behavior_event": 2235895672,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 2173519201,
+        "interact_action_loc_string": 3814801462
+      },
+      {
+        "position": 1,
+        "revert_to": {
+          "behavior_event": 2134229286,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 1934909345
+        },
+        "start_transition_to": {
+          "behavior_event": 2134229286,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 2173519201,
+        "interact_action_loc_string": 1063103250
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      }
+    ],
+    "loops": 0,
+    "animation": {
+      "animation_variable": 0,
+      "animation_value_min": 0,
+      "animation_value_max": 1,
+      "control_linked": 0
+    },
+    "custom_input_text": 0,
+    "generic_increase_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 3920918572,
+      "switch_animation_event": 3920918572
+    },
+    "generic_decrease_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 1545970969,
+      "switch_animation_event": 1545970969
+    },
+    "generic_stop_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "can_manually_exit": 1,
+    "start_moving_behavior_event": 0,
+    "stop_moving_behavior_event": 0,
+    "entered_goal_state_behavior_event": 0,
+    "left_goal_state_behavior_event": 0
+  },
+  "11682065381586027134": {
+    "start_value": 0,
+    "start_enabled": 0,
+    "transition_type": "InteractStateTransitionType_Automatic",
+    "transition_speed": 1,
+    "revert_speed": 1,
+    "force_user_exit_delay": 0,
+    "switch_states_settings": [
+      {
+        "position": 0,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": 1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      }
+    ],
+    "loops": 0,
+    "animation": {
+      "animation_variable": 0,
+      "animation_value_min": 0,
+      "animation_value_max": 1,
+      "control_linked": 0
+    },
+    "custom_input_text": 0,
+    "generic_increase_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_decrease_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_stop_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "can_manually_exit": 0,
+    "start_moving_behavior_event": 0,
+    "stop_moving_behavior_event": 0,
+    "entered_goal_state_behavior_event": 0,
+    "left_goal_state_behavior_event": 0
+  },
+  "13304934171164889807": {
+    "start_value": 0,
+    "start_enabled": 0,
+    "transition_type": "InteractStateTransitionType_Automatic",
+    "transition_speed": 1.25,
+    "revert_speed": 1,
+    "force_user_exit_delay": 0.400000006,
+    "switch_states_settings": [
+      {
+        "position": 0,
+        "revert_to": {
+          "behavior_event": 524381744,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": 1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 3978556131,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 1,
+        "terminal_state_loc_string": 2262072624,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      }
+    ],
+    "loops": 0,
+    "animation": {
+      "animation_variable": 0,
+      "animation_value_min": 0,
+      "animation_value_max": 1,
+      "control_linked": 0
+    },
+    "custom_input_text": 0,
+    "generic_increase_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_decrease_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_stop_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "can_manually_exit": 0,
+    "start_moving_behavior_event": 0,
+    "stop_moving_behavior_event": 0,
+    "entered_goal_state_behavior_event": 0,
+    "left_goal_state_behavior_event": 0
+  },
+  "18403410395546333600": {
+    "start_value": 0,
+    "start_enabled": 0,
+    "transition_type": "InteractStateTransitionType_Automatic",
+    "transition_speed": 1.25,
+    "revert_speed": 1,
+    "force_user_exit_delay": 0.400000006,
+    "switch_states_settings": [
+      {
+        "position": 0,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": 1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      }
+    ],
+    "loops": 0,
+    "animation": {
+      "animation_variable": 0,
+      "animation_value_min": 0,
+      "animation_value_max": 1,
+      "control_linked": 0
+    },
+    "custom_input_text": 0,
+    "generic_increase_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_decrease_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_stop_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "can_manually_exit": 0,
+    "start_moving_behavior_event": 0,
+    "stop_moving_behavior_event": 0,
+    "entered_goal_state_behavior_event": 0,
+    "left_goal_state_behavior_event": 0
+  },
+  "9342761096312224748": {
+    "start_value": 0,
+    "start_enabled": 1,
+    "transition_type": "InteractStateTransitionType_Automatic",
+    "transition_speed": 1,
+    "revert_speed": 1,
+    "force_user_exit_delay": 0,
+    "switch_states_settings": [
+      {
+        "position": 0,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": 1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      }
+    ],
+    "loops": 0,
+    "animation": {
+      "animation_variable": 0,
+      "animation_value_min": 0,
+      "animation_value_max": 1,
+      "control_linked": 0
+    },
+    "custom_input_text": 0,
+    "generic_increase_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_decrease_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_stop_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "can_manually_exit": 1,
+    "start_moving_behavior_event": 0,
+    "stop_moving_behavior_event": 0,
+    "entered_goal_state_behavior_event": 0,
+    "left_goal_state_behavior_event": 0
+  },
+  "10543305064558090578": {
+    "start_value": 0.5,
+    "start_enabled": 0,
+    "transition_type": "InteractStateTransitionType_HoldHorizontal",
+    "transition_speed": 0.0500000007,
+    "revert_speed": 1,
+    "force_user_exit_delay": 0,
+    "switch_states_settings": [
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      }
+    ],
+    "loops": 1,
+    "animation": {
+      "animation_variable": 161490677,
+      "animation_value_min": 0,
+      "animation_value_max": 1,
+      "control_linked": 1
+    },
+    "custom_input_text": 1974801601,
+    "generic_increase_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 3878710496,
+      "switch_animation_event": 3717838672
+    },
+    "generic_decrease_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 2366163334,
+      "switch_animation_event": 2365415212
+    },
+    "generic_stop_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 988885507,
+      "switch_animation_event": 4285485939
+    },
+    "can_manually_exit": 1,
+    "start_moving_behavior_event": 2188502577,
+    "stop_moving_behavior_event": 2348869345,
+    "entered_goal_state_behavior_event": 131727735,
+    "left_goal_state_behavior_event": 1712243963
+  },
+  "6290687013549728522": {
+    "start_value": 0,
+    "start_enabled": 1,
+    "transition_type": "InteractStateTransitionType_Automatic",
+    "transition_speed": 1,
+    "revert_speed": 1,
+    "force_user_exit_delay": 0,
+    "switch_states_settings": [
+      {
+        "position": 0,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": 1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      },
+      {
+        "position": -1,
+        "revert_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "start_transition_to": {
+          "behavior_event": 0,
+          "interactor_animation_event": 0,
+          "switch_animation_event": 0
+        },
+        "disable_when_active": 0,
+        "terminal_state_loc_string": 0,
+        "interact_action_loc_string": 0
+      }
+    ],
+    "loops": 0,
+    "animation": {
+      "animation_variable": 0,
+      "animation_value_min": 0,
+      "animation_value_max": 1,
+      "control_linked": 0
+    },
+    "custom_input_text": 0,
+    "generic_increase_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_decrease_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "generic_stop_action": {
+      "behavior_event": 0,
+      "interactor_animation_event": 0,
+      "switch_animation_event": 0
+    },
+    "can_manually_exit": 1,
+    "start_moving_behavior_event": 0,
+    "stop_moving_behavior_event": 0,
+    "entered_goal_state_behavior_event": 0,
+    "left_goal_state_behavior_event": 0
+  }
+}

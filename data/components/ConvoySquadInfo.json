@@ -1,0 +1,7 @@
+{ "ConvoySquadInfo" : {
+    "path" : { "type": "ulong", "description": "[adhd]The type of entity to spawn." },
+    "offset" : { "type": "float", "default": 0, "description": "Offset from the convoy center along the route" },
+    "is_objective" : { "type": "byte", "description": "[bool]If this squad is part of the convoy objective" },
+    "show_distance" : { "type": "float", "default": 150, "description": "At this distance the ghost squad turns into a real squad" },
+    "hide_distance" : { "type": "float", "default": 300, "description": "At this distance the squad turns into a ghost squad " }
+}}

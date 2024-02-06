@@ -1,0 +1,4 @@
+{ "ScoreDealerStats" : {
+    "path" : { "type": "ulong", "description": "[string]" },
+    "fields" : { "type": "array", "subtype": "ScoreDealerField" }
+}}

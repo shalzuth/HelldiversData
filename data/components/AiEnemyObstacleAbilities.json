@@ -1,0 +1,7 @@
+{ "AiEnemyObstacleAbilities" : {
+    "small" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to use if a small obstacle is blocking your path." },
+    "large" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to use if a large obstacle is blocking your path." },
+    "length" : { "type": "float", "default": 1, "description": "The length of the oobb to use to check for 'obstacle' navmesh material." },
+    "radius" : { "type": "float", "default": 1, "description": "The radius of the oobb to use to check for 'obstacle' navmesh material." },
+    "use_for_motion_constraints" : { "type": "byte", "description": "[bool]Set to true if we should get constrained by the these obstacle navmesh material." }
+}}

@@ -1,0 +1,6 @@
+{ "MinimapScatterSet" : {
+    "density" : { "type": "float", "default": 1 },
+    "water_lower_spawn_cutoff" : { "type": "float", "default": 2 },
+    "water_upper_spawn_cutoff" : { "type": "float", "default": 1000 },
+    "minimap_scatter" : { "type": "array", "subtype": "MinimapScatter" }
+}}

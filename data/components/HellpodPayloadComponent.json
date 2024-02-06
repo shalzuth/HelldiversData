@@ -1,0 +1,7 @@
+{ "HellpodPayloadComponent" : {
+    "remove_time" : { "type": "float", "default": 2.5, "description": "The time between playing the retraction animation event and removing the entity." },
+    "life_time" : { "type": "float", "default": 0, "description": "The life time of this payload. 0 is infinite." },
+    "on_retract_ability" : { "type": "AbilityId", "default": "AbilityId_hellpod_generic_payload_retract", "description": "Ability to play on this unit when it's retracted." },
+    "map_icon" : { "type": "ulong", "description": "[material]Icon to display for this payload on the map (if any)." },
+    "map_name" : { "type": "uint", "description": "[string]Name to display for this payload on the map (if any)." }
+}}

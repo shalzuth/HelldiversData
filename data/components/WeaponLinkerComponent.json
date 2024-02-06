@@ -1,0 +1,4 @@
+{ "WeaponLinkerComponent" : {
+    "link_attach" : { "type": "WeaponLinkerAttach", "default": "WeaponLinkerAttach_None", "description": "How should this weapon find its linked entity?" },
+    "link_logic_tag" : { "type": "uint", "description": "[string]What kind of logic should the linker use?" }
+}}

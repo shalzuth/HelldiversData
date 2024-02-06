@@ -1,0 +1,8 @@
+{ "CollisionEventSetting" : {
+    "unit_resource" : { "type": "ulong" },
+    "sound_id" : { "type": "uint" },
+    "node_id" : { "type": "uint", "description": "[string]" },
+    "impulse_threshold" : { "type": "float", "default": 0.5 },
+    "effect" : { "type": "EffectSetting" },
+    "rpc_if_owned" : { "type": "byte" }
+}}

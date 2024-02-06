@@ -1,0 +1,18 @@
+{ "SolarSystemObjectSettings" : {
+    "planet_type" : { "type": "ulong" },
+    "ring_type" : { "type": "ulong" },
+    "planet_object_settings" : { "type": "SolarSystemObjectTypeSettings" },
+    "scale" : { "type": "CApiVector2" },
+    "planet_id" : { "type": "SolarSystemPlanet" },
+    "orbits_planet" : { "type": "SolarSystemPlanet" },
+    "orbit_distance" : { "type": "float", "default": 0 },
+    "orbit_tilt" : { "type": "CApiVector2" },
+    "orbit_tilt_rotation" : { "type": "CApiVector2" },
+    "seconds_for_one_orbit" : { "type": "CApiVector2" },
+    "seconds_for_one_axis_rotation" : { "type": "CApiVector2" },
+    "seconds_for_one_ring_rotation" : { "type": "CApiVector2" },
+    "axis_tilt" : { "type": "CApiVector2" },
+    "axis_tilt_rotation" : { "type": "CApiVector2" },
+    "fog_light_intensity" : { "type": "float", "default": 1 },
+    "start_angle_range" : { "type": "CApiVector2" }
+}}

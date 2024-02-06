@@ -1,0 +1,7 @@
+{ "DestructionEventLevel" : {
+    "destruction_effects" : { "type": "array", "subtype": "DestructionEffectEvent" },
+    "destruction_template" : { "type": "DestructionTemplate", "description": "[skip]" },
+    "destruction_template_type" : { "type": "DestructionTemplateType", "default": "DestructionTemplateType_none" },
+    "impact_override_template" : { "type": "DestructionTemplate", "description": "[skip]" },
+    "impact_override_template_type" : { "type": "DestructionTemplateType", "default": "DestructionTemplateType_none" }
+}}

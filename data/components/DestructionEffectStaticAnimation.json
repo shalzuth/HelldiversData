@@ -1,0 +1,13 @@
+{ "DestructionEffectStaticAnimation" : {
+    "animating_particle_effect" : { "type": "ulong", "description": "[particles] The particle effect to play (looping) while the animation is playing." },
+    "animating_done_particle_effect" : { "type": "ulong", "description": "[particles] The particle effect to trigger when the animation has been completed." },
+    "particles_position_offset" : { "type": "CApiVector3", "description": "[gizmo_position] The offset from the unit origo that the particles will be spawned at (in meters)." },
+    "animation_acceleration" : { "type": "float", "default": 9.82, "description": "The acceleration applied to the movement of the animated node. (in m/s)" },
+    "animation_angular_time" : { "type": "float", "default": 0, "description": "The amount of time it will take for the animation to rotate target_rotation_amount (in seconds)." },
+    "target_rotation_amount" : { "type": "float", "default": 0, "description": "The amount of rotation in radians that the node will be rotated with around x/y axis. (rads)" },
+    "animate_down_node" : { "type": "uint", "description": "[node] The node in the unit that is animated (moved)." },
+    "group_to_visualize" : { "type": "uint", "description": "[string] The visibility group that will be set to visible." },
+    "particles_inherit_rotation" : { "type": "byte", "description": "Wether or not the spawned particles should inherit the world-rotation from the node which they are spawned from." },
+    "impulse_multiplier" : { "type": "float", "default": 1, "description": "The multiplier to apply to the impulse in order to increase or decrease the magnitude of the impulse applied from whatever destroyed it." },
+    "torque_multiplier" : { "type": "float", "default": 1, "description": "The multiplier to apply to the torque in order to increase or decrease the magnitude of the torque applied from whatever destroyed it." }
+}}

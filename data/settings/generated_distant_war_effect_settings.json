@@ -1,0 +1,208 @@
+[
+  {
+    "DistantWarEffectPool": {
+      "pool_type": "DistantWarEffectPoolType_Bugs",
+      "load_type": "DistantWarEffectPoolLoadType_Persistent",
+      "package": 9082602881939954793,
+      "spawn_range": {
+        "x": 880,
+        "y": 1500
+      },
+      "cooldown_time": {
+        "x": 0.200000003,
+        "y": 10
+      },
+      "effects": [
+        {
+          "effect": 9285688932017145685,
+          "audio_event": 0,
+          "weight": 5,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 9285688932017145685,
+          "audio_event": 0,
+          "weight": 9,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 11898704972879646362,
+          "audio_event": 0,
+          "weight": 3,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 3800432765555768421,
+          "audio_event": 0,
+          "weight": 4,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 9317462304047786454,
+          "audio_event": 0,
+          "weight": 5,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 17966192980467768864,
+          "audio_event": 0,
+          "weight": 4,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 9299825993674403191,
+          "audio_event": 0,
+          "weight": 6,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 8500220488195046821,
+          "audio_event": 0,
+          "weight": 7,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 11251916902409682054,
+          "audio_event": 0,
+          "weight": 5,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 3885625985035436942,
+          "audio_event": 0,
+          "weight": 1,
+          "immediate_spawn": 0
+        }
+      ]
+    }
+  },
+  {
+    "DistantWarEffectPool": {
+      "pool_type": "DistantWarEffectPoolType_Cyborg",
+      "load_type": "DistantWarEffectPoolLoadType_Persistent",
+      "package": 13045350471753247352,
+      "spawn_range": {
+        "x": 750,
+        "y": 1500
+      },
+      "cooldown_time": {
+        "x": 2,
+        "y": 8
+      },
+      "effects": [
+        {
+          "effect": 7257996464199200416,
+          "audio_event": 0,
+          "weight": 5,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 12236020234282448398,
+          "audio_event": 0,
+          "weight": 6,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 5995510452768756398,
+          "audio_event": 0,
+          "weight": 4,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 11777814803446016837,
+          "audio_event": 0,
+          "weight": 1,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 5324919184187214334,
+          "audio_event": 0,
+          "weight": 2,
+          "immediate_spawn": 0
+        }
+      ]
+    }
+  },
+  {
+    "DistantWarEffectPool": {
+      "pool_type": "DistantWarEffectPoolType_Cyborg",
+      "load_type": "DistantWarEffectPoolLoadType_Persistent",
+      "package": 6344386529596709857,
+      "spawn_range": {
+        "x": 1500,
+        "y": 3000
+      },
+      "cooldown_time": {
+        "x": 8,
+        "y": 20
+      },
+      "effects": [
+        {
+          "effect": 18188807953106141786,
+          "audio_event": 0,
+          "weight": 6,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 9153585345913482445,
+          "audio_event": 0,
+          "weight": 1,
+          "immediate_spawn": 0
+        }
+      ]
+    }
+  },
+  {
+    "DistantWarEffectPool": {
+      "pool_type": "DistantWarEffectPoolType_Neutral",
+      "load_type": "DistantWarEffectPoolLoadType_Persistent",
+      "package": 6029325920795614846,
+      "spawn_range": {
+        "x": 750,
+        "y": 1500
+      },
+      "cooldown_time": {
+        "x": 0.600000024,
+        "y": 8
+      },
+      "effects": [
+        {
+          "effect": 4494189510137819585,
+          "audio_event": 0,
+          "weight": 5,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 4494189510137819585,
+          "audio_event": 0,
+          "weight": 8,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 3800432765555768421,
+          "audio_event": 0,
+          "weight": 4,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 11898704972879646362,
+          "audio_event": 0,
+          "weight": 4,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 3412462863348389198,
+          "audio_event": 0,
+          "weight": 3,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 1491902380044416358,
+          "audio_event": 0,
+          "weight": 2,
+          "immediate_spawn": 0
+        }
+      ]
+    }
+  }
+]

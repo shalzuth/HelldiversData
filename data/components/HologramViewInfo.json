@@ -1,0 +1,7 @@
+{ "HologramViewInfo" : {
+    "camera_position_offset" : { "type": "CApiVector3", "description": "Camera position offset in world space" },
+    "camera_focal_offset" : { "type": "CApiVector3", "description": "Camera focal point offset in world space" },
+    "hologram_offset" : { "type": "CApiVector3", "description": "Hologram offset in world space" },
+    "hologram_look_at_offset" : { "type": "CApiVector3", "description": "Hologram look at offset in world space" },
+    "fov" : { "type": "float", "default": 45, "description": "Camera fov" }
+}}

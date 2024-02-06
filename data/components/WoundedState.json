@@ -1,0 +1,4 @@
+{ "WoundedState" : {
+    "sway_multiplier" : { "type": "float", "default": 2, "description": "How much the sway should increase when wounded." },
+    "move_speed_multiplier" : { "type": "float", "default": 0.75, "description": "How much the move speed should be reduced when wounded" }
+}}

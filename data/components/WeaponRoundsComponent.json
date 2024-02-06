@@ -1,0 +1,17 @@
+{ "WeaponRoundsComponent" : {
+    "ammo_infos" : { "type": "WeaponRoundsAmmoInfo", "description": "Ammo info for recoil and spread per magazine." },
+    "ammo_types" : { "type": "WeaponRoundsAmmoType", "description": "Ammo types per magazine." },
+    "magazine_capacity" : { "type": "CApiVector2", "description": "Capacity in rounds for each magazine." },
+    "ammo_capacity" : { "type": "uint", "default": 60, "description": "Maximum number of rounds." },
+    "ammo_refill" : { "type": "uint", "default": 30, "description": "Number of rounds given on refill." },
+    "ammo" : { "type": "uint", "default": 6, "description": "Starting number of rounds." },
+    "reload_amount" : { "type": "uint", "default": 1, "description": "Number of rounds to add to the magazine per reload." },
+    "reload_thresholds" : { "type": "CApiVector2", "description": "Reload is allowed when less than this amount of rounds are left in the magazine (set per magazine). Defaults to 0 which means 'Same as magazine capacity'." },
+    "chambered" : { "type": "byte", "description": "[bool]Can this weapon hold a round in the chamber while reloading. This makes the max amount of bullets capacity + 1 after reload when weapon has rounds remaining" },
+    "magazine_switch_audio" : { "type": "uint", "description": "[wwise]What audio to play when the magazines are switched" },
+    "magazine_0_weapon_anim" : { "type": "uint", "description": "[string]What weapon animation to play when switched to magazine 0" },
+    "magazine_0_wielder_anim" : { "type": "uint", "description": "[string]What wielder animation to play when switched to magazine 0" },
+    "magazine_1_weapon_anim" : { "type": "uint", "description": "[string]What weapon animation to play when switched to magazine 1" },
+    "magazine_1_wielder_anim" : { "type": "uint", "description": "[string]What wielder animation to play when switched to magazine 1" },
+    "magazine_anim_variable" : { "type": "uint", "description": "[string]Do we have an animation variable that we care about?" }
+}}

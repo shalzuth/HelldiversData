@@ -1,0 +1,12 @@
+{ "WeaponCasingEffectInfo" : {
+    "ejection_event" : { "type": "uint", "description": "[string]Animation event that triggers the casing ejection. If none is specified it happens on fire." },
+    "ejection_effect" : { "type": "ulong", "description": "[particles]Particle effect of the shellcasing." },
+    "ejection_node" : { "type": "uint", "default": 2023456099, "description": "[string]Node on the weapon to play the ejection port effect." },
+    "casing_effect" : { "type": "ulong", "description": "[particles]Particle effect of the shellcasing." },
+    "casing_node" : { "type": "array", "subtype": "uint", "description": "[string]Nodes on the weapon to play the casing effect. Cycles through them if there is more than one." },
+    "link_effect" : { "type": "ulong", "description": "[particles]Particle effect of the link." },
+    "link_node" : { "type": "uint", "description": "[string]Node on the weapon to play the link effect." },
+    "casing_impact_type" : { "type": "SurfaceImpactType", "default": "SurfaceImpactType_casing_small", "description": "Surface impact type to use for effects on shellcasing bounces." },
+    "casing_audio_event" : { "type": "uint", "description": "[string]If set, use this audio event instead of the default for the impact type." },
+    "num_playbacks" : { "type": "uint", "description": "How many collisions are audible" }
+}}

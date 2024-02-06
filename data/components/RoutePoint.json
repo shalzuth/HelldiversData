@@ -1,0 +1,6 @@
+{ "RoutePoint" : {
+    "position" : { "type": "CApiVector2" },
+    "routes" : { "type": "array", "subtype": "Route" },
+    "is_intersection" : { "type": "byte" },
+    "is_road" : { "type": "byte" }
+}}

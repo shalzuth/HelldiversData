@@ -1,0 +1,10 @@
+{ "MissionDifficultyProgressSettings" : {
+    "mission_progression_steps" : { "type": "array", "subtype": "float", "description": "The mission multiplier progress steps, used to determine at what progress each step lies" },
+    "step_radio_vo" : { "type": "array", "subtype": "uint", "description": "[string]Played whenever we go from one step to another" },
+    "step_radio_initial_delay" : { "type": "float", "default": 120, "description": "What's the delay for the initial progression step" },
+    "step_radio_delay" : { "type": "float", "default": 5, "description": "What's the delay for the progression step (except the initial one) " },
+    "include_prerequisite_objectives" : { "type": "byte", "description": "[bool]Are prerequisite objectives counted towards overall mission progress?" },
+    "include_optional_objectives" : { "type": "byte", "description": "[bool]Are optional objectives counted towards overall mission progress?" },
+    "include_tactical_objectives" : { "type": "byte", "description": "[bool]Are tactical objectives counted towards overall mission progress?" },
+    "include_outposts" : { "type": "byte", "description": "[bool]Are outposts counted towards overall mission progress?" }
+}}

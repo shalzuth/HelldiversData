@@ -1,0 +1,7 @@
+{ "PhysicsImpactEffectInfo" : {
+    "impact_type" : { "type": "SurfaceImpactType", "default": "SurfaceImpactType_None", "description": "Surface impact type." },
+    "override_material" : { "type": "uint", "description": "[string]The material to use as override." },
+    "use_impact_normal" : { "type": "byte", "description": "[bool]Should we use the impact normal as the normal for the surface effect particle." },
+    "impact_audio" : { "type": "uint", "description": "[string]Audio event on impact" },
+    "required_impact_magnitude" : { "type": "float", "default": 0, "description": "The magnitude of the impact required to do impact" }
+}}

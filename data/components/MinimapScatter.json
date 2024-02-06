@@ -1,0 +1,9 @@
+{ "MinimapScatter" : {
+    "unit_resource" : { "type": "ulong" },
+    "weight" : { "type": "float", "default": 1 },
+    "size_variation" : { "type": "float", "default": 0.75 },
+    "color" : { "type": "CApiVector3" },
+    "position" : { "type": "CApiVector3" },
+    "scale" : { "type": "CApiVector3" },
+    "rotation" : { "type": "float", "default": 0 }
+}}

@@ -1,0 +1,5 @@
+{ "VisibilityMaskInfo" : {
+    "name" : { "type": "uint", "description": "[string]The name of the visibility mask index." },
+    "mask_index" : { "type": "ushort", "description": "The index of the UV group representing this mask index." },
+    "start_hidden" : { "type": "byte", "description": "[bool]Set to true if this mask index should start as hidden." }
+}}

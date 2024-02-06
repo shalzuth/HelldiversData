@@ -1,0 +1,4 @@
+{ "TravelerSettings" : {
+    "minimum_spawn_point_cooldown" : { "type": "float", "default": 30, "description": "The miminum amount of time that a spawn point goes on cooldown after being used" },
+    "maximum_spawn_point_cooldown" : { "type": "float", "default": 60, "description": "The maximum amount of time that a spawn point can go on cooldown after being used" }
+}}

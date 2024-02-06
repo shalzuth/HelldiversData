@@ -1,0 +1,9 @@
+{ "Stamp" : {
+    "collision_circles" : { "type": "array", "subtype": "StampCircle" },
+    "collision_rectangles" : { "type": "array", "subtype": "StampRectangle" },
+    "entrypoints" : { "type": "array", "subtype": "StampEntry" },
+    "splines" : { "type": "array", "subtype": "StampSpline" },
+    "extensions" : { "type": "array", "subtype": "StampExtension" },
+    "proxies" : { "type": "array", "subtype": "StampProxy" },
+    "rotation_type" : { "type": "StampRotationType" }
+}}

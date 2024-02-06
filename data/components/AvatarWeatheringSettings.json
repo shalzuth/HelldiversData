@@ -1,0 +1,7 @@
+{ "AvatarWeatheringSettings" : {
+    "move_speed_requirement" : { "type": "float", "default": 0.5, "description": "Start adding dirt after moving at this speed." },
+    "dirt_speed_standing" : { "type": "float", "default": 1, "description": "How dirty to get while moving standing up." },
+    "dirt_speed_crouching" : { "type": "float", "default": 1, "description": "How dirty to get while crouch moving." },
+    "dirt_speed_prone" : { "type": "float", "default": 1, "description": "How dirty to get while crawling around." },
+    "dirt_speed_sliding" : { "type": "float", "default": 1, "description": "How dirty to get while sliding." }
+}}

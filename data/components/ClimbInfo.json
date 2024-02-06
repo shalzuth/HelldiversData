@@ -1,0 +1,11 @@
+{ "ClimbInfo" : {
+    "start_offset" : { "type": "CApiVector3", "description": "Offset from root to climb point/ledge at the time we attach to it" },
+    "climb_offset" : { "type": "CApiVector3", "description": "Offset from root to climb point/ledge at the time we reach hanging" },
+    "min_height_falling" : { "type": "float", "default": 1, "description": "min_height_falling" },
+    "max_height" : { "type": "CApiVector2", "description": "Max height of an obstacle to be able to perform a climb (from gound and from air)" },
+    "max_forward_distance" : { "type": "CApiVector2", "description": "Max forward distance (from gound and from air)" },
+    "forward_start_check_distance_per_ms" : { "type": "float", "default": 0.05, "description": "Distance forward per m/s movement speed to add to the minimum check distance" },
+    "max_auto_step_up_height" : { "type": "float", "default": 1.2, "description": "Indicates the maximun height with which we can trigger an auto step up climb." },
+    "auto_step_up_cd" : { "type": "float", "default": 0.5, "description": "Indicates how much cooldown between auto step ups triggers we should have." },
+    "climb_ref_interpolation_speed" : { "type": "float", "default": 1, "description": "climb_ref_interpolation_speed" }
+}}

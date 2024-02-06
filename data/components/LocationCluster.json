@@ -1,0 +1,6 @@
+{ "LocationCluster" : {
+    "position" : { "type": "CApiVector3" },
+    "locations" : { "type": "array", "subtype": "LocationInstance" },
+    "location_count" : { "type": "uint" },
+    "total_location_radius" : { "type": "float" }
+}}

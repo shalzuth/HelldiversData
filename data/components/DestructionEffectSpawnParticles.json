@@ -1,0 +1,8 @@
+{ "DestructionEffectSpawnParticles" : {
+    "particle_effect" : { "type": "ulong", "description": "[particles, gizmo_text]" },
+    "particle_offset" : { "type": "CApiVector3", "description": "[gizmo_position] The offset for the particle effect in meters in x/y/z." },
+    "particle_rotation" : { "type": "CApiQuaternion", "description": "[gizmo_rotation] The initial orientation on particles (relative to the root). " },
+    "emit_node" : { "type": "uint", "description": "[node, unit_only]" },
+    "duration" : { "type": "float", "default": 0, "description": "The time in seconds that the particle effect will run. 0 means that it will only be triggered and not removed." },
+    "inherits_rotation" : { "type": "byte", "description": "Wether or not the particle effect should inherit the world-rotation from the node that it is emitted from." }
+}}

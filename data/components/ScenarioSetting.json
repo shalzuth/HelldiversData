@@ -1,0 +1,9 @@
+{ "ScenarioSetting" : {
+    "name" : { "type": "uint" },
+    "day_weather_settings" : { "type": "ulong" },
+    "night_weather_settings" : { "type": "ulong" },
+    "weather_settings_from_scenario" : { "type": "ulong" },
+    "time_fully_active" : { "type": "float", "default": 10 },
+    "fade_out_time" : { "type": "float", "default": 10 },
+    "is_override_weather" : { "type": "byte" }
+}}

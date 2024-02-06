@@ -1,0 +1,7 @@
+{ "LocationFlags" : {
+    "blocks_road" : { "type": "byte" },
+    "ignores_bound_restrictions" : { "type": "byte" },
+    "surround_with_path_locations" : { "type": "byte" },
+    "ignore_padding_when_flattening" : { "type": "byte" },
+    "minimap_scatter_enabled" : { "type": "byte" }
+}}

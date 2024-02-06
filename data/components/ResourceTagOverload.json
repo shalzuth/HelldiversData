@@ -1,0 +1,8 @@
+{ "ResourceTagOverload" : {
+    "tag" : { "type": "ResourcePackageTags" },
+    "tag_mask" : { "type": "ulong" },
+    "package" : { "type": "ulong" },
+    "base_package" : { "type": "ulong" },
+    "resource_count" : { "type": "uint" },
+    "resources" : { "type": "array", "subtype": "ResourceOverride" }
+}}

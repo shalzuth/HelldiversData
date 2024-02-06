@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html data-bs-theme="dark" lang="en">
+    <head>
+        <title>Helldivers 2 Data Debug</title>
+        <meta name="description" content="Helldivers 2 data">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="icon" href="https://helldivers.io/favicon.ico">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-table@1.22.6/dist/bootstrap-table.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-table@1.22.6/dist/bootstrap-table.min.js"></script>
+    </head>
+    <body>
+        <main>
+            <h1 style="padding: 12px;display: flex;justify-content: center;align-items: center;">Brought to you by&nbsp;<a href='https://helldivers.io/'>helldivers.io</a></h1>
+            <h2 style="padding: 12px;display: flex;justify-content: center;align-items: center;"><a href="/">Home</a></h2>
+            <div style="width:80%" class="mx-auto"><table id='table' class="table table-dark table-striped table-sm"></table></div>
+        </main>
+        <script>
+            var _options={strict:!1,storeAsString:!1,alwaysParseAsBig:!1,useNativeBigInt:!0,protoAction:"error",constructorAction:"error"};
+            const suspectProtoRx=/(?:_|\\u005[Ff])(?:_|\\u005[Ff])(?:p|\\u0070)(?:r|\\u0072)(?:o|\\u006[Ff])(?:t|\\u0074)(?:o|\\u006[Ff])(?:_|\\u005[Ff])(?:_|\\u005[Ff])/,
+            suspectConstructorRx=/(?:c|\\u0063)(?:o|\\u006[Ff])(?:n|\\u006[Ee])(?:s|\\u0073)(?:t|\\u0074)(?:r|\\u0072)(?:u|\\u0075)(?:c|\\u0063)(?:t|\\u0074)(?:o|\\u006[Ff])(?:r|\\u0072)/;
+            var at,ch,text,value,escapee={'"':'"',"\\":"\\","/":"/",b:"\b",f:"\f",n:"\n",r:"\r",t:"\t"},error=function(t){throw{name:"SyntaxError",message:t,at:at,text:text}},
+            next=function(t){return t&&t!==ch&&error("Expected '"+t+"' instead of '"+ch+"'"),ch=text.charAt(at),at+=1,ch},number=function(){var t,e="";for("-"===ch&&(e="-",next("-"));
+            ch>="0"&&ch<="9";)e+=ch,next();if("."===ch)for(e+=".";next()&&ch>="0"&&ch<="9";)e+=ch;if("e"===ch||"E"===ch)for(e+=ch,next(),"-"!==ch&&"+"!==ch||(e+=ch,next());ch>="0"&&ch<="9";)e+=ch,
+            next();if(t=+e,isFinite(t))return Number.isSafeInteger(t)?_options.alwaysParseAsBig?_options.useNativeBigInt?BigInt(t):new BigNumber(t):t:_options.storeAsString?e:/[\.eE]/.test(e)?
+            t:_options.useNativeBigInt?BigInt(e):new BigNumber(e);error("Bad number")},string=function(){var t,e,r,n="";if('"'===ch)for(var o=at;next();){if('"'===ch)return at-1>o&&
+            (n+=text.substring(o,at-1)),next(),n;if("\\"===ch){if(at-1>o&&(n+=text.substring(o,at-1)),next(),"u"===ch){for(r=0,e=0;e<4&&(t=parseInt(next(),16),isFinite(t));e+=1)r=16*r+t;
+                n+=String.fromCharCode(r)}else{if("string"!=typeof escapee[ch])break;n+=escapee[ch]}o=at}}error("Bad string")},white=function(){for(;ch&&ch<=" ";)next()},
+                word=function(){switch(ch){case"t":return next("t"),next("r"),next("u"),next("e"),!0;case"f":return next("f"),next("a"),next("l"),next("s"),next("e"),!1;
+                case"n":return next("n"),next("u"),next("l"),next("l"),null}error("Unexpected '"+ch+"'")},array=function(){var t=[];if("["===ch){if(next("["),white(),"]"===ch)
+                return next("]"),t;for(;ch;){if(t.push(value()),white(),"]"===ch)return next("]"),t;next(","),white()}}error("Bad array")},object=function(){var t,e=Object.create(null);if("{"===ch)
+                {if(next("{"),white(),"}"===ch)return next("}"),e;for(;ch;){if(t=string(),white(),next(":"),!0===_options.strict&&Object.hasOwnProperty.call(e,t)&&error('Duplicate key "'+t+'"'),
+                !0===suspectProtoRx.test(t)?"error"===_options.protoAction?error("Object contains forbidden prototype property"):"ignore"===_options.protoAction?value():e[t]=value():
+                !0===suspectConstructorRx.test(t)?"error"===_options.constructorAction?error("Object contains forbidden constructor property"):"ignore"===_options.constructorAction?value():
+                e[t]=value():e[t]=value(),white(),"}"===ch)return next("}"),e;next(","),white()}}error("Bad object")};function jsonparse(t,e){var r;return text=t+"",at=0,ch=" ",r=value(),
+                white(),ch&&error("Syntax error"),"function"==typeof e?function t(r,n){var o,c=r[n];return c&&"object"==typeof c&&Object.keys(c).forEach((function(e){void 0!==(o=t(c,e))?
+                    c[e]=o:delete c[e]})),e.call(r,n,c)}({"":r},""):r}value=function(){switch(white(),ch){case"{":return object();case"[":return array();case'"':return string();case"-":
+                    return number();default:return ch>="0"&&ch<="9"?number():word()}};
+
+            var pathParts = window.location.pathname.split('/');
+            var file = pathParts.pop() || pathParts.pop();
+            var dataDir = '/data';
+            var jsonData = {};
+            const params = new Proxy(new URLSearchParams(window.location.search), {
+                get: (searchParams, prop) => searchParams.get(prop),
+            });
+            var debug = true;
+            async function loadJSONs(urls) {
+                const fetchPromises = urls.map(url => fetch(url).then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
+                    }
+                    return response.text();
+                }).catch((error)=>{console.log(error)}));
+                var jsons = await Promise.all(fetchPromises);
+                for(var i = 0; i < urls.length; i++){
+                    jsonData[urls[i]] = jsonparse(jsons[i]);
+                }
+            }
+            function tryTranslate(id){
+                return jsonData[dataDir + '/translations/English.json'][id];
+            }
+            function objectView(o){
+                if (o == null) return 'null';
+                if (typeof(o) == 'object') {
+                    var newTable = $('<table class="table table-dark table-striped table-sm">');
+                    var data = [];
+                    Object.keys(o).forEach(g=>{
+                        var val = o[g];
+                        if (val != null && typeof(o) != 'object' && o[g] === parseInt(o[g], 10)){
+                            var translation = tryTranslate(o[g]);
+                            if (translation != undefined)
+                                val += ' (' + tryTranslate(o[g]) + ')';
+                            //if (jsonData[dataDir + '/entities/EntityComponentMap.json'][o[g]] != null)
+                            //    val += ' ';
+                        }
+                        if (jsonData[dataDir + '/enums/ComponentType.json'].ComponentType.includes(val)){
+                            val = '<a href=/index.html?component=' + val + '>' + val + '</a>'
+                        }
+                        if (jsonData[dataDir + '/enums/EnumType.json'].EnumType.includes(val)){
+                            val = '<a href=/index.html?enum=' + val + '>' + val + '</a>'
+                        }
+                        data.push({key:g, value:val});
+                    });
+                    var tb = newTable.bootstrapTable({
+                        data: data,
+                        showHeader: false,
+                        columns: [
+                            { field: 'key', title: 'Guid', sortable: true },
+                            { field: 'value', title: 'Object', sortable: true, formatter: objectView },
+                            //{ field: 'type', title: 'Type', sortable: true },
+                        ]
+                    });
+                    return '<div>' + tb[0].outerHTML + '</div>';
+                }
+                if (o != null && o === parseInt(o, 10)){
+                    var translation = tryTranslate(o);
+                    if (translation != undefined)
+                        return o + ' (' + tryTranslate(o) + ')';
+                }
+                return o;
+            }
+            loadJSONs([
+                dataDir + '/entities/EncyclopediaEntryComponentData.json',
+                dataDir + '/entities/EntityComponentMap.json',
+                dataDir + '/entities/EntityDeltas.json',
+                dataDir + '/enums/ComponentType.json',
+                dataDir + '/enums/EnumType.json',
+                dataDir + '/translations/English.json'
+            ]).then(t=>{
+                var components = jsonData[dataDir + '/enums/ComponentType.json'].ComponentType;
+                var componentMap = jsonData[dataDir + '/entities/EntityComponentMap.json'];
+                if (params.component != null){
+                    //var dependencies = componentMap[params.id].map(o=> dataDir + '/entities/' + components[o + 359] + 'Data.json');
+                    if (params.id != null){
+                        
+                        var dependencies = [dataDir + '/entities/' + params.component + 'ComponentData.json'];
+                        loadJSONs(dependencies).then(t=>{
+                            var data = [];
+                            Object.keys(dependencies).forEach(g=>{
+                                var value = jsonData[dependencies[g]];
+                                if (value == undefined) value = 'missing component data';
+                                else if (!(params.id in value)) value = 'missing entity data';
+                                else value = value[params.id];
+                                data.push({dependency:dependencies[g], value:value});
+                            });
+                            function dependencyName(o){
+                                return '<a href="/index' + (debug ? '.html?' : '?') + 'component=' + o.replace('/data/entities/','').replace('.json','') + '">' + o.replace('/data/entities/','').replace('ComponentData.json','') + '</a>';
+                            }
+                            console.log(jsonData[dataDir + '/entities/EntityDeltas.json'])
+                            var table = $('#table').bootstrapTable({
+                                data: data,
+                                search: true,
+                                sortable: true,
+                                sortReset: true,
+                                pagination: true,
+                                pageSize: 50,
+                                visibleSearch: true,
+                                columns: [
+                                    { field: 'dependency', title: 'Component', sortable: true, formatter: dependencyName },
+                                    { field: 'value', title: 'Data', sortable: true, formatter: objectView },
+                                ]
+                            });
+                        });
+                    }
+                    else {
+                        var dependencies = [dataDir + '/components/' + params.component + '.json'];
+                        loadJSONs(dependencies).then(t=>{
+                            var data = [];
+                            Object.keys(jsonData[dependencies[0]][params.component]).forEach(g=>{
+                                //var value = dependencies[0][params.component + 'Component'][g];
+                                data.push({dependency:g, value:jsonData[dependencies[0]][params.component][g]});
+                            });
+                            function dependencyName(o){
+                                return o.replace('/data/entities/','').replace('ComponentData.json','');
+                            }
+                            var table = $('#table').bootstrapTable({
+                                data: data,
+                                search: true,
+                                sortable: true,
+                                sortReset: true,
+                                pagination: true,
+                                pageSize: 50,
+                                visibleSearch: true,
+                                columns: [
+                                    { field: 'dependency', title: 'Field Name', sortable: true },
+                                    { field: 'value', title: 'Info', sortable: true, formatter: objectView },
+                                ]
+                            });
+                        });
+                    }
+                } else if (params.enum != null){
+                    var dependencies = [dataDir + '/enums/' + params.enum + '.json'];
+                    loadJSONs(dependencies).then(t=>{
+                        var data = [];
+                        for(var i = 0; i < jsonData[dependencies[0]][params.enum].length; i++)
+                            data.push({index:i, value:jsonData[dependencies[0]][params.enum][i]});
+                        
+                        var table = $('#table').bootstrapTable({
+                            data: data,
+                            search: true,
+                            sortable: true,
+                            sortReset: true,
+                            pagination: true,
+                            pageSize: 50,
+                            visibleSearch: true,
+                            columns: [
+                                { field: 'index', title: 'Index', sortable: true },
+                                { field: 'value', title: 'Value', sortable: true, formatter: objectView },
+                            ]
+                        });
+                    });
+                } else if (params.settings != null) {
+                    if (params.settings == ''){
+                        var data = [];
+                        data.push({link:'<a href="/?settings=generated_animation_event_trigger_settings">Animation Event Trigger Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_arc_settings">Arc Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_beam_settings">Beam Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_body_settings">Body Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_candidate_descs">Candidate Descriptions</a>'});
+                        data.push({link:'<a href="/?settings=generated_collision_event_settings">Collision Event Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_corporation_logos">Corporation Logos</a>'});
+                        data.push({link:'<a href="/?settings=generated_credits_settings">Credits Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_customization_armor_sets">Customization Armor Sets</a>'});
+                        data.push({link:'<a href="/?settings=generated_customization_passive_bonuses">Customization Passive Bonuses</a>'});
+                        data.push({link:'<a href="/?settings=generated_damage_settings">Damage Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_distant_war_effect_settings">Distant War Effect Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_environment_settings">Environment Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_explosion_settings">Explosion Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_font_lookup">Font Lookup</a>'});
+                        data.push({link:'<a href="/?settings=generated_font_settings">Font Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_generation_settings">Generation Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_hit_effect_settings">Hit Effect Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_language_settings">Language Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_layer_package_indirection_settings">Layer Package Indirection Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_location_groups">Location Groups</a>'});
+                        data.push({link:'<a href="/?settings=generated_palette_settings">Palette Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_planet_data">Planet Data</a>'});
+                        data.push({link:'<a href="/?settings=generated_planet_override_settings">Planet Override Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_planet_territory_graphs">Planet Territory Graphs</a>'});
+                        data.push({link:'<a href="/?settings=generated_planet_types_settings">Planet Types Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_policy_settings">Policy Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_projectile_settings">Projectile Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_region_settings">Region Settings</a>'});
+                        //data.push({link:'<a href="/?settings=generated_resource_swap">Resource Swap</a>'});
+                        data.push({link:'<a href="/?settings=generated_route_settings">Route Settings</a>'});
+                        //data.push({link:'<a href="/?settings=generated_satellite_groups">Satellite Groups</a>'});
+                        data.push({link:'<a href="/?settings=generated_scenario_settings">Scenario Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_sky_settings">Sky Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_solar_system_settings">Solar System Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_stamp_settings">Stamp Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_status_effect_settings">Status Effect Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_stratagem_settings">Stratagem Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_surface_effect_settings">Surface Effect Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_unit_customization_settings">Unit Customization Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_unit_effect_settings">Unit Effect Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_video_flow_settings">Video Flow Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_video_ui_settings">Video UI Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_weapon_customization_settings">Weapon Customization Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_weather_color_set_settings">Weather Color Settings</a>'});
+                        data.push({link:'<a href="/?settings=generated_weather_settings">Weather Settings</a>'});
+                        //data.push({link:'<a href="/?settings=generated_zone_data">Zone Data</a>'});
+                        var table = $('#table').bootstrapTable({
+                            data: data,
+                            search: true,
+                            sortable: true,
+                            sortReset: true,
+                            pagination: true,
+                            pageSize: 50,
+                            visibleSearch: true,
+                            columns: [
+                                { field: 'link', title: 'Setting', sortable: true },
+                            ]
+                        });
+                    } else {
+                        var dependencies = [dataDir + '/settings/' + params.settings + '.json'];
+                        loadJSONs(dependencies).then(t=>{
+                            var data = [];
+                            var settingType = Object.keys(jsonData[dependencies[0]][0])[0];
+                            if (params.settings == 'generated_damage_settings') jsonData[dataDir + '/settings/' + params.settings + '.json'].splice(0, 1);
+                            if (params.settings == 'generated_status_effect_settings') jsonData[dataDir + '/settings/' + params.settings + '.json'].splice(1, 1);
+                            if (params.settings == 'generated_stratagem_settings'){
+                                var fullItems = [];
+                                for(var i = 0; i < jsonData[dependencies[0]].length; i++){
+                                    for(var j = 0; j < jsonData[dependencies[0]][i]['StratagemSettings']['items'].length; j++){
+                                        fullItems.push(jsonData[dependencies[0]][i]['StratagemSettings']['items'][j]);
+                                    }
+                                }
+                                jsonData[dataDir + '/settings/' + params.settings + '.json'] = [{StratagemSettings:{items:fullItems}}];
+                                console.log(jsonData[dataDir + '/settings/' + params.settings + '.json']);
+                            }
+                            if (params.settings == 'generated_weapon_customization_settings'){
+                                var fullItems = [];
+                                for(var i = 0; i < jsonData[dependencies[0]].length; i++){
+                                    for(var j = 0; j < jsonData[dependencies[0]][i]['WeaponCustomizationSettings']['items'].length; j++){
+                                        fullItems.push(jsonData[dependencies[0]][i]['WeaponCustomizationSettings']['items'][j]);
+                                    }
+                                }
+                                jsonData[dataDir + '/settings/' + params.settings + '.json'] = [{WeaponCustomizationSettings:{items:fullItems}}];
+                                console.log(jsonData[dataDir + '/settings/' + params.settings + '.json']);
+                            }
+                            if (params.index == null){
+                                var keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a == 'name');
+                                if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a=='type');
+                                if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a.includes('name'));
+                                if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a.includes('type'));
+                                if (jsonData[dependencies[0]].length > 1){
+                                    console.log(jsonData[dependencies[0]]);
+                                    for(var i = 0; i < jsonData[dependencies[0]].length; i++){
+                                        data.push({data:{index:i,data:jsonData[dependencies[0]][i][settingType][keyName]}});
+                                    }
+                                } else {
+                                    var subKeyName = Object.keys(jsonData[dependencies[0]][0][settingType])[0];
+                                    if (subKeyName == 'id') subKeyName = Object.keys(jsonData[dependencies[0]][0][settingType])[1];
+                                    keyName = Object.keys(jsonData[dependencies[0]][0][settingType][subKeyName][0]).find(a=>a == 'name');
+                                    if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType][subKeyName][0]).find(a=>a=='type');
+                                    if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType][subKeyName][0]).find(a=>a.includes('name'));
+                                    if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType][subKeyName][0]).find(a=>a.includes('type'));
+                                    if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType][subKeyName][0])[0];
+                                    for(var i = 0; i < jsonData[dependencies[0]][0][settingType][subKeyName].length; i++){
+                                        data.push({data:{index:i,data:jsonData[dependencies[0]][0][settingType][subKeyName][i][keyName]}});
+                                    }
+                                }
+                                function settingIndex(o){
+                                    return o.index;
+                                }
+                                function settingObjectLink(o){
+                                    return '<a href="/index' + (debug ? '.html?' : '?') + 'settings=' + params.settings + '&index=' + o.index + '">' + objectView(o.data) + '</a>';
+                                }
+                                var table = $('#table').bootstrapTable({
+                                    data: data,
+                                    search: true,
+                                    sortable: true,
+                                    sortReset: true,
+                                    pagination: true,
+                                    pageSize: 50,
+                                    visibleSearch: true,
+                                    columns: [
+                                        { field: 'data', title: 'Index', sortable: true, formatter: settingIndex },
+                                        { field: 'data', title: 'Info', sortable: true, formatter: settingObjectLink },
+                                    ]
+                                });
+                            } else {
+                                var keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a.includes('name'));
+                                if (keyName == null) keyName =  Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a.includes('name'));
+                                if (jsonData[dependencies[0]].length > 1){
+                                    Object.keys(jsonData[dependencies[0]][params.index]).forEach(g=>{
+                                        data.push({index:g, value:jsonData[dependencies[0]][params.index][g]});
+                                    });
+                                } else{
+                                    var subKeyName = Object.keys(jsonData[dependencies[0]][0][settingType])[0];
+                                    if (subKeyName == 'id') subKeyName = Object.keys(jsonData[dependencies[0]][0][settingType])[1];
+                                    keyName = Object.keys(jsonData[dependencies[0]][0][settingType][subKeyName][0]).find(a=>a.includes('name'));   
+                                    data.push({index:settingType, value:jsonData[dependencies[0]][0][settingType][subKeyName][params.index]});
+                                }
+                                function dependencyName(o){
+                                    return '<a href="/index' + (debug ? '.html?' : '?') + 'component=' + o.replace('/data/entities/','').replace('.json','') + '">' + o.replace('/data/entities/','').replace('ComponentData.json','') + '</a>';
+                                }
+                                var table = $('#table').bootstrapTable({
+                                    data: data,
+                                    search: true,
+                                    sortable: true,
+                                    sortReset: true,
+                                    pagination: true,
+                                    pageSize: 50,
+                                    visibleSearch: true,
+                                    columns: [
+                                        { field: 'index', title: 'Index', sortable: true, formatter: dependencyName },
+                                        { field: 'value', title: 'Info', sortable: true, formatter: objectView },
+                                    ]
+                                });
+                            }
+                        });
+                    }                    
+                } else if (params.namedEntries != null) {
+                    var namedEntries = jsonData[dataDir + '/entities/EncyclopediaEntryComponentData.json'];
+                    var data = [];
+                    var componentOffset = components.indexOf('VisibilityComponent');
+                    Object.keys(namedEntries).forEach(g=>{
+                        data.push({obj:g});
+                    });
+                    function linkAndTranslate(o){
+                        var obj = namedEntries[o];
+                        var id = obj.loc_name > 0 ? obj.loc_name : obj.loc_name_upper > 0 ? obj.loc_name_upper : obj.loc_name_plural > 0 ? obj.loc_name_plural : 0;
+                        return jsonData[dataDir + '/translations/English.json'][id];
+                    }
+                    function componentList(o){
+                        return objectView(componentMap[o].map(c=>
+                            '<a href="/index' + (debug ? '.html?' : '?') + 'id=' + o + '&component=' + components[c + componentOffset].replace('Component','') + '">' + components[c + componentOffset].replace('Component','') + '</a>'
+                           // components[o + 359].replace('Component','')
+                        ));
+                    }
+                    var table = $('#table').bootstrapTable({
+                        data: data,
+                        search: true,
+                        sortable: true,
+                        sortReset: true,
+                        pagination: true,
+                        pageSize: 10,
+                        visibleSearch: true,
+                        columns: [
+                            { field: 'obj', title: 'Object', sortable: true, formatter: linkAndTranslate },
+                            { field: 'obj', title: 'Components', sortable: true, formatter: componentList },
+                        ]
+                    });
+                } else if (params.types != null) {
+                    var namedEntries = jsonData[dataDir + '/entities/EncyclopediaEntryComponentData.json'];
+                    var data = [];
+                    for(var i = 0; i < jsonData[dataDir + '/enums/ComponentType.json'].ComponentType.length; i++)
+                        data.push({link:'<a href="/?component=' + jsonData[dataDir + '/enums/ComponentType.json'].ComponentType[i] + '">' + jsonData[dataDir + '/enums/ComponentType.json'].ComponentType[i] + '</a>', type:'Component'})
+                    for(var i = 0; i < jsonData[dataDir + '/enums/EnumType.json'].EnumType.length; i++)
+                        data.push({link:'<a href="/?enum=' + jsonData[dataDir + '/enums/EnumType.json'].EnumType[i] + '">' + jsonData[dataDir + '/enums/EnumType.json'].EnumType[i] + '</a>', type:'Enum'})
+                    
+                    var table = $('#table').bootstrapTable({
+                        data: data,
+                        search: true,
+                        sortable: true,
+                        sortReset: true,
+                        pagination: true,
+                        pageSize: 50,
+                        visibleSearch: true,
+                        columns: [
+                            { field: 'link', title: 'Name', sortable: true },
+                            { field: 'type', title: 'Type', sortable: true },
+                        ]
+                    });
+                } else {
+                    var data = [];
+                    data.push({type:'<a href="/?namedEntries">Named Entries</a>'});
+                    data.push({type:'<a href="/?settings">Global Settings</a>'});
+                    data.push({type:'<a href="/?types">Types</a>'});
+                    var table = $('#table').bootstrapTable({
+                        data: data,
+                        search: true,
+                        sortable: true,
+                        sortReset: true,
+                        pagination: true,
+                        pageSize: 10,
+                        visibleSearch: true,
+                        columns: [
+                            { field: 'type', title: 'Page', sortable: true },
+                        ]
+                    });
+                }
+            });
+        </script>
+    </body>
+<html>

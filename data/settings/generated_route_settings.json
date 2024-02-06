@@ -1,0 +1,56 @@
+[
+  {
+    "RouteSettings": {
+      "id": 505030656,
+      "stamp_group": {
+        "stamps": [],
+        "grid_cell_size": 16,
+        "max_random_offset_in_cell": 0,
+        "fill_rate": 1,
+        "max_possible_cells_per_map": 4294967295,
+        "flags": {
+          "is_outside_stamp": 0,
+          "is_route_stamp": 0,
+          "is_hero_stamp": 0,
+          "spawn_on_priority_route": 0
+        },
+        "stamp_max_overlap": 0,
+        "stamp_min_overlap": 0,
+        "stamp_overlap_group": "StampOverlapGroup_None",
+        "route_stamp_offset": 0,
+        "max_distance_from_route": 0,
+        "min_distance_from_route": 0,
+        "max_distance_from_playable_area": 1000,
+        "min_difficulty": 15,
+        "max_difficulty": 15
+      }
+    }
+  },
+  {
+    "RouteSettings": {
+      "id": 3404198593,
+      "stamp_group": {
+        "stamps": [],
+        "grid_cell_size": 16,
+        "max_random_offset_in_cell": 0,
+        "fill_rate": 1,
+        "max_possible_cells_per_map": 4294967295,
+        "flags": {
+          "is_outside_stamp": 0,
+          "is_route_stamp": 0,
+          "is_hero_stamp": 0,
+          "spawn_on_priority_route": 0
+        },
+        "stamp_max_overlap": 0,
+        "stamp_min_overlap": 0,
+        "stamp_overlap_group": "StampOverlapGroup_None",
+        "route_stamp_offset": 0,
+        "max_distance_from_route": 0,
+        "min_distance_from_route": 0,
+        "max_distance_from_playable_area": 1000,
+        "min_difficulty": 15,
+        "max_difficulty": 15
+      }
+    }
+  }
+]

@@ -1,0 +1,7 @@
+{ "CorporationLogo" : {
+    "corporation" : { "type": "Corporation" },
+    "text_logo" : { "type": "ulong" },
+    "icon_logo" : { "type": "ulong" },
+    "light_icon_logo" : { "type": "ulong" },
+    "mono_icon_logo" : { "type": "ulong" }
+}}

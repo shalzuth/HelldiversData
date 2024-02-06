@@ -1,0 +1,7 @@
+{ "PlanetTypeVideos" : {
+    "default_video_id" : { "type": "uint" },
+    "arctic_video_id" : { "type": "uint" },
+    "sandy_video_id" : { "type": "uint" },
+    "primordial_video_id" : { "type": "uint" },
+    "moor_video_id" : { "type": "uint" }
+}}

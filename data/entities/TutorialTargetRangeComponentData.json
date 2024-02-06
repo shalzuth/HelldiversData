@@ -1,0 +1,114 @@
+{
+  "3830429337415795976": {
+    "stages": [
+      {
+        "hint_to_trigger": 3449367795,
+        "script_data_tag_to_trigger": 1,
+        "stratagem_type": "StratagemType_OrbitalShell",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 3449367795,
+        "script_data_tag_to_trigger": 2,
+        "stratagem_type": "StratagemType_OrbitalShell",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 1985244961,
+        "script_data_tag_to_trigger": 3,
+        "stratagem_type": "StratagemType_OrbitalStrike",
+        "require_lat": 0,
+        "highlight_hint_entity": 0
+      },
+      {
+        "hint_to_trigger": 0,
+        "script_data_tag_to_trigger": 0,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 0,
+        "script_data_tag_to_trigger": 0,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 0,
+        "script_data_tag_to_trigger": 0,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 0,
+        "script_data_tag_to_trigger": 0,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      }
+    ],
+    "player_activate_distance": 8,
+    "player_deactivate_distance": 10,
+    "script_data_tag": 3947262555
+  },
+  "126203366270103050": {
+    "stages": [
+      {
+        "hint_to_trigger": 2489906480,
+        "script_data_tag_to_trigger": 1,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 2489906480,
+        "script_data_tag_to_trigger": 2,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 3113856374,
+        "script_data_tag_to_trigger": 3,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 3730378503,
+        "script_data_tag_to_trigger": 4,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 3730378503,
+        "script_data_tag_to_trigger": 5,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 0,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 3643697073,
+        "script_data_tag_to_trigger": 6,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 1,
+        "highlight_hint_entity": 1
+      },
+      {
+        "hint_to_trigger": 3643697073,
+        "script_data_tag_to_trigger": 7,
+        "stratagem_type": "StratagemType_None",
+        "require_lat": 1,
+        "highlight_hint_entity": 1
+      }
+    ],
+    "player_activate_distance": 5,
+    "player_deactivate_distance": 8,
+    "script_data_tag": 3338735551
+  }
+}

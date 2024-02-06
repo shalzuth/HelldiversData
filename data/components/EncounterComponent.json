@@ -1,0 +1,8 @@
+{ "EncounterComponent" : {
+    "debug_unit_path" : { "type": "ulong", "description": "[unit]Path to the debug unit. If the debug option is on for viewing encounters, this unit will be visible where the encounter is." },
+    "radius" : { "type": "float", "default": 125, "description": "Things inside this radius will be considered 'in an encounter'." },
+    "move_speed" : { "type": "float", "default": 2, "description": "The encounter will move towards the closest 'vip'-target (avatar)." },
+    "preferred_distance" : { "type": "float", "default": 40, "description": "The encounter will not move towards target if it's closer than this." },
+    "min_spawn_distance" : { "type": "float", "default": 30, "description": "Spawn points will be at least this far from the encounter entity" },
+    "max_spawn_distance" : { "type": "float", "default": 60, "description": "Spawn points will be at most this far from the encounter entity" }
+}}

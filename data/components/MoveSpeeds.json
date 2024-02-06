@@ -1,0 +1,14 @@
+{ "MoveSpeeds" : {
+    "reversing_multiplier" : { "type": "float", "default": 0.75, "description": "A multiplier to movement speed when moving backwards." },
+    "aim" : { "type": "float", "default": 2, "description": "Movement speed when aiming." },
+    "walk" : { "type": "float", "default": 2, "description": "Movement speed when walking." },
+    "jog" : { "type": "float", "default": 3.2, "description": "Movement speed when jogging." },
+    "sprint" : { "type": "float", "default": 5.5, "description": "Movement speed when sprinting." },
+    "sprint_exerted" : { "type": "float", "default": 4.25, "description": "Movement speed when sprinting exerted." },
+    "crouch_aim" : { "type": "float", "default": 1.2, "description": "Movement speed when crouch aiming." },
+    "crouch_walk" : { "type": "float", "default": 1.5, "description": "Movement speed when crouching." },
+    "crouch_jog" : { "type": "float", "default": 2.25, "description": "Movement speed when crouching." },
+    "crouch_sprint" : { "type": "float", "default": 4, "description": "Movement speed when starting to crouch sprint." },
+    "prone" : { "type": "float", "default": 1.5, "description": "Movement speed when in prone (or downed)." },
+    "swim" : { "type": "float", "default": 1.5, "description": "Movement speed when swimming." }
+}}

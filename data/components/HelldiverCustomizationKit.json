@@ -1,0 +1,13 @@
+{ "HelldiverCustomizationKit" : {
+    "id" : { "type": "uint" },
+    "dlc_id" : { "type": "uint" },
+    "_set_id" : { "type": "uint" },
+    "name_upper" : { "type": "uint" },
+    "name_cased" : { "type": "uint" },
+    "desc" : { "type": "uint" },
+    "rarity" : { "type": "HelldiverCustomizationRarity", "default": "HelldiverCustomizationRarity_Count" },
+    "passive_bonus" : { "type": "HelldiverCustomizationPassiveBonus", "default": "HelldiverCustomizationPassiveBonus_None" },
+    "package" : { "type": "ulong" },
+    "type" : { "type": "HelldiverCustomizationKitType", "default": "HelldiverCustomizationKitType_Count" },
+    "body_types" : { "type": "array", "subtype": "HelldiverBodyTypePieces" }
+}}

@@ -1,0 +1,5 @@
+{ "LightVariableAnimation" : {
+    "name" : { "type": "uint", "description": "[string]The name of the animation. Used to start and stop it from abilities." },
+    "target_value" : { "type": "CApiVector4", "description": "The target value to animate towards." },
+    "duration" : { "type": "float", "default": 1, "description": "The duration in seconds of the animation." }
+}}

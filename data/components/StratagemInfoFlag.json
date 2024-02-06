@@ -1,0 +1,11 @@
+{ "StratagemInfoFlag" : {
+    "support_weapon" : { "type": "ushort" },
+    "hellpod" : { "type": "ushort" },
+    "explosive" : { "type": "ushort" },
+    "backpack" : { "type": "ushort" },
+    "orbital" : { "type": "ushort" },
+    "vehicle" : { "type": "ushort" },
+    "fire" : { "type": "ushort" },
+    "aerial" : { "type": "ushort" },
+    "turret" : { "type": "ushort" }
+}}

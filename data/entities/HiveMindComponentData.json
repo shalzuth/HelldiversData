@@ -1,0 +1,4133 @@
+{
+  "3379812594057386244": {
+    "faction": "FactionType_Bugs",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 5,
+      "maximum_spawn_point_cooldown": 10
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 900,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "4119787788098417919": {
+    "faction": "FactionType_Illuminate",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 30,
+      "maximum_spawn_point_cooldown": 60
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 2400,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "5808153078233765273": {
+    "faction": "FactionType_Bugs",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 30,
+      "maximum_spawn_point_cooldown": 60
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 2400,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "1035582494342310493": {
+    "faction": "FactionType_Bugs",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 5,
+      "maximum_spawn_point_cooldown": 10
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 600,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 2,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "15310831283362138511": {
+    "faction": "FactionType_Bugs",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 5,
+      "maximum_spawn_point_cooldown": 10
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 2400,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "4971254005476332729": {
+    "faction": "FactionType_Bugs",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 5,
+      "maximum_spawn_point_cooldown": 10
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 720,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "11214776831578948095": {
+    "faction": "FactionType_Cyborg",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 1.5,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 5,
+      "maximum_spawn_point_cooldown": 10
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 2400,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "16173737029892384591": {
+    "faction": "FactionType_Cyborg",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 1.5,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 5,
+      "maximum_spawn_point_cooldown": 10
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 900,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "9796372134785992837": {
+    "faction": "FactionType_None",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 30,
+      "maximum_spawn_point_cooldown": 60
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 2400,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "9562546443765914919": {
+    "faction": "FactionType_Bugs",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 5,
+      "maximum_spawn_point_cooldown": 10
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 2400,
+    "forced_encounter_point_amount": 70,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "15734220103569014877": {
+    "faction": "FactionType_Illuminate",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 30,
+      "maximum_spawn_point_cooldown": 60
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 2400,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "2678554217936754689": {
+    "faction": "FactionType_Illuminate",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 30,
+      "maximum_spawn_point_cooldown": 60
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 900,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "3686600486986266946": {
+    "faction": "FactionType_Cyborg",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 1.5,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 5,
+      "maximum_spawn_point_cooldown": 10
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 720,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "9037877505857081793": {
+    "faction": "FactionType_Illuminate",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 30,
+      "maximum_spawn_point_cooldown": 60
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 600,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 2,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "12768986400783294623": {
+    "faction": "FactionType_Cyborg",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 30,
+      "maximum_spawn_point_cooldown": 60
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 2400,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "12993421683837798712": {
+    "faction": "FactionType_Illuminate",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 2,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 30,
+      "maximum_spawn_point_cooldown": 60
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 720,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 1,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  },
+  "92346607788498241": {
+    "faction": "FactionType_Cyborg",
+    "max_encounter_members_to_remove": 1,
+    "selected_encounter_member_weight_multiplier": 1.5,
+    "traveler_settings": {
+      "minimum_spawn_point_cooldown": 5,
+      "maximum_spawn_point_cooldown": 10
+    },
+    "patrol_spotting_settings": {
+      "patrol_basic": 1014103150,
+      "patrol_heavy": 1103945998,
+      "patrol_massive": 1103945998,
+      "patrol_flying": 2618368861
+    },
+    "starting_time_limit": 600,
+    "forced_encounter_point_amount": -1,
+    "forced_encounter_enemy_cap": 0,
+    "encounter_enemy_cap_multiplier": 2,
+    "patrol_spawn_duration_multiplier": 1,
+    "mission_difficulty_settings": {
+      "progress_settings": {
+        "mission_progression_steps": [
+          0,
+          0.25,
+          0.5,
+          0.75,
+          1
+        ],
+        "step_radio_vo": [
+          3190257098,
+          2564403311,
+          2040558823,
+          1572907241,
+          423988402
+        ],
+        "step_radio_initial_delay": 300,
+        "step_radio_delay": 15,
+        "include_prerequisite_objectives": 1,
+        "include_optional_objectives": 1,
+        "include_tactical_objectives": 1,
+        "include_outposts": 1
+      },
+      "influence_settings": {
+        "encounter_points_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.20000005
+          },
+          "falloff_distance": 100
+        },
+        "encounter_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 1.5,
+            "y": 1
+          },
+          "falloff_distance": 100
+        },
+        "patrol_spawn_cooldown_rate_modifier": {
+          "min_max": {
+            "x": 0.800000012,
+            "y": 1.25
+          },
+          "falloff_distance": 100
+        }
+      },
+      "encounter_points_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.60000002,
+          2.20000005,
+          2.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "encounter_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          0.899999976,
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005
+        ],
+        "extraction_available_multiplier": 1.29999995
+      },
+      "patrol_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "player_count_multipliers": [
+          1,
+          1.35000002,
+          1.45000005,
+          1.60000002
+        ],
+        "extraction_available_multiplier": 1.5
+      },
+      "patrol_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1.10000002,
+          1.14999998,
+          1.20000005,
+          1.25
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 3.5
+      },
+      "spawner_queue_limit_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.25,
+          1.39999998,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_production_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.14999998,
+          1.33000004,
+          1.39999998
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.20000005,
+          1.35000002,
+          1.5
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_count_minimum_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.899999976,
+          0.800000012,
+          0.699999988
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "spawner_spawn_cooldown_rate_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          1.10000002,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "guard_force_member_count_max_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.800000012,
+          1,
+          1.20000005,
+          1.29999995
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "global_spawner_cooldown_modifier": {
+        "mission_progression_step_multipliers": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          1,
+          0.75,
+          0.649999976,
+          0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      }
+    }
+  }
+}

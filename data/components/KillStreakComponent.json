@@ -1,0 +1,5 @@
+{ "KillStreakComponent" : {
+    "kill_streak_threshold_time" : { "type": "float", "default": 2, "description": "It'll maintain the count of the kills until this threshold time expires also it renew itself after each kill." },
+    "min_count_for_kill_streak_broadcast" : { "type": "uint", "default": 1, "description": "The minimun required amount of kills in a row to broadcast the killstreak notification." },
+    "special_entities_paths" : { "type": "array", "subtype": "ulong", "description": "[string]All the special entities that ignore the min count for kill streak broadcast." }
+}}

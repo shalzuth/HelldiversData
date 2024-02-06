@@ -1,0 +1,9 @@
+{ "GenerationRegionGroup" : {
+    "name" : { "type": "string" },
+    "id" : { "type": "uint" },
+    "path" : { "type": "ulong" },
+    "shared_package" : { "type": "ulong" },
+    "loc_name" : { "type": "uint" },
+    "gw_color" : { "type": "CApiVector3" },
+    "regions" : { "type": "array", "subtype": "GenerationRegionVariantList" }
+}}

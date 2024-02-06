@@ -1,0 +1,5 @@
+{ "Passenger" : {
+    "entrance_index" : { "type": "uint", "description": "Index of the entrance as found in the transition script. " },
+    "entrance_node" : { "type": "uint", "description": "[string]Name of the entrance interact node. If empty, the entrance_index will get used." },
+    "path" : { "type": "ulong", "description": "[adhd]Path to the passenger entity to spawn in this seat." }
+}}

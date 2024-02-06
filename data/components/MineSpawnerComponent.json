@@ -1,0 +1,9 @@
+{ "MineSpawnerComponent" : {
+    "mine_path" : { "type": "ulong", "description": "[unit]Path to the mine unit that should be placed." },
+    "area_width" : { "type": "float", "default": 10, "description": "Width of mine placement area" },
+    "area_depth" : { "type": "float", "default": 10, "description": "Depth of mine placement area" },
+    "mine_count_width" : { "type": "uint", "default": 1, "description": "How many mines to spawn wide (width * depth must be less than 48)" },
+    "mine_count_depth" : { "type": "uint", "default": 1, "description": "How many mines to spawn deep (width * depth must be less than 48)" },
+    "position_variance" : { "type": "float", "default": 0, "description": "How much randomness is added to mine position (in meters)" },
+    "marker_mines" : { "type": "byte" }
+}}

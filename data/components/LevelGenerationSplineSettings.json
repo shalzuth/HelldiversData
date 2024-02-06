@@ -1,0 +1,12 @@
+{ "LevelGenerationSplineSettings" : {
+    "slope_multiplier" : { "type": "float" },
+    "road_width_radius" : { "type": "float" },
+    "multiplier_when_painting_road_into_terrain" : { "type": "float" },
+    "mesh_width_multiplier" : { "type": "float" },
+    "height_multiplier" : { "type": "float" },
+    "road_material_index" : { "type": "uint" },
+    "width_multiplier_for_material_paint" : { "type": "float" },
+    "road_tiling_length" : { "type": "float" },
+    "creates_path_collision" : { "type": "byte" },
+    "mesh" : { "type": "ulong" }
+}}

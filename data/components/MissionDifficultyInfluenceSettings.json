@@ -1,0 +1,5 @@
+{ "MissionDifficultyInfluenceSettings" : {
+    "encounter_points_modifier" : { "type": "MissionDifficultyInfluenceModifier", "description": "How are encounter points modified?" },
+    "encounter_cooldown_rate_modifier" : { "type": "MissionDifficultyInfluenceModifier", "description": "How is the encounter cooldown affected?" },
+    "patrol_spawn_cooldown_rate_modifier" : { "type": "MissionDifficultyInfluenceModifier", "description": "How is the patrol spawn cooldown maximum modified?" }
+}}

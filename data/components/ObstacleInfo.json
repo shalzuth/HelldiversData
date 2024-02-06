@@ -1,0 +1,4 @@
+{ "ObstacleInfo" : {
+    "node" : { "type": "uint", "description": "[string]Node name" },
+    "radius" : { "type": "float", "default": 1, "description": "Obstacle radius" }
+}}

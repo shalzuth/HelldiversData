@@ -1,0 +1,18 @@
+{ "AiEnemyVOIdleSettings" : {
+    "event_patrol" : { "type": "uint", "default": 3090779345, "description": "[wwise]The idle sound to trigger when the enemy is patrolling." },
+    "event_investigate" : { "type": "uint", "default": 2963873178, "description": "[wwise]The idle sound to trigger when the enemy is investigating." },
+    "event_combat" : { "type": "uint", "default": 1104727703, "description": "[wwise]The idle sound to trigger when the enemy is in combat." },
+    "cooldown_moving_patrol" : { "type": "float", "default": 3, "description": "The length of the VO idle event cooldown when the enemy is moving." },
+    "cooldown_moving_investigate" : { "type": "float", "default": 3, "description": "The length of the VO idle event cooldown when the enemy is moving." },
+    "cooldown_moving_combat_min" : { "type": "float", "default": 3, "description": "The length of the VO idle event cooldown when the enemy is moving." },
+    "cooldown_moving_combat_max" : { "type": "float", "default": 5, "description": "The length of the VO idle event cooldown when the enemy is moving." },
+    "cooldown_moving_combat_min_distance" : { "type": "float", "default": 10, "description": "At this distance or lower, the cooldown value will be clamped to minimum default." },
+    "cooldown_moving_combat_max_distance" : { "type": "float", "default": 20, "description": "At this distance or higher, the cooldown value will be clamped to maximum default." },
+    "cooldown_standing" : { "type": "float", "default": 5, "description": "The length of the VO idle event cooldown when the enemy is standing still." },
+    "cooldown_standing_combat" : { "type": "float", "default": 5, "description": "The length of the VO idle event cooldown when the enemy is standing still in combat." },
+    "cooldown_randomization" : { "type": "float", "default": 1, "description": "How much should the VO idle event cooldown be randomized." },
+    "cooldown_area_range" : { "type": "float", "default": 50, "description": "If a VO idle event happens, within what range should the cooldown be reset" },
+    "player_alert_range" : { "type": "float", "default": 20 },
+    "player_alert_cooldown" : { "type": "float", "default": 60 },
+    "cooldown_id" : { "type": "uint", "default": 1, "description": "Cooldowns of creatures with the same cooldown ID are shared. Max 96" }
+}}

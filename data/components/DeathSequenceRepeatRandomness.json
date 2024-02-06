@@ -1,0 +1,5 @@
+{ "DeathSequenceRepeatRandomness" : {
+    "repeat_chance" : { "type": "float", "default": 0, "description": "The chance (range 0->1) of triggering a repeat after this animation event is triggered." },
+    "goto_index" : { "type": "byte", "description": "The index in the sequence to go to, the sequence is 0-indexed (0 is from the start)." },
+    "max_count" : { "type": "byte", "description": "The max amount of times to run the repeater." }
+}}

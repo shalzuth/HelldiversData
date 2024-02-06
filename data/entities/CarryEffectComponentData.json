@@ -1,0 +1,30 @@
+{
+  "14347356236094671771": {
+    "picked_up_ability": "AbilityId_samples_bot_supersample_on_pickup",
+    "dropped_ability": "AbilityId_samples_bot_supersample_on_drop",
+    "carried_ability": "AbilityId_Invalid",
+    "carried_retrigger_time_min": 5,
+    "carried_retrigger_time_max": 10
+  },
+  "4894393506576860267": {
+    "picked_up_ability": "AbilityId_Invalid",
+    "dropped_ability": "AbilityId_Invalid",
+    "carried_ability": "AbilityId_cyborg_objectives_chemical_backpack_carried",
+    "carried_retrigger_time_min": 10,
+    "carried_retrigger_time_max": 25
+  },
+  "3124708172057168516": {
+    "picked_up_ability": "AbilityId_Invalid",
+    "dropped_ability": "AbilityId_Invalid",
+    "carried_ability": "AbilityId_Invalid",
+    "carried_retrigger_time_min": 5,
+    "carried_retrigger_time_max": 10
+  },
+  "11432560202897483622": {
+    "picked_up_ability": "AbilityId_Invalid",
+    "dropped_ability": "AbilityId_Invalid",
+    "carried_ability": "AbilityId_bug_objectives_carried_larva_trigger",
+    "carried_retrigger_time_min": 90,
+    "carried_retrigger_time_max": 170
+  }
+}

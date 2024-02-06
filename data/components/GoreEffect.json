@@ -1,0 +1,4 @@
+{ "GoreEffect" : {
+    "particles" : { "type": "ulong", "description": "[particles]Particle effect to play, when this group is gibbed or dismembered." },
+    "audio" : { "type": "uint", "description": "[string]Audio event to play, when this group is gibbed or dismembered." }
+}}

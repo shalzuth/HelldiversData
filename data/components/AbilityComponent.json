@@ -1,0 +1,3 @@
+{ "AbilityComponent" : {
+    "spawn_abilities" : { "type": "array", "subtype": "SpawnAbility", "description": "Ability to play if spawned with the corresponding job (AiJob_Count) " }
+}}

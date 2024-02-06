@@ -1,0 +1,6 @@
+{ "DistantWarEffect" : {
+    "effect" : { "type": "ulong", "description": "[particles]" },
+    "audio_event" : { "type": "uint" },
+    "weight" : { "type": "uint" },
+    "immediate_spawn" : { "type": "byte" }
+}}

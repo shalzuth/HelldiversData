@@ -1,0 +1,37 @@
+{
+  "2206473276648512700": {
+    "min_refire_time": 14,
+    "max_refire_time": 60,
+    "ability_id": "AbilityId_hazards_geyser_erupt_small",
+    "detonatable": 0,
+    "trigger_reset_time": 10
+  },
+  "5317164926502074100": {
+    "min_refire_time": 14,
+    "max_refire_time": 60,
+    "ability_id": "AbilityId_Invalid",
+    "detonatable": 0,
+    "trigger_reset_time": 10
+  },
+  "4382784381499614144": {
+    "min_refire_time": 14,
+    "max_refire_time": 60,
+    "ability_id": "AbilityId_hazards_geyser_erupt_medium",
+    "detonatable": 0,
+    "trigger_reset_time": 10
+  },
+  "1924189784453431416": {
+    "min_refire_time": 5,
+    "max_refire_time": 10,
+    "ability_id": "AbilityId_hazards_gas_chimney_detonate",
+    "detonatable": 1,
+    "trigger_reset_time": 10
+  },
+  "15232332905046032499": {
+    "min_refire_time": 14,
+    "max_refire_time": 60,
+    "ability_id": "AbilityId_hazards_geyser_erupt_large",
+    "detonatable": 0,
+    "trigger_reset_time": 10
+  }
+}

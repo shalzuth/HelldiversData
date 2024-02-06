@@ -1,0 +1,9 @@
+{ "UnitComponent" : {
+    "unit_path" : { "type": "ulong", "description": "[unit]Path to the unit for this entity." },
+    "scale_min" : { "type": "float", "default": 1, "description": "Min scale value." },
+    "scale_max" : { "type": "float", "default": 1, "description": "Max scale value." },
+    "radius" : { "type": "float", "default": 1, "description": "The radius of the unit as used by e.g. motion and navigation." },
+    "hidden_visibility_groups" : { "type": "array", "subtype": "uint", "description": "[string]What groups to hide when this unit spawns?" },
+    "show_random_visibility_group" : { "type": "array", "subtype": "uint", "description": "[string]Upon spawn, picks a random visibility group and sets it visible." },
+    "on_hotjoin_corpse_repair_ability_patch" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "This ability gets ran on hot joining players when the entity is a corpse." }
+}}

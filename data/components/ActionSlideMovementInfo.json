@@ -1,0 +1,8 @@
+{ "ActionSlideMovementInfo" : {
+    "slide_flat_duration" : { "type": "float", "default": 0.5, "description": "The exit duration when sliding on flat ground" },
+    "slide_flat_speed" : { "type": "float", "default": 3, "description": "The speed when sliding on flat ground" },
+    "slide_uphill_duration" : { "type": "float", "default": 0.1, "description": "The exit duration when sliding into max uphill slopes" },
+    "slide_uphill_speed" : { "type": "float", "default": 2.9, "description": "The speed when sliding into uphill slopes" },
+    "slide_downhill_duration" : { "type": "float", "default": 1, "description": "The speed when sliding down downhill slopes" },
+    "slide_downhill_speed" : { "type": "float", "default": 3.6, "description": "The speed when sliding down downhill slopes" }
+}}

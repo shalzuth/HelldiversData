@@ -1,0 +1,380 @@
+[
+  {
+    "LevelGenerationSettings": {
+      "vista_start_fade_distance_multiplier": 0.60546875,
+      "vista_end_fade_distance_multiplier": 0.6640625,
+      "flattening_location_min_distance_bias": 8,
+      "flattening_location_min_distance_factor": 0.850000024,
+      "non_flattening_location_min_distance_bias": 1.5,
+      "non_flattening_location_min_distance_factor": 0.100000001,
+      "location_playable_area_bias_factor": 0.449999988,
+      "location_playable_area_offset": 15,
+      "war_layer_threshold": 0,
+      "war_layer_random_offset": 0,
+      "stamp_flatten_factor": 32,
+      "outside_playable_area_culling_screen_size_weight": 1,
+      "horde_playable_distance": 1,
+      "detailed_distance": 174,
+      "exploration_settings": {
+        "distance_between_locations": 20,
+        "fill_rate": 1,
+        "spawn_layers": [
+          {
+            "layer_to_spawn": 1641360298,
+            "min_to_spawn": 3,
+            "max_to_spawn": 3,
+            "priority": 1,
+            "min_difficulty": 4,
+            "max_difficulty": 15
+          },
+          {
+            "layer_to_spawn": 1755739661,
+            "min_to_spawn": 1,
+            "max_to_spawn": 1,
+            "priority": 1,
+            "min_difficulty": 7,
+            "max_difficulty": 15
+          },
+          {
+            "layer_to_spawn": 1707045958,
+            "min_to_spawn": 8,
+            "max_to_spawn": 8,
+            "priority": 2,
+            "min_difficulty": 15,
+            "max_difficulty": 15
+          },
+          {
+            "layer_to_spawn": 2900246166,
+            "min_to_spawn": 0,
+            "max_to_spawn": 15,
+            "priority": 3,
+            "min_difficulty": 15,
+            "max_difficulty": 15
+          }
+        ],
+        "spawn_limits": [
+          {
+            "location_sub_category": 2502742549,
+            "max_amount": 4
+          }
+        ]
+      },
+      "cache_loot_tables": [
+        {
+          "id": 170774890,
+          "chance": 15,
+          "max_packages_allowed": 4,
+          "entries": [
+            {
+              "entity_path": 12008625947668001407,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0.300000012,
+                "y": -0.0900000036,
+                "z": 0.0299999993
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 9927421484392399367,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0.5,
+                "y": 0,
+                "z": 0.0599999987
+              },
+              "spawn_offset_rot": {
+                "x": 0,
+                "y": 5,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 4155583896232633279,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0.400000006,
+                "y": 0.0900000036,
+                "z": 0.0399999991
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 10871298989420119782,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0,
+                "y": 0,
+                "z": 0.150000006
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 1279722939363854678,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0.300000012,
+                "y": -0.0900000036,
+                "z": 0.0299999993
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 3358853937828503136,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0.300000012,
+                "y": -0.0900000036,
+                "z": 0.0799999982
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 15369542005276747891,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": -0.0299999993,
+                "y": -0.129999995,
+                "z": 0.0299999993
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 2714034314705433838,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0,
+                "y": 0.180000007,
+                "z": 0.0799999982
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": -12,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 211331680192206384,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0,
+                "y": 0,
+                "z": 0.0500000007
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 9264801226655597011,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": -0.170000002,
+                "y": -0.150000006,
+                "z": 0.0799999982
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 5910727434981086692,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0.200000003,
+                "y": 0,
+                "z": 0.0799999982
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 1353568197974522460,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": -0.0199999996,
+                "y": -0.0599999987,
+                "z": 0.0799999982
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": -180
+              }
+            },
+            {
+              "entity_path": 6468799106264970105,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": -0.0199999996,
+                "y": -0.0599999987,
+                "z": 0.0799999982
+              },
+              "spawn_offset_rot": {
+                "x": -90,
+                "y": 0,
+                "z": -180
+              }
+            },
+            {
+              "entity_path": 5690760409550920280,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0,
+                "y": 0,
+                "z": 0.100000001
+              },
+              "spawn_offset_rot": {
+                "x": 0,
+                "y": 90,
+                "z": 90
+              }
+            }
+          ]
+        },
+        {
+          "id": 1215402291,
+          "chance": 0,
+          "max_packages_allowed": -1,
+          "entries": []
+        },
+        {
+          "id": 933012742,
+          "chance": 85,
+          "max_packages_allowed": -1,
+          "entries": [
+            {
+              "entity_path": 1476012537193590664,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0,
+                "y": 0,
+                "z": 0.00999999978
+              },
+              "spawn_offset_rot": {
+                "x": 0,
+                "y": 0,
+                "z": 180
+              }
+            },
+            {
+              "entity_path": 7742303829890335551,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "spawn_offset_rot": {
+                "x": 90,
+                "y": 90,
+                "z": 0
+              }
+            },
+            {
+              "entity_path": 9333151595628803334,
+              "min_difficulty": -1,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "spawn_offset_rot": {
+                "x": 0,
+                "y": 0,
+                "z": 90
+              }
+            },
+            {
+              "entity_path": 16068287307180393021,
+              "min_difficulty": 4,
+              "max_difficulty": -1,
+              "race_type": "RaceType_None",
+              "spawn_offset_pos": {
+                "x": 0,
+                "y": 0,
+                "z": 0.129999995
+              },
+              "spawn_offset_rot": {
+                "x": 0,
+                "y": 65,
+                "z": 125
+              }
+            }
+          ]
+        },
+        {
+          "id": 1041568452,
+          "chance": 0,
+          "max_packages_allowed": -1,
+          "entries": []
+        }
+      ]
+    }
+  }
+]

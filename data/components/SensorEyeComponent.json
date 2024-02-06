@@ -1,0 +1,13 @@
+{ "SensorEyeComponent" : {
+    "distance" : { "type": "float", "default": 40, "description": "The max distance that avatars can be spotted at" },
+    "peripheral_distance" : { "type": "float", "default": 1, "description": "The maximum pheripheral vision. -1 means that the value of 'distance' is used." },
+    "back_distance" : { "type": "float", "default": 1, "description": "The maximum backward distance. -1 means that the value of 'distance' is used." },
+    "angle_horizontal" : { "type": "float", "default": 20, "description": "The horizontal angle of the cone" },
+    "angle_vertical" : { "type": "float", "default": 20, "description": "The vertical angle of the cone" },
+    "sight_node" : { "type": "uint", "default": 2354409673, "description": "[string]Node from which the entity sees, usually the head node." },
+    "use_sight_node_for_direction" : { "type": "byte", "description": "[bool]Use the sight node rotation (influenced by animation etc) instead of the unit root node rotation for determining sight direction." },
+    "vision_raycast_template" : { "type": "RaycastTemplate", "default": "RaycastTemplate_Vision", "description": "The raycast template to use for vision." },
+    "eye_type" : { "type": "EyeType", "default": "EyeType_Humanoid", "description": "The form of the sight area." },
+    "ignore_inside_foliage_distance" : { "type": "float", "default": 8, "description": "If the target is within foliage and we are withing ignore_inside_foliage_distance, ignore hits to the foliage. (Players hiding in bushes)" },
+    "inside_foliage_distance" : { "type": "float", "default": 0.5, "description": "If the target is within this distance of a foliage hit" }
+}}

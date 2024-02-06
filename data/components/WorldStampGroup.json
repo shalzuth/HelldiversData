@@ -1,0 +1,9 @@
+{ "WorldStampGroup" : {
+    "type" : { "type": "WorldStampGroupType" },
+    "weight" : { "type": "float", "default": 0 },
+    "stamps" : { "type": "array", "subtype": "StampInfo" },
+    "subregion_override" : { "type": "SubRegionType", "default": "SubRegionType_None" },
+    "random_offset_distance_start" : { "type": "float", "default": 50 },
+    "random_offset_distance_max" : { "type": "float", "default": 200 },
+    "other_stamp_overlap" : { "type": "float", "default": 0 }
+}}

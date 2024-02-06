@@ -1,0 +1,8 @@
+{ "MinigameStrings" : {
+    "wait_timer_loc" : { "type": "uint", "description": "[string]Text to show while wait mode is active from the completion wait time." },
+    "revert_timer_loc" : { "type": "uint", "description": "[string]Text to show when this minigame stage has timed out and is reverting to previous stage." },
+    "title_text_loc" : { "type": "uint", "description": "[string]Main title for this objective" },
+    "info_text_loc" : { "type": "uint", "description": "[string]Text that is shown on objective terminal, usually shown to indicate what the player need to do, or general flavour text." },
+    "ui_help_text" : { "type": "uint", "description": "[string]Text that is shown in the UI - Should be a call to action to the player on what they should be doing at any given step" },
+    "ui_wait_help_text" : { "type": "uint", "description": "[string]Text that is shown in the UI while this minigame is in the wait step- Should be a call to action to the player on what they should be doing at any given step" }
+}}

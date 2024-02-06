@@ -1,0 +1,21 @@
+{ "JumppackComponent" : {
+    "takeoff_force" : { "type": "float", "default": 25, "description": "The force for take off." },
+    "takeoff_duration" : { "type": "float", "default": 0.5, "description": "The duration of the take off." },
+    "boosted_takeoff_duration" : { "type": "float", "default": 0.75, "description": "The duration of the take off." },
+    "takeoff_forward_frac" : { "type": "float", "default": 0.05, "description": "The amount of the takeoff force, in pecentage, that is applied in the forward vector, remainder is applied to up vector." },
+    "landing_thrust_force" : { "type": "float", "default": 60, "description": "The thrust force applied to stop the landing." },
+    "landing_thrust_duration" : { "type": "float", "default": 1, "description": "The thruster duration of the landing." },
+    "landing_thrust_backward_frac" : { "type": "float", "default": 0.1, "description": "The amount of the landing thrust force, in pecentage, that is applied in the backward vector, remainder is applied to up vector." },
+    "landing_trigger_delay_time" : { "type": "float", "default": 1, "description": "The duration to wait before landing can be triggered." },
+    "landing_trigger_velocity" : { "type": "float", "default": 3, "description": "The minimum needed velocity before landing can be triggered." },
+    "landing_stop_velocity" : { "type": "float", "default": 1, "description": "The velocity at which the landing thrusters will stop." },
+    "mid_air_adjustment_speed" : { "type": "float", "default": 4, "description": "The speed at which you can do adjustment of your overall velocity while falling with the jumppack." },
+    "fall_damage_thrusters" : { "type": "byte", "description": "[bool]Should the jumppack save us from fall damage if it can with a free thrust?" },
+    "ground_smoke_effect" : { "type": "SurfaceImpactType", "default": "SurfaceImpactType_jumppack_ground", "description": "Surface effect type to play on the ground where the exhaust of the jetpack hits activating it." },
+    "ability_thrusters_recharge_start" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_recharge_start", "description": "The ability to play when we are done charging" },
+    "ability_thrusters_recharge_done" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_recharge_done", "description": "The ability to play when we are done charging" },
+    "ability_thrusters_activate_jump_fail" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_activate_jump_fail", "description": "The ability to play when we are done charging" },
+    "ability_thrusters_activate_jump" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_activate_jump", "description": "The ability to play when we are done charging" },
+    "ability_thrusters_activate_land" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_activate_land", "description": "The ability to play when we are done charging" },
+    "ability_thrusters_deactivate" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_deactivate", "description": "The ability to play when we are done charging" }
+}}

@@ -1,0 +1,4 @@
+{ "EntitySpawnAttachPointInfo" : {
+    "entities" : { "type": "array", "subtype": "EntitySpawnPath", "description": "Settings for the entities to spawn on this attach node." },
+    "attach_node" : { "type": "uint", "description": "[string]Node where to place the entity." }
+}}

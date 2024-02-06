@@ -1,0 +1,4 @@
+{ "LevelGenerationLocationGroup" : {
+    "id" : { "type": "uint" },
+    "stamps" : { "type": "array", "subtype": "LocationStampInfo" }
+}}

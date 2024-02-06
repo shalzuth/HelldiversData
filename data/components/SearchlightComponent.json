@@ -1,0 +1,11 @@
+{ "SearchlightComponent" : {
+    "pan_distance" : { "type": "float", "default": 50 },
+    "pan_angle" : { "type": "float", "default": 45 },
+    "wait_time" : { "type": "float", "default": 2 },
+    "pan_speed" : { "type": "float", "default": 0.5 },
+    "height_offset" : { "type": "float", "default": -50 },
+    "aim_constraint" : { "type": "uint", "description": "[string]Name of the aim constraint target this should set." },
+    "light_node" : { "type": "uint", "description": "[string]Unit node to raycast light from" },
+    "light_raycast_distance" : { "type": "float", "default": 100, "description": "How far to raycast to get the light hit position for visibility checks" },
+    "light_sphere_radius" : { "type": "float", "default": 5, "description": "When checking for lit entities, how far to check from the hit location" }
+}}

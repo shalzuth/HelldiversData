@@ -1,0 +1,6 @@
+{ "RecoilComponentInfo" : {
+    "horizontal_recoil" : { "type": "float", "default": 2.5, "description": "Defined in degrees / second, first value is first shot, second value is when rounds fired." },
+    "vertical_recoil" : { "type": "float", "default": 10, "description": "Defined in degrees / second, first value is first shot, second value is when rounds fired." },
+    "horizontal_bias" : { "type": "float", "default": 0, "description": "In format Start / End: How much the recoil is biased, 0 is center." },
+    "random_amount" : { "type": "CApiVector2", "description": "How much of the drift is random per axis. (0-1). Default 10% for vertical and 100% for horizontal. Higher values means larger range (1 is full)." }
+}}

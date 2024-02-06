@@ -1,0 +1,12 @@
+{ "CreditsRowData" : {
+    "heading_str" : { "type": "string" },
+    "heading_style" : { "type": "MenuFontStyle", "default": "MenuFontStyle_Count" },
+    "heading_color" : { "type": "uint", "default": 1 },
+    "heading_wrap" : { "type": "uint" },
+    "role_str" : { "type": "string" },
+    "name_str" : { "type": "string" },
+    "name_center" : { "type": "uint" },
+    "texture_id64" : { "type": "ulong" },
+    "texture_size_x" : { "type": "float", "default": 0 },
+    "texture_size_y" : { "type": "float", "default": 0 }
+}}

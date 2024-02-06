@@ -1,0 +1,13 @@
+{ "LaserDesignatorComponent" : {
+    "always_active" : { "type": "byte", "description": "[bool]Is the designator always active and can't be toggled?" },
+    "start_active" : { "type": "byte", "description": "[bool]Should this designator start active?" },
+    "max_distance" : { "type": "float", "default": 150, "description": "How far this designator can project" },
+    "projection_node" : { "type": "uint", "default": 3167719909, "description": "[string]The node that the laser should be projected from." },
+    "projection_node_mount_name" : { "type": "uint", "description": "[string]The name of the mount to use for the laser projection node." },
+    "max_angle" : { "type": "float", "default": 180, "description": "How large an angle (in degrees) around the projection node pose it is allowed to project." },
+    "weapon_draw_anim" : { "type": "uint", "description": "[string]Animation to play when this weapon gets drawn." },
+    "weapon_holster_anim" : { "type": "uint", "description": "[string]Animation to play when this weapon gets holstered." },
+    "active_while_firing" : { "type": "byte", "description": "[bool]Is the designator activated by just aiming the weapon or do we have to be firing it?" },
+    "laser_effect" : { "type": "ulong", "description": "[particles]Particle effect for the designator laser." },
+    "laser_dot_effect" : { "type": "ulong", "description": "[particles]Particle effect for the designator laser's dot at hit position." }
+}}

@@ -1,0 +1,6 @@
+{ "LevelGenerationPlanetInstance" : {
+    "planet_data" : { "type": "LevelGenerationPlanetData" },
+    "location_distance_multiplier" : { "type": "float" },
+    "location_edge_distance_multiplier" : { "type": "float" },
+    "tags" : { "type": "array", "subtype": "uint" }
+}}

@@ -1,0 +1,12 @@
+{ "LevelGenerationLocation" : {
+    "id" : { "type": "uint" },
+    "tag" : { "type": "uint" },
+    "total_stamp_weights" : { "type": "float", "default": 0 },
+    "min_num_path_locations_to_spawn" : { "type": "uint", "default": 4 },
+    "max_num_path_locations_to_spawn" : { "type": "uint", "default": 6 },
+    "path_locations_min_distance" : { "type": "float", "default": 90 },
+    "path_locations_max_distance" : { "type": "float", "default": 130 },
+    "maximum_objective_spawn_count" : { "type": "uint", "default": 999 },
+    "flags" : { "type": "LocationFlags" },
+    "groups" : { "type": "array", "subtype": "LevelGenerationLocationGroup" }
+}}

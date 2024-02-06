@@ -1,0 +1,12 @@
+{ "AvatarMovementHapticsSettings" : {
+    "left_sprinting" : { "type": "uint", "description": "[wwise]Left sprinting haptic" },
+    "right_sprinting" : { "type": "uint", "description": "[wwise]Right sprinting haptic" },
+    "left_jogging" : { "type": "uint", "description": "[wwise]Left jogging haptic" },
+    "right_jogging" : { "type": "uint", "description": "[wwise]Right jogging haptic" },
+    "left_walking" : { "type": "uint", "description": "[wwise]Left walking haptic" },
+    "right_walking" : { "type": "uint", "description": "[wwise]Right walking haptic" },
+    "left_crouching" : { "type": "uint", "description": "[wwise]Left crouching haptic" },
+    "right_crouching" : { "type": "uint", "description": "[wwise]Right crouching haptic" },
+    "left_crawling" : { "type": "uint", "description": "[wwise]Left crawling haptic" },
+    "right_crawling" : { "type": "uint", "description": "[wwise]Right crawling haptic" }
+}}

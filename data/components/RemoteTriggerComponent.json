@@ -1,0 +1,3 @@
+{ "RemoteTriggerComponent" : {
+    "remote_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to trigger on remote target" }
+}}

@@ -1,0 +1,11 @@
+{ "LevelGenerationSatellite" : {
+    "stamp" : { "type": "LocationStampInfo" },
+    "satellite_type" : { "type": "StampEntrySatelliteType" },
+    "minimum_distance" : { "type": "float" },
+    "maximum_distance" : { "type": "float" },
+    "rotation_type" : { "type": "SatelliteRotationType" },
+    "use_entrypoint" : { "type": "byte" },
+    "parent_location_height_weight" : { "type": "float", "default": 1 },
+    "parent_location_height_min_distance" : { "type": "float", "default": 1 },
+    "parent_location_height_max_distance" : { "type": "float", "default": 3 }
+}}

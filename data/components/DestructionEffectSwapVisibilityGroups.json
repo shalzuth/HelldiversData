@@ -1,0 +1,6 @@
+{ "DestructionEffectSwapVisibilityGroups" : {
+    "group_to_visualize" : { "type": "uint", "description": "[string] The visibility group that will be set to visible." },
+    "group_to_hide" : { "type": "uint", "description": "[string] The visibility group that will be set to hidden. When this is NOT set, ALL other visibility groups in the unit will be set to invisible." },
+    "impulse_multiplier" : { "type": "float", "default": 1, "description": "The multiplier to apply to the impulse in order to increase or decrease the magnitude of the impulse applied from whatever destroyed it." },
+    "torque_multiplier" : { "type": "float", "default": 1, "description": "The multiplier to apply to the torque in order to increase or decrease the magnitude of the torque applied from whatever destroyed it." }
+}}

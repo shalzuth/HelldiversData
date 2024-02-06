@@ -1,0 +1,5 @@
+{ "PathFlags" : {
+    "taken_by_road" : { "type": "byte" },
+    "ignores_bound_restrictions" : { "type": "byte" },
+    "taken_by_world_splitter" : { "type": "byte" }
+}}

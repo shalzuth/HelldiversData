@@ -1,0 +1,4 @@
+{ "RegionBlocksArray" : {
+    "indexes" : { "type": "array", "subtype": "RegionBlockIndex" },
+    "count" : { "type": "uint" }
+}}

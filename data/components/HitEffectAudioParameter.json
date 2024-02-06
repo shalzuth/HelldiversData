@@ -1,0 +1,4 @@
+{ "HitEffectAudioParameter" : {
+    "material" : { "type": "uint", "description": "[material]" },
+    "param" : { "type": "array", "subtype": "sbyte" }
+}}

@@ -1,0 +1,4 @@
+{ "VisibilityMaskFlip" : {
+    "hide" : { "type": "array", "subtype": "uint", "description": "[string]The name of the visibility mask (or randomizations group) to hide when this gore group is dismebered or gibbed." },
+    "show" : { "type": "array", "subtype": "uint", "description": "[string]The name of the visibility mask (or randomizations group) to show when this gore group is dismebered or gibbed." }
+}}

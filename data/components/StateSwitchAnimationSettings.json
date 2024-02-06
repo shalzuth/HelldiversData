@@ -1,0 +1,6 @@
+{ "StateSwitchAnimationSettings" : {
+    "animation_variable" : { "type": "uint", "description": "[string]Name of the animation variable to control with the progress value" },
+    "animation_value_min" : { "type": "float", "default": 0, "description": "The minimum value for the range set to the animation variable" },
+    "animation_value_max" : { "type": "float", "default": 1, "description": "The maximum value for the range set to the animation variable" },
+    "control_linked" : { "type": "byte" }
+}}

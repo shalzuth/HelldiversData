@@ -1,0 +1,8 @@
+{ "AiSquadComponent" : {
+    "replenish_members_on_exit_ghost" : { "type": "byte", "description": "[bool]Respawn all members when exiting ghost mode." },
+    "catch_up_start_distance" : { "type": "float", "default": 21, "description": "Members will start navigating individually when this far from squad." },
+    "catch_up_stop_distance" : { "type": "float", "default": 17, "description": "Members will stop navigating individually when this far from squad." },
+    "cohesion_multiplier" : { "type": "float", "default": 0.04, "description": "A multiplier used to controll cohesion between squad members. Higher values means more cohesion." },
+    "squad_type" : { "type": "SquadType", "default": "SquadType_None", "description": "Defines what kind of behaviours should be run by the squad." },
+    "squad_members" : { "type": "array", "subtype": "AiSquadMembers", "description": "The Contents of the squad." }
+}}

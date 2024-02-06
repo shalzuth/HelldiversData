@@ -1,0 +1,3 @@
+{ "SeaterComponent" : {
+    "node_to_inherit_exit_velocity_from" : { "type": "uint", "description": "[string]Name of the node that we use for inheriting velocity from when exiting vehicles." }
+}}

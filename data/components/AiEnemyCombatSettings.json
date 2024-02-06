@@ -1,0 +1,17 @@
+{ "AiEnemyCombatSettings" : {
+    "movement" : { "type": "AiEnemyStateMovementSettings" },
+    "strafe" : { "type": "AiEnemyCombatStrafeLocomotionSettings" },
+    "drift" : { "type": "AiEnemyStateMovementSettings", "description": "When circling the target, it will either use the strafe setting or drift depending on " },
+    "reposition" : { "type": "AiEnemyRepositionSettings", "description": "When repositioning around the target, it will use these setting." },
+    "target_minimum_distance" : { "type": "float", "default": 0 },
+    "target_maximum_distance" : { "type": "float", "default": 0.25 },
+    "target_preferred_distance" : { "type": "float", "default": 0 },
+    "target_minimum_distance_secondary" : { "type": "float", "default": 0 },
+    "target_maximum_distance_secondary" : { "type": "float", "default": 0.25 },
+    "target_preferred_distance_secondary" : { "type": "float", "default": 0 },
+    "idle_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid" },
+    "navigation_agent_type" : { "type": "uint", "description": "[string]The agent type to use when navigating in combat. Agent types are specified in global.havok_ai_properties." },
+    "rotate_target_intercept_time" : { "type": "float", "default": 0.4, "description": "How far ahead to predict movement in seconds, when determining rotation towards target." },
+    "rotate_toward_target" : { "type": "byte", "description": "[bool]Attempts to always rotate towards target by default. Remember that other systems/abilities can override this behavior." },
+    "follow_squad_leader" : { "type": "byte", "description": "[bool]If not the leader, then by default move towards them" }
+}}

@@ -1,0 +1,173 @@
+[
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Base",
+      "name_loc": 4207037112,
+      "icon": 3983318633447598880,
+      "modifiers": [
+        {
+          "modifier_id": 2947431239,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Add",
+          "value": 1,
+          "desc_loc": 1802981327
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_BattleHardened",
+      "name_loc": 142525292,
+      "icon": 14838108212919303860,
+      "modifiers": [
+        {
+          "modifier_id": 650733985,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 1.29999995,
+          "desc_loc": 4083283407
+        },
+        {
+          "modifier_id": 2259262393,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 1.5,
+          "desc_loc": 2398339361
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_CombatEngineer",
+      "name_loc": 1160689016,
+      "icon": 4557455691177607394,
+      "modifiers": [
+        {
+          "modifier_id": 3278452137,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 0.699999988,
+          "desc_loc": 276558649
+        },
+        {
+          "modifier_id": 4143617574,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Add",
+          "value": 2,
+          "desc_loc": 4144979903
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_CombatMedic",
+      "name_loc": 1938376644,
+      "icon": 13623136920715528598,
+      "modifiers": [
+        {
+          "modifier_id": 678818890,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Add",
+          "value": 2,
+          "desc_loc": 3264472874
+        },
+        {
+          "modifier_id": 2481657511,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Time",
+          "value": 2,
+          "desc_loc": 2230489000
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Experimental",
+      "name_loc": 1724458231,
+      "icon": 13227504068054758699,
+      "modifiers": [
+        {
+          "modifier_id": 1272920516,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 0.0500000007,
+          "desc_loc": 980701584
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_FireSupport",
+      "name_loc": 4176618764,
+      "icon": 5227406313017706764,
+      "modifiers": [
+        {
+          "modifier_id": 3278452137,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 0.699999988,
+          "desc_loc": 276558649
+        },
+        {
+          "modifier_id": 530108754,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 0.5,
+          "desc_loc": 3110966073
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Hero",
+      "name_loc": 1236709379,
+      "icon": 9287252736164846125,
+      "modifiers": [
+        {
+          "modifier_id": 3414248709,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 1.5,
+          "desc_loc": 3954717673
+        },
+        {
+          "modifier_id": 2794008770,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 0,
+          "desc_loc": 2277719467
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Tactician",
+      "name_loc": 3682222023,
+      "icon": 5122800561356332745,
+      "modifiers": [
+        {
+          "modifier_id": 564640356,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Time",
+          "value": 2,
+          "desc_loc": 2051882320
+        },
+        {
+          "modifier_id": 351063573,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 0.699999988,
+          "desc_loc": 3031268253
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_None",
+      "name_loc": 1555196278,
+      "icon": 3983318633447598880,
+      "modifiers": [
+        {
+          "modifier_id": 0,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Set",
+          "value": 0,
+          "desc_loc": 2716085286
+        }
+      ]
+    }
+  }
+]

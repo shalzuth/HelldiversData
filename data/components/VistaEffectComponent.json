@@ -1,0 +1,4 @@
+{ "VistaEffectComponent" : {
+    "id" : { "type": "uint", "description": "[string]ID to trigger" },
+    "ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play" }
+}}

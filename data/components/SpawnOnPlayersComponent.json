@@ -1,0 +1,12 @@
+{ "SpawnOnPlayersComponent" : {
+    "spawn_timer_min" : { "type": "CApiVector2" },
+    "spawn_timer_max" : { "type": "CApiVector2" },
+    "spawned_entity" : { "type": "ulong", "description": "[adhd]Entity which will be spawned" },
+    "random_offset_distance_range" : { "type": "CApiVector2", "description": "Random offset which is added to the entity when spawned, min and max range. Minimum can be used to ensure it never spawns on a player" },
+    "scale_rate_on_objective_completion" : { "type": "float", "default": 0, "description": "If set the spawn rate will be scaled based on how many primary objectives are completed" },
+    "spawn_on_origin" : { "type": "byte", "description": "[bool]If true then spawn always at the center of the map" },
+    "spawn_on_navmesh" : { "type": "byte", "description": "[bool]If true, will find the closest navmesh point. Agent_type will be recover from NavigationComponent if the instance have it, if not it will use the default one" },
+    "paused_while_spawned" : { "type": "byte", "description": "[bool]If true then spawn timer is paused while a previously spawned entity is alive" },
+    "start_active" : { "type": "byte", "description": "[bool]If true then this spawning is active as soon as this entity exists" },
+    "avoid_objective_location_distance" : { "type": "float", "default": -1, "description": "How far we have to be from a location for the the spawn to trigger" }
+}}

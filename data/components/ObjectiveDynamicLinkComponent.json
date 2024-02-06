@@ -1,0 +1,4 @@
+{ "ObjectiveDynamicLinkComponent" : {
+    "objective_type" : { "type": "StratagemObjectiveDropRequirement", "default": "StratagemObjectiveDropRequirement_None", "description": "What kind of stratagem drop requirement objective type to attach to" },
+    "auto_link" : { "type": "byte", "description": "[bool]Should this try to link by default?" }
+}}

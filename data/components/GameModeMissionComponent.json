@@ -1,0 +1,6 @@
+{ "GameModeMissionComponent" : {
+    "is_opportunity_mission" : { "type": "byte" },
+    "is_tutorial_mission" : { "type": "byte" },
+    "is_blitz_mission" : { "type": "byte" },
+    "is_horde_mission" : { "type": "byte" }
+}}

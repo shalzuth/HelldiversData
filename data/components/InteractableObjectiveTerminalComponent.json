@@ -1,0 +1,22 @@
+{ "InteractableObjectiveTerminalComponent" : {
+    "interact_mat_var_name" : { "type": "uint", "default": 2566795050, "description": "[string]Name of the material variable to change when the minigame active state changes" },
+    "alert_mat_var_name" : { "type": "uint", "default": 1628260887, "description": "[string]Name of the material variable to change when the minigame is set to alert required" },
+    "show_interface" : { "type": "byte", "description": "[bool]Toggle whether the Terminal interface is used for this terminal - Some lighter minigames might not need the full terminal experience" },
+    "screen_type" : { "type": "InteractableObjectiveTerminalScreenType", "default": "InteractableObjectiveTerminalScreenType_None", "description": "What kind of terminal this is attached to, determines how the in-world UI is positioned" },
+    "generate_noise" : { "type": "InteractableObjectiveTerminalNoiseType", "default": "InteractableObjectiveTerminalNoiseType_MinigameState", "description": "Toggle how this terminal generated noise to attract enemies over time while active" },
+    "noise_template" : { "type": "NoiseTemplate", "default": "NoiseTemplate_Objective_Encounter" },
+    "spawn_sound_event" : { "type": "uint", "description": "[wwise]Sound event to play when unit spawns" },
+    "despawn_sound_event" : { "type": "uint", "description": "[wwise]Sound event to play when unit despawns" },
+    "noise_refire_time" : { "type": "float", "default": 2 },
+    "dynamic_positioning" : { "type": "byte", "description": "[bool]Toggle whether " },
+    "screen_theme" : { "type": "InteractableObjectiveTerminalTheme", "default": "InteractableObjectiveTerminalTheme_SelectCorp", "description": "Theme for this screen (and all of the minigames associated with it)" },
+    "noise_timeout" : { "type": "float", "default": 60, "description": "How long until noise generation stops after interacting with the terminal." },
+    "disable_on_complete" : { "type": "byte", "description": "[bool]Whether this terminal is disabled when the objective is completed" },
+    "revert_soon_threshold" : { "type": "float", "default": 10, "description": "After this point we alert the playe that revert is soon" },
+    "appear_on_radar" : { "type": "byte", "description": "[bool]Whether this terminal appears on the radar" },
+    "start_enabled" : { "type": "byte", "description": "[bool]Whether this terminal starts enabled" },
+    "use_for_objective_ui" : { "type": "byte", "description": "[bool]If true, then the settings for this terminal/minigame will be shown in the objective UI." },
+    "require_mover_space_for_interact" : { "type": "byte", "description": "[bool]If true, then interact is disabled if it is physically blocked" },
+    "ability_interact_started" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Playing this ability when a player interacts" },
+    "ability_interact_ended" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Playing this ability when a player stops interacting" }
+}}

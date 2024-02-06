@@ -1,0 +1,1833 @@
+{
+  "11932859523713108747": {
+    "tag_to_link_to": 1475346640,
+    "attack_events": [
+      {
+        "camera_shake_asset": 6475641010124826847,
+        "camera_shake_asset_2": 18426853574818518462,
+        "audio_event": 2171598702,
+        "particle_asset": 15633737999389245703
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      },
+      {
+        "camera_shake_asset": 0,
+        "camera_shake_asset_2": 0,
+        "audio_event": 0,
+        "particle_asset": 0
+      }
+    ],
+    "ship_lights": [
+      {
+        "unit_paths": [
+          4575157752766718692,
+          6201099599594130143,
+          8260347728515238703,
+          15558391334767180740,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 1,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 0,
+            "z": 1
+          },
+          "material": 14937313358816261899
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 0
+          },
+          "material": 13887333046562358441
+        }
+      },
+      {
+        "unit_paths": [
+          12419158041445262595,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 1,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 700,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 700,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 700,
+          "light_color": {
+            "x": 0.879999995,
+            "y": 0.779999971,
+            "z": 0.680000007
+          },
+          "material": 6005775240983850457
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 700,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        }
+      },
+      {
+        "unit_paths": [
+          9606778311447363813,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 1,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 2000,
+          "light_color": {
+            "x": 0.400000006,
+            "y": 0.600000024,
+            "z": 0.889999986
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 2000,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 1700,
+          "light_color": {
+            "x": 0.400000006,
+            "y": 0.600000024,
+            "z": 0.889999986
+          },
+          "material": 14937313358816261899
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 1700,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 3706600149854729524
+        }
+      },
+      {
+        "unit_paths": [
+          11207654793290411786,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 1,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 1200,
+          "light_color": {
+            "x": 0.449999988,
+            "y": 0.529999971,
+            "z": 0.949999988
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 1200,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 0.879999995,
+            "y": 0.779999971,
+            "z": 0.680000007
+          },
+          "material": 6005775240983850457
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        }
+      },
+      {
+        "unit_paths": [
+          7810844023037189458,
+          17294904350295630225,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 1,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 30,
+          "light_color": {
+            "x": 0.529999971,
+            "y": 0.589999974,
+            "z": 0.779999971
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 3,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 1,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 14937313358816261899
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 1,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        }
+      },
+      {
+        "unit_paths": [
+          13222124038335515278,
+          5902494348265956632,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 1,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 5,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 3,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 14937313358816261899
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 13887333046562358441
+        }
+      },
+      {
+        "unit_paths": [
+          3798524844923598828,
+          17180855900042354034,
+          2158846871734942541,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 35,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 35,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        }
+      },
+      {
+        "unit_paths": [
+          7176229790422234553,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 1600,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 1600,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 700,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 16916278721078274206
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 700,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        }
+      },
+      {
+        "unit_paths": [
+          11665521469038246186,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 300,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 300,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 300,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 16916278721078274206
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 300,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        }
+      },
+      {
+        "unit_paths": [
+          11590952981248000518,
+          3849758471421867879,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 500,
+          "light_color": {
+            "x": 1,
+            "y": 0.720000029,
+            "z": 0.439999998
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 71,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 3706600149854729524
+        }
+      },
+      {
+        "unit_paths": [
+          1215826441698542446,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 128,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 128,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 3706600149854729524
+        }
+      },
+      {
+        "unit_paths": [
+          3066287922325845383,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 1000,
+          "light_color": {
+            "x": 0.449999988,
+            "y": 0.529999971,
+            "z": 0.949999988
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 1000,
+          "light_color": {
+            "x": 0.800000012,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 0.800000012,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        }
+      },
+      {
+        "unit_paths": [
+          8659945576703048718,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 637114872,
+        "hellpod_bridge_light": 1,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 4000,
+          "light_color": {
+            "x": 0.800000012,
+            "y": 1,
+            "z": 1
+          },
+          "material": 2553404536010423659
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 4000,
+          "light_color": {
+            "x": 0.800000012,
+            "y": 1,
+            "z": 1
+          },
+          "material": 2553404536010423659
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 4000,
+          "light_color": {
+            "x": 0.800000012,
+            "y": 1,
+            "z": 1
+          },
+          "material": 14742225231203850646
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 4000,
+          "light_color": {
+            "x": 0.800000012,
+            "y": 1,
+            "z": 1
+          },
+          "material": 13830208539163323771
+        }
+      },
+      {
+        "unit_paths": [
+          7517413542877783132,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 637114872,
+        "hellpod_bridge_light": 1,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 2553404536010423659
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 2553404536010423659
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 14,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 0.400000006
+          },
+          "material": 14742225231203850646
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 14,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13830208539163323771
+        }
+      },
+      {
+        "unit_paths": [
+          1569497653147940902,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 637114872,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 50,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 2553404536010423659
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 2553404536010423659
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 0.400000006
+          },
+          "material": 2553404536010423659
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13830208539163323771
+        }
+      },
+      {
+        "unit_paths": [
+          7752016678272430262,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 637114872,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 50,
+          "light_color": {
+            "x": 0.449999988,
+            "y": 0.529999971,
+            "z": 0.949999988
+          },
+          "material": 2553404536010423659
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 2553404536010423659
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 0.400000006
+          },
+          "material": 2553404536010423659
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13830208539163323771
+        }
+      },
+      {
+        "unit_paths": [
+          8863996780191114333,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3857060419,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 16438818072412829261
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 16438818072412829261
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 9688999700542560792
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 9688999700542560792
+        }
+      },
+      {
+        "unit_paths": [
+          7687518984761827241,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3826322398,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 16438818072412829261
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 16438818072412829261
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 9688999700542560792
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 9688999700542560792
+        }
+      },
+      {
+        "unit_paths": [
+          2482093062597274190,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 2254682491,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 16118660688078480791
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 9688999700542560792
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 9688999700542560792
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 9688999700542560792
+        }
+      },
+      {
+        "unit_paths": [
+          15933855637625810699,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3857060419,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 16438818072412829261
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 16438818072412829261
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 9688999700542560792
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 9688999700542560792
+        }
+      },
+      {
+        "unit_paths": [
+          5611918484584041126,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 400,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 400,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 400,
+          "light_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 400,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 3706600149854729524
+        }
+      },
+      {
+        "unit_paths": [
+          9010663711389022616,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 1,
+            "y": 0.730000019,
+            "z": 0.439999998
+          },
+          "material": 14937313358816261899
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 200,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 10,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 3706600149854729524
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 10,
+          "light_color": {
+            "x": 1,
+            "y": 0.600000024,
+            "z": 0
+          },
+          "material": 3706600149854729524
+        }
+      },
+      {
+        "unit_paths": [
+          16661203851109445574,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 155175220,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 300,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 17927544025902699618
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 300,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 17927544025902699618
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 10,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 17927544025902699618
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 10,
+          "light_color": {
+            "x": 1,
+            "y": 0.600000024,
+            "z": 0
+          },
+          "material": 17927544025902699618
+        }
+      },
+      {
+        "unit_paths": [
+          5116398030894023790,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 3524908328,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 1,
+          "light_intensity": 3,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 6005775240983850457
+        },
+        "alarm": {
+          "light_enabled": 1,
+          "light_intensity": 3,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        },
+        "hellpods_only": {
+          "light_enabled": 1,
+          "light_intensity": 3,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 14937313358816261899
+        },
+        "hellpods_alarm": {
+          "light_enabled": 1,
+          "light_intensity": 3,
+          "light_color": {
+            "x": 1,
+            "y": 0.075000003,
+            "z": 0.0250000004
+          },
+          "material": 13887333046562358441
+        }
+      },
+      {
+        "unit_paths": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 0,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        }
+      },
+      {
+        "unit_paths": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 0,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        }
+      },
+      {
+        "unit_paths": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 0,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        }
+      },
+      {
+        "unit_paths": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 0,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        }
+      },
+      {
+        "unit_paths": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 0,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        }
+      },
+      {
+        "unit_paths": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 0,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        }
+      },
+      {
+        "unit_paths": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 0,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        }
+      },
+      {
+        "unit_paths": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "material_slot": 0,
+        "hellpod_bridge_light": 0,
+        "normal": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_only": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        },
+        "hellpods_alarm": {
+          "light_enabled": 0,
+          "light_intensity": 0,
+          "light_color": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "material": 0
+        }
+      }
+    ]
+  }
+}

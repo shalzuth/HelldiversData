@@ -1,0 +1,13 @@
+{ "SpawnUnitEffectSettings" : {
+    "path" : { "type": "ulong", "description": "[unit]The path of the unit to spawn." },
+    "spawn_at_node" : { "type": "uint", "default": 1288385068, "description": "[string]The node at which this unit will be spawned." },
+    "id" : { "type": "uint", "default": 1288385068, "description": "[string]The id of this effect. Referenced when playing/stopping this particle effect." },
+    "link_unit" : { "type": "byte", "description": "[bool]Wether or not the spawned unit should be linked to the parent unit." },
+    "link_offset" : { "type": "CApiVector3", "description": "Additional offset for the unit when we link it." },
+    "link_rotation" : { "type": "CApiVector3", "description": "Additional rotation for the unit when we link it." },
+    "on_destroy" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None", "description": "The strategy on how to handle the unit when this entity is destroyed." },
+    "on_replace" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None", "description": "The strategy on how to handle the unit when this entity is trying to play an effect that already exists." },
+    "on_death" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_None", "description": "The strategy on how to handle the unit when this entity dies." },
+    "corpse_decay" : { "type": "byte", "description": "[bool]If enabled, the unit will corpse decay instead of being popped out of existance when removed." },
+    "attached_particle" : { "type": "EffectSetting", "description": "Attached Particle" }
+}}

@@ -1,0 +1,3 @@
+{ "IdleAbilityComponent" : {
+    "abilities" : { "type": "array", "subtype": "IdleAbilityInfo", "description": "List of available abilities to trigger." }
+}}

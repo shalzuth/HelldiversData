@@ -1,0 +1,9 @@
+{ "ExertionVoParams" : {
+    "on_death" : { "type": "uint", "description": "[string]on_death" },
+    "on_spawn" : { "type": "uint", "description": "[string]on_spawn" },
+    "on_exertion_start" : { "type": "uint", "description": "[string]on_exertion" },
+    "on_exertion_stop" : { "type": "uint", "description": "[string]on_fully_restore" },
+    "on_bleedout_stop" : { "type": "uint", "description": "[string]on_bleedout_stop" },
+    "injury_hp_threshold" : { "type": "float", "default": 0.1, "description": "injury_hp_threshold" },
+    "critical_bleed_hp_threshold" : { "type": "float", "default": 0.1, "description": "critical_bleed_hp_threshold" }
+}}

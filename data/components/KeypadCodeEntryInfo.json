@@ -1,0 +1,5 @@
+{ "KeypadCodeEntryInfo" : {
+    "code_length" : { "type": "uint", "default": 4, "description": "How long is the code that is used?" },
+    "keypad_code_id" : { "type": "uint", "default": 3605901040, "description": "[string]Whether this minigame generates a random code" },
+    "use_letters" : { "type": "byte", "description": "[bool]If true then use letters (A-H) instead of numbers" }
+}}

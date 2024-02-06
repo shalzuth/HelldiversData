@@ -1,0 +1,4 @@
+{ "SolarSystemObjectType" : {
+    "type" : { "type": "ulong" },
+    "planet_settings" : { "type": "array", "subtype": "SolarSystemObjectTypeSettings" }
+}}

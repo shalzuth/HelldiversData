@@ -1,0 +1,12 @@
+{ "WeaponReloadComponent" : {
+    "manual_clearing" : { "type": "byte", "description": "[bool]If this is true, the rules for fast/slow reload change" },
+    "reload_allow_move" : { "type": "byte", "description": "[bool]Whether or not the player can move while reloading this weapon." },
+    "ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play on the wielder when reloading this weapon." },
+    "reload_anim_events" : { "type": "array", "subtype": "WeaponMagazineAnimEvent", "description": "The animation event that will be triggered, depending on the reload type" },
+    "duration" : { "type": "float", "default": 0, "description": "The duration of the reload. We scale the reload ability to match this duration. If 0, use the default ability duration (no scaling)." },
+    "has_shared_deposit" : { "type": "byte", "description": "[bool]Should this unit look for a (shared) deposit on the entity it it mounted on when checking for ammo?" },
+    "reload_vo_normal" : { "type": "uint", "default": 2501033797, "description": "[string]VO event to play when doing a normal reload." },
+    "reload_vo_lastmag" : { "type": "uint", "default": 1547933619, "description": "[string]VO event to play when doing a reload while being on your last mag (1 mag left)." },
+    "reload_vo_nomags" : { "type": "uint", "default": 3044503528, "description": "[string]VO event to play when trying to reload but have no mags." },
+    "reload_vo_nomags_no_backpack" : { "type": "uint", "description": "[string]If VO event is present we play this when trying to reload but have no mags and no backpack." }
+}}

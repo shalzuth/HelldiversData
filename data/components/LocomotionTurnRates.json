@@ -1,0 +1,4 @@
+{ "LocomotionTurnRates" : {
+    "angle_difference" : { "type": "float", "default": 0, "description": "The angle difference point for this turn rate" },
+    "turn_rate" : { "type": "float", "default": 0, "description": "The suggested turn rate" }
+}}

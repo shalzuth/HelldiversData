@@ -1,0 +1,7 @@
+{ "StatusEffectTimedSphericalTemplate" : {
+    "effect_template" : { "type": "StatusEffectTemplate", "description": "The effect template to use for this effect." },
+    "lifetime" : { "type": "float", "default": 3, "description": "How long does this status effect last for." },
+    "trigger_volume_node_name" : { "type": "uint", "description": "[string]The name of the node that the status effect trigger volume will attach to." },
+    "inner_radius" : { "type": "float", "default": 1, "description": "The inner radius of the effect." },
+    "outer_radius" : { "type": "float", "default": 2, "description": "The outer radius of the effect." }
+}}

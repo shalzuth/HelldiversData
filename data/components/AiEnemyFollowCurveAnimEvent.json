@@ -1,0 +1,4 @@
+{ "AiEnemyFollowCurveAnimEvent" : {
+    "time" : { "type": "float", "default": -1 },
+    "anim_event" : { "type": "uint", "description": "[string]" }
+}}

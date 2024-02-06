@@ -1,0 +1,9 @@
+{ "AimConstraintInfo" : {
+    "variable_name" : { "type": "uint", "description": "[string]The name of the aim constraint variable." },
+    "pitch_animation_variable_name" : { "type": "uint", "description": "[string]The name of the pitch animation variable." },
+    "yaw_animation_variable_name" : { "type": "uint", "description": "[string]The name of the yaw animation variable." },
+    "interpolation_speed" : { "type": "float", "default": 8, "description": "The speed used to interpolate the aim constraint position. The higher, the snappier." },
+    "max_horizontal_look_angle" : { "type": "float", "default": 70, "description": "The max angle that the constraint can turn in the xy-plane." },
+    "max_up_look_angle" : { "type": "float", "default": 20, "description": "The max angle that the constraint can turn upwards." },
+    "max_down_look_angle" : { "type": "float", "default": 45, "description": "The max angle that the constraint can turn downwards." }
+}}

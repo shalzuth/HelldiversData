@@ -1,0 +1,13 @@
+{ "ArcWeaponComponent" : {
+    "arc_type" : { "type": "ArcType", "default": "ArcType_None", "description": "Type of arc it fires." },
+    "rounds_per_minute" : { "type": "float", "default": -1, "description": "Rounds per minute depending on weapon setting." },
+    "infinite_ammo" : { "type": "byte", "description": "[bool]True if this projectile weapon can never run out of ammo." },
+    "rpc_synced_fire_events" : { "type": "byte", "description": "[bool]ONLY USE FOR SINGLE-FIRE/SLOW FIRING WEAPONS. Primarily useful for sniper rifles, explosive one-shots etc. that need the firing event to be highly accurately synced!" },
+    "fire_single_audio_event" : { "type": "uint", "description": "[wwise]The audio event to trigger when doing single-fire (if we don't have looping sounds)." },
+    "fire_fail_audio_event" : { "type": "uint", "description": "[wwise]The audio event to trigger when the arc fails to hit anything on the first shot." },
+    "haptics_fire_single_audio_event" : { "type": "uint", "description": "[wwise]The audio event to trigger when doing single-fire (if we don't have looping sounds)." },
+    "fire_source_node" : { "type": "uint", "description": "[string]The node to play the firing audio events at." },
+    "on_round_fired_shakes" : { "type": "WeaponCameraShakeInfo", "description": "Settings for local and in-world camera shakes to play on every round fired." },
+    "muzzle_flash" : { "type": "ulong", "description": "[particles]Particle effect of the muzzle flash, played on attach_muzzle." },
+    "muzzle_flash_fail" : { "type": "ulong", "description": "[particles]Particle effect of the muzzle flash, when the arc weapon fails to hit, played on attach_muzzle." }
+}}

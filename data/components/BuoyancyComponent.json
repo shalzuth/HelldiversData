@@ -1,0 +1,5 @@
+{ "BuoyancyComponent" : {
+    "velocity_min_drag" : { "type": "float", "default": 0, "description": "The velocity min for the dragginess calculation." },
+    "velocity_max_drag" : { "type": "float", "default": 2, "description": "The velocity max for the dragginess calculation." },
+    "buoyancy_spheres" : { "type": "array", "subtype": "BuoyancySphereInfo", "description": "The spheres used to approximate buoyancy." }
+}}

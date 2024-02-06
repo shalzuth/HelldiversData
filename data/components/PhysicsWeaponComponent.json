@@ -1,0 +1,3 @@
+{ "PhysicsWeaponComponent" : {
+    "dry_fire_repeat_audio_event" : { "type": "uint", "description": "[wwise]The wwise sound id to play when repeatedly dry firing." }
+}}

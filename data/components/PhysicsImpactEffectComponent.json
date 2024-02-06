@@ -1,0 +1,5 @@
+{ "PhysicsImpactEffectComponent" : {
+    "impact_effects" : { "type": "array", "subtype": "PhysicsImpactEffectInfo", "description": "Impact effects which trigger particle effects" },
+    "max_impact_count" : { "type": "uint", "default": 5, "description": "Number of impacts to play" },
+    "impact_refresh_time" : { "type": "float", "default": 0, "description": "How long to wait until we can play more impacts" }
+}}

@@ -1,0 +1,5 @@
+{ "AiSquadMembers" : {
+    "member_path" : { "type": "ulong", "description": "[adhd]Path to the member entity." },
+    "amount" : { "type": "uint", "description": "Numbers of this type of members." },
+    "node" : { "type": "uint", "description": "[string]The node to attach this member to in the squads vehicle. This is required if a vehicle is specified in the settings." }
+}}

@@ -1,0 +1,130 @@
+{
+  "5161831438718974219": {
+    "planet_select_hologram_info": {
+      "camera_position_offset": {
+        "x": 0,
+        "y": -1.60000002,
+        "z": 3.25
+      },
+      "camera_focal_offset": {
+        "x": 0,
+        "y": 0,
+        "z": -0.699999988
+      },
+      "hologram_offset": {
+        "x": 0,
+        "y": 0.00100000005,
+        "z": -0.449999988
+      },
+      "hologram_look_at_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0.5
+      },
+      "fov": 30
+    },
+    "operation_select_hologram_info": {
+      "camera_position_offset": {
+        "x": -3,
+        "y": -10,
+        "z": 1
+      },
+      "camera_focal_offset": {
+        "x": -0.600000024,
+        "y": -0.5,
+        "z": 0.850000024
+      },
+      "hologram_offset": {
+        "x": 0,
+        "y": -0.100000001,
+        "z": 0.899999976
+      },
+      "hologram_look_at_offset": {
+        "x": -3,
+        "y": -12,
+        "z": 1
+      },
+      "fov": 20
+    },
+    "mission_select_hologram_info": {
+      "camera_position_offset": {
+        "x": 0,
+        "y": -2.5,
+        "z": 1
+      },
+      "camera_focal_offset": {
+        "x": -0.400000006,
+        "y": -0.5,
+        "z": 0.25
+      },
+      "hologram_offset": {
+        "x": 0,
+        "y": -0.100000001,
+        "z": -0.600000024
+      },
+      "hologram_look_at_offset": {
+        "x": -4.5,
+        "y": -12,
+        "z": 16
+      },
+      "fov": 30
+    },
+    "mission_select_tracking_ship_hologram_info": {
+      "camera_position_offset": {
+        "x": -3,
+        "y": -12,
+        "z": 1
+      },
+      "camera_focal_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "hologram_offset": {
+        "x": 0,
+        "y": -0.100000001,
+        "z": 0.899999976
+      },
+      "hologram_look_at_offset": {
+        "x": -3,
+        "y": -12,
+        "z": 1
+      },
+      "fov": 20
+    },
+    "drop_select_hologram_info": {
+      "camera_position_offset": {
+        "x": -0.400000006,
+        "y": -1.60000002,
+        "z": 2.20000005
+      },
+      "camera_focal_offset": {
+        "x": -0.400000006,
+        "y": -0.0500000007,
+        "z": -0.75
+      },
+      "hologram_offset": {
+        "x": 0,
+        "y": 0.100000001,
+        "z": -0.349999994
+      },
+      "hologram_look_at_offset": {
+        "x": 0,
+        "y": -0.100000001,
+        "z": 5
+      },
+      "fov": 70
+    },
+    "view_transition_time": 1,
+    "planet_select_zoom_speed": 2,
+    "planet_select_counter_scroll_multiplier": 0.00200000009,
+    "planet_select_panning_distance_limit_soft": 4,
+    "planet_select_panning_distance_limit_hard": 5.5,
+    "territory_select_surface_distance_offset": 1.20000005,
+    "planet_unit_scale_multiplier": 1,
+    "planet_select_grid_distance_upwards_facing": -0.100000001,
+    "planet_select_grid_distance_downwards_facing": -1,
+    "planet_select_galaxy_distance": -0.100000001,
+    "drop_select_surface_distance_offset": 0.300000012
+  }
+}

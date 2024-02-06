@@ -1,0 +1,6 @@
+{ "ScoreField" : {
+    "u" : { "type": "uint" },
+    "f" : { "type": "float", "default": 0 },
+    "b" : { "type": "byte" },
+    "type" : { "type": "ScoreFieldType", "default": "ScoreFieldType_Unsigned" }
+}}

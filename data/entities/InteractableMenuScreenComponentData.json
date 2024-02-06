@@ -1,0 +1,184 @@
+{
+  "9959604162843470877": {
+    "type": "InteractableMenuScreenType_Multiplayer",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  },
+  "3625837961553494781": {
+    "type": "InteractableMenuScreenType_Store",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 1,
+    "start_avatar_animation": 1282498430,
+    "end_avatar_animation": 3061116449
+  },
+  "9319896741922606871": {
+    "type": "InteractableMenuScreenType_DebugUI",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  },
+  "6514019352246700436": {
+    "type": "InteractableMenuScreenType_Armory",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 1,
+    "start_avatar_animation": 2960298459,
+    "end_avatar_animation": 3061116449
+  },
+  "15532957040393036258": {
+    "type": "InteractableMenuScreenType_Mission",
+    "reenable_on_interact": 1,
+    "screen_unit": 15532957040393036258,
+    "viewport_id": 4041273847,
+    "camera_offset": {
+      "x": 0,
+      "y": 4.0999999,
+      "z": 0
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  },
+  "3083601320109846161": {
+    "type": "InteractableMenuScreenType_Hologram",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 1,
+    "start_avatar_animation": 3036277471,
+    "end_avatar_animation": 3049876590
+  },
+  "12661304471193444966": {
+    "type": "InteractableMenuScreenType_Settings",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  },
+  "7382299821969964493": {
+    "type": "InteractableMenuScreenType_Leave",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  },
+  "10556067040124694938": {
+    "type": "InteractableMenuScreenType_Encyclopedia",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  },
+  "82207580713036759": {
+    "type": "InteractableMenuScreenType_Leave",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  },
+  "6761382673840741098": {
+    "type": "InteractableMenuScreenType_DebugMission",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  },
+  "5554890560937342530": {
+    "type": "InteractableMenuScreenType_Campaign",
+    "reenable_on_interact": 1,
+    "screen_unit": 5554890560937342530,
+    "viewport_id": 2660466763,
+    "camera_offset": {
+      "x": 0,
+      "y": 1.70000005,
+      "z": 0.449999988
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  },
+  "7085504856569602214": {
+    "type": "InteractableMenuScreenType_ShipCustomization",
+    "reenable_on_interact": 1,
+    "screen_unit": 0,
+    "viewport_id": 0,
+    "camera_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "use_character_state": 0,
+    "start_avatar_animation": 0,
+    "end_avatar_animation": 0
+  }
+}

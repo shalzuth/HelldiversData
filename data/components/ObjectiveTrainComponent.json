@@ -1,0 +1,13 @@
+{ "ObjectiveTrainComponent" : {
+    "secure_radius" : { "type": "float", "default": 10, "description": "Radius around this objective marker which needs to be clear of areas to complete SecureArea objective stage" },
+    "secure_rate" : { "type": "float", "default": 0.03, "description": "The rate of progress per second while securing the area. The area is considered secure when progress reaches 1.0" },
+    "lost_rate" : { "type": "float", "default": -0.02, "description": "The rate of regress per second while the area is abandoned. The area is considered secure when progress reaches 1.0" },
+    "animation_variable" : { "type": "uint", "description": "[string]Name of the animation variable to control with the progress value" },
+    "animation_value_min" : { "type": "float", "default": 0, "description": "The minimum value for the range set to the animation variable" },
+    "animation_value_max" : { "type": "float", "default": 1, "description": "The maximum value for the range set to the animation variable" },
+    "noise_template" : { "type": "NoiseTemplate", "default": "NoiseTemplate_Objective_Flag" },
+    "noise_time" : { "type": "float", "default": 2 },
+    "encounter_refresh_time" : { "type": "float", "default": 10 },
+    "encounter_start_percent" : { "type": "float", "default": 0.01, "description": "At which point at the securing progress do we trigger an encounter?" },
+    "move_amount" : { "type": "CApiVector3", "description": "How far to move train (temp test)?" }
+}}

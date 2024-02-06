@@ -1,0 +1,3 @@
+{ "ReloadResumeInfo" : {
+    "percent" : { "type": "float", "default": 1, "description": "The percentage through the animation to resume reloading from." }
+}}

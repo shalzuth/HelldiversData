@@ -1,0 +1,10 @@
+{ "AnimationEventTrigger" : {
+    "animation_event" : { "type": "uint", "description": "[string]" },
+    "sound_event" : { "type": "uint", "description": "[wwise]" },
+    "owner_specific_sound_event" : { "type": "uint", "description": "[wwise]" },
+    "sound_node_id" : { "type": "uint", "description": "[string]" },
+    "effect" : { "type": "EffectSetting" },
+    "camera_shake" : { "type": "CameraShake" },
+    "_set_visibility_group" : { "type": "array", "subtype": "UnitVisibilityGroup" },
+    "scale_node" : { "type": "array", "subtype": "UnitNodeScale" }
+}}

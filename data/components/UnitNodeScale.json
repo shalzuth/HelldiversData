@@ -1,0 +1,4 @@
+{ "UnitNodeScale" : {
+    "node_id" : { "type": "uint", "description": "[string]" },
+    "scale" : { "type": "CApiVector3" }
+}}

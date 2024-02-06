@@ -1,0 +1,4 @@
+{ "VisibilityMaskComponent" : {
+    "mask_infos" : { "type": "array", "subtype": "VisibilityMaskInfo", "description": "Settings for all visibility mask indices." },
+    "randomizations" : { "type": "array", "subtype": "VisibilityMaskRandomization", "description": "A list of visibility mask indices where one will be selected on random to show." }
+}}

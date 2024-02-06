@@ -1,0 +1,7 @@
+{ "GenerationRegionVariantList" : {
+    "name" : { "type": "string" },
+    "id" : { "type": "uint" },
+    "resource_package" : { "type": "ulong" },
+    "group" : { "type": "GenerationRegionGroup" },
+    "variants" : { "type": "array", "subtype": "GenerationRegionVariantSettings" }
+}}

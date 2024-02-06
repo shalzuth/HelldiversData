@@ -1,0 +1,5 @@
+{ "EntitySettings" : {
+    "resource_id" : { "type": "ulong" },
+    "components" : { "type": "array", "subtype": "ushort" },
+    "game_object_id" : { "type": "uint" }
+}}

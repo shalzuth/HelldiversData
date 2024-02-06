@@ -1,0 +1,6 @@
+{ "WeaponRoundsAmmoInfo" : {
+    "primary_recoil_modifiers" : { "type": "RecoilModifiers", "description": "Information about the recoil for the primary magazine." },
+    "primary_spread_modifiers" : { "type": "SpreadModifiers", "description": "Information about the spread for the primary magazine." },
+    "secondary_recoil_modifiers" : { "type": "RecoilModifiers", "description": "Information about the recoil for the secondary magazine." },
+    "secondary_spread_modifiers" : { "type": "SpreadModifiers", "description": "Information about the spread for the secondary magazine." }
+}}

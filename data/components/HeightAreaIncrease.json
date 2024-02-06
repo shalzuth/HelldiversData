@@ -1,0 +1,8 @@
+{ "HeightAreaIncrease" : {
+    "triangle_index" : { "type": "uint" },
+    "triangle_count" : { "type": "uint" },
+    "triangulation_index" : { "type": "uint" },
+    "triangulation_count" : { "type": "uint" },
+    "stamps_start" : { "type": "uint" },
+    "stamps_end" : { "type": "uint" }
+}}

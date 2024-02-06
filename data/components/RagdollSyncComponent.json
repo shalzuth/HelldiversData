@@ -1,0 +1,16 @@
+{ "RagdollSyncComponent" : {
+    "bodypart_actors" : { "type": "array", "subtype": "CrashingActorInfo", "description": "List of information for the crashing actors." },
+    "damp_velocity_threshold_squared" : { "type": "float", "default": 0, "description": "Clamped velocity after actor has landed" },
+    "damp_velocity_rate" : { "type": "float", "default": 0.9, "description": "Clamped velocity after actor has landed" },
+    "lerp_strength" : { "type": "float", "default": 0, "description": "Clamped velocity after actor has landed" },
+    "on_corpse_anim_event_velocity_threshold" : { "type": "float", "default": 0.5, "description": "Clamped velocity after actor has landed" },
+    "approx_sync" : { "type": "byte", "description": "[bool]Stops animation state machine when object is dead" },
+    "velocity_lerp_timings" : { "type": "array", "subtype": "float", "description": "Stops animation state machine when object is dead" },
+    "dynamic_lerp_bodies_count" : { "type": "uint", "default": 3, "description": "Stops animation state machine when object is dead" },
+    "velocity_lerp_threshold" : { "type": "float", "default": 0.5, "description": "Stops animation state machine when object is dead" },
+    "stop_animation_sm_on_death" : { "type": "byte", "description": "[bool]Stops animation state machine when object is dead" },
+    "on_stopped_anim_event" : { "type": "uint", "description": "[string]On stopped animation event" },
+    "on_corpse_anim_event" : { "type": "uint", "description": "[string]event when entity is switch to a corpse" },
+    "corpse_collision_filter" : { "type": "uint", "description": "[string]On stopped collision filter to set on actors" },
+    "force_corpse_on_stopped" : { "type": "byte", "description": "[bool]Force a corpse once everything has stopped" }
+}}

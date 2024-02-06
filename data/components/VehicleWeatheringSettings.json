@@ -1,0 +1,6 @@
+{ "VehicleWeatheringSettings" : {
+    "min_speed" : { "type": "float", "default": 10, "description": "Vehicle must be travelling at this speed to add dirt." },
+    "max_speed" : { "type": "float", "default": 100, "description": "The most dirt will be added if the vehicle is travelling at or above this speed." },
+    "dirt_added_at_min_speed" : { "type": "float", "default": 0, "description": "The amount of dirt to add while the vehicle is travelling at min speed." },
+    "dirt_added_at_max_speed" : { "type": "float", "default": 1, "description": "The amount of dirt to add while the vehicle is travelling at max speed." }
+}}

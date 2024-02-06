@@ -1,0 +1,7 @@
+{ "MeleeAttackComponent" : {
+    "override_melee_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "If not invalid, it'll override the melee ability that gets executed while helding this entity, this could be a weapon, an attachment or a carryable." },
+    "weight" : { "type": "uint", "description": "Used to indicate how much weight this override has when trying to pick the final override_melee_ability" },
+    "override_melee_ability_for_prone" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "If not invalid, it'll override the melee ability that gets executed while being prone and helding this entity, this could be a weapon, an attachment or a carryable." },
+    "weight_for_prone" : { "type": "uint", "description": "Used to indicate how much weight this override has when trying to pick the final override_melee_ability_for_prone" },
+    "lunge_range" : { "type": "float", "default": 0, "description": "Used to indicate how much range the melee lunge will have, 0 means that the lunge is disabled." }
+}}

@@ -1,0 +1,20 @@
+{ "WeatherColorSet" : {
+    "id" : { "type": "uint" },
+    "cloud_color" : { "type": "CApiVector3" },
+    "vista_cloud_color" : { "type": "CApiVector3" },
+    "fog_color" : { "type": "CApiVector3" },
+    "weather_effect_color" : { "type": "CApiVector3" },
+    "weather_ground_fog_volume_color" : { "type": "CApiVector3" },
+    "near_ground_fog_color" : { "type": "CApiVector3" },
+    "zone_fog_tint" : { "type": "CApiVector3" },
+    "weather_sun_color_mult" : { "type": "CApiVector3" },
+    "weather_sun_intensity_mult" : { "type": "float", "default": -1 },
+    "zone_fog_main_color" : { "type": "CApiVector3" },
+    "zone_fog_secondary_color" : { "type": "CApiVector3" },
+    "zone_fog_bugs_color" : { "type": "CApiVector3" },
+    "zone_fog_bots_color" : { "type": "CApiVector3" },
+    "ambient_diffuse_tint" : { "type": "CApiVector3" },
+    "ambient_diffuse_ground_bounce_tint" : { "type": "CApiVector3" },
+    "fog_ambient_tint" : { "type": "CApiVector3" },
+    "fog_ambient_ground_bounce_tint" : { "type": "CApiVector3" }
+}}

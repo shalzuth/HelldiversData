@@ -1,0 +1,4 @@
+{ "GuardForceSpawnGroupInfo" : {
+    "difficulty_range" : { "type": "array", "subtype": "uint" },
+    "members" : { "type": "array", "subtype": "GuardForceMemberInfo", "description": "Member definitions which can spawn" }
+}}

@@ -1,0 +1,10 @@
+{ "InteractableMenuScreenComponent" : {
+    "type" : { "type": "InteractableMenuScreenType", "default": "InteractableMenuScreenType_Invalid", "description": "The type of the interactable screen (decides which menu to open)." },
+    "reenable_on_interact" : { "type": "byte", "description": "[bool]When itneracting, set all the interactable zones to enabled again immediately, so we don't need to manually re-enabled them from the menu screen." },
+    "screen_unit" : { "type": "ulong", "description": "[unit]Path to the screen unit." },
+    "viewport_id" : { "type": "uint", "description": "[string]Name of the viewport." },
+    "camera_offset" : { "type": "CApiVector3", "description": "Camera offset (local)." },
+    "use_character_state" : { "type": "byte", "description": "[bool]If true then the interacting player will be put into a state for interacting" },
+    "start_avatar_animation" : { "type": "uint", "description": "[string]Animation to play when starting to use this interact" },
+    "end_avatar_animation" : { "type": "uint", "description": "[string]Animation to play when starting to use this interact" }
+}}

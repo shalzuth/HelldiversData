@@ -1,0 +1,8 @@
+{ "MinigameExternalSwitchesComponent" : {
+    "target_value" : { "type": "float", "default": -1, "description": "Target value for switches - -1 is random" },
+    "target_margin" : { "type": "float", "default": 0, "description": "Target margin value of on either side of the target that is considered completed" },
+    "widget" : { "type": "ExternalMinigameWidgetSettings" },
+    "hint_id" : { "type": "uint", "default": 3294565038, "description": "[string]" },
+    "point_to_next_objective" : { "type": "byte", "description": "[bool]Point to next objective" },
+    "all_switches_complete_override_string_settings" : { "type": "MinigameStrings", "description": "Details overriden string settings for when all switches are completed. Only used if set." }
+}}

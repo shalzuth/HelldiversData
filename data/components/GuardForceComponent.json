@@ -1,0 +1,6 @@
+{ "GuardForceComponent" : {
+    "points_override" : { "type": "float", "default": 0, "description": "Override of difficulty points, this group always spawn using these amount of points" },
+    "points_multiplier" : { "type": "float", "default": 1, "description": "Multiply the points by this amount." },
+    "race" : { "type": "RaceType", "default": "RaceType_Bugs" },
+    "npc_type" : { "type": "NpcType", "default": "NpcType_None", "description": "If set to other than None, get the squad settings from the ai_npc_settings instead of the hive mind faction." }
+}}

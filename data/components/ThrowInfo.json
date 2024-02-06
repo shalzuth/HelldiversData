@@ -1,0 +1,4 @@
+{ "ThrowInfo" : {
+    "throw_angle_offset" : { "type": "float", "default": 5, "description": "Extra angle offset from camera forward when throwing." },
+    "power_multiplier" : { "type": "float", "default": 1, "description": "Multiplier to apply to the power of the throw." }
+}}

@@ -1,0 +1,4 @@
+{ "RecoilInfo" : {
+    "drift" : { "type": "RecoilComponentInfo", "description": "In what way the gun is affected by the recoil." },
+    "climb" : { "type": "RecoilComponentInfo", "description": "In what way the camera is affected by the recoil." }
+}}

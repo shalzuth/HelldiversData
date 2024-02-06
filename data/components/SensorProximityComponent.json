@@ -1,0 +1,3 @@
+{ "SensorProximityComponent" : {
+    "range" : { "type": "float", "default": 32, "description": "The max distance that avatars can be detected at" }
+}}

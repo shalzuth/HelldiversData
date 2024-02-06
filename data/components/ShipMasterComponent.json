@@ -1,0 +1,5 @@
+{ "ShipMasterComponent" : {
+    "onboarding_interact_vo_triggers" : { "type": "array", "subtype": "uint", "description": "[string]Contains in order the vo_triggers that we should use when we interact with the shipmaster while in onboarding" },
+    "idle_vo_triggers" : { "type": "array", "subtype": "uint", "description": "[string]Contains in order the vo_triggers that we are going to use when the ship master is idle for more than the dialogue_idle_time_threshold" },
+    "dialogue_idle_time_threshold" : { "type": "float", "default": 0, "description": "Indicates how much time it should wait in idle until it triggers a WorldBuildingDialogue" }
+}}

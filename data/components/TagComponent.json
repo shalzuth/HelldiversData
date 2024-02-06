@@ -1,0 +1,4 @@
+{ "TagComponent" : {
+    "tags" : { "type": "array", "subtype": "Tag" },
+    "on_destroyed_tags" : { "type": "array", "subtype": "Tag" }
+}}

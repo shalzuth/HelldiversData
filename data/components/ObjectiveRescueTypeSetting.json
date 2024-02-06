@@ -1,0 +1,5 @@
+{ "ObjectiveRescueTypeSetting" : {
+    "entity_path" : { "type": "ulong", "description": "[adhd]The path to the entity we care about." },
+    "notify_event_self" : { "type": "uint", "default": 1764138907, "description": "[string]Event to send to behavior" },
+    "notify_event_character" : { "type": "uint", "default": 1764138907, "description": "[string]Event to send to character" }
+}}

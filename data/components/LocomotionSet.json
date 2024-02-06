@@ -1,0 +1,18 @@
+{ "LocomotionSet" : {
+    "name" : { "type": "uint", "description": "[string]Name of speed range set, use main for default one." },
+    "animation_event" : { "type": "uint", "description": "[string]Animation event which is triggered when entering locomotion set." },
+    "speed_ranges" : { "type": "array", "subtype": "SpeedRange", "description": "Speed ranges when going forward for this set." },
+    "speed_ranges_back" : { "type": "array", "subtype": "SpeedRange", "description": "Speed ranges when backing for this set." },
+    "turn_ranges" : { "type": "array", "subtype": "TurnRange", "description": "Turn ranges for this set." },
+    "turn_adjust_max_speed" : { "type": "float", "default": 999, "description": "Maximum speed we use turn adjust" },
+    "turn_adjust_linear_rotation_override_frames" : { "type": "float", "default": -1, "description": "The duration in frames that we linearly blend rotation so that we can counter animate to cover up the unit rotation in turn adjusts. A value of -1 means no rotation override, 0 is instant and any number above that is the rotation duration in frames." },
+    "transition_speed_multiplier" : { "type": "float", "default": 1, "description": "Sets the transition_speed_multiplier animation variable (if the unit has one) when this set is active." },
+    "flip_turn_rate_on_enter_speed_range" : { "type": "byte", "description": "[bool]If set, the turn rate is flipped (negated) when going from back to forward locomotion and vice versa." },
+    "use_wanted_speed_for_speed_ranges" : { "type": "byte", "description": "[bool]If set, we use the wanted speed to pick speed ranges." },
+    "override_move_angle_interpolation_speed" : { "type": "float", "default": -2, "description": "Move Angle overriding. -1 means instant acceleration, -2 means do not override." },
+    "override_acceleration" : { "type": "float", "default": -2, "description": "Move Speed acceleration overriding. -1 means instant acceleration, -2 means do not override." },
+    "override_deceleration" : { "type": "float", "default": -2, "description": "Move Speed deceleration overriding. -1 means instant acceleration, -2 means do not override." },
+    "turn_rates" : { "type": "array", "subtype": "LocomotionTurnRates", "description": "Lerps the turn rate between the suggested points (Angle difference - Turn Rate)." },
+    "on_exit_set_move_angle_transition" : { "type": "byte", "description": "[bool]If enabled, we set move angle transition on exit." },
+    "on_exit_snap_rotation_activation_delay" : { "type": "float", "default": 0, "description": "The delay needed upon exiting before we start enabling the snap rotation." }
+}}

@@ -1,0 +1,12 @@
+{ "SpottableComponent" : {
+    "vo_line" : { "type": "uint", "description": "[string]The VO line to play when spotting this entity." },
+    "radius" : { "type": "CApiVector2", "description": "The radius of the sphere we spot against, at min and max range." },
+    "range" : { "type": "CApiVector2", "description": "The range in which spotting this thing is possible. Also used to scale radius." },
+    "marker_type" : { "type": "HudMarkerType", "default": "HudMarkerType_Generic", "description": "In world hud marker to place when spotting this entity." },
+    "findable_objective" : { "type": "byte", "description": "[bool]If set, when spotted this entity will report to the objective component which can be used to complete " },
+    "spotting_node" : { "type": "uint", "description": "[string]Node used for positioning the spotting marker and detection bounds" },
+    "start_active" : { "type": "byte", "description": "[bool]Whether this thing starts spottable" },
+    "marker_type_override" : { "type": "HudMarkerTypeOverride", "description": "An override setting under certain conditions" },
+    "marker_icon" : { "type": "ulong", "description": "[material]Icon displayed on HUD when spottable is 'pinged'" },
+    "marker_texture_type" : { "type": "TextureType", "default": "TextureType_NoMask", "description": "Type of texture used by the Marker Icon" }
+}}

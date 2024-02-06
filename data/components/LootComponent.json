@@ -1,0 +1,16 @@
+{ "LootComponent" : {
+    "loot_rewards" : { "type": "LootInfo", "description": "The loot you are given on pick-up." },
+    "delete_after_pickup" : { "type": "byte", "description": "[bool]If set, deletes the entity after being picked-up." },
+    "visiblity_mask" : { "type": "uint", "default": 3463976504, "description": "[string]If set, this visibility mask is hidden on entity when picked up" },
+    "avatar_pickup_ability" : { "type": "AbilityId", "default": "AbilityId_avatar_pickup_sample_generic" },
+    "on_destroyed" : { "type": "OnDestroyedInfo", "description": "The toggles for physics and visibilty to apply on destroyed." },
+    "on_destroyed_sample" : { "type": "ulong", "description": "[adhd]The unit to spawn in the players hand when picking up this sample" },
+    "sample_pickup_unit" : { "type": "ulong", "description": "[unit]The unit to spawn in the players hand when picking up this sample" },
+    "pickup_audio_event" : { "type": "uint", "description": "[string]" },
+    "animation_event" : { "type": "uint", "description": "[string]" },
+    "pickup_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play on this unit when it's picked up but not deleted." },
+    "disable_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play on this unit for hotjoining players to disable the effects if this loot has already been picked up" },
+    "destroyed_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play on this unit when sample is destroyed" },
+    "spawn_ability_with_loot" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play on this unit on spawn if there is still loot" },
+    "area_of_interest_min_radius" : { "type": "float", "default": 52, "description": "Note: only used for intel. If the area of interest is shown, specify the minimum radius of the circle to be shown using a larger radius means that the players will potentially have to search a wider area." }
+}}

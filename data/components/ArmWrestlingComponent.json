@@ -1,0 +1,5 @@
+{ "ArmWrestlingComponent" : {
+    "tick_rate" : { "type": "float", "default": 0.25, "description": "Time between sending data packets for how many inputs are pressed" },
+    "decay_per_input" : { "type": "float", "default": 0.02, "description": "Stamina lost per input" },
+    "decay_per_overpower_input" : { "type": "float", "default": 0.05, "description": "Stamina lost due to opponent beating you during a tick" }
+}}

@@ -1,0 +1,6 @@
+{ "BanterLocationComponent" : {
+    "event_type" : { "type": "BanterEventType" },
+    "nearby_radius" : { "type": "float", "default": 20 },
+    "look_angle" : { "type": "float", "default": 90 },
+    "trigger_chance" : { "type": "float", "default": 0.2 }
+}}

@@ -1,0 +1,5 @@
+{ "EntitySpawnPath" : {
+    "entity_path" : { "type": "ulong", "description": "[adhd]Path to the entity." },
+    "offset" : { "type": "CApiVector3", "description": "Offset from 'attach_node'." },
+    "spawn_weight" : { "type": "float", "default": 1, "description": "Higher values equals higher chance to spawn" }
+}}

@@ -1,0 +1,10 @@
+{ "FogMachineComponent" : {
+    "density" : { "type": "float", "default": 15 },
+    "height" : { "type": "float", "default": 22 },
+    "falloff" : { "type": "float", "default": 1 },
+    "albedo_lerp" : { "type": "float", "default": 0.1 },
+    "dustiness" : { "type": "float", "default": 1 },
+    "scale" : { "type": "float", "default": 100 },
+    "color" : { "type": "CApiVector3" },
+    "fade_time" : { "type": "float", "default": 10 }
+}}

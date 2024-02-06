@@ -1,0 +1,10 @@
+{ "AiSteeringProperties" : {
+    "collision_penalty" : { "type": "float", "default": 100, "description": "Controls the character's 'timidity' towards future collisions." },
+    "penetration_penalty" : { "type": "float", "default": 100, "description": "A multiplier applied to the penalty for ongoing penetrations." },
+    "wall_following_angle" : { "type": "float", "default": 0.25, "description": "Maximum angle between wall following direction and sideways direction." },
+    "dodging_penalty" : { "type": "float", "default": 0.1, "description": "A multiplier applied to the penalty for motion perpendicular to the desired velocity." },
+    "velocity_hysteresis" : { "type": "float", "default": 0.5, "description": "Preference for continuing along the same velocity when another velocity candidate scores more highly." },
+    "sidedness_changing_penalty" : { "type": "float", "default": 0.1, "description": "Unwillingness to change the side on which an agent plans to pass another agent." },
+    "weight" : { "type": "float", "default": 0.5, "description": "The character's resistance to dodging other characters." },
+    "priority" : { "type": "int", "description": "The character's movement priority." }
+}}

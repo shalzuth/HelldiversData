@@ -1,0 +1,4 @@
+{ "FootstepSetInfo" : {
+    "events" : { "type": "array", "subtype": "FootstepSourceInfo", "description": "Footstep events in this set." },
+    "event_animation_variable" : { "type": "uint", "description": "[string]The footstep animation variable to set the footstep animation value to." }
+}}

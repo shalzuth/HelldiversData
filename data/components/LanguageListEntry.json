@@ -1,0 +1,14 @@
+{ "LanguageListEntry" : {
+    "name_loc" : { "type": "uint" },
+    "suffix" : { "type": "string" },
+    "wwise_name" : { "type": "string" },
+    "wwise_event" : { "type": "uint" },
+    "steam_name" : { "type": "string" },
+    "steam_depot" : { "type": "uint" },
+    "steam_depot_is_dlc" : { "type": "byte" },
+    "psn_chunk" : { "type": "ushort" },
+    "psn_name" : { "type": "string" },
+    "locale_info" : { "type": "LanguageLocaleInfo" },
+    "settings_info" : { "type": "LanguageListSettingsInfo" },
+    "capone_code" : { "type": "string" }
+}}

@@ -1,0 +1,4 @@
+{ "GoreEffectPair" : {
+    "body" : { "type": "GoreEffect", "description": "The effects (particles and audio) to attach to the body where the limb used to be." },
+    "limb" : { "type": "GoreEffect", "description": "The effects (particles and audio) to attach to the limb while it's flying through the air." }
+}}

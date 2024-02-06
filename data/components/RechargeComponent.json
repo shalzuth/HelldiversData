@@ -1,0 +1,3 @@
+{ "RechargeComponent" : {
+    "recharge_time" : { "type": "float", "default": 5, "description": "How long before we can jump again" }
+}}

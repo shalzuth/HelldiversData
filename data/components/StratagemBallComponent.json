@@ -1,0 +1,21 @@
+{ "StratagemBallComponent" : {
+    "armed_audio_event" : { "type": "uint", "description": "[wwise]" },
+    "deployed_audio_event" : { "type": "uint", "description": "[wwise]" },
+    "deploy_animation_clip" : { "type": "ulong", "description": "[anim_clip]Animation clip when deploying this stratagem ball." },
+    "stratagem_red_audio_start" : { "type": "uint", "description": "[wwise]" },
+    "stratagem_red_audio_stop" : { "type": "uint", "description": "[wwise]" },
+    "stratagem_blue_audio_start" : { "type": "uint", "description": "[wwise]" },
+    "stratagem_blue_audio_stop" : { "type": "uint", "description": "[wwise]" },
+    "stratagem_illumination_flare_start" : { "type": "uint", "description": "[wwise]" },
+    "stratagem_illumination_flare_stop" : { "type": "uint", "description": "[wwise]" },
+    "stratagem_dialing_audio_start" : { "type": "uint", "description": "[wwise]" },
+    "stratagem_dialing_audio_stop" : { "type": "uint", "description": "[wwise]" },
+    "stratagem_orbital_laser_incoming" : { "type": "uint", "description": "[wwise]" },
+    "stratagem_red_effect" : { "type": "EffectSetting", "description": "Effect to play for red colored stratagems." },
+    "stratagem_blue_effect" : { "type": "EffectSetting", "description": "Effect to play for blue colored stratagems." },
+    "stratagem_yellow_effect" : { "type": "EffectSetting", "description": "Effect to play for yellow colored stratagems." },
+    "idle_jump_strength" : { "type": "float", "default": 8, "description": "What force should we use when we are trying to unjam the stratagem ball after it has been idling? Setting to 0 disables this feature." },
+    "bias_jump_strength" : { "type": "float", "default": 5, "description": "What force should we use when we are trying to bias the stratagem ball's direction when it hits an invalid surface? Setting to 0 disables this feature." },
+    "strat_audio_cooldown_time" : { "type": "float", "default": 20, "description": "How long should we wait, before we switch the stratagem_cooldown switch to off_cooldown after throwing an offensive stratagem ball " },
+    "strat_audio_cooldown_distance" : { "type": "float", "default": 20, "description": "If the ball is thrown inside this distance, the stratagem_cooldown switch will be set to off_cooldown" }
+}}

@@ -1,0 +1,8 @@
+{ "CacheLootTableEntry" : {
+    "entity_path" : { "type": "ulong" },
+    "min_difficulty" : { "type": "int" },
+    "max_difficulty" : { "type": "int" },
+    "race_type" : { "type": "RaceType", "default": "RaceType_None" },
+    "spawn_offset_pos" : { "type": "CApiVector3" },
+    "spawn_offset_rot" : { "type": "CApiVector3" }
+}}

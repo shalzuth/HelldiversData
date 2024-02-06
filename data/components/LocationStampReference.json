@@ -1,0 +1,7 @@
+{ "LocationStampReference" : {
+    "location_index" : { "type": "ushort" },
+    "group_offset" : { "type": "ushort" },
+    "stamp_offset" : { "type": "ushort" },
+    "layer_id" : { "type": "uint" },
+    "objective_filename" : { "type": "uint" }
+}}

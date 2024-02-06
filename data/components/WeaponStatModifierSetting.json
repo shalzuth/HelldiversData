@@ -1,0 +1,4 @@
+{ "WeaponStatModifierSetting" : {
+    "type" : { "type": "WeaponStatModifierType", "default": "WeaponStatModifierType_Count", "description": "Modifier type." },
+    "value" : { "type": "float", "default": 0, "description": "What's the modifier?" }
+}}

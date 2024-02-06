@@ -1,0 +1,13 @@
+{ "FogVolumeSettings" : {
+    "color" : { "type": "CApiVector3" },
+    "terrain_albedo_lerp" : { "type": "float" },
+    "density" : { "type": "float" },
+    "fade_in_time" : { "type": "float" },
+    "fade_out_time" : { "type": "float" },
+    "initial_scale" : { "type": "float" },
+    "max_scale" : { "type": "float" },
+    "growth_speed" : { "type": "float" },
+    "height" : { "type": "float" },
+    "falloff" : { "type": "float" },
+    "dustiness" : { "type": "float" }
+}}

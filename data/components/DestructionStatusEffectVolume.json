@@ -1,0 +1,10 @@
+{ "DestructionStatusEffectVolume" : {
+    "effect_type" : { "type": "StatusEffectType", "default": "StatusEffectType_None" },
+    "shape_type" : { "type": "StatusEffectVolumeShape", "default": "StatusEffectVolumeShape_None" },
+    "lifetime" : { "type": "float", "default": -1 },
+    "offset" : { "type": "CApiVector3" },
+    "radius" : { "type": "float", "default": -1, "description": "[only used for sphere and circles shapes]" },
+    "size" : { "type": "CApiVector3", "description": "[only used for boxes]" },
+    "unit_node" : { "type": "uint" },
+    "inherits_rotation" : { "type": "byte", "description": "Wether or not the status effect volume should inherit the world-rotation from the node that it is spawned from." }
+}}

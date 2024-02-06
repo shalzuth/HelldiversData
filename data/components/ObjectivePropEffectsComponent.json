@@ -1,0 +1,5 @@
+{ "ObjectivePropEffectsComponent" : {
+    "on_spawn_audio_event" : { "type": "uint", "description": "[wwise]" },
+    "on_dead_audio_event" : { "type": "uint", "description": "[wwise]" },
+    "use_objective_egg_rtpc" : { "type": "byte" }
+}}

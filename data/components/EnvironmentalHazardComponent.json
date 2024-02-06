@@ -1,0 +1,7 @@
+{ "EnvironmentalHazardComponent" : {
+    "min_refire_time" : { "type": "float", "default": 5 },
+    "max_refire_time" : { "type": "float", "default": 10 },
+    "ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid" },
+    "detonatable" : { "type": "byte" },
+    "trigger_reset_time" : { "type": "float", "default": 10 }
+}}

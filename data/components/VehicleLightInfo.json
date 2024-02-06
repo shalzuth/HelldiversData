@@ -1,0 +1,14 @@
+{ "VehicleLightInfo" : {
+    "name" : { "type": "uint", "description": "[string]The name of this light, used for looking up by other systems." },
+    "light_type" : { "type": "VehicleLightType", "default": "VehicleLightType_Running", "description": "The function of this light on the vehicle." },
+    "light_node" : { "type": "uint", "description": "[string]The name of the node to which the light is attached. Used for spawning VFX/particles." },
+    "light_name" : { "type": "uint", "description": "[string]The name of the light itself." },
+    "emissive_name" : { "type": "uint", "description": "[string]The name of the emissive material for this light." },
+    "emissive_variable" : { "type": "uint", "description": "[string]The name of the material variable for this light." },
+    "off_intensity" : { "type": "float", "default": 0, "description": "Intensity level when off." },
+    "idle_intensity" : { "type": "float", "default": 0.15, "description": "Intensity level when vehicle electrical system is idle." },
+    "on_intensity" : { "type": "float", "default": 1, "description": "Intensity level when the light is specifically turned on." },
+    "emergency_light" : { "type": "byte", "description": "[bool]Include this light in the list of emergency blinkers." },
+    "flare_name" : { "type": "ulong", "description": "[particles]The light-flare effect to spawn, if any." },
+    "min_flare_intensity" : { "type": "float", "default": 1, "description": "Intensity level above which to spawn a light flare effect." }
+}}

@@ -1,0 +1,7 @@
+{ "BackblastComponent" : {
+    "angle" : { "type": "float", "default": 0, "description": "Angle of the backblast cone" },
+    "offset" : { "type": "float", "default": 1, "description": "The distance backwards from the fire event to create the explosion at." },
+    "type" : { "type": "ExplosionType", "default": "ExplosionType_BackblastSmall", "description": "Type of the explosion this creates" },
+    "shockwave_type" : { "type": "SurfaceImpactType", "default": "SurfaceImpactType_weapon_shockwave_medium", "description": "The surface effect to play normal to the ground underneath the muzzle." },
+    "particle_effect" : { "type": "EffectSetting", "description": "Extra particle effect used outside this component, more than likely from an ability." }
+}}

@@ -1,0 +1,16 @@
+{ "SyncedReceiverAbility" : {
+    "type" : { "type": "SyncedAbilityType", "default": "SyncedAbilityType_None", "description": "Type of synced ability (kill, revive etc.)" },
+    "conditions" : { "type": "array", "subtype": "SyncedAbilityCondition", "description": "Checks to run to allow the synced ability." },
+    "partner_rig" : { "type": "SyncedAbilityRigType", "default": "SyncedAbilityRigType_None", "description": "Animation rig type of the instigator this ability matches." },
+    "weapon_type" : { "type": "AssistedReloadWeaponType", "default": "AssistedReloadWeaponType_None", "description": "If the weapon condition is not selected it is ignored, otherwise it must match the weapon carried." },
+    "emote_type" : { "type": "uint", "default": 1288385068, "description": "[string]Must match the emote currently waiting for by the initiator to be played." },
+    "seater_role" : { "type": "SeaterRole", "default": "SeaterRole_None", "description": "If the mounted condition is set, check that the receiver has this role/is in this seat type before accepting the ability." },
+    "ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to run when executing the sync kill or death." },
+    "lerp_duration" : { "type": "float", "default": 1, "description": "Length of the lerp phase, in seconds." },
+    "skip_lerp" : { "type": "byte", "description": "[bool]Should we ignore lerping while doing this synced ability?" },
+    "z_angle" : { "type": "float", "default": 0, "description": "Rotate the entity this angle around Z to align with enemy. 0 is facing same direction, 180 is facing towards enemy." },
+    "max_angle" : { "type": "float", "default": 180, "description": "Angle of cone in which this ability is active, ignored if Angle Check condition is not set." },
+    "override_motion" : { "type": "byte", "description": "[bool]Overrides the various motion components, such as 'motion', 'rotation' and 'locomotion'." },
+    "camera_override" : { "type": "byte", "description": "[bool]Overrides the camera with the avatar rig camera node. Only used if entity is an avatar." },
+    "two_stage" : { "type": "byte", "description": "[bool]If true the ability is not played when we initiate the sync kill, but rather on " }
+}}

@@ -1,0 +1,8 @@
+{ "AiEnemyCloakSettings" : {
+    "can_cloak" : { "type": "byte" },
+    "auto_cloak" : { "type": "byte", "description": "[bool]If the entity should cloak whenever possible such as start." },
+    "cloak_time" : { "type": "float", "default": 3, "description": "The time it takes for the enemy to cloak" },
+    "material_animation_cloak" : { "type": "uint", "default": 1853603481, "description": "[string]" },
+    "material_animation_decloak" : { "type": "uint", "default": 921209833, "description": "[string]" },
+    "override_idle_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid" }
+}}

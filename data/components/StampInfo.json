@@ -1,0 +1,10 @@
+{ "StampInfo" : {
+    "stamp" : { "type": "Stamp" },
+    "path" : { "type": "ulong" },
+    "weights" : { "type": "StampWeights" },
+    "weight" : { "type": "float", "default": 1 },
+    "flattening_intensity" : { "type": "float", "default": 1 },
+    "flatten_terrain" : { "type": "ushort" },
+    "min_difficulty" : { "type": "ushort" },
+    "max_difficulty" : { "type": "ushort" }
+}}

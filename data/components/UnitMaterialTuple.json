@@ -1,0 +1,8 @@
+{ "UnitMaterialTuple" : {
+    "unit_path" : { "type": "ulong", "description": "[unit]Any units with this path will use the appropriate mesh name" },
+    "bug_screen_material" : { "type": "ulong", "description": "[material]The material that gets set if this is a bug faction" },
+    "bot_screen_material" : { "type": "ulong", "description": "[material]The material that gets set if this is a bot faction" },
+    "illuminate_screen_material" : { "type": "ulong", "description": "[material]The material that gets set if this is a illuminate faction" },
+    "superearth_screen_material" : { "type": "ulong", "description": "[material]The material that gets set if this is a super earth faction" },
+    "slot_name" : { "type": "uint", "description": "[string]The slot that gets the appropriate faction material" }
+}}

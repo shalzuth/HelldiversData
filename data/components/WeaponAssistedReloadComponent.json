@@ -1,0 +1,16 @@
+{ "WeaponAssistedReloadComponent" : {
+    "reloader_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Assisted reload ability to play on the reloader." },
+    "reloadee_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Assisted reload ability to play on the reloadee." },
+    "interpolation_speed_aim" : { "type": "float", "default": 0.1, "description": "Interpoaltion speed of the aim position while being reloaded" },
+    "interpolation_speed_firing" : { "type": "float", "default": 0.05, "description": "Interpoaltion speed of the aim position while being reloaded" },
+    "requires_clearing" : { "type": "byte", "description": "[bool]IIf set, the megazine/rounds (except for the chambered round) will be cleared before reloading." },
+    "reload_amount" : { "type": "uint", "default": 1, "description": "Number of rounds to reload per assisted reload (only used for projectile weapons)." },
+    "reload_cost" : { "type": "int", "default": 1, "description": "Cost applied to the backpack debosit component for a reload on this weapon." },
+    "attach_offset" : { "type": "CApiVector3", "description": "Offset relative to the root of the reloadee to attach the reloader, in the root's coordinate system after applying the rotation offset." },
+    "attach_rotation" : { "type": "CApiVector3", "description": "Rotation in degrees relative to the root of the reloadee to attach the reloader." },
+    "reloader_idle_animation_event" : { "type": "uint", "description": "[string]Animation event to trigger on the reloader when entering" },
+    "attach_offset_crouch" : { "type": "CApiVector3", "description": "When crouched, offset relative to the root of the reloadee to attach the reloader, in the root's coordinate system after applying the rotation offset." },
+    "attach_rotation_crouch" : { "type": "CApiVector3", "description": "When crouched, rotation in degrees relative to the root of the reloadee to attach the reloader." },
+    "attach_offset_prone" : { "type": "CApiVector3", "description": "When proning, offset relative to the root of the reloadee to attach the reloader, in the root's coordinate system after applying the rotation offset." },
+    "attach_rotation_prone" : { "type": "CApiVector3", "description": "When proning, rotation in degrees relative to the root of the reloadee to attach the reloader." }
+}}

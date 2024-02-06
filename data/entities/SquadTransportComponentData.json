@@ -1,0 +1,107 @@
+{
+  "15821153730695962661": {
+    "rows": 6,
+    "columns": 2,
+    "formation_id": 1038354222,
+    "clamp_delay": 0.200000003,
+    "use_attach_node": 1,
+    "precache_formation_type": "TransportFormationType_None",
+    "give_target_to_payloads": 1,
+    "unit_drop_audio_events": [
+      {
+        "unit_path": 53190131176459484,
+        "on_unit_dropped_audio_event": 1100019282
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      }
+    ]
+  },
+  "10958708641660631096": {
+    "rows": 6,
+    "columns": 2,
+    "formation_id": 1038354222,
+    "clamp_delay": 0.200000003,
+    "use_attach_node": 1,
+    "precache_formation_type": "TransportFormationType_None",
+    "give_target_to_payloads": 1,
+    "unit_drop_audio_events": [
+      {
+        "unit_path": 53190131176459484,
+        "on_unit_dropped_audio_event": 1100019282
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      }
+    ]
+  },
+  "15239773297738004195": {
+    "rows": 1,
+    "columns": 4,
+    "formation_id": 3245399847,
+    "clamp_delay": 0.200000003,
+    "use_attach_node": 1,
+    "precache_formation_type": "TransportFormationType_Spawner",
+    "give_target_to_payloads": 1,
+    "unit_drop_audio_events": [
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      },
+      {
+        "unit_path": 0,
+        "on_unit_dropped_audio_event": 0
+      }
+    ]
+  }
+}

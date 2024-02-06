@@ -1,0 +1,4 @@
+{ "ObjectiveVehicleDeliveryComponent" : {
+    "radius" : { "type": "float", "default": -1, "description": "The distance vehicle has to be parked to trigger completion" },
+    "delivery_tag" : { "type": "uint", "description": "[string]The tag for the matching objective deliverable vehicle component" }
+}}

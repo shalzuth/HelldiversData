@@ -1,0 +1,5 @@
+{ "StanceComponent" : {
+    "stand" : { "type": "StanceInfo", "description": "Contains stance info for standing" },
+    "crouch" : { "type": "StanceInfo", "description": "Contains stance info for crouching" },
+    "prone" : { "type": "StanceInfo", "description": "Contains stance info for proning" }
+}}

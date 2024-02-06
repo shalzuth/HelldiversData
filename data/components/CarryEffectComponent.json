@@ -1,0 +1,7 @@
+{ "CarryEffectComponent" : {
+    "picked_up_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to trigger when picked up" },
+    "dropped_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to trigger when picked up" },
+    "carried_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to trigger while carried" },
+    "carried_retrigger_time_min" : { "type": "float", "default": 5 },
+    "carried_retrigger_time_max" : { "type": "float", "default": 10 }
+}}

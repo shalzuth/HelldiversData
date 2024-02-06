@@ -1,0 +1,3 @@
+{ "ObjectiveConvoyComponent" : {
+    "marker_type" : { "type": "ObjectiveConvoyMarkerType", "default": "ObjectiveConvoyMarkerType_Start", "description": "Is this convoy end or start point?" }
+}}

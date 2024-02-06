@@ -1,0 +1,7 @@
+{ "MaterialVariable" : {
+    "variable_name" : { "type": "uint", "description": "[string]The name of the material variable to set." },
+    "material_slot_name" : { "type": "uint", "description": "[string]The material slot to set on. If not set, then applied to all material slots." },
+    "type" : { "type": "MaterialVariableType", "default": "MaterialVariableType_Scalar", "description": "The type of the material variable to set." },
+    "value" : { "type": "CApiVector4", "description": "The value to set on the material variable." },
+    "animations" : { "type": "array", "subtype": "MaterialVariableAnimation", "description": "The animations that can be used on this variable." }
+}}

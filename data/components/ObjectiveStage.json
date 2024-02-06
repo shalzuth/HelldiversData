@@ -1,0 +1,15 @@
+{ "ObjectiveStage" : {
+    "type" : { "type": "ObjectiveStageType", "default": "ObjectiveStageType_None", "description": "The type of the stage." },
+    "units_of_interest" : { "type": "array", "subtype": "ObjectiveUnitType", "description": "The unit of interest for this stage. These are the units that need to complete the ObjectiveStageType before the scrit event 'on_uoi_completed' is triggered. If this is empty, the units in linked_unit_types are of interest." },
+    "loc_name" : { "type": "uint", "description": "[string]The localization id of the stage name." },
+    "on_uoi_completed" : { "type": "uint", "description": "[string]The script event to trigger when all Units Of Interest are completed." },
+    "on_uoi_triggered" : { "type": "uint", "description": "[string]The script event to trigger when one Units Of Interest is completed." },
+    "completion_percentage" : { "type": "float", "default": 1, "description": "." },
+    "map_type" : { "type": "ObjectiveShowMapType", "default": "ObjectiveShowMapType_None", "description": "How this objective appears on the map, if it shows area of interest etc..." },
+    "use_uoi_position_as_objective_position" : { "type": "byte", "description": "[bool]If set it will set the objective position to the first found UOI. " },
+    "allow_extraction" : { "type": "byte", "description": "[bool]If the objective is in this stage, then this objective is considered completed for calling in the extraction shuttle purposes" },
+    "stratagem_drop" : { "type": "StratagemObjectiveDropRequirement", "default": "StratagemObjectiveDropRequirement_None", "description": "Requirement for stratagem to be called in for this objective stage" },
+    "max_stratagem_count" : { "type": "int", "default": 1, "description": "How many objective stratagems can be placed for this. -1 is infinite" },
+    "stratagem_drop_max_distance" : { "type": "float", "default": 5, "description": "Max Distance a stratagem drop can be placed for it to be successful" },
+    "track_uoi" : { "type": "byte", "description": "[bool]If the objective is in this stage, then the first unit of interest is tracked on the map" }
+}}

@@ -1,0 +1,15 @@
+{ "AttachableComponent" : {
+    "dynamic_actor" : { "type": "uint", "description": "[string]Name of the dynamic actor that should be disabled when attached and enabled when dropped." },
+    "attached_dynamic_actor" : { "type": "uint", "description": "[string]Name of the dynamic actor that should be enabled when attached and disabled when dropped." },
+    "use_all_dynamic_actors" : { "type": "byte", "description": "[bool]True if all dynamic actors should be disabled when attached and enabled when dropped." },
+    "offset" : { "type": "CApiVector3", "description": "If set, this offset is applied on top of any other offsets when attaching the entity." },
+    "rotation_offset" : { "type": "CApiVector3", "description": "If set, this rotation (in angles) is applied on top of any other offsets when attaching the entity." },
+    "offset_node" : { "type": "uint", "description": "[string]If specified, the local space position and rotation of the node relative to the unit root will be added to the offset when attaching." },
+    "attach_anim" : { "type": "uint", "description": "[string]Animation to play when attaching." },
+    "parent_attach_anim" : { "type": "uint", "description": "[string]Animation to play on the parent when attaching." },
+    "detach_anim" : { "type": "uint", "description": "[string]Animation to play when detaching." },
+    "parent_detach_anim" : { "type": "uint", "description": "[string]Animation to play on the parent when detaching." },
+    "affect_scale" : { "type": "byte", "description": "[bool]This should only be applied to main entities that will attach to something in the world, like hellpods." },
+    "ignore_weapon_damage_for_parent" : { "type": "byte", "description": "[bool]This variable will decide if we should be able to damage our parent with our weapons." },
+    "inherit_angular_momentum" : { "type": "byte", "description": "[bool]Should this attachable inherit angular momentum?" }
+}}

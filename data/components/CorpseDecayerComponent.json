@@ -1,0 +1,4 @@
+{ "CorpseDecayerComponent" : {
+    "radius" : { "type": "float", "default": 1, "description": "The radius that we use in conjunction with the oobb of the corpses unit that we check to decay" },
+    "node" : { "type": "uint", "default": 1243096897, "description": "[string]The name of the node that we use when checking distance to the corpse with in order to decide if that specific corpse should decay" }
+}}

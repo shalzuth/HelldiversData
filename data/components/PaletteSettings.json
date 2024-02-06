@@ -1,0 +1,12 @@
+{ "PaletteSettings" : {
+    "region_settings" : { "type": "array", "subtype": "RegionPaletteSettings" },
+    "bark" : { "type": "ulong" },
+    "moss" : { "type": "ulong" },
+    "grass" : { "type": "ulong" },
+    "bush" : { "type": "ulong" },
+    "leaves" : { "type": "ulong" },
+    "flower" : { "type": "ulong" },
+    "bug_slime" : { "type": "ulong" },
+    "bug_structure" : { "type": "ulong" },
+    "bug_detail" : { "type": "ulong" }
+}}

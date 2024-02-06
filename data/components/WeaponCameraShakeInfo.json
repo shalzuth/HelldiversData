@@ -1,0 +1,7 @@
+{ "WeaponCameraShakeInfo" : {
+    "world_shake_effect" : { "type": "ulong", "description": "[camera_shake]The shake effect to play in world. This is _not_ played if a local shake is played!" },
+    "local_shake_effect" : { "type": "ulong", "description": "[camera_shake]The shake effect to play on the local player's camera (that is the camera of the player firing this weapon, if and only if the weapon is being fired by a player)." },
+    "fpv_shake_effect" : { "type": "ulong", "description": "[camera_shake]The shake effect to play on the local player's camera while firing this weapon in FPV." },
+    "inner_radius" : { "type": "float", "default": 2, "description": "Inner radius of the world shake" },
+    "outer_radius" : { "type": "float", "default": 5, "description": "Outer radius of the world shake" }
+}}

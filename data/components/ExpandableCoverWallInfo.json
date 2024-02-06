@@ -1,0 +1,9 @@
+{ "ExpandableCoverWallInfo" : {
+    "anim_variable" : { "type": "uint", "description": "[string]The animation variable that controls the expansion of the cover wall." },
+    "intersection_actor_name" : { "type": "uint", "description": "[string]The name of the intersection actor we use for detecting when the expandable cover wall should stop animating." },
+    "expand_audio_event" : { "type": "uint", "description": "[wwise]expand_audio_event" },
+    "expand_audio_node" : { "type": "uint", "description": "[string]The name of the intersection actor we use for detecting when the expandable cover wall should stop animating." },
+    "expand_timings" : { "type": "array", "subtype": "float", "description": "timings for expand_audio_event" },
+    "demolition_strength" : { "type": "float", "default": 0, "description": "The demolition strength we destroy units with during intersection." },
+    "anim_duration" : { "type": "float", "default": 2, "description": "The duration which we animate the expandable covers opening at." }
+}}

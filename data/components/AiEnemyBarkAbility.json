@@ -1,0 +1,4 @@
+{ "AiEnemyBarkAbility" : {
+    "ability" : { "type": "AbilityId", "default": "AbilityId_Invalid" },
+    "leader_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid" }
+}}

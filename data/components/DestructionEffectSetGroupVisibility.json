@@ -1,0 +1,4 @@
+{ "DestructionEffectSetGroupVisibility" : {
+    "group_name" : { "type": "uint", "description": "[string] The visibility group to set to visible or invisible (depending on the enabled variable)." },
+    "enabled" : { "type": "int", "description": "Wether or the group should be set to visible (1/true) or invisible (0/false)." }
+}}

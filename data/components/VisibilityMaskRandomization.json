@@ -1,0 +1,4 @@
+{ "VisibilityMaskRandomization" : {
+    "identifier" : { "type": "uint", "description": "[string]The identifier / name of this randomization group." },
+    "mask_index_names" : { "type": "array", "subtype": "uint", "description": "[string]The list of mask names to randomize from." }
+}}

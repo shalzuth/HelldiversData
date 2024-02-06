@@ -1,0 +1,9 @@
+{ "RoadsData" : {
+    "route_points" : { "type": "array", "subtype": "RoutePoint" },
+    "faction_blend" : { "type": "array", "subtype": "float" },
+    "control_points" : { "type": "array", "subtype": "CApiVector2" },
+    "flags" : { "type": "RoadFlags" },
+    "spline_type" : { "type": "StampSplineType" },
+    "road_path_depth" : { "type": "uint" },
+    "route" : { "type": "Route" }
+}}

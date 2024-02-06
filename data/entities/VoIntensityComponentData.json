@@ -1,0 +1,40 @@
+{
+  "5556372446766824087": {
+    "levels": [
+      {
+        "intensity_value": 1524889186,
+        "min_duration": 99,
+        "combat_intensity": 0,
+        "enemy_proximity": 0,
+        "alert_level": 0,
+        "since_last_shot": 0,
+        "injury_type": "InjuryEffectType_None",
+        "damage_over_time": 0,
+        "health_percentage": 0
+      },
+      {
+        "intensity_value": 2150594837,
+        "min_duration": 5,
+        "combat_intensity": 0,
+        "enemy_proximity": 15,
+        "alert_level": 2,
+        "since_last_shot": 0,
+        "injury_type": "InjuryEffectType_None",
+        "damage_over_time": 10,
+        "health_percentage": 0.300000012
+      },
+      {
+        "intensity_value": 1395949489,
+        "min_duration": 5,
+        "combat_intensity": 0,
+        "enemy_proximity": 0,
+        "alert_level": 0,
+        "since_last_shot": 0,
+        "injury_type": "InjuryEffectType_Avatar_ExtremeHemmorage",
+        "damage_over_time": 60,
+        "health_percentage": 0
+      }
+    ],
+    "damage_over_time_span": 12
+  }
+}

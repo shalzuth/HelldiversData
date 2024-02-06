@@ -1,0 +1,6 @@
+{ "TerritoryEdge" : {
+    "cell_indices" : { "type": "array", "subtype": "uint" },
+    "corner_positions" : { "type": "array", "subtype": "CApiVector3" },
+    "center_position" : { "type": "CApiVector3" },
+    "edge_index" : { "type": "uint" }
+}}

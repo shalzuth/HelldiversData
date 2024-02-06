@@ -1,0 +1,6 @@
+{ "StampGroupFlags" : {
+    "is_outside_stamp" : { "type": "byte" },
+    "is_route_stamp" : { "type": "byte" },
+    "is_hero_stamp" : { "type": "byte" },
+    "spawn_on_priority_route" : { "type": "byte" }
+}}

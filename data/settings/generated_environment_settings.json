@@ -1,0 +1,1790 @@
+[
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_arctic",
+      "debug_name": "arctic",
+      "name_loc": 22554536,
+      "name_loc_str": "planet_type_arctic",
+      "loadout_intelligence_loc": 2370408778,
+      "wwise_state": "arctic",
+      "planet_material_id": 5423429874478287957,
+      "circle_icon_material_id": 2795254784421705254,
+      "filled_icon_material_id": 1978188305357034926,
+      "test_utility_level": 7654509833690387568,
+      "env_shared_package": 8318648023252884596,
+      "terrain_projector_package": 10871445990458975269,
+      "shading_environment": 5264149265294422562,
+      "grading_day": 9397951817548594887,
+      "grading_sunset": 11814251774278814495,
+      "grading_night": 10912192979251847852,
+      "minimap_package": 5750568789422395188,
+      "minimap_utility_level": 14919283334950911507,
+      "dirt_color": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "layer_id": 1829843150,
+      "hologram_light_color": {
+        "x": 48,
+        "y": 48,
+        "z": 48
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.100000001,
+        "y": 0.100000001,
+        "z": 0.100000001
+      },
+      "hologram_minimap_lut": 12860856472970377612,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 16843814956411482874,
+      "resource_packages": [],
+      "resource_override_tags": 4,
+      "terrain_material_path": 4311646826816484296,
+      "default_reverb_zone": "arctic_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 1014659248,
+      "wind_wwise_stop_event": 183325925
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_desert",
+      "debug_name": "desert",
+      "name_loc": 778487588,
+      "name_loc_str": "planet_type_desert",
+      "loadout_intelligence_loc": 2986604961,
+      "wwise_state": "desert",
+      "planet_material_id": 4875316107619851837,
+      "circle_icon_material_id": 2631455246979810587,
+      "filled_icon_material_id": 85853114816671972,
+      "test_utility_level": 12548879010603744857,
+      "env_shared_package": 3624855104595437995,
+      "terrain_projector_package": 4148349759678527880,
+      "shading_environment": 3592849162456714595,
+      "grading_day": 9112345438142661783,
+      "grading_sunset": 5278382463526132482,
+      "grading_night": 2166961698348929302,
+      "minimap_package": 4655237034729809981,
+      "minimap_utility_level": 12127706474902159524,
+      "dirt_color": {
+        "x": 0.168599993,
+        "y": 0.113700002,
+        "z": 0.0588000007
+      },
+      "layer_id": 311374246,
+      "hologram_light_color": {
+        "x": 15,
+        "y": 12,
+        "z": 7.5
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.100000001,
+        "y": 0.0670000017,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 14978974615382092107,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 1726099902158543656,
+      "resource_packages": [],
+      "resource_override_tags": 2,
+      "terrain_material_path": 9089143115905626931,
+      "default_reverb_zone": "desert_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 3264912483,
+      "wind_wwise_stop_event": 2558274441
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_forest",
+      "debug_name": "forest",
+      "name_loc": 2151041792,
+      "name_loc_str": "planet_type_forest",
+      "loadout_intelligence_loc": 3402720361,
+      "wwise_state": "forest",
+      "planet_material_id": 12171883926101980074,
+      "circle_icon_material_id": 6313097180184416939,
+      "filled_icon_material_id": 7692432873998802037,
+      "test_utility_level": 1051607718453156588,
+      "env_shared_package": 7845497053881798063,
+      "terrain_projector_package": 11402600840694302235,
+      "shading_environment": 14410076596726679657,
+      "grading_day": 9265894826599995982,
+      "grading_sunset": 7252542086843251180,
+      "grading_night": 10213031459625020704,
+      "minimap_package": 10738131023360638157,
+      "minimap_utility_level": 14715120995205889303,
+      "dirt_color": {
+        "x": 0.148599997,
+        "y": 0.143700004,
+        "z": 0.063699998
+      },
+      "layer_id": 1648467210,
+      "hologram_light_color": {
+        "x": 12,
+        "y": 18,
+        "z": 15
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.0850000009,
+        "y": 0.100000001,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 5106184852167061925,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 14253334434936163358,
+      "resource_packages": [],
+      "resource_override_tags": 1,
+      "terrain_material_path": 13068686650623447477,
+      "default_reverb_zone": "forest_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 1205609028,
+      "wind_wwise_stop_event": 2103519483
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_snowy_forest",
+      "debug_name": "snowy_forest",
+      "name_loc": 2019543548,
+      "name_loc_str": "planet_type_snowy_forest",
+      "loadout_intelligence_loc": 2370408778,
+      "wwise_state": "forest_snow",
+      "planet_material_id": 5423429874478287957,
+      "circle_icon_material_id": 2795254784421705254,
+      "filled_icon_material_id": 1978188305357034926,
+      "test_utility_level": 7654509833690387568,
+      "env_shared_package": 7251312437187830819,
+      "terrain_projector_package": 10871445990458975269,
+      "shading_environment": 8536051203844764557,
+      "grading_day": 14272870847917079277,
+      "grading_sunset": 11253011934665046705,
+      "grading_night": 17529375641269691778,
+      "minimap_package": 5750568789422395188,
+      "minimap_utility_level": 14919283334950911507,
+      "dirt_color": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "layer_id": 1829843150,
+      "hologram_light_color": {
+        "x": 48,
+        "y": 48,
+        "z": 48
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.100000001,
+        "y": 0.100000001,
+        "z": 0.100000001
+      },
+      "hologram_minimap_lut": 12860856472970377612,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 16843814956411482874,
+      "resource_packages": [],
+      "resource_override_tags": 4,
+      "terrain_material_path": 4311646826816484296,
+      "default_reverb_zone": "arctic_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 1014659248,
+      "wind_wwise_stop_event": 183325925
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_rocky",
+      "debug_name": "rocky",
+      "name_loc": 945439925,
+      "name_loc_str": "planet_type_rocky",
+      "loadout_intelligence_loc": 2134943452,
+      "wwise_state": "rocky",
+      "planet_material_id": 4875316107619851837,
+      "circle_icon_material_id": 2631455246979810587,
+      "filled_icon_material_id": 85853114816671972,
+      "test_utility_level": 12548879010603744857,
+      "env_shared_package": 14208638788131098142,
+      "terrain_projector_package": 18391406830298050007,
+      "shading_environment": 14688759590083091901,
+      "grading_day": 4862330287749420429,
+      "grading_sunset": 10958781502348656705,
+      "grading_night": 13310293383479247865,
+      "minimap_package": 4655237034729809981,
+      "minimap_utility_level": 5570852250287826751,
+      "dirt_color": {
+        "x": 0.168599993,
+        "y": 0.113700002,
+        "z": 0.0588000007
+      },
+      "layer_id": 2871658800,
+      "hologram_light_color": {
+        "x": 15,
+        "y": 12,
+        "z": 7.5
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.100000001,
+        "y": 0.0670000017,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 14978974615382092107,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            17783022496403516947,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 12343161792903783800,
+      "resource_packages": [],
+      "resource_override_tags": 2,
+      "terrain_material_path": 7784643047627859308,
+      "default_reverb_zone": "rocky_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 3264912483,
+      "wind_wwise_stop_event": 2558274441
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_sandy",
+      "debug_name": "sandy",
+      "name_loc": 3121815003,
+      "name_loc_str": "planet_type_sandy",
+      "loadout_intelligence_loc": 885056000,
+      "wwise_state": "sandy",
+      "planet_material_id": 4875316107619851837,
+      "circle_icon_material_id": 2631455246979810587,
+      "filled_icon_material_id": 85853114816671972,
+      "test_utility_level": 12548879010603744857,
+      "env_shared_package": 3624855104595437995,
+      "terrain_projector_package": 14788959478066761028,
+      "shading_environment": 3592849162456714595,
+      "grading_day": 9112345438142661783,
+      "grading_sunset": 5278382463526132482,
+      "grading_night": 2166961698348929302,
+      "minimap_package": 13684918543884613199,
+      "minimap_utility_level": 17115707006528448954,
+      "dirt_color": {
+        "x": 0.168599993,
+        "y": 0.113700002,
+        "z": 0.0588000007
+      },
+      "layer_id": 2232098828,
+      "hologram_light_color": {
+        "x": 15,
+        "y": 12,
+        "z": 7.5
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.100000001,
+        "y": 0.0670000017,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 14978974615382092107,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 14758544203161383857,
+      "resource_packages": [],
+      "resource_override_tags": 2,
+      "terrain_material_path": 1931310536919491223,
+      "default_reverb_zone": "desert_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 3264912483,
+      "wind_wwise_stop_event": 2558274441
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_savanna",
+      "debug_name": "savanna",
+      "name_loc": 2985529596,
+      "name_loc_str": "planet_type_savanna",
+      "loadout_intelligence_loc": 891847004,
+      "wwise_state": "savanna",
+      "planet_material_id": 4875316107619851837,
+      "circle_icon_material_id": 2631455246979810587,
+      "filled_icon_material_id": 85853114816671972,
+      "test_utility_level": 12548879010603744857,
+      "env_shared_package": 3624855104595437995,
+      "terrain_projector_package": 1984139931813248788,
+      "shading_environment": 3592849162456714595,
+      "grading_day": 9112345438142661783,
+      "grading_sunset": 5278382463526132482,
+      "grading_night": 2166961698348929302,
+      "minimap_package": 12648669957700178376,
+      "minimap_utility_level": 5778031871946055219,
+      "dirt_color": {
+        "x": 0.168599993,
+        "y": 0.113700002,
+        "z": 0.0588000007
+      },
+      "layer_id": 1690939211,
+      "hologram_light_color": {
+        "x": 15,
+        "y": 12,
+        "z": 7.5
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.100000001,
+        "y": 0.0670000017,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 14978974615382092107,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 2978684210714063494,
+      "resource_packages": [],
+      "resource_override_tags": 2,
+      "terrain_material_path": 2321984324504739914,
+      "default_reverb_zone": "savanna_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 3264912483,
+      "wind_wwise_stop_event": 2558274441
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_grassland",
+      "debug_name": "grassland",
+      "name_loc": 208239710,
+      "name_loc_str": "planet_type_grassland",
+      "loadout_intelligence_loc": 1604797648,
+      "wwise_state": "grassland",
+      "planet_material_id": 12171883926101980074,
+      "circle_icon_material_id": 6313097180184416939,
+      "filled_icon_material_id": 7692432873998802037,
+      "test_utility_level": 1051607718453156588,
+      "env_shared_package": 7845497053881798063,
+      "terrain_projector_package": 11402600840694302235,
+      "shading_environment": 14410076596726679657,
+      "grading_day": 9265894826599995982,
+      "grading_sunset": 7252542086843251180,
+      "grading_night": 10213031459625020704,
+      "minimap_package": 10738131023360638157,
+      "minimap_utility_level": 14715120995205889303,
+      "dirt_color": {
+        "x": 0.148599997,
+        "y": 0.143700004,
+        "z": 0.063699998
+      },
+      "layer_id": 4185976088,
+      "hologram_light_color": {
+        "x": 12,
+        "y": 18,
+        "z": 15
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.0850000009,
+        "y": 0.100000001,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 5106184852167061925,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 14253334434936163358,
+      "resource_packages": [],
+      "resource_override_tags": 1,
+      "terrain_material_path": 13068686650623447477,
+      "default_reverb_zone": "grassland_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 1205609028,
+      "wind_wwise_stop_event": 2103519483
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_moor",
+      "debug_name": "moor",
+      "name_loc": 2504313014,
+      "name_loc_str": "planet_type_moor",
+      "loadout_intelligence_loc": 2769454971,
+      "wwise_state": "grassland",
+      "planet_material_id": 12171883926101980074,
+      "circle_icon_material_id": 6313097180184416939,
+      "filled_icon_material_id": 7692432873998802037,
+      "test_utility_level": 1977916485177296649,
+      "env_shared_package": 10108781161374461541,
+      "terrain_projector_package": 7017379438015564541,
+      "shading_environment": 6526784686951637067,
+      "grading_day": 10967950517625251825,
+      "grading_sunset": 11127439823390964213,
+      "grading_night": 1079506283277546168,
+      "minimap_package": 6287952071910633273,
+      "minimap_utility_level": 2969820672655961284,
+      "dirt_color": {
+        "x": 0.148599997,
+        "y": 0.143700004,
+        "z": 0.063699998
+      },
+      "layer_id": 566527558,
+      "hologram_light_color": {
+        "x": 12,
+        "y": 18,
+        "z": 15
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.0850000009,
+        "y": 0.100000001,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 5106184852167061925,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 11337182698971559289,
+      "resource_packages": [],
+      "resource_override_tags": 32,
+      "terrain_material_path": 4166757629844171685,
+      "default_reverb_zone": "moor_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 1205609028,
+      "wind_wwise_stop_event": 2103519483
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_paradise",
+      "debug_name": "paradise",
+      "name_loc": 1724975407,
+      "name_loc_str": "planet_type_paradise",
+      "loadout_intelligence_loc": 1494987711,
+      "wwise_state": "paradise",
+      "planet_material_id": 12171883926101980074,
+      "circle_icon_material_id": 6313097180184416939,
+      "filled_icon_material_id": 7692432873998802037,
+      "test_utility_level": 1051607718453156588,
+      "env_shared_package": 7845497053881798063,
+      "terrain_projector_package": 11402600840694302235,
+      "shading_environment": 14410076596726679657,
+      "grading_day": 9265894826599995982,
+      "grading_sunset": 7252542086843251180,
+      "grading_night": 10213031459625020704,
+      "minimap_package": 10738131023360638157,
+      "minimap_utility_level": 14715120995205889303,
+      "dirt_color": {
+        "x": 0.148599997,
+        "y": 0.143700004,
+        "z": 0.063699998
+      },
+      "layer_id": 75085475,
+      "hologram_light_color": {
+        "x": 12,
+        "y": 18,
+        "z": 15
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.0850000009,
+        "y": 0.100000001,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 5106184852167061925,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 18396542128692609699,
+      "resource_packages": [],
+      "resource_override_tags": 1,
+      "terrain_material_path": 13068686650623447477,
+      "default_reverb_zone": "paradise_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 1205609028,
+      "wind_wwise_stop_event": 2103519483
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_primordial",
+      "debug_name": "primordial",
+      "name_loc": 2901963580,
+      "name_loc_str": "planet_type_primordial",
+      "loadout_intelligence_loc": 576510207,
+      "wwise_state": "grassland",
+      "planet_material_id": 12171883926101980074,
+      "circle_icon_material_id": 6313097180184416939,
+      "filled_icon_material_id": 7692432873998802037,
+      "test_utility_level": 17795271169985564906,
+      "env_shared_package": 14875628376847126576,
+      "terrain_projector_package": 6565118967184546647,
+      "shading_environment": 7989844785865596997,
+      "grading_day": 10953264322138900820,
+      "grading_sunset": 462720968075969107,
+      "grading_night": 17201304321028011462,
+      "minimap_package": 17971391443336959360,
+      "minimap_utility_level": 4488802073649839237,
+      "dirt_color": {
+        "x": 0.148599997,
+        "y": 0.143700004,
+        "z": 0.063699998
+      },
+      "layer_id": 3770696825,
+      "hologram_light_color": {
+        "x": 12,
+        "y": 18,
+        "z": 15
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.0850000009,
+        "y": 0.100000001,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 5106184852167061925,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 18434480583758668292,
+      "resource_packages": [],
+      "resource_override_tags": 16,
+      "terrain_material_path": 4649891417686127104,
+      "default_reverb_zone": "primordial_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 1205609028,
+      "wind_wwise_stop_event": 2103519483
+    }
+  },
+  {
+    "EnvironmentSettings": {
+      "planet_type": "PlanetType_swamp",
+      "debug_name": "swamp",
+      "name_loc": 3434031175,
+      "name_loc_str": "planet_type_swamp",
+      "loadout_intelligence_loc": 2818695873,
+      "wwise_state": "forest",
+      "planet_material_id": 12171883926101980074,
+      "circle_icon_material_id": 6313097180184416939,
+      "filled_icon_material_id": 7692432873998802037,
+      "test_utility_level": 6832322914674000761,
+      "env_shared_package": 9812106902189811907,
+      "terrain_projector_package": 14933597350412618235,
+      "shading_environment": 16965918056038049915,
+      "grading_day": 13090694695893390183,
+      "grading_sunset": 13340519896757913557,
+      "grading_night": 4532430811650392053,
+      "minimap_package": 17641350334770749806,
+      "minimap_utility_level": 10267413501933334945,
+      "dirt_color": {
+        "x": 0.148599997,
+        "y": 0.143700004,
+        "z": 0.063699998
+      },
+      "layer_id": 3820877964,
+      "hologram_light_color": {
+        "x": 12,
+        "y": 18,
+        "z": 15
+      },
+      "hologram_overlay_color": {
+        "x": 0.150000006,
+        "y": 0.75,
+        "z": 1
+      },
+      "drop_select_route_color": {
+        "x": 0.0850000009,
+        "y": 0.100000001,
+        "z": 0.0329999998
+      },
+      "hologram_minimap_lut": 5106184852167061925,
+      "path_settings": [
+        {
+          "mesh_materials": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_Path",
+          "collision_width": 0,
+          "mesh_width": 0,
+          "mesh_tiling_length": 0,
+          "creates_path_collision": 0
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            16901503520108442267,
+            12084793156375473558,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_SuperEarthRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            16901503520108442267,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BugRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            4345377104805731887,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_BotRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        },
+        {
+          "mesh_materials": [
+            14529186673276569086,
+            0,
+            0,
+            0
+          ],
+          "mesh_material_opacities": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "spline_type": "StampSpline_IlluminateRoad",
+          "collision_width": 15,
+          "mesh_width": 20,
+          "mesh_tiling_length": 20,
+          "creates_path_collision": 1
+        }
+      ],
+      "utility_level": 14943322128228870071,
+      "resource_packages": [],
+      "resource_override_tags": 8,
+      "terrain_material_path": 17886932783145761917,
+      "default_reverb_zone": "forest_default",
+      "default_ambience_sound_id": 0,
+      "wind_wwise_start_event": 1205609028,
+      "wind_wwise_stop_event": 2103519483
+    }
+  }
+]

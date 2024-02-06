@@ -1,0 +1,10 @@
+{ "TargetAimConstraintComponent" : {
+    "aim_node" : { "type": "uint", "default": 2354409673, "description": "[string]Node from which we calculate yaw and pitch, default head, must have -z fwd, +x up +y left." },
+    "aim" : { "type": "AimConstraintInfo", "description": "Aim constraint settings for aim." },
+    "facing" : { "type": "AimConstraintInfo", "description": "Aim constraint settings for facing." },
+    "recoil" : { "type": "AimConstraintInfo", "description": "Aim constraint settings for recoil." },
+    "aim_constraint_parent" : { "type": "uint", "default": 1243096897, "description": "[string]The node used as forward when calculating look angles." },
+    "lose_target_look_angle" : { "type": "float", "default": 90, "description": "The angle at witch the head will return to rest position (straight ahead)." },
+    "lose_target_time" : { "type": "float", "default": 1, "description": "The time the target must be lost before the head returns to rest position (straight ahead)." },
+    "treat_as_direction" : { "type": "byte", "description": "[bool]If set, the aim constraint is treated as a direciton, not a point." }
+}}

@@ -1,0 +1,9 @@
+{ "NpcDialogueComponent" : {
+    "speaker" : { "type": "uint", "description": "[string]Who is this NPC?" },
+    "in_proximity_distance" : { "type": "float", "default": 5, "description": "The distance to another character to be considered within proximity, to trigger events" },
+    "use_camera_lock" : { "type": "byte", "description": "[bool]Should talking to this NPC put us in camera locked mode." },
+    "pa_broadcast" : { "type": "byte", "description": "[bool]pa_broadcast" },
+    "always_rebuild_dialogs" : { "type": "byte", "description": "[bool]If true then we should always check for new valid dialog when triggering a dialog" },
+    "idle_vo_trigger" : { "type": "uint", "description": "[string]Indicates which vo trigger should play after the idle timer reach the threshold." },
+    "dialogue_idle_time_threshold" : { "type": "float", "default": 30, "description": "Indicates how much time it should wait in idle until it triggers a idle_vo_trigger" }
+}}

@@ -1,0 +1,4 @@
+{ "FontLookup" : {
+    "name" : { "type": "ulong" },
+    "items" : { "type": "array", "subtype": "FontLookupEntry" }
+}}

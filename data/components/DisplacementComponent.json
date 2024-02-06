@@ -1,0 +1,6 @@
+{ "DisplacementComponent" : {
+    "recharge_time" : { "type": "float", "default": 60, "description": "How long before we can displace again" },
+    "displace_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play on displacement" },
+    "range" : { "type": "float", "default": 20, "description": "How far away can we displace?" },
+    "displace_ready_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when we are done charging" }
+}}

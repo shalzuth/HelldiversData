@@ -1,0 +1,12 @@
+{ "AiCharacterComponent" : {
+    "preferred_speed" : { "type": "float", "default": 5, "description": "Default preferred speed of the character." },
+    "maximum_speed" : { "type": "float", "default": 10, "description": "Default maximum speed of the character." },
+    "fire_avoidance" : { "type": "float", "default": 0, "description": "A value of how afraid this character is of fire." },
+    "boids_cohesion_strength" : { "type": "float", "default": 0, "description": "A multiplier on the cohesion velocity vector. (0 means no cohesion)" },
+    "boids_optimal_distance" : { "type": "float", "default": 2, "description": "Distance between edges of neighboring ais where they are satisfied. (It won't use cohesion to get closer to the neighbor)" },
+    "boids_view_radius" : { "type": "float", "default": 10, "description": "Neighbors (roots) within view-radius meters of my root will be part of my cohesion calculation." },
+    "steering_properties" : { "type": "AiSteeringProperties", "description": "Steering properties of the character." },
+    "sensor_aabb" : { "type": "AiSensorAABB", "description": "A character's sensor AABB is expressed in world axes, relative to the character position." },
+    "default_mode" : { "type": "AiCharacterMode", "default": "AiCharacterMode_Havok", "description": "Default ai character mode this character spawns with." },
+    "modulate_movespeed_on_turns" : { "type": "byte", "description": "[bool]If on, this character will lower it's movespeed based on angle to wanted direction (slowing down if wanted rotation is far from current)." }
+}}

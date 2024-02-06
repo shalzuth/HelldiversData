@@ -1,0 +1,4 @@
+{ "DestructionEffectEvent" : {
+    "effect" : { "type": "DestructionEffect", "description": "[not_exchangeable]" },
+    "delay" : { "type": "float", "default": 0 }
+}}

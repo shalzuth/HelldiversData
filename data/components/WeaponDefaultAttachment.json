@@ -1,0 +1,4 @@
+{ "WeaponDefaultAttachment" : {
+    "slot" : { "type": "WeaponCustomizationSlot", "default": "WeaponCustomizationSlot_None", "description": "Full customization slot (not unique)." },
+    "customization" : { "type": "uint", "description": "[string]Name of the default customization to use." }
+}}

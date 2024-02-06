@@ -1,0 +1,5 @@
+{ "SubregionVoronoiCell" : {
+    "edges" : { "type": "array", "subtype": "SubregionVoronoiEdge" },
+    "position" : { "type": "CApiVector2" },
+    "modified_height" : { "type": "float" }
+}}

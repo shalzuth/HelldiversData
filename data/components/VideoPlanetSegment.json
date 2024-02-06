@@ -1,0 +1,5 @@
+{ "VideoPlanetSegment" : {
+    "planet_type_videos" : { "type": "PlanetTypeVideos" },
+    "terminid_planet_event" : { "type": "VideoUIFactionPlanetEvent" },
+    "automaton_planet_event" : { "type": "VideoUIFactionPlanetEvent" }
+}}

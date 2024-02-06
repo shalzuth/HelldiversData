@@ -1,0 +1,13 @@
+{ "VideoSegment" : {
+    "video_category" : { "type": "uint" },
+    "video_id" : { "type": "uint" },
+    "random_video_from_list" : { "type": "array", "subtype": "uint" },
+    "vo_event" : { "type": "uint" },
+    "vo_event_stop" : { "type": "uint" },
+    "random_vo_from_list" : { "type": "array", "subtype": "uint" },
+    "time" : { "type": "float", "default": -1 },
+    "padding_after_vo" : { "type": "float", "default": 0 },
+    "loop_until_vo_done" : { "type": "uint" },
+    "ui_ids" : { "type": "array", "subtype": "uint" },
+    "req_story_beat_id" : { "type": "uint" }
+}}

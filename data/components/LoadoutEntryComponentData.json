@@ -1,0 +1,5 @@
+{ "LoadoutEntryComponentData" : {
+    "hashmap" : { "type": "array", "subtype": "ComponentIndexData" },
+    "data" : { "type": "array", "subtype": "LoadoutEntryComponent" },
+    "reverse_lookup" : { "type": "array", "subtype": "uint" }
+}}

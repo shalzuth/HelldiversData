@@ -1,0 +1,5 @@
+{ "DestructionEffectSound" : {
+    "sound_category" : { "type": "string", "description": "The sound category set before playing the sound id." },
+    "sound_id" : { "type": "uint", "description": "[string] The sound event that will be triggered upon destruction" },
+    "sound_node" : { "type": "uint", "description": "[node, unit_only] The node in the unit where the sound will inherit the world position from when it is played." }
+}}

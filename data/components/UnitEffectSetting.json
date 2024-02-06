@@ -1,0 +1,10 @@
+{ "UnitEffectSetting" : {
+    "unit_resource" : { "type": "ulong" },
+    "destroy_option" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_Stop" },
+    "effects" : { "type": "array", "subtype": "EffectSetting" },
+    "sounds" : { "type": "array", "subtype": "UnitSound" },
+    "node_scales" : { "type": "array", "subtype": "UnitNodeScale" },
+    "despawn_sounds" : { "type": "array", "subtype": "UnitSound" },
+    "destroy_sounds" : { "type": "array", "subtype": "UnitSound" },
+    "randomized_effect" : { "type": "array", "subtype": "WeightedEffectSetting" }
+}}

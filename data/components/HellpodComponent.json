@@ -1,0 +1,23 @@
+{ "HellpodComponent" : {
+    "hellpod_variant" : { "type": "HellpodVariant", "default": "HellpodVariant_Payload", "description": "What kind of hellpod is this? Used for determining special-case settings." },
+    "spawn_height" : { "type": "float", "default": 1000, "description": "At what Z level should the hellpod spawn?" },
+    "initial_velocity" : { "type": "float", "default": 500, "description": "What's the initial velocity of the hellpod?" },
+    "breaking_height" : { "type": "float", "default": 500, "description": "How far above ground should we start breaking?" },
+    "breaking_velocity" : { "type": "float", "default": 175, "description": "What's the breaking velocity of the hellpod?" },
+    "breaking_velocity_target_time" : { "type": "float", "default": 1, "description": "How long until we reach our breaking velocity?" },
+    "audio_thrusters_ignite_loop" : { "type": "uint", "description": "[string][wwise]Thruster Ignite Sound Loop" },
+    "audio_thrusters_ignite_end" : { "type": "uint", "description": "[string][wwise]Thruster Ignite Sound End" },
+    "audio_thrusters_ignition" : { "type": "uint", "description": "[string][wwise]Thruster Ignite Sound" },
+    "audio_entry_woosh_loop" : { "type": "uint", "description": "[string][wwise]Woosh Sound Loop" },
+    "audio_entry_woosh_end" : { "type": "uint", "description": "[string][wwise]Woosh Sound End" },
+    "audio_chassi_shake_loop" : { "type": "uint", "description": "[string][wwise]Chassi Shake Sound Loop" },
+    "audio_chassi_shake_end" : { "type": "uint", "description": "[string][wwise]Chassi Shake Sound End" },
+    "audio_supersonic_boom" : { "type": "uint", "description": "[string][wwise]Supersonic Boom Sound" },
+    "audio_impact" : { "type": "uint", "description": "[string][wwise]Impact Sound" },
+    "audio_bolt_blowing" : { "type": "uint", "description": "[string][wwise]Bolt Blowing Sound" },
+    "audio_lid_blowing" : { "type": "uint", "description": "[string][wwise]Lid Blowing Sound" },
+    "audio_thruster_start" : { "type": "uint", "description": "[string][wwise]Thruster Start Sound" },
+    "audio_hellpod_pre_impact_riser" : { "type": "uint", "description": "[string][wwise]Hellpod Preimpact Riser Sound" },
+    "audio_music_hellpod_ground_approach" : { "type": "uint", "description": "[string][wwise]Music Hellpod Ground Approach Switch" },
+    "audio_music_hellpod_land" : { "type": "uint", "description": "[string][wwise]Music Hellpod Land Switch" }
+}}

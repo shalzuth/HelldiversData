@@ -1,0 +1,36 @@
+{
+  "16624552526519423065": {
+    "default_mode": "FlashlightMode_On",
+    "surface_visibility_range": 30,
+    "hit_surface_range": 25,
+    "source_visibility_range": 30,
+    "source_visibility_angle": 32,
+    "angle_decay_by_distance_curve": [
+      0,
+      0,
+      1,
+      0.899999976,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "3503658004598565718": {
+    "default_mode": "FlashlightMode_On",
+    "surface_visibility_range": 30,
+    "hit_surface_range": 25,
+    "source_visibility_range": 30,
+    "source_visibility_angle": 32,
+    "angle_decay_by_distance_curve": [
+      0,
+      0,
+      1,
+      0.899999976,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

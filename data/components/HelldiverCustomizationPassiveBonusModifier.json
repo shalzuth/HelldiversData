@@ -1,0 +1,6 @@
+{ "HelldiverCustomizationPassiveBonusModifier" : {
+    "modifier_id" : { "type": "uint" },
+    "modifier_type" : { "type": "HelldiverCustomizationPassiveBonusModifierType", "default": "HelldiverCustomizationPassiveBonusModifierType_Set" },
+    "value" : { "type": "float", "default": 0 },
+    "desc_loc" : { "type": "uint" }
+}}

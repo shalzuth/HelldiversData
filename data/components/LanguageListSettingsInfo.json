@@ -1,0 +1,8 @@
+{ "LanguageListSettingsInfo" : {
+    "name_material" : { "type": "ulong" },
+    "confirm_material" : { "type": "ulong" },
+    "name_size" : { "type": "CApiVector2" },
+    "confirm_size" : { "type": "CApiVector2" },
+    "raw_name" : { "type": "string" },
+    "phonetic_name" : { "type": "string" }
+}}

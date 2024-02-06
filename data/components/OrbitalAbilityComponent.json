@@ -1,0 +1,21 @@
+{ "OrbitalAbilityComponent" : {
+    "pattern_segments" : { "type": "uint", "description": "Number of pattern segments." },
+    "smooth_segments" : { "type": "byte", "description": "[bool]If not set, the position is not smoothely interpolated between segments." },
+    "pattern_control_points" : { "type": "array", "subtype": "CApiVector2", "description": "Pattern control points. Should be 4 times as many as we have segments." },
+    "segment_pause" : { "type": "float", "default": 0, "description": "Break between segments. Only used when smooth_segments is false!" },
+    "duration" : { "type": "float", "default": 5, "description": "Damage duration." },
+    "remove_time" : { "type": "float", "default": 1, "description": "How long after we are done should we remove the entity." },
+    "movement_speed" : { "type": "float", "default": 5, "description": "Laser movement speed." },
+    "search_radius" : { "type": "float", "default": 20, "description": "How far can we search to fill up our target list?" },
+    "damage_dealer_zone" : { "type": "DamageZoneInfo", "description": "Damage dealer zone" },
+    "surface_impact" : { "type": "SurfaceImpactType", "default": "SurfaceImpactType_None", "description": "Surface impact type to play at the hit surface." },
+    "noise_hit_template" : { "type": "NoiseTemplate", "default": "NoiseTemplate_None", "description": "Noise template for the ground hit." },
+    "ship_effect" : { "type": "ulong", "description": "[particles]Effect that is played between the ship and the target." },
+    "ship_effect_is_laser_pointer" : { "type": "byte", "description": "[bool]If set, the effect will act like a laser pointer rather than following the spawned entity." },
+    "audio_event_start" : { "type": "uint", "description": "[string]Audio event to play when starting the effect." },
+    "audio_event_stop" : { "type": "uint", "description": "[string]Audio event to trigger when stopping the effect." },
+    "projectile_type" : { "type": "ProjectileType", "default": "ProjectileType_None", "description": "Type of projectile it fires upon spawning, if any." },
+    "projectile_spawn_height" : { "type": "float", "default": 3000, "description": "How high should projectiles spawn?" },
+    "projectile_spawn_delay" : { "type": "float", "default": 0, "description": "How long until the projectile spawns?" },
+    "target_list_update_time" : { "type": "float", "default": 0, "description": "How often do we update the target list? 0 = Disabled" }
+}}

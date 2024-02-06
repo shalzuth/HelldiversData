@@ -1,0 +1,5 @@
+{ "RouteSettingReference" : {
+    "settings" : { "type": "RouteSettings" },
+    "id" : { "type": "uint" },
+    "route_type" : { "type": "RouteType" }
+}}

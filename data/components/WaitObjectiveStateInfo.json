@@ -1,0 +1,4 @@
+{ "WaitObjectiveStateInfo" : {
+    "message_loc" : { "type": "uint", "description": "[string]Message display by the widget, can be used to described what is required to make the objective in the right state." },
+    "required_state" : { "type": "ObjectiveState", "default": "ObjectiveState_Pending", "description": "The minigame will wait for the objective to be in that state." }
+}}

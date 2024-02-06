@@ -1,0 +1,4 @@
+{ "GridMazeInfo" : {
+    "grid_size" : { "type": "uint", "default": 7, "description": "Size of the grid for the maze in tiles" },
+    "blocked_tiles_count" : { "type": "uint", "default": 10, "description": "How many blocked tiles will be placed on this grid" }
+}}

@@ -1,0 +1,277 @@
+{
+  "5556372446766824087": {
+    "input_info": {
+      "hold_stance_button_time_for_prone": 0.200000003
+    },
+    "move_info": {
+      "speeds": {
+        "reversing_multiplier": 0.75,
+        "aim": 2,
+        "walk": 2,
+        "jog": 3.20000005,
+        "sprint": 5.5,
+        "sprint_exerted": 4.25,
+        "crouch_aim": 1.20000005,
+        "crouch_walk": 1.5,
+        "crouch_jog": 2.25,
+        "crouch_sprint": 4,
+        "prone": 1.5,
+        "swim": 1.5
+      },
+      "sprint_stamina_decay_duration": 23,
+      "jog_stamina_decay_duration": 300,
+      "stamina_recover_time_stand": 7,
+      "stamina_recover_time_crouch": 6,
+      "stamina_recover_time_prone": 5,
+      "stamina_recover_delay": 1.5,
+      "stamina_cost_jump": 0.200000003,
+      "stamina_cost_dodge": 0.100000001,
+      "stamina_cost_vault": 0,
+      "stamina_cost_climb": 0,
+      "stamina_cost_slide": 0.0500000007,
+      "visibility_jump": 1,
+      "visibility_dodge": 1,
+      "visibility_vault": 1,
+      "visibility_climb": 1,
+      "visibility_slide": 1,
+      "hipfire_time": 0.5,
+      "throw_hipfire_time": 0.800000012,
+      "crouch_turn_speed_multiplier": 1,
+      "prone_turn_speed_multiplier": 0.649999976,
+      "jog_turn_speed_multiplier": 1,
+      "sprint_turn_speed_multiplier": 1.20000005,
+      "downed_turn_speed_multiplier": 0.25,
+      "swim_turn_speed_multiplier": 0.600000024,
+      "sprint_noise_radius": 10
+    },
+    "steep_slope_movement": {
+      "slide_enter_angle": 45,
+      "slide_enter_minimum_duration": 0.300000012,
+      "slide_speed": 3,
+      "slide_gravity_multiplier": 1,
+      "slide_minimum_duration": 0.300000012,
+      "slide_exit_angle": 40,
+      "slide_beyond_mover_max_angle_exit_duration": 0.200000003,
+      "slowed_movement_start_angle_uphill": 10,
+      "slowed_movement_max_angle_uphill": 55,
+      "slowed_movement_speed_multiplier_uphill": 0.00999999978,
+      "slowed_movement_start_angle_downhill": 30,
+      "slowed_movement_max_angle_downhill": 55,
+      "slowed_movement_speed_multiplier_downhill": 0.0199999996,
+      "slope_angle_interpolation_fraction_per_second": 0.999899983
+    },
+    "action_slide_movement_info": {
+      "slide_flat_duration": 0.5,
+      "slide_flat_speed": 3,
+      "slide_uphill_duration": 0.100000001,
+      "slide_uphill_speed": 2.9000001,
+      "slide_downhill_duration": 1,
+      "slide_downhill_speed": 3.5999999
+    },
+    "climb_info": {
+      "start_offset": {
+        "x": 0,
+        "y": 0.400000006,
+        "z": 2.0999999
+      },
+      "climb_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "min_height_falling": 1.20000005,
+      "max_height": {
+        "x": 1.95000005,
+        "y": 1.39999998
+      },
+      "max_forward_distance": {
+        "x": 0.600000024,
+        "y": 0.5
+      },
+      "forward_start_check_distance_per_ms": 0.0500000007,
+      "max_auto_step_up_height": 0.800000012,
+      "auto_step_up_cd": 0.5,
+      "climb_ref_interpolation_speed": 8
+    },
+    "short_throw_info": {
+      "throw_angle_offset": 5,
+      "power_multiplier": 0.699999988
+    },
+    "long_throw_info": {
+      "throw_angle_offset": 5,
+      "power_multiplier": 1.39999998
+    },
+    "detection_info": {
+      "sight_modifier_standing": 1,
+      "sight_modifier_crouching": 0.75,
+      "sight_modifier_prone": 0.5
+    },
+    "weathering_settings": {
+      "move_speed_requirement": 0.5,
+      "dirt_speed_standing": 1,
+      "dirt_speed_crouching": 3,
+      "dirt_speed_prone": 10,
+      "dirt_speed_sliding": 20
+    },
+    "movement_haptics": {
+      "left_sprinting": 2723938989,
+      "right_sprinting": 2723938989,
+      "left_jogging": 0,
+      "right_jogging": 0,
+      "left_walking": 0,
+      "right_walking": 0,
+      "left_crouching": 0,
+      "right_crouching": 0,
+      "left_crawling": 4156496004,
+      "right_crawling": 4156496004
+    },
+    "exertion_levels": [
+      {
+        "index": "ExertionLevelIndex_None",
+        "exertion_threshold": 0,
+        "sway_multiplier_scoped": 1,
+        "sway_multiplier_thirdperson": 1,
+        "sway_frequency_multiplier_scoped": 1,
+        "sway_frequency_multiplier_thirdperson": 1,
+        "sway_recoil_multiplier_scoped": 1,
+        "sway_recoil_multiplier_thirdperson": 1,
+        "sway_interp_speed": 1.20000005,
+        "enter_animation_event": 0,
+        "exit_animation_event": 0,
+        "exertion_grows_vo": 0,
+        "exertion_recovers_vo": 0
+      },
+      {
+        "index": "ExertionLevelIndex_Inconsiderable",
+        "exertion_threshold": 0.00100000005,
+        "sway_multiplier_scoped": 1,
+        "sway_multiplier_thirdperson": 1,
+        "sway_frequency_multiplier_scoped": 1,
+        "sway_frequency_multiplier_thirdperson": 1,
+        "sway_recoil_multiplier_scoped": 1,
+        "sway_recoil_multiplier_thirdperson": 1,
+        "sway_interp_speed": 1.20000005,
+        "enter_animation_event": 0,
+        "exit_animation_event": 0,
+        "exertion_grows_vo": 0,
+        "exertion_recovers_vo": 0
+      },
+      {
+        "index": "ExertionLevelIndex_Low",
+        "exertion_threshold": 0,
+        "sway_multiplier_scoped": 1.10000002,
+        "sway_multiplier_thirdperson": 1.10000002,
+        "sway_frequency_multiplier_scoped": 1.10000002,
+        "sway_frequency_multiplier_thirdperson": 1,
+        "sway_recoil_multiplier_scoped": 1,
+        "sway_recoil_multiplier_thirdperson": 1,
+        "sway_interp_speed": 1.20000005,
+        "enter_animation_event": 0,
+        "exit_animation_event": 0,
+        "exertion_grows_vo": 987741549,
+        "exertion_recovers_vo": 3336468660
+      },
+      {
+        "index": "ExertionLevelIndex_Medium",
+        "exertion_threshold": 0.5,
+        "sway_multiplier_scoped": 1.20000005,
+        "sway_multiplier_thirdperson": 1.20000005,
+        "sway_frequency_multiplier_scoped": 1.20000005,
+        "sway_frequency_multiplier_thirdperson": 1,
+        "sway_recoil_multiplier_scoped": 1,
+        "sway_recoil_multiplier_thirdperson": 1,
+        "sway_interp_speed": 1.20000005,
+        "enter_animation_event": 0,
+        "exit_animation_event": 0,
+        "exertion_grows_vo": 4109980544,
+        "exertion_recovers_vo": 131318526
+      },
+      {
+        "index": "ExertionLevelIndex_High",
+        "exertion_threshold": 1,
+        "sway_multiplier_scoped": 1.29999995,
+        "sway_multiplier_thirdperson": 1.29999995,
+        "sway_frequency_multiplier_scoped": 1.29999995,
+        "sway_frequency_multiplier_thirdperson": 1,
+        "sway_recoil_multiplier_scoped": 1,
+        "sway_recoil_multiplier_thirdperson": 1,
+        "sway_interp_speed": 1.20000005,
+        "enter_animation_event": 1406428079,
+        "exit_animation_event": 2512251870,
+        "exertion_grows_vo": 2999074452,
+        "exertion_recovers_vo": 623170036
+      },
+      {
+        "index": "ExertionLevelIndex_Injured",
+        "exertion_threshold": 2,
+        "sway_multiplier_scoped": 1.39999998,
+        "sway_multiplier_thirdperson": 1.39999998,
+        "sway_frequency_multiplier_scoped": 1.39999998,
+        "sway_frequency_multiplier_thirdperson": 1,
+        "sway_recoil_multiplier_scoped": 1,
+        "sway_recoil_multiplier_thirdperson": 1,
+        "sway_interp_speed": 1.20000005,
+        "enter_animation_event": 1406428079,
+        "exit_animation_event": 2512251870,
+        "exertion_grows_vo": 3334062715,
+        "exertion_recovers_vo": 3786076040
+      },
+      {
+        "index": "ExertionLevelIndex_Hemmorage",
+        "exertion_threshold": 3,
+        "sway_multiplier_scoped": 1.5,
+        "sway_multiplier_thirdperson": 1.5,
+        "sway_frequency_multiplier_scoped": 1.5,
+        "sway_frequency_multiplier_thirdperson": 1,
+        "sway_recoil_multiplier_scoped": 1,
+        "sway_recoil_multiplier_thirdperson": 1,
+        "sway_interp_speed": 1.20000005,
+        "enter_animation_event": 1406428079,
+        "exit_animation_event": 2512251870,
+        "exertion_grows_vo": 1724191618,
+        "exertion_recovers_vo": 1724191618
+      },
+      {
+        "index": "ExertionLevelIndex_HemmorageCritical",
+        "exertion_threshold": 3,
+        "sway_multiplier_scoped": 1.60000002,
+        "sway_multiplier_thirdperson": 1.60000002,
+        "sway_frequency_multiplier_scoped": 1.60000002,
+        "sway_frequency_multiplier_thirdperson": 1,
+        "sway_recoil_multiplier_scoped": 1,
+        "sway_recoil_multiplier_thirdperson": 1,
+        "sway_interp_speed": 1.20000005,
+        "enter_animation_event": 1406428079,
+        "exit_animation_event": 2512251870,
+        "exertion_grows_vo": 3884456786,
+        "exertion_recovers_vo": 3884456786
+      }
+    ],
+    "exertion_vo_params": {
+      "on_death": 901052799,
+      "on_spawn": 324317421,
+      "on_exertion_start": 567920037,
+      "on_exertion_stop": 1578285327,
+      "on_bleedout_stop": 79887333,
+      "injury_hp_threshold": 0.5,
+      "critical_bleed_hp_threshold": 0.200000003
+    },
+    "heal_self_duration": 8,
+    "heal_self_decay_wait_time": 0.5,
+    "heal_self_decay_rate": 0.5,
+    "heal_self_cancle_damage_amount": 5,
+    "ragdoll_damage_velocity_lower": 12,
+    "ragdoll_damage_velocity_upper": 105,
+    "ragdoll_damage_min": 10,
+    "ragdoll_damage_max": 300,
+    "ragdoll_damage_snow_modifier": 0.600000024,
+    "min_aim_duration": 0.0900000036,
+    "max_aim_duration": 0.5,
+    "min_fire_ready_duration": 0.0399999991,
+    "max_fire_ready_duration": 0.119999997,
+    "taunt_time_before_drain": 10,
+    "taunt_drain_per_second": 0.00999999978,
+    "taunt_on_trigger_probability_mul": 0.5,
+    "taunt_cooldown_timer": 10
+  }
+}

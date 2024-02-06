@@ -1,0 +1,15 @@
+{ "ThrusterGroupComponent" : {
+    "thruster_infos" : { "type": "array", "subtype": "ThrusterInfo", "description": "Array of Thruster information." },
+    "force_to_wanted_direction_magnitude" : { "type": "float", "default": 0, "description": "An extra force to apply towards wanted direction to make it move faster." },
+    "force_to_wanted_forward_magnitude" : { "type": "float", "default": 1, "description": "An extra force to apply towards wanted forward to make it look towards wanted forward." },
+    "rotation_started_sound" : { "type": "uint", "description": "[string]The sound event to trigger when thruster rotation starts" },
+    "rotation_stopped_sound" : { "type": "uint", "description": "[string]The sound event to trigger when thruster rotation stops" },
+    "thrust_started_sound" : { "type": "uint", "description": "[string]The sound event to trigger when the thruster runs" },
+    "thrust_stopped_sound" : { "type": "uint", "description": "[string]The sound event to trigger when the thruster stops" },
+    "crashing_started_sound" : { "type": "uint", "description": "[string]The sound event to trigger when the thruster group begins crash" },
+    "crashing_stopped_sound" : { "type": "uint", "description": "[string]The sound event to trigger when the thruster group has crashed" },
+    "acceleration" : { "type": "float", "default": 10, "description": "The acceleration used to reach max movespeed if current speed is lower than max." },
+    "deceleration" : { "type": "float", "default": 10, "description": "The deceleration used to reach max movespeed if current speed is higher than max." },
+    "crash_torque" : { "type": "float", "default": 0.9, "description": "Multiplied to the torque during crashing. (randomized +- 0.2)" },
+    "dead_thruster_impulse_multiplier" : { "type": "float", "default": 50, "description": "Multiplier on the downward impulse applied to dead thrusters. Only applied ones on death." }
+}}

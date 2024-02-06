@@ -1,0 +1,9 @@
+{ "TransportComponent" : {
+    "payload_spawn_delay" : { "type": "float", "default": 10, "description": "The time from spawn until it should spawn the payload." },
+    "payload_deploy_delay" : { "type": "float", "default": 2, "description": "The time from payload spawn until it should deploy the payload." },
+    "node" : { "type": "uint", "default": 2601604451, "description": "[string]The node to attach the payload to." },
+    "offset" : { "type": "CApiVector3", "description": "Offset from 'node'." },
+    "spawn_animation_event" : { "type": "uint", "default": 1925457693, "description": "[string]The animation event to trigger on spawn." },
+    "payload_removed_animation_event" : { "type": "uint", "description": "[string]The animation event to trigger when the payload have been removed." },
+    "decay_after_payload_removed" : { "type": "byte", "description": "[bool]True if this entity should start decaying after the payload have been removed." }
+}}

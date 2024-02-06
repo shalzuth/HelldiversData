@@ -1,0 +1,10 @@
+{ "LevelGenerationSubRegionSpecialSettings" : {
+    "type" : { "type": "SubRegionSpecialType" },
+    "weight" : { "type": "float", "default": 0 },
+    "min_route_cell_border_width" : { "type": "float", "default": 50 },
+    "subregion" : { "type": "SubRegionType", "default": "SubRegionType_None" },
+    "fill_percentage_from_center" : { "type": "float", "default": 0 },
+    "cell_spread_depth" : { "type": "uint", "default": 1 },
+    "use_ocean_direction" : { "type": "byte" },
+    "is_bottom_flat" : { "type": "byte" }
+}}

@@ -1,0 +1,15 @@
+{ "StratagemCustomizationInfo" : {
+    "debug_name" : { "type": "string" },
+    "id" : { "type": "uint" },
+    "name_upper" : { "type": "uint" },
+    "name_cased" : { "type": "uint" },
+    "description" : { "type": "uint" },
+    "icon" : { "type": "ulong" },
+    "type" : { "type": "StratagemCustomizationType" },
+    "extra_uses" : { "type": "uint" },
+    "time_reduction" : { "type": "float", "default": 0 },
+    "stat_type" : { "type": "StratagemCustomizationStatType", "default": "StratagemCustomizationStatType_None" },
+    "stat_loc" : { "type": "uint" },
+    "stat_value" : { "type": "float", "default": 0 },
+    "asset_path" : { "type": "ulong" }
+}}

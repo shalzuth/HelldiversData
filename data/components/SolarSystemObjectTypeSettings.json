@@ -1,0 +1,15 @@
+{ "SolarSystemObjectTypeSettings" : {
+    "unit_id" : { "type": "ulong" },
+    "material_id" : { "type": "ulong" },
+    "ring_unit_id" : { "type": "ulong" },
+    "ring_material_id" : { "type": "ulong" },
+    "ring_scale_mult" : { "type": "float", "default": 0 },
+    "billboard_unit_id" : { "type": "ulong" },
+    "billboard_material_id" : { "type": "ulong" },
+    "billboard_scale_mult" : { "type": "float", "default": 1 },
+    "surface_color" : { "type": "CApiVector3" },
+    "emissive_color" : { "type": "CApiVector3" },
+    "emissive_intensity" : { "type": "float", "default": 0 },
+    "ring_sorting_type" : { "type": "RingSortingTypes" },
+    "solar_system_planet_type" : { "type": "SolarSystemPlanetType" }
+}}

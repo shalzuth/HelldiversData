@@ -1,0 +1,5 @@
+{ "ShipCustomizationColorTargetInfo" : {
+    "color_type" : { "type": "ShipCustomizationColorType", "default": "ShipCustomizationColorType_Count", "description": "What type of color customization setting this prop uses" },
+    "material_variable_name" : { "type": "uint", "description": "[string]" },
+    "material_slot_name" : { "type": "uint", "description": "[string]" }
+}}

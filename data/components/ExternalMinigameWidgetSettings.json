@@ -1,0 +1,12 @@
+{ "ExternalMinigameWidgetSettings" : {
+    "switch_label" : { "type": "uint", "description": "[string]" },
+    "error_label" : { "type": "uint", "default": 3296993247, "description": "[string]" },
+    "invert_label_order" : { "type": "byte" },
+    "hide_labels" : { "type": "byte" },
+    "force_mode" : { "type": "ExternalSwitchStateWidgetMode", "default": "ExternalSwitchStateWidgetMode_None" },
+    "extra_x_margin" : { "type": "float", "default": 0 },
+    "x_anchor_offset" : { "type": "float", "default": 0 },
+    "use_row_lines" : { "type": "byte" },
+    "use_circle_bg" : { "type": "byte" },
+    "flip_first_row_action_label" : { "type": "byte" }
+}}

@@ -1,0 +1,10 @@
+{ "DamageInfo" : {
+    "type" : { "type": "DamageInfoType" },
+    "damage" : { "type": "array", "subtype": "int" },
+    "armor_penetration_per_angle" : { "type": "array", "subtype": "uint" },
+    "demolition_strength" : { "type": "uint" },
+    "force_strength" : { "type": "uint" },
+    "force_impulse" : { "type": "uint" },
+    "element_type" : { "type": "ElementType" },
+    "status_effects" : { "type": "array", "subtype": "DamageStatusEffectInfo" }
+}}

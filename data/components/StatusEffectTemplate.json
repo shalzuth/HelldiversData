@@ -1,0 +1,5 @@
+{ "StatusEffectTemplate" : {
+    "type" : { "type": "StatusEffectTemplateType", "default": "StatusEffectTemplateType_None" },
+    "effects" : { "type": "array", "subtype": "StatusEffectContinuousEffect" },
+    "needs_to_hit_valid_actor" : { "type": "byte" }
+}}

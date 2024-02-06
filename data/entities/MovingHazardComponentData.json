@@ -1,0 +1,16 @@
+{
+  "14005216303325302728": {
+    "move_speed": 2,
+    "height_change_speed": 1,
+    "life_time_range": {
+      "x": 90,
+      "y": 90
+    },
+    "random_goal_range": {
+      "x": 25,
+      "y": 50
+    },
+    "random_goal_offset": 5,
+    "goal_distance": 5
+  }
+}

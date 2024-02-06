@@ -1,0 +1,23 @@
+{
+  "5636559233179871057": {
+    "entity_to_spawn": 17943362722330235151,
+    "spawn_node_name": 2075297681,
+    "spawn_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "spawn_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 90
+    },
+    "spawn_wave_size": 6,
+    "spawn_delay": 2,
+    "on_spawn_notify": 3621676701,
+    "on_spawn_wave_start_notify": 4121678791,
+    "on_spawn_wave_finish_with_pending_notify": 2282402199,
+    "on_spawn_wave_finish_without_pending_notify": 404677161,
+    "on_spawned_entity_death_notify": 1072585632
+  }
+}

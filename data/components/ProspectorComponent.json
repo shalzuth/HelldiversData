@@ -1,0 +1,7 @@
+{ "ProspectorComponent" : {
+    "direction_beam_particle" : { "type": "ulong", "description": "[particles]" },
+    "beam_node" : { "type": "uint", "description": "[string]" },
+    "beam_rotation_offset" : { "type": "CApiVector3" },
+    "placed_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when placed." },
+    "range_detection" : { "type": "byte", "description": "[bool]Has Range Detection" }
+}}

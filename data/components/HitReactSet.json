@@ -1,0 +1,9 @@
+{ "HitReactSet" : {
+    "event_type" : { "type": "HitReactEventType", "default": "HitReactEventType_None", "description": "Name of speed range set, use main for default one." },
+    "force_strength_threshold" : { "type": "uint", "default": 1, "description": "The amount tof force strength required to trigger this event type" },
+    "do_stagger" : { "type": "byte", "description": "[bool]To stagger, or not to stagger." },
+    "stagger_cooldown" : { "type": "float", "default": 0.5, "description": "Indicates the time required to re-trigger the stagger." },
+    "stagger_duration" : { "type": "float", "default": 0.5, "description": "Indicates the duration of the stagger applied." },
+    "can_interrupt_abilities" : { "type": "byte", "description": "[bool]Will this hit react interrupt abilities?" },
+    "normalize_2d" : { "type": "byte", "description": "[bool]do we normalize the stagger direction to 2d space by removing the up vector component." }
+}}

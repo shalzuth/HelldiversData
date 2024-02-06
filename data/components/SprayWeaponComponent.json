@@ -1,0 +1,16 @@
+{ "SprayWeaponComponent" : {
+    "warmup_time" : { "type": "float", "default": 0, "description": "The time between starting to fire a cold weapon and the spray." },
+    "cooldown_time" : { "type": "float", "default": 0, "description": "The time between stopping fire until the weapon is considered cold again (and re-firing is not instant)." },
+    "use_firenode_pose" : { "type": "byte", "description": "[bool]If set, we fire the projectile in the firenode's direction, not towards the aim target. This is generally not desired due to accumulated errors in animation chains, but is needed for warning flares (situations where we want to play an ability and fire but not change target)." },
+    "audio_node" : { "type": "uint", "description": "[string]Node we play warmup, fire, and cooldown audio from." },
+    "spray_capsule_radius" : { "type": "float", "default": 0, "description": "If greater than 0, it's uses physics overlap test instead of relying on the projectiles hitting. Experimental!" },
+    "warmup" : { "type": "SprayWeaponStateInfo", "description": "Settings for warmup state." },
+    "firing" : { "type": "SprayWeaponStateInfo", "description": "Settings for firing state." },
+    "cooldown" : { "type": "SprayWeaponStateInfo", "description": "Settings for cooldown state." },
+    "ammo_cost" : { "type": "uint", "default": 1, "description": "How much ammo is taken away per spray blob" },
+    "projectile_type" : { "type": "ProjectileType", "default": "ProjectileType_None", "description": "If not set to None, this weapon will use projectiles." },
+    "damage_info_type" : { "type": "DamageInfoType", "default": "DamageInfoType_None", "description": "If not set to None (and projectiles are None), this will use collision events." },
+    "effect_type" : { "type": "HitEffectDamageType", "default": "HitEffectDamageType_None", "description": "When using collision events, this dictates what kind of damage effect to play on hits." },
+    "last_drop_owner_vo_event" : { "type": "uint", "default": 2645484469, "description": "[string]VO event to play on the owner of the wepaon when the last bullet has been fired." },
+    "dry_fire_audio_event" : { "type": "uint", "description": "[string]A sound event to play when the ammo is 0 and the player is trying to shoot." }
+}}

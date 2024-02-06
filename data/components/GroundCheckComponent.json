@@ -1,0 +1,7 @@
+{ "GroundCheckComponent" : {
+    "distance_up" : { "type": "float", "default": 1, "description": "The distance from root upwards where the ground check ray begins." },
+    "distance_down" : { "type": "float", "default": 0.2, "description": "The distance from root downwards where the ground check ray ends." },
+    "kill_material_check" : { "type": "byte", "description": "[bool]Whether we should check for the kill physics material" },
+    "raycast_template" : { "type": "RaycastTemplate", "default": "RaycastTemplate_GroundAll", "description": "The raycast template to use for this ground check component." },
+    "remove_entity" : { "type": "byte" }
+}}

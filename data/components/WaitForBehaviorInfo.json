@@ -1,0 +1,4 @@
+{ "WaitForBehaviorInfo" : {
+    "auto_complete_on_objective_uoi" : { "type": "byte", "description": "[bool]Whether this wait minigame autocompletes if the linked objective UOI is completed" },
+    "show_uoi_counter" : { "type": "byte", "description": "[bool]Indicates if we should show amount UOI in the terminal. " }
+}}

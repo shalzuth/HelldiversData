@@ -1,0 +1,4 @@
+{ "MinigameRevertSettings" : {
+    "reverted_wait_time" : { "type": "float", "default": 0, "description": "The time to wait when this minigame is reverted" },
+    "revert_timer" : { "type": "InteractableMinigameRevertTime", "default": "InteractableMinigameRevertTime_None", "description": "How long until this stage of the minigame reverts" }
+}}

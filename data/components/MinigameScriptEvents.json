@@ -1,0 +1,8 @@
+{ "MinigameScriptEvents" : {
+    "script_event_linked" : { "type": "byte", "description": "[bool]Whether the Script Event notification event is sent to linked units" },
+    "completed_script_event" : { "type": "uint", "description": "[string]Name of the script event to be triggered upon completion." },
+    "revert_script_event" : { "type": "uint", "description": "[string]Name of the script event to be triggered when reverting to the previous minigame state." },
+    "wait_completed_script" : { "type": "uint", "description": "[string]Name of the script event to be triggered upon finishing the Disable Interact Time wait." },
+    "start_script_event" : { "type": "uint", "description": "[string]Name of the script event to be triggered upon this minigame becoming active." },
+    "wait_completed_linked" : { "type": "byte", "description": "[bool]Whether the Wait Completed Script notification event is sent to linked units" }
+}}

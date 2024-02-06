@@ -1,0 +1,8 @@
+{ "MovingHazardComponent" : {
+    "move_speed" : { "type": "float", "default": 2, "description": "The speed the hazard moves at." },
+    "height_change_speed" : { "type": "float", "default": 1, "description": "The speed the hazard can change height as it moves over the terrain" },
+    "life_time_range" : { "type": "CApiVector2", "description": "How long until the entity is removed" },
+    "random_goal_range" : { "type": "CApiVector2", "description": "Range of distance we move in direction of goal before picking a new goal." },
+    "random_goal_offset" : { "type": "float", "default": 5, "description": "Offset from goal that is randomly applied" },
+    "goal_distance" : { "type": "float", "default": 5, "description": "Navigation distance to reach goal before picking new goal" }
+}}

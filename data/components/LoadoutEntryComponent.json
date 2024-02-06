@@ -1,0 +1,6 @@
+{ "LoadoutEntryComponent" : {
+    "id" : { "type": "uint", "description": "[string]The backend ID of this item" },
+    "type" : { "type": "LoadoutItemType", "default": "LoadoutItemType_Unknown", "description": "What loadout type is this supposed to be?" },
+    "dlc_pack_id" : { "type": "uint", "description": "[string]If specified, the item will be reliant on the DLC ID" },
+    "equipment_tags" : { "type": "array", "subtype": "uint", "description": "[string]Various flavor tags that show up in the menus for this item" }
+}}

@@ -1,0 +1,11 @@
+{ "StatusEffectSusceptibility" : {
+    "effects" : { "type": "array", "subtype": "SusceptibilityEffect", "description": "List of all effects to play during susceptibility" },
+    "type" : { "type": "StatusEffectSusceptibilityType", "default": "StatusEffectSusceptibilityType_None", "description": "Effect type of this susceptibility." },
+    "min_threshold" : { "type": "float", "default": 0, "description": "Minimum value to start rolling for application." },
+    "max_threshold" : { "type": "float", "default": 1, "description": "Value at which probabilty of getting effect applied is 1." },
+    "audio_event_start" : { "type": "uint", "description": "[string]Audio event to play when we get this effect appleid. This overrides the default, if empty, we use the default for this type." },
+    "audio_event_stop" : { "type": "uint", "description": "[string]Audio event to play when this effect stops being applied. This overrides the default, if empty, we use the default for this type." },
+    "animation_event_start" : { "type": "uint", "description": "[string]Animation event to play when this effect stops being applied. This overrides the default, if empty, we use the default for this type." },
+    "animation_event_stop" : { "type": "uint", "description": "[string]Animation event to play when this effect stops being applied. This overrides the default, if empty, we use the default for this type. Only plays if there's a start event!" },
+    "damage_multiplier" : { "type": "float", "default": 1, "description": "Multiplier for the damage caused by this status effect (If it has any)" }
+}}

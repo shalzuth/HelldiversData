@@ -1,0 +1,4 @@
+{ "UnitSound" : {
+    "sound_id" : { "type": "uint", "description": "[wwise]" },
+    "node_id" : { "type": "uint", "description": "[string]" }
+}}

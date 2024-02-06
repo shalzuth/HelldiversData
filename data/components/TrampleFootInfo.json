@@ -1,0 +1,4 @@
+{ "TrampleFootInfo" : {
+    "node" : { "type": "uint", "description": "[string]The node at witch the trample blob unit will be attached." },
+    "radius" : { "type": "float", "default": 0, "description": "The radius around the entity where grass will be trampled." }
+}}

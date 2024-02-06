@@ -1,0 +1,4 @@
+{ "NetworkPhysicsComponent" : {
+    "sync_rotation" : { "type": "byte", "description": "[bool]Should we network sync rotation?" },
+    "clamp_to_terrain" : { "type": "byte", "description": "[bool]If set, the actor is never allowed to clip through the ground while active." }
+}}

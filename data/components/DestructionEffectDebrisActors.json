@@ -1,0 +1,8 @@
+{ "DestructionEffectDebrisActors" : {
+    "physics_actors" : { "type": "array", "subtype": "uint", "description": "[actor] The list of physics actors to enable when destruction happens." },
+    "trail_effect_path" : { "type": "ulong", "description": "[particles] The particle effect to be attached as a trail on each debris actor." },
+    "impulse" : { "type": "float", "default": 0, "description": "The multiplier on the direction vector(including random unit vector multiplied by the random direction weight) applied as an impulse on the actor." },
+    "random_direction_weight" : { "type": "float", "default": 0, "description": "The multiplier on the random unit vector that is added on the direction from the center of the unit to the actor " },
+    "decay_mode" : { "type": "DeathDecayMode", "default": "DeathDecayMode_None" },
+    "visibility_group" : { "type": "uint", "default": 3881866459, "description": "[string] The visibility group to show at the start and hide when the debris actor decay" }
+}}

@@ -1,0 +1,101 @@
+{
+  "10793522929080033961": {
+    "throwable_path": 17188493825552378619,
+    "audio_node": 3529204694,
+    "panel_count": 6,
+    "throwable_count": 2,
+    "throw_delay": 2,
+    "throw_duration": 1.5,
+    "arming_time": 2,
+    "spin_rpm": 400,
+    "spindown_duration": 1.5,
+    "throw_velocity_min": 5,
+    "throw_velocity_max": 12.5,
+    "throw_spread_range": 45,
+    "on_throw_effect": {
+      "particle_effect": 16822912298263884526,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 1,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "17297258079668724512": {
+    "throwable_path": 17188493825552378619,
+    "audio_node": 3529204694,
+    "panel_count": 6,
+    "throwable_count": 8,
+    "throw_delay": 2,
+    "throw_duration": 1.5,
+    "arming_time": 2,
+    "spin_rpm": 400,
+    "spindown_duration": 1.5,
+    "throw_velocity_min": 5,
+    "throw_velocity_max": 12.5,
+    "throw_spread_range": 45,
+    "on_throw_effect": {
+      "particle_effect": 16822912298263884526,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 1,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "13777321776887997010": {
+    "throwable_path": 16472578507204645895,
+    "audio_node": 3529204694,
+    "panel_count": 6,
+    "throwable_count": 8,
+    "throw_delay": 2,
+    "throw_duration": 1.5,
+    "arming_time": 2,
+    "spin_rpm": 400,
+    "spindown_duration": 1.5,
+    "throw_velocity_min": 5,
+    "throw_velocity_max": 12.5,
+    "throw_spread_range": 45,
+    "on_throw_effect": {
+      "particle_effect": 16822912298263884526,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 1,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  }
+}

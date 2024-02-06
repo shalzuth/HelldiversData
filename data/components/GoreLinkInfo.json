@@ -1,0 +1,7 @@
+{ "GoreLinkInfo" : {
+    "actor" : { "type": "uint", "description": "[string]Actors that should gib or dismember if this group is triggered." },
+    "trigger" : { "type": "GoreLinkTrigger", "default": "GoreLinkTrigger_OnDismember", "description": "What triggers this link to fire" },
+    "effect" : { "type": "GoreLinkEffect", "default": "GoreLinkEffect_Gib", "description": "What effect this has when triggered" },
+    "dismember_impulse" : { "type": "CApiVector3", "description": "Impulse to apply on the link event" },
+    "dismember_torque_impulse" : { "type": "CApiVector3", "description": "Torque Impulse to apply on the link event" }
+}}

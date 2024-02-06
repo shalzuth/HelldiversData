@@ -1,0 +1,13 @@
+{ "CameraEffect" : {
+    "rotation_type" : { "type": "RotationType" },
+    "effect_type" : { "type": "EffectType" },
+    "overrides_effect_types" : { "type": "array", "subtype": "EffectType" },
+    "start_at_wind_speed" : { "type": "float", "default": 0 },
+    "stop_at_wind_speed" : { "type": "float", "default": 1000 },
+    "start_at_night_amount" : { "type": "float", "default": 0 },
+    "stop_at_night_amount" : { "type": "float", "default": 1 },
+    "start_at_sunset_amount" : { "type": "float", "default": 0 },
+    "stop_at_sunset_amount" : { "type": "float", "default": 1 },
+    "camera_effect_id" : { "type": "ulong" },
+    "overridden_response_effect_id" : { "type": "ulong" }
+}}

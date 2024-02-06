@@ -1,0 +1,11 @@
+{ "WeightRuleContext" : {
+    "region_settings" : { "type": "RegionSettings" },
+    "random" : { "type": "Random" },
+    "height" : { "type": "float" },
+    "slope" : { "type": "float" },
+    "zone_index" : { "type": "int" },
+    "region_weight" : { "type": "float" },
+    "path_distance" : { "type": "float" },
+    "outside_level_amount" : { "type": "float" },
+    "difficulty" : { "type": "uint" }
+}}

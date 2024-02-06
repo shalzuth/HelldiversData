@@ -1,0 +1,1612 @@
+{
+  "12943291850073424771": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 10095142954806958829,
+    "pickup_audio_event": 1738768713,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_artifact_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_samples_artifact_on_spawn",
+    "area_of_interest_min_radius": 52
+  },
+  "8544792714086142645": {
+    "loot_rewards": {
+      "type": "LootType_Intel",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 15992016097221930956,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_bug_intel_01",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "13141153824331979820": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 0,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "9473798407121267184": {
+    "loot_rewards": {
+      "type": "LootType_Intel",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 8121435712881387138,
+    "pickup_audio_event": 2781614573,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_se_intel_01",
+    "disable_ability": "AbilityId_samples_disable_intel",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_samples_se_intel_01_on_spawn",
+    "area_of_interest_min_radius": 52
+  },
+  "5504262545937421089": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 6307014103126161234,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_research_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "14598422551727838342": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "2055722625976668762": {
+    "loot_rewards": {
+      "type": "LootType_Intel",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_intel_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "9724339804752659124": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 1575321831840096531,
+    "pickup_audio_event": 2283774037,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_plant_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "11333649286886241306": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Super",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 1793967275,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_uranium_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_samples_uranium_on_pickup",
+    "spawn_ability_with_loot": "AbilityId_samples_uranium_on_spawn",
+    "area_of_interest_min_radius": 52
+  },
+  "14923473746413089367": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 6307014103126161234,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_research_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "13590543656112919608": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "16496326307674548889": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 16009055276064363569,
+    "pickup_audio_event": 3098711930,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "13741222368367787890": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 16009055276064363569,
+    "pickup_audio_event": 486878689,
+    "animation_event": 1922100775,
+    "pickup_ability": "AbilityId_samples_automaton_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "15426747087447648220": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Super",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 0
+  },
+  "17622196031515135370": {
+    "loot_rewards": {
+      "type": "LootType_Count",
+      "sample_type": "SampleType_None",
+      "amount_min": 0,
+      "amount_max": 0
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "5274502359162322681": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 6307014103126161234,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_research_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "13030869719813342633": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Super",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 1475423542675983279,
+    "pickup_audio_event": 1912363762,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_crystal_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "5691626237303103123": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 6307014103126161234,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_research_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "12508512869271882154": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Legendarium",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 14354105468730937293,
+    "pickup_audio_event": 3944731695,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_e710_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_samples_e710_on_spawn",
+    "area_of_interest_min_radius": 52
+  },
+  "3124708172057168516": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Super",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 0
+  },
+  "11691712792438096287": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "10573539759497526597": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 6307014103126161234,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_research_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "8074555013069095359": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 11418106536952399812,
+    "pickup_audio_event": 3374618494,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_spice_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "9369996777284288084": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Legendarium",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 4909986642780661994,
+    "pickup_audio_event": 2336838626,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_mineral_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "2976556536743111746": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 6307014103126161234,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_research_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "14773080917319959198": {
+    "loot_rewards": {
+      "type": "LootType_Intel",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 16552593409698795480,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_cyborg_intel_01",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "3494241250398732730": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 6307014103126161234,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_research_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "14347356236094671771": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Super",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 0
+  },
+  "16068287307180393021": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Legendarium",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 10343492841715251981,
+    "pickup_audio_event": 1397950453,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_legendarium_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "7256596000532615782": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 16782744624227126015,
+    "pickup_audio_event": 58760029,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_bio_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_samples_bio_on_spawn",
+    "area_of_interest_min_radius": 52
+  },
+  "15304220425359002535": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 12806174284631042940,
+    "pickup_audio_event": 886628198,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_bugs_enemy_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "5771061903247604588": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Bio",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        3954544245,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        1123196322,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 12806174284631042940,
+    "pickup_audio_event": 886628198,
+    "animation_event": 1922100775,
+    "pickup_ability": "AbilityId_samples_bugs_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_samples_bugs_on_spawn",
+    "area_of_interest_min_radius": 52
+  },
+  "13632525282499700070": {
+    "loot_rewards": {
+      "type": "LootType_Sample",
+      "sample_type": "SampleType_Legendarium",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 14262917838733338858,
+    "pickup_audio_event": 300448022,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_spice_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_samples_spice_on_spawn",
+    "area_of_interest_min_radius": 52
+  },
+  "12219229778730713472": {
+    "loot_rewards": {
+      "type": "LootType_Count",
+      "sample_type": "SampleType_None",
+      "amount_min": 0,
+      "amount_max": 0
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 0,
+    "pickup_audio_event": 0,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  },
+  "17252127909105838489": {
+    "loot_rewards": {
+      "type": "LootType_Intel",
+      "sample_type": "SampleType_None",
+      "amount_min": 1,
+      "amount_max": 1
+    },
+    "delete_after_pickup": 1,
+    "visiblity_mask": 3463976504,
+    "avatar_pickup_ability": "AbilityId_avatar_pickup_sample_generic",
+    "on_destroyed": {
+      "actors_to_disable": [
+        2748617169,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_hide": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "actors_to_enable": [
+        966119509,
+        0,
+        0,
+        0
+      ],
+      "visibility_groups_to_show": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "on_destroyed_sample": 0,
+    "sample_pickup_unit": 6307014103126161234,
+    "pickup_audio_event": 2654363096,
+    "animation_event": 0,
+    "pickup_ability": "AbilityId_samples_research_on_pickup",
+    "disable_ability": "AbilityId_Invalid",
+    "destroyed_ability": "AbilityId_Invalid",
+    "spawn_ability_with_loot": "AbilityId_Invalid",
+    "area_of_interest_min_radius": 52
+  }
+}

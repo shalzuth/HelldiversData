@@ -1,0 +1,5 @@
+{ "SubregionVoronoiEdge" : {
+    "corners" : { "type": "array", "subtype": "SubregionVoronoiCorner" },
+    "cells" : { "type": "array", "subtype": "SubregionVoronoiCell" },
+    "positions" : { "type": "array", "subtype": "CApiVector2" }
+}}

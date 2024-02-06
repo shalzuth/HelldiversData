@@ -1,0 +1,7 @@
+{ "LoadoutItem" : {
+    "id" : { "type": "uint" },
+    "path" : { "type": "ulong" },
+    "type" : { "type": "LoadoutItemType", "default": "LoadoutItemType_Unknown" },
+    "dlc_pack_id" : { "type": "uint" },
+    "selectable" : { "type": "byte" }
+}}

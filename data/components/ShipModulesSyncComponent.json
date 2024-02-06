@@ -1,0 +1,3 @@
+{ "ShipModulesSyncComponent" : {
+    "relevant_levels" : { "type": "array", "subtype": "ulong", "description": "[string]Levels in which we should lookup for units." }
+}}

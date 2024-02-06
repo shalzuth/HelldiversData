@@ -1,0 +1,9 @@
+{ "CameraShake" : {
+    "shake" : { "type": "ulong", "description": "[camera_shake]" },
+    "node_id" : { "type": "uint", "description": "[string]" },
+    "offset" : { "type": "CApiVector3" },
+    "inner_radius" : { "type": "float", "default": 1 },
+    "inner_outer" : { "type": "float", "default": 10 },
+    "orphaned_policy" : { "type": "UnitEffectOrphanStrategy", "default": "UnitEffectOrphanStrategy_Stop" },
+    "linked" : { "type": "byte" }
+}}

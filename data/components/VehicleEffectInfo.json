@@ -1,0 +1,13 @@
+{ "VehicleEffectInfo" : {
+    "effect_type" : { "type": "VehicleEffect", "default": "VehicleEffect_None", "description": "The effect to trigger when this damageable zone is hit." },
+    "trigger_on_downed" : { "type": "byte", "description": "[bool]If this is true the effect triggers when damagezone is downed" },
+    "magnitude" : { "type": "float", "default": 1, "description": "The magnitude of the effect when activated, if applicable. Should be in the range 0-1." },
+    "effect_node" : { "type": "uint", "description": "[string]The node on which to apply the effect, if this effect applies to a specific node on the vehicle." },
+    "source_damage_zone" : { "type": "uint", "description": "[string]The damage zone on the vehicle which drives this effect." },
+    "audio_name" : { "type": "uint", "description": "[string]The name of the audio effect to trigger when the status effect activates." },
+    "audio_node" : { "type": "uint", "description": "[string]The unit node on which to play the audio event, if any." },
+    "explosion_type" : { "type": "ExplosionType", "default": "ExplosionType_None", "description": "The type of explosion to trigger when the status effect activates, if any." },
+    "explosion_node" : { "type": "uint", "description": "[string]The node at which to trigger the explosion, if applicable." },
+    "explosion_time" : { "type": "float", "default": 0, "description": "How long to wait before triggering the explosion." },
+    "particle_infos" : { "type": "array", "subtype": "VehicleEffectParticleInfo", "description": "Information about the particle effects triggered by this status effect." }
+}}

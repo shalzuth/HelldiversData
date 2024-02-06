@@ -1,0 +1,5 @@
+{ "SatelliteInstance" : {
+    "satellite" : { "type": "LevelGenerationSatellite" },
+    "parent" : { "type": "LocationInstance" },
+    "satellite_location" : { "type": "LocationInstance" }
+}}

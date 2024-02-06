@@ -1,0 +1,3 @@
+{ "TrampleComponent" : {
+    "feets" : { "type": "array", "subtype": "TrampleFootInfo", "description": "Array of trampling feets." }
+}}

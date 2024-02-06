@@ -1,0 +1,492 @@
+{
+  "14709257759554793401": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 150,
+    "max_impact_damage_deceleration": 250,
+    "base_received_impact_damage": 10,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_medium",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.800000012,
+    "engine_damage_torque_multiplier": 0.300000012,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.349999994,
+    "wheel_damage_friction_multiplier": 0.100000001,
+    "steering_responsiveness": 3,
+    "throttle_responsiveness": 10,
+    "brake_responsiveness": 10,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      2042229874,
+      1157564290,
+      82247789,
+      2551330772,
+      2933002292,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 1,
+    "remote_simulation_enabled": 1
+  },
+  "4577685471418352301": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 10,
+    "max_impact_damage_deceleration": 100,
+    "base_received_impact_damage": 5,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_medium",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.75,
+    "engine_damage_torque_multiplier": 0.5,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.400000006,
+    "wheel_damage_friction_multiplier": 0.5,
+    "steering_responsiveness": 10,
+    "throttle_responsiveness": 5,
+    "brake_responsiveness": 5,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 0,
+    "remote_simulation_enabled": 0
+  },
+  "4571403555494335481": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 10,
+    "max_impact_damage_deceleration": 100,
+    "base_received_impact_damage": 5,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_medium",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.75,
+    "engine_damage_torque_multiplier": 0.5,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.400000006,
+    "wheel_damage_friction_multiplier": 0.5,
+    "steering_responsiveness": 10,
+    "throttle_responsiveness": 5,
+    "brake_responsiveness": 5,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 1,
+    "remote_simulation_enabled": 1
+  },
+  "8484362704672433843": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 10,
+    "max_impact_damage_deceleration": 100,
+    "base_received_impact_damage": 5,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_medium",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.75,
+    "engine_damage_torque_multiplier": 0.5,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.400000006,
+    "wheel_damage_friction_multiplier": 0.5,
+    "steering_responsiveness": 10,
+    "throttle_responsiveness": 5,
+    "brake_responsiveness": 5,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 1,
+    "remote_simulation_enabled": 1
+  },
+  "10102631721084298887": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 20,
+    "max_impact_damage_deceleration": 100,
+    "base_received_impact_damage": 20,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_huge",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.800000012,
+    "engine_damage_torque_multiplier": 0.400000006,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.5,
+    "wheel_damage_friction_multiplier": 0.100000001,
+    "steering_responsiveness": 1,
+    "throttle_responsiveness": 10,
+    "brake_responsiveness": 2,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      2042229874,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 1,
+    "remote_simulation_enabled": 1
+  },
+  "8867451643782573472": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 10,
+    "max_impact_damage_deceleration": 100,
+    "base_received_impact_damage": 5,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_medium",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.75,
+    "engine_damage_torque_multiplier": 0.5,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.400000006,
+    "wheel_damage_friction_multiplier": 0.5,
+    "steering_responsiveness": 10,
+    "throttle_responsiveness": 5,
+    "brake_responsiveness": 5,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 0,
+    "remote_simulation_enabled": 0
+  },
+  "9839990240943553653": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 150,
+    "max_impact_damage_deceleration": 250,
+    "base_received_impact_damage": 10,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_huge",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.800000012,
+    "engine_damage_torque_multiplier": 0.300000012,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.600000024,
+    "wheel_damage_friction_multiplier": 0.400000006,
+    "steering_responsiveness": 0.5,
+    "throttle_responsiveness": 0.5,
+    "brake_responsiveness": 0.75,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 1,
+    "remote_simulation_enabled": 1
+  },
+  "15062487539698939333": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 10,
+    "max_impact_damage_deceleration": 100,
+    "base_received_impact_damage": 5,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_medium",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.75,
+    "engine_damage_torque_multiplier": 0.5,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.400000006,
+    "wheel_damage_friction_multiplier": 0.5,
+    "steering_responsiveness": 10,
+    "throttle_responsiveness": 5,
+    "brake_responsiveness": 5,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 1,
+    "remote_simulation_enabled": 1
+  },
+  "8885304100860015374": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 150,
+    "max_impact_damage_deceleration": 250,
+    "base_received_impact_damage": 10,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_medium",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.800000012,
+    "engine_damage_torque_multiplier": 0.300000012,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.600000024,
+    "wheel_damage_friction_multiplier": 0.400000006,
+    "steering_responsiveness": 1,
+    "throttle_responsiveness": 1,
+    "brake_responsiveness": 1,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 1,
+    "remote_simulation_enabled": 1
+  },
+  "17238162226885792459": {
+    "acceleration": 10,
+    "friction": 1,
+    "actor_name": 2748617169,
+    "speed_limit": 30,
+    "flip_steering": 0,
+    "base_impact_damage_deceleration": 10,
+    "max_impact_damage_deceleration": 100,
+    "base_received_impact_damage": 5,
+    "max_received_impact_damage": 250,
+    "impact_damage_invulnerability_time": 2,
+    "impact_type": "SurfaceImpactType_crash_medium",
+    "base_received_dirt": 0.200000003,
+    "max_received_dirt": 1,
+    "brake_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "accelerator_resistance": {
+      "resistance_end": 0,
+      "resistance_strength": 0
+    },
+    "engine_damage_rpm_multiplier": 0.75,
+    "engine_damage_torque_multiplier": 0.5,
+    "transmission_damage_gear_change_time_multiplier": 2,
+    "wheel_bare_rim_radius": 0.400000006,
+    "wheel_damage_friction_multiplier": 0.5,
+    "steering_responsiveness": 10,
+    "throttle_responsiveness": 5,
+    "brake_responsiveness": 5,
+    "offroad_mode": {
+      "has_offroad_mode": 0,
+      "gear_ratio": 2,
+      "delay": 1
+    },
+    "blocker_actors": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "remote_simulation_use_physics": 1,
+    "remote_simulation_use_velocity": 0,
+    "remote_simulation_enabled": 0
+  }
+}

@@ -1,0 +1,3 @@
+{ "VehicleCollisionInfoComponent" : {
+    "template_type" : { "type": "VehicleCollisionInfoTemplate", "default": "VehicleCollisionInfoTemplate_None", "description": "The template type to use for dealing vehicle collision damage to this entity." }
+}}

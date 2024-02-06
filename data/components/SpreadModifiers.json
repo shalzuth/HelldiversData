@@ -1,0 +1,4 @@
+{ "SpreadModifiers" : {
+    "horizontal" : { "type": "float", "default": 1, "description": "Multiplier applied to the horizontal spread." },
+    "vertical" : { "type": "float", "default": 1, "description": "Multiplier applied to the vertical spread." }
+}}

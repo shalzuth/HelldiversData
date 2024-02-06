@@ -1,0 +1,3 @@
+{ "CollisionEventComponent" : {
+    "actors" : { "type": "array", "subtype": "uint", "description": "[string]If set, only contact events that involve these actors are handled. If not set, any event is handled." }
+}}

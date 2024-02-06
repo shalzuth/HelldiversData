@@ -1,0 +1,8 @@
+{ "GameModeComponent" : {
+    "reinforce_time" : { "type": "float", "default": 30 },
+    "solo_reinforce_time" : { "type": "float", "default": 30 },
+    "extra_reinforce_time_per_death_team" : { "type": "float", "default": 0 },
+    "extra_reinforce_time_per_death_self" : { "type": "float", "default": 0 },
+    "extra_reinforce_time_per_minute" : { "type": "float", "default": 0 },
+    "life_regen_time" : { "type": "float", "default": 120, "description": "How much is the Reinforce going to go on cooldown when it begins regenerating a life?" }
+}}

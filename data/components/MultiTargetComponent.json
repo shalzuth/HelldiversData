@@ -1,0 +1,9 @@
+{ "MultiTargetComponent" : {
+    "variable_sets" : { "type": "array", "subtype": "MultiTargetVariableSet", "description": "Animation variables & constraints for each unit (attached weapon, self, wielder)." },
+    "aim_info" : { "type": "array", "subtype": "MultiTargetInfo", "description": "Aim information per weapon/target." },
+    "hotbox_size_pitch" : { "type": "float", "default": 0, "description": "If not 0, the weapon has hotbox aiming" },
+    "hotbox_size_yaw" : { "type": "float", "default": 0, "description": "If not 0, the weapon has hotbox aiming" },
+    "hotbox_pitch_speed" : { "type": "float", "default": 0, "description": "Interpolation speed of the hotbox." },
+    "hotbox_yaw_speed" : { "type": "float", "default": 0, "description": "Interpolation speed of the hotbox." },
+    "hotbox_acceleration" : { "type": "float", "default": 60, "description": "Interpolation speed of the hotbox speed." }
+}}

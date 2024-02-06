@@ -1,0 +1,8 @@
+{ "StratagemBowlingComponent" : {
+    "area_center" : { "type": "CApiVector3", "description": "Area center where the balls are positioned" },
+    "area_span" : { "type": "CApiVector3", "description": "Area span width/length" },
+    "max_score" : { "type": "float", "default": 100, "description": "Score for a perfect shot" },
+    "max_distance" : { "type": "float", "default": 15, "description": "The max distance which will offer any points" },
+    "cancel_player_distance" : { "type": "float", "default": 5, "description": "The distance at which the game is cancelled / balls are dropped when moving away" },
+    "round_time" : { "type": "float", "default": 5, "description": "The distance at which the game is cancelled / balls are dropped when moving away" }
+}}
