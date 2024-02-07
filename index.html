@@ -47,7 +47,6 @@
             const params = new Proxy(new URLSearchParams(window.location.search), {
                 get: (searchParams, prop) => searchParams.get(prop),
             });
-            var debug = true;
             async function loadJSONs(urls) {
                 const fetchPromises = urls.map(url => fetch(url).then(response => {
                     if (!response.ok) {
@@ -78,10 +77,10 @@
                             //    val += ' ';
                         }
                         if (jsonData[dataDir + '/enums/ComponentType.json'].ComponentType.includes(val)){
-                            val = '<a href=/index.html?component=' + val + '>' + val + '</a>'
+                            val = '<a href=/?component=' + val + '>' + val + '</a>'
                         }
                         if (jsonData[dataDir + '/enums/EnumType.json'].EnumType.includes(val)){
-                            val = '<a href=/index.html?enum=' + val + '>' + val + '</a>'
+                            val = '<a href=/?enum=' + val + '>' + val + '</a>'
                         }
                         data.push({key:g, value:val});
                     });
@@ -128,7 +127,7 @@
                                 data.push({dependency:dependencies[g], value:value});
                             });
                             function dependencyName(o){
-                                return '<a href="/index' + (debug ? '.html?' : '?') + 'component=' + o.replace('/data/entities/','').replace('.json','') + '">' + o.replace('/data/entities/','').replace('ComponentData.json','') + '</a>';
+                                return '<a href="/?component=' + o.replace('/data/entities/','').replace('.json','') + '">' + o.replace('/data/entities/','').replace('ComponentData.json','') + '</a>';
                             }
                             console.log(jsonData[dataDir + '/entities/EntityDeltas.json'])
                             var table = $('#table').bootstrapTable({
@@ -308,7 +307,7 @@
                                     return o.index;
                                 }
                                 function settingObjectLink(o){
-                                    return '<a href="/index' + (debug ? '.html?' : '?') + 'settings=' + params.settings + '&index=' + o.index + '">' + objectView(o.data) + '</a>';
+                                    return '<a href="/?settings=' + params.settings + '&index=' + o.index + '">' + objectView(o.data) + '</a>';
                                 }
                                 var table = $('#table').bootstrapTable({
                                     data: data,
@@ -337,7 +336,7 @@
                                     data.push({index:settingType, value:jsonData[dependencies[0]][0][settingType][subKeyName][params.index]});
                                 }
                                 function dependencyName(o){
-                                    return '<a href="/index' + (debug ? '.html?' : '?') + 'component=' + o.replace('/data/entities/','').replace('.json','') + '">' + o.replace('/data/entities/','').replace('ComponentData.json','') + '</a>';
+                                    return '<a href="/?component=' + o.replace('/data/entities/','').replace('.json','') + '">' + o.replace('/data/entities/','').replace('ComponentData.json','') + '</a>';
                                 }
                                 var table = $('#table').bootstrapTable({
                                     data: data,
@@ -369,7 +368,7 @@
                     }
                     function componentList(o){
                         return objectView(componentMap[o].map(c=>
-                            '<a href="/index' + (debug ? '.html?' : '?') + 'id=' + o + '&component=' + components[c + componentOffset].replace('Component','') + '">' + components[c + componentOffset].replace('Component','') + '</a>'
+                            '<a href="/?id=' + o + '&component=' + components[c + componentOffset].replace('Component','') + '">' + components[c + componentOffset].replace('Component','') + '</a>'
                            // components[o + 359].replace('Component','')
                         ));
                     }
