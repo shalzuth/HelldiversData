@@ -23,8 +23,7 @@
           "types": [
             "FontType_Header",
             "FontType_Body",
-            "FontType_Subtitles",
-            "FontType_Mono"
+            "FontType_Subtitles"
           ],
           "font": 3214037081863485040,
           "material": 3214037081863485040,
@@ -40,6 +39,18 @@
             "FontType_Runtime_Body"
           ],
           "font": 14037464337698039504,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        },
+        {
+          "types": [
+            "FontType_Runtime_Title"
+          ],
+          "font": 11904955988113983938,
           "material": 14090186131173009616,
           "material_curved": 17273643429696234489,
           "material_terminal": 0,
@@ -212,22 +223,6 @@
           }
         },
         {
-          "style": "MenuFontStyle_MonoMedium",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 24,
-            "shadow_range": 0
-          }
-        },
-        {
-          "style": "MenuFontStyle_MonoSmall",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 18,
-            "shadow_range": 0
-          }
-        },
-        {
           "style": "MenuFontStyle_HeaderBigRuntime",
           "settings": {
             "type": "FontType_Runtime_Header",
@@ -256,6 +251,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 36,
             "shadow_range": 0
           }
         }
@@ -286,8 +297,7 @@
           "types": [
             "FontType_Header",
             "FontType_Body",
-            "FontType_Subtitles",
-            "FontType_Mono"
+            "FontType_Subtitles"
           ],
           "font": 11512204371183635795,
           "material": 11512204371183635795,
@@ -303,6 +313,18 @@
             "FontType_Runtime_Body"
           ],
           "font": 633924675814308858,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        },
+        {
+          "types": [
+            "FontType_Runtime_Title"
+          ],
+          "font": 5392365851094668899,
           "material": 14090186131173009616,
           "material_curved": 17273643429696234489,
           "material_terminal": 0,
@@ -475,22 +497,6 @@
           }
         },
         {
-          "style": "MenuFontStyle_MonoMedium",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 24,
-            "shadow_range": 0
-          }
-        },
-        {
-          "style": "MenuFontStyle_MonoSmall",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 18,
-            "shadow_range": 0
-          }
-        },
-        {
           "style": "MenuFontStyle_HeaderBigRuntime",
           "settings": {
             "type": "FontType_Runtime_Header",
@@ -519,6 +525,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 36,
             "shadow_range": 0
           }
         }
@@ -581,18 +603,6 @@
         },
         {
           "types": [
-            "FontType_Mono"
-          ],
-          "font": 13221139438375158527,
-          "material": 13221139438375158527,
-          "material_curved": 5450614339710458865,
-          "material_terminal": 1364360575550668043,
-          "material_video": 0,
-          "material_hologram": 0,
-          "is_runtime_font": 0
-        },
-        {
-          "types": [
             "FontType_Runtime_Header"
           ],
           "font": 15137842181057231226,
@@ -608,6 +618,18 @@
             "FontType_Runtime_Body"
           ],
           "font": 7850911326803027971,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        },
+        {
+          "types": [
+            "FontType_Runtime_Title"
+          ],
+          "font": 5718432960083704864,
           "material": 14090186131173009616,
           "material_curved": 17273643429696234489,
           "material_terminal": 0,
@@ -780,22 +802,6 @@
           }
         },
         {
-          "style": "MenuFontStyle_MonoMedium",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 24,
-            "shadow_range": 0
-          }
-        },
-        {
-          "style": "MenuFontStyle_MonoSmall",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 18,
-            "shadow_range": 0
-          }
-        },
-        {
           "style": "MenuFontStyle_HeaderBigRuntime",
           "settings": {
             "type": "FontType_Runtime_Header",
@@ -826,6 +832,22 @@
             "font_size": 24,
             "shadow_range": 0
           }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 36,
+            "shadow_range": 0
+          }
         }
       ]
     }
@@ -854,8 +876,7 @@
           "types": [
             "FontType_Header",
             "FontType_Body",
-            "FontType_Subtitles",
-            "FontType_Mono"
+            "FontType_Subtitles"
           ],
           "font": 10450016876446020415,
           "material": 10450016876446020415,
@@ -871,6 +892,18 @@
             "FontType_Runtime_Body"
           ],
           "font": 11156563793451259688,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        },
+        {
+          "types": [
+            "FontType_Runtime_Title"
+          ],
+          "font": 5718432960083704864,
           "material": 14090186131173009616,
           "material_curved": 17273643429696234489,
           "material_terminal": 0,
@@ -1043,22 +1076,6 @@
           }
         },
         {
-          "style": "MenuFontStyle_MonoMedium",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 24,
-            "shadow_range": 0
-          }
-        },
-        {
-          "style": "MenuFontStyle_MonoSmall",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 18,
-            "shadow_range": 0
-          }
-        },
-        {
           "style": "MenuFontStyle_HeaderBigRuntime",
           "settings": {
             "type": "FontType_Runtime_Header",
@@ -1087,6 +1104,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 36,
             "shadow_range": 0
           }
         }
@@ -1117,8 +1150,7 @@
           "types": [
             "FontType_Header",
             "FontType_Body",
-            "FontType_Subtitles",
-            "FontType_Mono"
+            "FontType_Subtitles"
           ],
           "font": 16261765967992861005,
           "material": 16261765967992861005,
@@ -1134,6 +1166,18 @@
             "FontType_Runtime_Body"
           ],
           "font": 12542776143977517526,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        },
+        {
+          "types": [
+            "FontType_Runtime_Title"
+          ],
+          "font": 4197048077926763347,
           "material": 14090186131173009616,
           "material_curved": 17273643429696234489,
           "material_terminal": 0,
@@ -1306,22 +1350,6 @@
           }
         },
         {
-          "style": "MenuFontStyle_MonoMedium",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 24,
-            "shadow_range": 0
-          }
-        },
-        {
-          "style": "MenuFontStyle_MonoSmall",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 18,
-            "shadow_range": 0
-          }
-        },
-        {
           "style": "MenuFontStyle_HeaderBigRuntime",
           "settings": {
             "type": "FontType_Runtime_Header",
@@ -1350,6 +1378,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 36,
             "shadow_range": 0
           }
         }
@@ -1380,8 +1424,7 @@
           "types": [
             "FontType_Header",
             "FontType_Body",
-            "FontType_Subtitles",
-            "FontType_Mono"
+            "FontType_Subtitles"
           ],
           "font": 7387102229351785004,
           "material": 7387102229351785004,
@@ -1397,6 +1440,18 @@
             "FontType_Runtime_Body"
           ],
           "font": 7285484274161237190,
+          "material": 14090186131173009616,
+          "material_curved": 17273643429696234489,
+          "material_terminal": 0,
+          "material_video": 0,
+          "material_hologram": 0,
+          "is_runtime_font": 1
+        },
+        {
+          "types": [
+            "FontType_Runtime_Title"
+          ],
+          "font": 6831472199453029671,
           "material": 14090186131173009616,
           "material_curved": 17273643429696234489,
           "material_terminal": 0,
@@ -1569,22 +1624,6 @@
           }
         },
         {
-          "style": "MenuFontStyle_MonoMedium",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 24,
-            "shadow_range": 0
-          }
-        },
-        {
-          "style": "MenuFontStyle_MonoSmall",
-          "settings": {
-            "type": "FontType_Mono",
-            "font_size": 18,
-            "shadow_range": 0
-          }
-        },
-        {
           "style": "MenuFontStyle_HeaderBigRuntime",
           "settings": {
             "type": "FontType_Runtime_Header",
@@ -1613,6 +1652,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleMediumRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 48,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_TitleRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Title",
+            "font_size": 36,
             "shadow_range": 0
           }
         }

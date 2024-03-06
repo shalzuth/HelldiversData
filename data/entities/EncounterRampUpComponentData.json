@@ -1,0 +1,47 @@
+{
+  "5452892418991605202": {
+    "number_of_thresholds": 5,
+    "thresholds": [
+      {
+        "threshold_points": 0,
+        "threshold_timer": -1,
+        "number_of_encounters": 1
+      },
+      {
+        "threshold_points": 5,
+        "threshold_timer": 120,
+        "number_of_encounters": 1
+      },
+      {
+        "threshold_points": 10,
+        "threshold_timer": 90,
+        "number_of_encounters": 1
+      },
+      {
+        "threshold_points": 15,
+        "threshold_timer": 60,
+        "number_of_encounters": 1
+      },
+      {
+        "threshold_points": 20,
+        "threshold_timer": 30,
+        "number_of_encounters": 4
+      },
+      {
+        "threshold_points": 4294967295,
+        "threshold_timer": -1,
+        "number_of_encounters": 1
+      },
+      {
+        "threshold_points": 4294967295,
+        "threshold_timer": -1,
+        "number_of_encounters": 1
+      },
+      {
+        "threshold_points": 4294967295,
+        "threshold_timer": -1,
+        "number_of_encounters": 1
+      }
+    ]
+  }
+}

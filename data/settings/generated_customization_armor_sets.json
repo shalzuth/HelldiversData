@@ -905,18 +905,6 @@
               "decal_sheet": 0
             },
             {
-              "path": 16631359845000278032,
-              "slot": "HelldiverCustomizationSlot_Hip",
-              "type": "HelldiverCustomizationPieceType_Accessory",
-              "weight": "HelldiverCustomizationWeight_Medium",
-              "material_lut": 11736309100600985625,
-              "pattern_lut": 14919514188854822601,
-              "cape_lut": 0,
-              "cape_gradient": 0,
-              "decal_scalar_fields": 0,
-              "decal_sheet": 0
-            },
-            {
               "path": 3286754234729990316,
               "slot": "HelldiverCustomizationSlot_Torso",
               "type": "HelldiverCustomizationPieceType_Armor",
@@ -987,18 +975,6 @@
               "type": "HelldiverCustomizationPieceType_Armor",
               "weight": "HelldiverCustomizationWeight_Medium",
               "material_lut": 14392145978854826493,
-              "pattern_lut": 14919514188854822601,
-              "cape_lut": 0,
-              "cape_gradient": 0,
-              "decal_scalar_fields": 0,
-              "decal_sheet": 0
-            },
-            {
-              "path": 1184150411390062888,
-              "slot": "HelldiverCustomizationSlot_Hip",
-              "type": "HelldiverCustomizationPieceType_Accessory",
-              "weight": "HelldiverCustomizationWeight_Medium",
-              "material_lut": 11736309100600985625,
               "pattern_lut": 14919514188854822601,
               "cape_lut": 0,
               "cape_gradient": 0,
@@ -1293,18 +1269,6 @@
               "decal_sheet": 0
             },
             {
-              "path": 16631359845000278032,
-              "slot": "HelldiverCustomizationSlot_Hip",
-              "type": "HelldiverCustomizationPieceType_Accessory",
-              "weight": "HelldiverCustomizationWeight_Medium",
-              "material_lut": 11736309100600985625,
-              "pattern_lut": 14919514188854822601,
-              "cape_lut": 0,
-              "cape_gradient": 0,
-              "decal_scalar_fields": 0,
-              "decal_sheet": 0
-            },
-            {
               "path": 3286754234729990316,
               "slot": "HelldiverCustomizationSlot_Torso",
               "type": "HelldiverCustomizationPieceType_Armor",
@@ -1363,18 +1327,6 @@
               "type": "HelldiverCustomizationPieceType_Armor",
               "weight": "HelldiverCustomizationWeight_Medium",
               "material_lut": 13046995940969205995,
-              "pattern_lut": 14919514188854822601,
-              "cape_lut": 0,
-              "cape_gradient": 0,
-              "decal_scalar_fields": 0,
-              "decal_sheet": 0
-            },
-            {
-              "path": 1184150411390062888,
-              "slot": "HelldiverCustomizationSlot_Hip",
-              "type": "HelldiverCustomizationPieceType_Accessory",
-              "weight": "HelldiverCustomizationWeight_Medium",
-              "material_lut": 11736309100600985625,
               "pattern_lut": 14919514188854822601,
               "cape_lut": 0,
               "cape_gradient": 0,
@@ -1830,7 +1782,7 @@
               "path": 13135626165718134923,
               "slot": "HelldiverCustomizationSlot_Helmet",
               "type": "HelldiverCustomizationPieceType_Armor",
-              "weight": "HelldiverCustomizationWeight_Heavy",
+              "weight": "HelldiverCustomizationWeight_Medium",
               "material_lut": 15257558942391533978,
               "pattern_lut": 18285369110373538346,
               "cape_lut": 0,
@@ -5846,6 +5798,346 @@
   },
   {
     "HelldiverCustomizationKit": {
+      "id": 3414071094,
+      "dlc_id": 1106702558,
+      "set_id": 2304602267,
+      "name_upper": 8334221,
+      "name_cased": 91112513,
+      "desc": 2177206078,
+      "rarity": "HelldiverCustomizationRarity_Common",
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Base",
+      "package": 1234082500098168312,
+      "type": "HelldiverCustomizationKitType_Armor",
+      "body_types": [
+        {
+          "type": "HelldiverCustomizationBodyType_Any",
+          "pieces": [
+            {
+              "path": 4338038536439380798,
+              "slot": "HelldiverCustomizationSlot_Cape",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 0,
+              "pattern_lut": 0,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 14584676054580543486,
+              "slot": "HelldiverCustomizationSlot_RightLeg",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 16913639536143635571,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 77768752549360061,
+              "slot": "HelldiverCustomizationSlot_RightLeg",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 11758582678718385346,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 8751633847476789976,
+              "slot": "HelldiverCustomizationSlot_RightArm",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 17479870113771563808,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 17866398670168798715,
+              "slot": "HelldiverCustomizationSlot_LeftLeg",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 11758582678718385346,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 11454252334967675991,
+              "slot": "HelldiverCustomizationSlot_LeftArm",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 17479870113771563808,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 7066004653337270514,
+              "slot": "HelldiverCustomizationSlot_LeftLeg",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 16913639536143635571,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            }
+          ]
+        },
+        {
+          "type": "HelldiverCustomizationBodyType_Stocky",
+          "pieces": [
+            {
+              "path": 16534447055458057688,
+              "slot": "HelldiverCustomizationSlot_Torso",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 4403777656139561489,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 17786515856343915068,
+              "slot": "HelldiverCustomizationSlot_LeftArm",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 4403777656139561489,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 11475355184270700671,
+              "slot": "HelldiverCustomizationSlot_Hip",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 16913639536143635571,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 4262785967333127230,
+              "slot": "HelldiverCustomizationSlot_RightArm",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 4403777656139561489,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 4741415154744209210,
+              "slot": "HelldiverCustomizationSlot_LeftShoulder",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 14558251006303612535,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3006284353944471300,
+              "slot": "HelldiverCustomizationSlot_RightShoulder",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 14558251006303612535,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 254349306793314548,
+              "slot": "HelldiverCustomizationSlot_Hip",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 11758582678718385346,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3286754234729990316,
+              "slot": "HelldiverCustomizationSlot_Torso",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6302949146585675582,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            }
+          ]
+        },
+        {
+          "type": "HelldiverCustomizationBodyType_Slim",
+          "pieces": [
+            {
+              "path": 5315292825954710384,
+              "slot": "HelldiverCustomizationSlot_Hip",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 16913639536143635571,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3800685569620653850,
+              "slot": "HelldiverCustomizationSlot_LeftShoulder",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 14558251006303612535,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3415621014299968645,
+              "slot": "HelldiverCustomizationSlot_Hip",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 11758582678718385346,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 18025254480580733275,
+              "slot": "HelldiverCustomizationSlot_Torso",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 4403777656139561489,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 2567690365343907235,
+              "slot": "HelldiverCustomizationSlot_LeftArm",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 4403777656139561489,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 1769949868322349152,
+              "slot": "HelldiverCustomizationSlot_Torso",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6302949146585675582,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3467853974557819730,
+              "slot": "HelldiverCustomizationSlot_RightArm",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 4403777656139561489,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 2971673397720090427,
+              "slot": "HelldiverCustomizationSlot_RightShoulder",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 14558251006303612535,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationKit": {
+      "id": 3964228207,
+      "dlc_id": 1106702558,
+      "set_id": 2304602267,
+      "name_upper": 8334221,
+      "name_cased": 91112513,
+      "desc": 2177206078,
+      "rarity": "HelldiverCustomizationRarity_Common",
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_None",
+      "package": 15106088406830433962,
+      "type": "HelldiverCustomizationKitType_Helmet",
+      "body_types": [
+        {
+          "type": "HelldiverCustomizationBodyType_Any",
+          "pieces": [
+            {
+              "path": 13556064353924354700,
+              "slot": "HelldiverCustomizationSlot_Helmet",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 9018445489328350732,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationKit": {
       "id": 170028934,
       "dlc_id": 1019672322,
       "set_id": 222101222,
@@ -7218,6 +7510,346 @@
               "weight": "HelldiverCustomizationWeight_Medium",
               "material_lut": 1359839308849771838,
               "pattern_lut": 17405844890543665857,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationKit": {
+      "id": 2386771645,
+      "dlc_id": 1671658154,
+      "set_id": 3352592033,
+      "name_upper": 481563344,
+      "name_cased": 1290089593,
+      "desc": 1074223869,
+      "rarity": "HelldiverCustomizationRarity_Common",
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Base",
+      "package": 11209759957973339667,
+      "type": "HelldiverCustomizationKitType_Armor",
+      "body_types": [
+        {
+          "type": "HelldiverCustomizationBodyType_Any",
+          "pieces": [
+            {
+              "path": 4338038536439380798,
+              "slot": "HelldiverCustomizationSlot_Cape",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 0,
+              "pattern_lut": 0,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 14584676054580543486,
+              "slot": "HelldiverCustomizationSlot_RightLeg",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6233758196212199981,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 77768752549360061,
+              "slot": "HelldiverCustomizationSlot_RightLeg",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7838776997050056724,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 8751633847476789976,
+              "slot": "HelldiverCustomizationSlot_RightArm",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 17581385975706463947,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 17866398670168798715,
+              "slot": "HelldiverCustomizationSlot_LeftLeg",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7838776997050056724,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 11454252334967675991,
+              "slot": "HelldiverCustomizationSlot_LeftArm",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 17581385975706463947,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 7066004653337270514,
+              "slot": "HelldiverCustomizationSlot_LeftLeg",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6233758196212199981,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            }
+          ]
+        },
+        {
+          "type": "HelldiverCustomizationBodyType_Stocky",
+          "pieces": [
+            {
+              "path": 16534447055458057688,
+              "slot": "HelldiverCustomizationSlot_Torso",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7556650918314183644,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 17786515856343915068,
+              "slot": "HelldiverCustomizationSlot_LeftArm",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7556650918314183644,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 11475355184270700671,
+              "slot": "HelldiverCustomizationSlot_Hip",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6233758196212199981,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 4262785967333127230,
+              "slot": "HelldiverCustomizationSlot_RightArm",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7556650918314183644,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 4741415154744209210,
+              "slot": "HelldiverCustomizationSlot_LeftShoulder",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6555751420308685645,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3006284353944471300,
+              "slot": "HelldiverCustomizationSlot_RightShoulder",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6555751420308685645,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 254349306793314548,
+              "slot": "HelldiverCustomizationSlot_Hip",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7838776997050056724,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3286754234729990316,
+              "slot": "HelldiverCustomizationSlot_Torso",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 18039099620173005498,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            }
+          ]
+        },
+        {
+          "type": "HelldiverCustomizationBodyType_Slim",
+          "pieces": [
+            {
+              "path": 5315292825954710384,
+              "slot": "HelldiverCustomizationSlot_Hip",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6233758196212199981,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3800685569620653850,
+              "slot": "HelldiverCustomizationSlot_LeftShoulder",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6555751420308685645,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3415621014299968645,
+              "slot": "HelldiverCustomizationSlot_Hip",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7838776997050056724,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 18025254480580733275,
+              "slot": "HelldiverCustomizationSlot_Torso",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7556650918314183644,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 2567690365343907235,
+              "slot": "HelldiverCustomizationSlot_LeftArm",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7556650918314183644,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 1769949868322349152,
+              "slot": "HelldiverCustomizationSlot_Torso",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 18039099620173005498,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 3467853974557819730,
+              "slot": "HelldiverCustomizationSlot_RightArm",
+              "type": "HelldiverCustomizationPieceType_Undergarment",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 7556650918314183644,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            },
+            {
+              "path": 2971673397720090427,
+              "slot": "HelldiverCustomizationSlot_RightShoulder",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 6555751420308685645,
+              "pattern_lut": 14919514188854822601,
+              "cape_lut": 0,
+              "cape_gradient": 0,
+              "decal_scalar_fields": 0,
+              "decal_sheet": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationKit": {
+      "id": 1834921938,
+      "dlc_id": 1671658154,
+      "set_id": 3352592033,
+      "name_upper": 481563344,
+      "name_cased": 1290089593,
+      "desc": 1074223869,
+      "rarity": "HelldiverCustomizationRarity_Common",
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_None",
+      "package": 10809830035185875142,
+      "type": "HelldiverCustomizationKitType_Helmet",
+      "body_types": [
+        {
+          "type": "HelldiverCustomizationBodyType_Any",
+          "pieces": [
+            {
+              "path": 13556064353924354700,
+              "slot": "HelldiverCustomizationSlot_Helmet",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Medium",
+              "material_lut": 5442805397285439785,
+              "pattern_lut": 14919514188854822601,
               "cape_lut": 0,
               "cape_gradient": 0,
               "decal_scalar_fields": 0,
@@ -15970,7 +16602,7 @@
               "path": 7285925993452441626,
               "slot": "HelldiverCustomizationSlot_Helmet",
               "type": "HelldiverCustomizationPieceType_Armor",
-              "weight": "HelldiverCustomizationWeight_Light",
+              "weight": "HelldiverCustomizationWeight_Medium",
               "material_lut": 183799855405092483,
               "pattern_lut": 14919514188854822601,
               "cape_lut": 0,
@@ -26373,6 +27005,39 @@
   },
   {
     "HelldiverCustomizationKit": {
+      "id": 463066946,
+      "dlc_id": 0,
+      "set_id": 0,
+      "name_upper": 1091321045,
+      "name_cased": 4148799995,
+      "desc": 3385218089,
+      "rarity": "HelldiverCustomizationRarity_Common",
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_None",
+      "package": 12658494453007013306,
+      "type": "HelldiverCustomizationKitType_Cape",
+      "body_types": [
+        {
+          "type": "HelldiverCustomizationBodyType_Any",
+          "pieces": [
+            {
+              "path": 0,
+              "slot": "HelldiverCustomizationSlot_Cape",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Light",
+              "material_lut": 4980502617383211302,
+              "pattern_lut": 0,
+              "cape_lut": 11810044370604696947,
+              "cape_gradient": 13415522394280285038,
+              "decal_scalar_fields": 4916445370003389824,
+              "decal_sheet": 10363202198820539967
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationKit": {
       "id": 2321467216,
       "dlc_id": 1102821570,
       "set_id": 4130635456,
@@ -26398,6 +27063,39 @@
               "cape_gradient": 13415522394280285038,
               "decal_scalar_fields": 9404051733271662255,
               "decal_sheet": 17544421564454316850
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationKit": {
+      "id": 582381095,
+      "dlc_id": 0,
+      "set_id": 0,
+      "name_upper": 3459911301,
+      "name_cased": 3134469361,
+      "desc": 1023956951,
+      "rarity": "HelldiverCustomizationRarity_Common",
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_None",
+      "package": 2888010531597278877,
+      "type": "HelldiverCustomizationKitType_Cape",
+      "body_types": [
+        {
+          "type": "HelldiverCustomizationBodyType_Any",
+          "pieces": [
+            {
+              "path": 0,
+              "slot": "HelldiverCustomizationSlot_Cape",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Light",
+              "material_lut": 18071701876391545784,
+              "pattern_lut": 0,
+              "cape_lut": 15383606969484768299,
+              "cape_gradient": 13415522394280285038,
+              "decal_scalar_fields": 14158655057415792855,
+              "decal_sheet": 10363202198820539967
             }
           ]
         }
@@ -26464,6 +27162,39 @@
               "cape_gradient": 13415522394280285038,
               "decal_scalar_fields": 12147117249667663077,
               "decal_sheet": 16363889062290023588
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationKit": {
+      "id": 3982799103,
+      "dlc_id": 0,
+      "set_id": 0,
+      "name_upper": 419729660,
+      "name_cased": 1676900113,
+      "desc": 2943698726,
+      "rarity": "HelldiverCustomizationRarity_Common",
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_None",
+      "package": 16022615633733459798,
+      "type": "HelldiverCustomizationKitType_Cape",
+      "body_types": [
+        {
+          "type": "HelldiverCustomizationBodyType_Any",
+          "pieces": [
+            {
+              "path": 0,
+              "slot": "HelldiverCustomizationSlot_Cape",
+              "type": "HelldiverCustomizationPieceType_Armor",
+              "weight": "HelldiverCustomizationWeight_Light",
+              "material_lut": 15116675194769412367,
+              "pattern_lut": 0,
+              "cape_lut": 13051168095542127147,
+              "cape_gradient": 13415522394280285038,
+              "decal_scalar_fields": 7064222866342583923,
+              "decal_sheet": 15064905879281374778
             }
           ]
         }
@@ -26838,9 +27569,9 @@
       "id": 112836163,
       "dlc_id": 112836163,
       "set_id": 934502665,
-      "name_upper": 3514184557,
-      "name_cased": 3844548524,
-      "desc": 2395299620,
+      "name_upper": 1834175889,
+      "name_cased": 572577241,
+      "desc": 4232442047,
       "rarity": "HelldiverCustomizationRarity_Common",
       "passive_bonus": "HelldiverCustomizationPassiveBonus_None",
       "package": 5800473766194567356,

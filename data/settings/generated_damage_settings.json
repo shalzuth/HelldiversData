@@ -266,8 +266,8 @@
         {
           "type": "DamageInfoType_Projectile_Flamethrower",
           "damage": [
-            2,
-            2
+            3,
+            3
           ],
           "armor_penetration_per_angle": [
             3,
@@ -652,13 +652,13 @@
           "type": "DamageInfoType_Projectile_Railgun",
           "damage": [
             600,
-            120
+            60
           ],
           "armor_penetration_per_angle": [
-            12,
-            12,
-            10,
-            6
+            4,
+            4,
+            4,
+            4
           ],
           "demolition_strength": 10,
           "force_strength": 50,
@@ -2856,8 +2856,8 @@
         {
           "type": "DamageInfoType_Projectile_Shotgun_10g_buc",
           "damage": [
-            40,
-            8
+            45,
+            12
           ],
           "armor_penetration_per_angle": [
             2,
@@ -2866,8 +2866,8 @@
             0
           ],
           "demolition_strength": 10,
-          "force_strength": 20,
-          "force_impulse": 20,
+          "force_strength": 35,
+          "force_impulse": 30,
           "element_type": "ElementType_None",
           "status_effects": [
             {
@@ -3312,12 +3312,12 @@
           "type": "DamageInfoType_Projectile_Shotgun_12g_bir",
           "damage": [
             12,
-            1
+            4
           ],
           "armor_penetration_per_angle": [
-            1,
-            1,
-            1,
+            2,
+            2,
+            2,
             0
           ],
           "demolition_strength": 10,
@@ -4507,7 +4507,7 @@
           "armor_penetration_per_angle": [
             6,
             6,
-            5,
+            6,
             3
           ],
           "demolition_strength": 30,
@@ -4542,7 +4542,7 @@
           "armor_penetration_per_angle": [
             6,
             6,
-            5,
+            6,
             3
           ],
           "demolition_strength": 30,
@@ -4577,7 +4577,7 @@
           "armor_penetration_per_angle": [
             6,
             6,
-            5,
+            6,
             3
           ],
           "demolition_strength": 30,
@@ -4787,7 +4787,7 @@
           "armor_penetration_per_angle": [
             5,
             5,
-            4,
+            5,
             0
           ],
           "demolition_strength": 40,
@@ -6056,7 +6056,7 @@
           "element_type": "ElementType_None",
           "status_effects": [
             {
-              "type": "StatusEffectType_StunLarge",
+              "type": "StatusEffectType_Tremor",
               "value": 50
             },
             {
@@ -6496,8 +6496,8 @@
         {
           "type": "DamageInfoType_Explosion_Icbm_Take_Off",
           "damage": [
-            30,
-            30
+            0,
+            0
           ],
           "armor_penetration_per_angle": [
             3,
@@ -6506,12 +6506,12 @@
             0
           ],
           "demolition_strength": 10,
-          "force_strength": 25,
-          "force_impulse": 30,
-          "element_type": "ElementType_Fire",
+          "force_strength": 40,
+          "force_impulse": 40,
+          "element_type": "ElementType_None",
           "status_effects": [
             {
-              "type": "StatusEffectType_Fire",
+              "type": "StatusEffectType_StunMedium",
               "value": 100
             },
             {
@@ -6531,8 +6531,8 @@
         {
           "type": "DamageInfoType_Explosion_Icbm_Take_Off_Intense",
           "damage": [
-            60,
-            60
+            30,
+            3
           ],
           "armor_penetration_per_angle": [
             3,
@@ -6820,7 +6820,7 @@
             0,
             0
           ],
-          "demolition_strength": 20,
+          "demolition_strength": 30,
           "force_strength": 20,
           "force_impulse": 15,
           "element_type": "ElementType_Fire",
@@ -6855,7 +6855,7 @@
             0,
             0
           ],
-          "demolition_strength": 20,
+          "demolition_strength": 30,
           "force_strength": 20,
           "force_impulse": 40,
           "element_type": "ElementType_None",
@@ -8218,6 +8218,41 @@
             3,
             0,
             0,
+            0
+          ],
+          "demolition_strength": 30,
+          "force_strength": 30,
+          "force_impulse": 40,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Explosion_AntiTankMine",
+          "damage": [
+            1000,
+            1000
+          ],
+          "armor_penetration_per_angle": [
+            5,
+            5,
+            5,
             0
           ],
           "demolition_strength": 30,
@@ -9889,6 +9924,41 @@
           ]
         },
         {
+          "type": "DamageInfoType_Explosion_EmbryoCluster_Burst",
+          "damage": [
+            5,
+            5
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            0,
+            0,
+            0
+          ],
+          "demolition_strength": 0,
+          "force_strength": 35,
+          "force_impulse": 30,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_Gas",
+              "value": 50
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
           "type": "DamageInfoType_Explosion_Spikeplant_Shrapnel_Explosion",
           "damage": [
             15,
@@ -10137,13 +10207,13 @@
           "type": "DamageInfoType_DPS_BeamLarge",
           "damage": [
             300,
-            135
+            300
           ],
           "armor_penetration_per_angle": [
-            3,
-            3,
-            3,
-            3
+            4,
+            4,
+            4,
+            4
           ],
           "demolition_strength": 20,
           "force_strength": 0,
@@ -11293,6 +11363,41 @@
           "damage": [
             30,
             30
+          ],
+          "armor_penetration_per_angle": [
+            7,
+            0,
+            0,
+            0
+          ],
+          "demolition_strength": 41,
+          "force_strength": 40,
+          "force_impulse": 35,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Ability_Bot_Spawner_Obstacle",
+          "damage": [
+            1,
+            1
           ],
           "armor_penetration_per_angle": [
             7,

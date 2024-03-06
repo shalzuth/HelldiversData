@@ -1,6 +1,7 @@
 { "ExplosionInfo" : {
     "type" : { "type": "ExplosionType" },
     "damage_type" : { "type": "DamageInfoType", "default": "DamageInfoType_None" },
+    "fallback_damage_loc_name" : { "type": "uint" },
     "inner_radius" : { "type": "float", "default": 0 },
     "outer_radius" : { "type": "float", "default": 0 },
     "stagger_radius" : { "type": "float", "default": 0 },

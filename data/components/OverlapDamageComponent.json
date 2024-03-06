@@ -1,3 +1,4 @@
 { "OverlapDamageComponent" : {
-    "damage_dealer_zones" : { "type": "array", "subtype": "DamageDealerZoneInfo", "description": "Damage dealer zones" }
+    "damage_dealer_zones" : { "type": "array", "subtype": "DamageDealerZoneInfo", "description": "Damage dealer zones" },
+    "hit_effect_damage_type" : { "type": "HitEffectDamageType", "default": "HitEffectDamageType_Blunt", "description": "Effect damage type to be used in damage events." }
 }}

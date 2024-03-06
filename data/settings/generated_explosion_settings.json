@@ -5,6 +5,7 @@
         {
           "type": "ExplosionType_Boomer_AcidDeath",
           "damage_type": "DamageInfoType_Explosion_Boomer_AcidDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 8,
           "stagger_radius": 11,
@@ -35,6 +36,7 @@
         {
           "type": "ExplosionType_Warrior_AcidDeath",
           "damage_type": "DamageInfoType_Explosion_Scavenger_AcidDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 4,
           "stagger_radius": 8,
@@ -65,6 +67,7 @@
         {
           "type": "ExplosionType_Scavenger_AcidDeath",
           "damage_type": "DamageInfoType_Explosion_Scavenger_AcidDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 2.5,
@@ -95,6 +98,7 @@
         {
           "type": "ExplosionType_Scavenger_AcidBall",
           "damage_type": "DamageInfoType_Explosion_Scavenger_AcidBall",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 2,
           "stagger_radius": 2,
@@ -123,6 +127,7 @@
         {
           "type": "ExplosionType_Strider_AcidStream",
           "damage_type": "DamageInfoType_Explosion_Scavenger_AcidDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 3,
           "stagger_radius": 2.5,
@@ -153,6 +158,7 @@
         {
           "type": "ExplosionType_TunnelerEmerge",
           "damage_type": "DamageInfoType_Explosion_TunnelerEmerge",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 8,
           "stagger_radius": 10,
@@ -183,6 +189,7 @@
         {
           "type": "ExplosionType_Strider_Stomp",
           "damage_type": "DamageInfoType_Explosion_Strider_StompShockwave",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2.5,
           "stagger_radius": 3,
@@ -213,6 +220,7 @@
         {
           "type": "ExplosionType_BugTrap",
           "damage_type": "DamageInfoType_Explosion_BugTrap",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.300000012,
           "outer_radius": 2,
           "stagger_radius": 2.5,
@@ -243,6 +251,7 @@
         {
           "type": "ExplosionType_BugHoleCollapse",
           "damage_type": "DamageInfoType_Explosion_Prop_Large",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 3,
           "stagger_radius": 4,
@@ -273,6 +282,7 @@
         {
           "type": "ExplosionType_Bug_Artillery",
           "damage_type": "DamageInfoType_Explosion_Projectile_BugArtillery",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 8,
           "stagger_radius": 14,
@@ -303,6 +313,7 @@
         {
           "type": "ExplosionType_Cyborg_HandGrenade_Antitank",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_CyborgAntiTank",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 4,
           "stagger_radius": 12,
@@ -333,6 +344,7 @@
         {
           "type": "ExplosionType_Cyborg_HandGrenade_HighExplosive",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_CyborgHighExplosive",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.20000005,
           "outer_radius": 6,
           "stagger_radius": 8,
@@ -363,6 +375,7 @@
         {
           "type": "ExplosionType_Cyborg_Mortar_Base_Shell_Explosion",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_CyborgHighExplosive",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.20000005,
           "outer_radius": 6,
           "stagger_radius": 8,
@@ -393,6 +406,7 @@
         {
           "type": "ExplosionType_Cyborg_Projectile_LightCannon",
           "damage_type": "DamageInfoType_Explosion_Projectile_CyborgLightCannon",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.600000024,
           "outer_radius": 3,
           "stagger_radius": 5,
@@ -423,6 +437,7 @@
         {
           "type": "ExplosionType_Cyborg_Projectile_HeavyCannon",
           "damage_type": "DamageInfoType_Explosion_Projectile_CyborgHeavyCannon",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.20000005,
           "outer_radius": 6,
           "stagger_radius": 8,
@@ -453,6 +468,7 @@
         {
           "type": "ExplosionType_Projectile_Shotgun_Flakblast",
           "damage_type": "DamageInfoType_Explosion_Projectile_Shotgun_Flakblast",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 1.5,
           "stagger_radius": 3,
@@ -483,6 +499,7 @@
         {
           "type": "ExplosionType_Cyborg_Projectile_LightRocket",
           "damage_type": "DamageInfoType_Explosion_Projectile_CyborgLightRocket",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 3.5,
@@ -513,6 +530,7 @@
         {
           "type": "ExplosionType_Cyborg_Projectile_HeavyRocket",
           "damage_type": "DamageInfoType_Explosion_Projectile_CyborgHeavyRocket",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 10,
           "stagger_radius": 25,
@@ -544,6 +562,7 @@
         {
           "type": "ExplosionType_Cyborg_PlasmaBackpackOverload",
           "damage_type": "DamageInfoType_Explosion_Projectile_CyborgLightCannon",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.400000006,
           "outer_radius": 2,
           "stagger_radius": 1,
@@ -574,6 +593,7 @@
         {
           "type": "ExplosionType_Cyborg_FlamerBackpackOverload",
           "damage_type": "DamageInfoType_Explosion_Prop_Medium",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.400000006,
           "outer_radius": 4,
           "stagger_radius": 12,
@@ -604,6 +624,7 @@
         {
           "type": "ExplosionType_Cyborg_Mine",
           "damage_type": "DamageInfoType_Explosion_CyborgMine",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.60000002,
           "outer_radius": 4,
           "stagger_radius": 6,
@@ -634,6 +655,7 @@
         {
           "type": "ExplosionType_Cyborg_Vehicle_Medium_Death",
           "damage_type": "DamageInfoType_Explosion_Vehicle_CyborgMediumDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.60000002,
           "outer_radius": 8,
           "stagger_radius": 12,
@@ -665,6 +687,7 @@
         {
           "type": "ExplosionType_Cyborg_Tank_Turret_Death",
           "damage_type": "DamageInfoType_Explosion_Vehicle_CyborgMediumDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.60000002,
           "outer_radius": 8,
           "stagger_radius": 12,
@@ -696,6 +719,7 @@
         {
           "type": "ExplosionType_Cyborg_Vehicle_Large_Death_Air",
           "damage_type": "DamageInfoType_Explosion_Vehicle_CyborgMediumDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.4000001,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -727,6 +751,7 @@
         {
           "type": "ExplosionType_Cyborg_Dropship_Death_Air",
           "damage_type": "DamageInfoType_Explosion_Vehicle_CyborgMediumDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.4000001,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -758,6 +783,7 @@
         {
           "type": "ExplosionType_Fabricator_Fall_Impact",
           "damage_type": "DamageInfoType_Explosion_Prop_Large",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 5,
           "stagger_radius": 6,
@@ -788,6 +814,7 @@
         {
           "type": "ExplosionType_Cyborg_Vehicle_Large_Death_Ground",
           "damage_type": "DamageInfoType_Explosion_Vehicle_SeLargeDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -819,6 +846,7 @@
         {
           "type": "ExplosionType_Cyborg_Vehicle_Medium_Death_Ground",
           "damage_type": "DamageInfoType_Explosion_Vehicle_SeLargeDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -850,6 +878,7 @@
         {
           "type": "ExplosionType_Cyborg_Factory_Spawner",
           "damage_type": "DamageInfoType_Explosion_Vehicle_SeLargeDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -881,6 +910,7 @@
         {
           "type": "ExplosionType_Cyborg_Dropship_Death_Ground",
           "damage_type": "DamageInfoType_Explosion_Vehicle_SeLargeDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -912,6 +942,7 @@
         {
           "type": "ExplosionType_Cyborg_Fabricator_Large_Death_Ground",
           "damage_type": "DamageInfoType_Explosion_Vehicle_SeLargeDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -943,6 +974,7 @@
         {
           "type": "ExplosionType_Cyborg_Vehicle_Huge_Death",
           "damage_type": "DamageInfoType_Explosion_Vehicle_CyborgHugeDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3.5999999,
           "outer_radius": 18,
           "stagger_radius": 25,
@@ -974,6 +1006,7 @@
         {
           "type": "ExplosionType_DropshipCrash",
           "damage_type": "DamageInfoType_Explosion_Vehicle_DropshipCrash",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 8,
           "stagger_radius": 10,
@@ -1004,6 +1037,7 @@
         {
           "type": "ExplosionType_DropshipCrash_Medium",
           "damage_type": "DamageInfoType_Explosion_Vehicle_DropshipCrash",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 4,
           "stagger_radius": 8,
@@ -1034,6 +1068,7 @@
         {
           "type": "ExplosionType_GunshipCrash_Medium",
           "damage_type": "DamageInfoType_Explosion_Vehicle_DropshipCrash",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 4,
           "stagger_radius": 8,
@@ -1064,6 +1099,7 @@
         {
           "type": "ExplosionType_DropshipCrash_Large",
           "damage_type": "DamageInfoType_Explosion_Vehicle_DropshipCrash",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 8,
           "stagger_radius": 16,
@@ -1094,6 +1130,7 @@
         {
           "type": "ExplosionType_GunshipCrash_Large",
           "damage_type": "DamageInfoType_Explosion_Vehicle_DropshipCrash",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 8,
           "stagger_radius": 16,
@@ -1124,6 +1161,7 @@
         {
           "type": "ExplosionType_ThrusterExplosion",
           "damage_type": "DamageInfoType_Explosion_Vehicle_ThrusterDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.800000012,
           "outer_radius": 8,
           "stagger_radius": 25,
@@ -1154,6 +1192,7 @@
         {
           "type": "ExplosionType_Cyborg_Artillery",
           "damage_type": "DamageInfoType_Explosion_Projectile_CyborgArtillery",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 10,
           "stagger_radius": 17,
@@ -1185,6 +1224,7 @@
         {
           "type": "ExplosionType_Frag",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_Frag",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 8,
           "stagger_radius": 12,
@@ -1215,6 +1255,7 @@
         {
           "type": "ExplosionType_Flash",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_Flash",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 10,
           "stagger_radius": 15,
@@ -1245,6 +1286,7 @@
         {
           "type": "ExplosionType_Incendiary",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_Incendiary",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 7,
           "stagger_radius": 9,
@@ -1275,6 +1317,7 @@
         {
           "type": "ExplosionType_Thermite",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_Thermite",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 3,
@@ -1305,6 +1348,7 @@
         {
           "type": "ExplosionType_HighExplosive",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_HighExplosive",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.5,
           "outer_radius": 7,
           "stagger_radius": 9,
@@ -1335,6 +1379,7 @@
         {
           "type": "ExplosionType_Impact",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_HighExplosive",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.5,
           "outer_radius": 7,
           "stagger_radius": 8,
@@ -1365,6 +1410,7 @@
         {
           "type": "ExplosionType_12g_Frag",
           "damage_type": "DamageInfoType_Explosion_Projectile_12g_Frag",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.5,
           "outer_radius": 2.5,
           "stagger_radius": 3,
@@ -1395,6 +1441,7 @@
         {
           "type": "ExplosionType_12g_HE",
           "damage_type": "DamageInfoType_Explosion_Projectile_12g_HE",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 1.5,
           "stagger_radius": 2,
@@ -1425,6 +1472,7 @@
         {
           "type": "ExplosionType_Plasma_Bolt_Small",
           "damage_type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Small",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.75,
           "outer_radius": 1.5,
           "stagger_radius": 2,
@@ -1455,6 +1503,7 @@
         {
           "type": "ExplosionType_Plasma_Bolt_Medium",
           "damage_type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Medium",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 2,
@@ -1485,6 +1534,7 @@
         {
           "type": "ExplosionType_Plasma_Bolt_Medium_Volatile",
           "damage_type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Medium_Volatile",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 3,
           "stagger_radius": 4,
@@ -1515,6 +1565,7 @@
         {
           "type": "ExplosionType_Plasma_Bolt_Large",
           "damage_type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Large",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 3,
           "stagger_radius": 4,
@@ -1545,6 +1596,7 @@
         {
           "type": "ExplosionType_Punisher_Plasma_Explosion",
           "damage_type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Large",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 3,
           "stagger_radius": 4,
@@ -1575,6 +1627,7 @@
         {
           "type": "ExplosionType_Crossbow_Bolt",
           "damage_type": "DamageInfoType_Explosion_Crossbow_Bolt",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 6,
           "stagger_radius": 7,
@@ -1605,6 +1658,7 @@
         {
           "type": "ExplosionType_Grenade_40mm_HE",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_HE",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.5,
           "outer_radius": 6.5,
           "stagger_radius": 7,
@@ -1635,6 +1689,7 @@
         {
           "type": "ExplosionType_Grenade_40mm_HE_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_HE",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.25,
           "outer_radius": 6.5,
           "stagger_radius": 8,
@@ -1665,6 +1720,7 @@
         {
           "type": "ExplosionType_Grenade_40mm_Stun",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_Stun",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 10,
           "stagger_radius": 15,
@@ -1695,6 +1751,7 @@
         {
           "type": "ExplosionType_Grenade_40mm_ProximityCone",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_40mm_ProximityCone",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.5,
           "outer_radius": 8,
           "stagger_radius": 12,
@@ -1725,6 +1782,7 @@
         {
           "type": "ExplosionType_Grenade_40mm_Incendiary",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_Incendiary",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 7,
           "stagger_radius": 9,
@@ -1755,6 +1813,7 @@
         {
           "type": "ExplosionType_Grenade_Mortar_40mm_HE",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_Mortar_40mm_HE",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3,
           "outer_radius": 9,
           "stagger_radius": 13,
@@ -1785,6 +1844,7 @@
         {
           "type": "ExplosionType_Grenade_Mortar_40mm_Staticfield",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalStun",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 10,
           "stagger_radius": 12,
@@ -1815,6 +1875,7 @@
         {
           "type": "ExplosionType_Grenade_85mm_HE",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HE",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.29999995,
           "outer_radius": 7,
           "stagger_radius": 12,
@@ -1845,6 +1906,7 @@
         {
           "type": "ExplosionType_Grenade_85mm_HE_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HE_MK2",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3.29999995,
           "outer_radius": 10,
           "stagger_radius": 15,
@@ -1875,6 +1937,7 @@
         {
           "type": "ExplosionType_Grenade_85mm_HEAT",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HEAT",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 3,
           "stagger_radius": 6,
@@ -1905,6 +1968,7 @@
         {
           "type": "ExplosionType_Grenade_85mm_HEAT_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HEAT",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 3,
           "stagger_radius": 6,
@@ -1935,6 +1999,7 @@
         {
           "type": "ExplosionType_Grenade_75mm_HEAT",
           "damage_type": "DamageInfoType_Explosion_Projectile_Grenade_75mm_HEAT",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 3,
           "stagger_radius": 6,
@@ -1965,6 +2030,7 @@
         {
           "type": "ExplosionType_Flak_20mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_Flak",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 8,
           "stagger_radius": 10,
@@ -1995,6 +2061,7 @@
         {
           "type": "ExplosionType_JarPhoenix_20mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_Flak",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 7,
           "stagger_radius": 10,
@@ -2025,6 +2092,7 @@
         {
           "type": "ExplosionType_APHET_20mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_APHET",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 4,
           "stagger_radius": 5.5,
@@ -2055,6 +2123,7 @@
         {
           "type": "ExplosionType_Laser_Pulse",
           "damage_type": "DamageInfoType_Explosion_Laser_Pulse",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 3,
           "stagger_radius": 6,
@@ -2085,6 +2154,7 @@
         {
           "type": "ExplosionType_HE_20mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_20mm_HE",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 4.5,
           "stagger_radius": 5.80000019,
@@ -2115,6 +2185,7 @@
         {
           "type": "ExplosionType_Cannon_23mm_silent",
           "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_Eagle_23mm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 4.5,
           "stagger_radius": 6.5,
@@ -2145,6 +2216,7 @@
         {
           "type": "ExplosionType_Cannon_23mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_Eagle_23mm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 4.5,
           "stagger_radius": 6.5,
@@ -2175,6 +2247,7 @@
         {
           "type": "ExplosionType_APHE_30mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_30mm_APHE",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 4.5,
           "stagger_radius": 6,
@@ -2205,6 +2278,7 @@
         {
           "type": "ExplosionType_Flak_40mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_40mm_Flak",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3,
           "outer_radius": 12,
           "stagger_radius": 20,
@@ -2235,6 +2309,7 @@
         {
           "type": "ExplosionType_APHE_40mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Cannon_40mm_APHE",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 6,
           "stagger_radius": 8,
@@ -2265,6 +2340,7 @@
         {
           "type": "ExplosionType_OrbitalShot",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalShot",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.200000003,
           "outer_radius": 0.5,
           "stagger_radius": 4,
@@ -2296,6 +2372,7 @@
         {
           "type": "ExplosionType_OrbitalShot_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalShot_MK2",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.200000003,
           "outer_radius": 0.5,
           "stagger_radius": 4,
@@ -2327,6 +2404,7 @@
         {
           "type": "ExplosionType_OrbitalStrike",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalStrike",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3.29999995,
           "outer_radius": 10,
           "stagger_radius": 11,
@@ -2357,6 +2435,7 @@
         {
           "type": "ExplosionType_OrbitalStrike_Cheap",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalStrike",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3.29999995,
           "outer_radius": 10,
           "stagger_radius": 11,
@@ -2387,6 +2466,7 @@
         {
           "type": "ExplosionType_OrbitalBarrage",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalBarrage",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -2418,6 +2498,7 @@
         {
           "type": "ExplosionType_PrecisionStrike",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalBarrage",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -2449,6 +2530,7 @@
         {
           "type": "ExplosionType_OrbitalBarrage_Cheap",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalBarrage",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -2480,6 +2562,7 @@
         {
           "type": "ExplosionType_OrbitalBarrage_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalBarrage",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 12,
           "stagger_radius": 20,
@@ -2511,6 +2594,7 @@
         {
           "type": "ExplosionType_OrbitalStun",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalStun",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 13,
           "stagger_radius": 20,
@@ -2541,6 +2625,7 @@
         {
           "type": "ExplosionType_OrbitalStun_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalStun",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 13,
           "stagger_radius": 20,
@@ -2571,6 +2656,7 @@
         {
           "type": "ExplosionType_OrbitalStun_MK3",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalStun_MK2",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 20,
           "stagger_radius": 25,
@@ -2601,6 +2687,7 @@
         {
           "type": "ExplosionType_OrbitalGas",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalGas",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 15,
           "stagger_radius": 20,
@@ -2631,6 +2718,7 @@
         {
           "type": "ExplosionType_OrbitalGas_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalGas",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 15,
           "stagger_radius": 20,
@@ -2661,6 +2749,7 @@
         {
           "type": "ExplosionType_OrbitalGas_MK3",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalGas",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 15,
           "stagger_radius": 20,
@@ -2691,6 +2780,7 @@
         {
           "type": "ExplosionType_OrbitalSmoke",
           "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 5,
           "stagger_radius": 0,
@@ -2719,6 +2809,7 @@
         {
           "type": "ExplosionType_AirStrikeSmoke",
           "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 5,
           "stagger_radius": 0,
@@ -2747,6 +2838,7 @@
         {
           "type": "ExplosionType_OrbitalFlare",
           "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0,
           "outer_radius": 0,
           "stagger_radius": 0,
@@ -2775,6 +2867,7 @@
         {
           "type": "ExplosionType_Railcannon_Impact",
           "damage_type": "DamageInfoType_Explosion_Projectile_Railcannon",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.5,
           "outer_radius": 2.5,
           "stagger_radius": 10,
@@ -2805,6 +2898,7 @@
         {
           "type": "ExplosionType_HeavyShrapnel",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalShot",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3,
           "outer_radius": 6,
           "stagger_radius": 8,
@@ -2835,6 +2929,7 @@
         {
           "type": "ExplosionType_HeavyShrapnel_Clusterbombs",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalShot",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3,
           "outer_radius": 6,
           "stagger_radius": 8,
@@ -2865,6 +2960,7 @@
         {
           "type": "ExplosionType_HeavyShrapnel_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalShot_MK2",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.60000002,
           "outer_radius": 5,
           "stagger_radius": 7,
@@ -2895,6 +2991,7 @@
         {
           "type": "ExplosionType_MapBoundary",
           "damage_type": "DamageInfoType_Explosion_MapBoundary",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 10,
           "stagger_radius": 15,
@@ -2925,6 +3022,7 @@
         {
           "type": "ExplosionType_HellpodImpact",
           "damage_type": "DamageInfoType_Explosion_HellpodImpact",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.5,
           "outer_radius": 0.5,
           "stagger_radius": 3,
@@ -2955,6 +3053,7 @@
         {
           "type": "ExplosionType_HellpodImpact_Silent",
           "damage_type": "DamageInfoType_Explosion_HellpodImpact",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.5,
           "outer_radius": 0.5,
           "stagger_radius": 3,
@@ -2983,6 +3082,7 @@
         {
           "type": "ExplosionType_HellpodExplosion",
           "damage_type": "DamageInfoType_Explosion_HellpodExplosion",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 4,
           "stagger_radius": 12,
@@ -3013,6 +3113,7 @@
         {
           "type": "ExplosionType_Hellbomb",
           "damage_type": "DamageInfoType_Explosion_Hellbomb",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 17,
           "outer_radius": 25,
           "stagger_radius": 45,
@@ -3043,6 +3144,7 @@
         {
           "type": "ExplosionType_BackblastSmall",
           "damage_type": "DamageInfoType_Explosion_BackblastSmall",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 3,
@@ -3073,6 +3175,7 @@
         {
           "type": "ExplosionType_BackblastMedium",
           "damage_type": "DamageInfoType_Explosion_BackblastMedium",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 6,
           "stagger_radius": 7,
@@ -3103,6 +3206,7 @@
         {
           "type": "ExplosionType_BackblastLarge",
           "damage_type": "DamageInfoType_Explosion_BackblastLarge",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 8,
           "stagger_radius": 9,
@@ -3133,6 +3237,7 @@
         {
           "type": "ExplosionType_BackblastHuge",
           "damage_type": "DamageInfoType_Explosion_BackblastLarge",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 8,
           "stagger_radius": 9,
@@ -3163,6 +3268,7 @@
         {
           "type": "ExplosionType_Backblast_LargeConfined",
           "damage_type": "DamageInfoType_Explosion_BackblastNone",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.100000001,
           "outer_radius": 0.200000003,
           "stagger_radius": 1,
@@ -3193,6 +3299,7 @@
         {
           "type": "ExplosionType_RailgunOvercharge",
           "damage_type": "DamageInfoType_Explosion_RailgunOvercharge",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.400000006,
           "outer_radius": 2,
           "stagger_radius": 3,
@@ -3223,6 +3330,7 @@
         {
           "type": "ExplosionType_ClusterBomb",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalShot",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 10,
@@ -3254,6 +3362,7 @@
         {
           "type": "ExplosionType_EagleBomb_100kg",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_100kg",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 10,
           "stagger_radius": 14,
@@ -3285,6 +3394,7 @@
         {
           "type": "ExplosionType_EagleBomb_100kg_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_100kg",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 12,
           "stagger_radius": 16,
@@ -3316,6 +3426,7 @@
         {
           "type": "ExplosionType_EagleBomb_100kg_MK3",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_100kg_MK3",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 12,
           "stagger_radius": 17,
@@ -3347,6 +3458,7 @@
         {
           "type": "ExplosionType_EagleBomb_Napalm",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_Napalm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.60000002,
           "outer_radius": 8,
           "stagger_radius": 10,
@@ -3377,6 +3489,7 @@
         {
           "type": "ExplosionType_EagleBomb_Napalm_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_Napalm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 10,
           "stagger_radius": 15,
@@ -3407,6 +3520,7 @@
         {
           "type": "ExplosionType_EagleBomb_Napalm_MK3",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_Napalm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 10,
           "stagger_radius": 15,
@@ -3437,6 +3551,7 @@
         {
           "type": "ExplosionType_EagleBomb_500kg",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_500kg",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 6.69999981,
           "outer_radius": 20,
           "stagger_radius": 30,
@@ -3462,12 +3577,13 @@
           "status_volume_effect_audio_stop": 0,
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
-          "is_huge_explosion": 0,
+          "is_huge_explosion": 1,
           "look_for_audio_source_hijack": 0
         },
         {
           "type": "ExplosionType_EagleBomb_500kg_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_500kg",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 7.30000019,
           "outer_radius": 22,
           "stagger_radius": 40,
@@ -3493,12 +3609,13 @@
           "status_volume_effect_audio_stop": 0,
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
-          "is_huge_explosion": 0,
+          "is_huge_explosion": 1,
           "look_for_audio_source_hijack": 0
         },
         {
           "type": "ExplosionType_EagleBomb_500kg_MK3",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_500kg",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 8.30000019,
           "outer_radius": 25,
           "stagger_radius": 35,
@@ -3524,12 +3641,13 @@
           "status_volume_effect_audio_stop": 0,
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
-          "is_huge_explosion": 0,
+          "is_huge_explosion": 1,
           "look_for_audio_source_hijack": 0
         },
         {
           "type": "ExplosionType_EagleMissile",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleMissile",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 12,
           "stagger_radius": 15,
@@ -3560,6 +3678,7 @@
         {
           "type": "ExplosionType_FafMissile",
           "damage_type": "DamageInfoType_Explosion_Projectile_Missile_Faf",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 3,
           "stagger_radius": 6,
@@ -3590,6 +3709,7 @@
         {
           "type": "ExplosionType_FafMissile_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_Missile_Faf_MK2",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.5,
           "outer_radius": 5,
           "stagger_radius": 12,
@@ -3620,6 +3740,7 @@
         {
           "type": "ExplosionType_StingerMissile",
           "damage_type": "DamageInfoType_Explosion_Projectile_Missile_Stinger",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 12,
           "stagger_radius": 10,
@@ -3650,6 +3771,7 @@
         {
           "type": "ExplosionType_Mini_Missile_Silo",
           "damage_type": "DamageInfoType_Explosion_Projectile_MiniMissilesilo",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 6,
           "outer_radius": 18,
           "stagger_radius": 35,
@@ -3681,6 +3803,7 @@
         {
           "type": "ExplosionType_Mini_Missile_Silo_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_MiniMissilesilo",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 8.30000019,
           "outer_radius": 25,
           "stagger_radius": 35,
@@ -3712,6 +3835,7 @@
         {
           "type": "ExplosionType_Missile_66mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Missile_66mm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 4,
@@ -3742,6 +3866,7 @@
         {
           "type": "ExplosionType_Missile_66mm_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_Missile_66mm_MK2",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 4,
@@ -3772,6 +3897,7 @@
         {
           "type": "ExplosionType_Combat_Walker_Missile",
           "damage_type": "DamageInfoType_Explosion_Projectile_Missile_CombatWalker",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 4,
@@ -3781,7 +3907,7 @@
             5785840688840415542
           ],
           "particle_effect_path": 1812346106149005088,
-          "audio_event": 3372633690,
+          "audio_event": 3071971321,
           "crater_type": "TerrainDeformationType_Medium",
           "surface_impact_type": "SurfaceImpactType_projectile_explosive_he",
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
@@ -3802,6 +3928,7 @@
         {
           "type": "ExplosionType_Combat_Walker_Missile_MK2",
           "damage_type": "DamageInfoType_Explosion_Projectile_Missile_CombatWalker_MK2",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 4,
@@ -3811,7 +3938,7 @@
             5785840688840415542
           ],
           "particle_effect_path": 1812346106149005088,
-          "audio_event": 3372633690,
+          "audio_event": 3071971321,
           "crater_type": "TerrainDeformationType_Medium",
           "surface_impact_type": "SurfaceImpactType_projectile_explosive_he",
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
@@ -3832,6 +3959,7 @@
         {
           "type": "ExplosionType_Rocket_70mm_turret",
           "damage_type": "DamageInfoType_Explosion_Projectile_Rocket_70mm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.5,
           "outer_radius": 1,
           "stagger_radius": 8,
@@ -3862,6 +3990,7 @@
         {
           "type": "ExplosionType_Rocket_70mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Rocket_70mm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.5,
           "outer_radius": 1,
           "stagger_radius": 8,
@@ -3892,6 +4021,7 @@
         {
           "type": "ExplosionType_Rocket_70mm_HE",
           "damage_type": "DamageInfoType_Explosion_Projectile_Rocket_70mm_HE",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.60000002,
           "outer_radius": 5,
           "stagger_radius": 10,
@@ -3922,6 +4052,7 @@
         {
           "type": "ExplosionType_Rocket_110mm",
           "damage_type": "DamageInfoType_Explosion_Projectile_Rocket_110mm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.60000002,
           "outer_radius": 5,
           "stagger_radius": 8,
@@ -3952,6 +4083,7 @@
         {
           "type": "ExplosionType_Rocket_110mm_silent",
           "damage_type": "DamageInfoType_Explosion_Projectile_Rocket_110mm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.60000002,
           "outer_radius": 5,
           "stagger_radius": 8,
@@ -3982,6 +4114,7 @@
         {
           "type": "ExplosionType_CarpetBomb_200kg",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_500kg",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5.30000019,
           "outer_radius": 16,
           "stagger_radius": 20,
@@ -4013,6 +4146,7 @@
         {
           "type": "ExplosionType_Vehicle_Explosion_Small",
           "damage_type": "DamageInfoType_Explosion_Vehicle_SeSmallDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.300000012,
           "outer_radius": 4,
           "stagger_radius": 8,
@@ -4043,6 +4177,7 @@
         {
           "type": "ExplosionType_Vehicle_Explosion_Medium",
           "damage_type": "DamageInfoType_Explosion_Vehicle_SeMediumDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.600000024,
           "outer_radius": 7,
           "stagger_radius": 10,
@@ -4073,6 +4208,7 @@
         {
           "type": "ExplosionType_Vehicle_Explosion_Large",
           "damage_type": "DamageInfoType_Explosion_Vehicle_SeLargeDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.800000012,
           "outer_radius": 8,
           "stagger_radius": 12,
@@ -4101,8 +4237,40 @@
           "look_for_audio_source_hijack": 0
         },
         {
+          "type": "ExplosionType_Vehicle_Explosion_CombatWalker",
+          "damage_type": "DamageInfoType_Explosion_Vehicle_SeMediumDeath",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 0.600000024,
+          "outer_radius": 7,
+          "stagger_radius": 10,
+          "cone_angle": 0,
+          "camera_shake_radius": 30,
+          "shake_assets": [
+            5785840688840415542
+          ],
+          "particle_effect_path": 12859927357582562327,
+          "audio_event": 3655065528,
+          "crater_type": "TerrainDeformationType_Medium",
+          "surface_impact_type": "SurfaceImpactType_explosion_medium",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
+          "wind_effect_template": "WindEffectTemplate_MediumExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 1,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0
+        },
+        {
           "type": "ExplosionType_ContactMine",
           "damage_type": "DamageInfoType_Explosion_ContactMine",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.20000005,
           "outer_radius": 6,
           "stagger_radius": 9,
@@ -4133,6 +4301,7 @@
         {
           "type": "ExplosionType_IncendiaryMine",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_Incendiary",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 3,
@@ -4161,8 +4330,40 @@
           "look_for_audio_source_hijack": 0
         },
         {
+          "type": "ExplosionType_AntiTankMine",
+          "damage_type": "DamageInfoType_Explosion_AntiTankMine",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 1.20000005,
+          "outer_radius": 6,
+          "stagger_radius": 9,
+          "cone_angle": 0,
+          "camera_shake_radius": 50,
+          "shake_assets": [
+            5785840688840415542
+          ],
+          "particle_effect_path": 16735020561736124793,
+          "audio_event": 3380557084,
+          "crater_type": "TerrainDeformationType_Medium",
+          "surface_impact_type": "SurfaceImpactType_explosion_medium",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Small_Explosion_Frag",
+          "wind_effect_template": "WindEffectTemplate_MediumExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 0,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0
+        },
+        {
           "type": "ExplosionType_ContactMine_MK2",
           "damage_type": "DamageInfoType_Explosion_ContactMine_MK2",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.20000005,
           "outer_radius": 6,
           "stagger_radius": 9,
@@ -4193,6 +4394,7 @@
         {
           "type": "ExplosionType_ContactMine_Flash",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_Flash",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.800000012,
           "outer_radius": 8,
           "stagger_radius": 9,
@@ -4223,6 +4425,7 @@
         {
           "type": "ExplosionType_Bomb_Impact",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_Impact",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 3,
           "stagger_radius": 6,
@@ -4253,6 +4456,7 @@
         {
           "type": "ExplosionType_Bomb_Impact_Smoke",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_Impact",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 3,
           "stagger_radius": 6,
@@ -4283,6 +4487,7 @@
         {
           "type": "ExplosionType_500kg_Initial_Impact",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_Impact",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 3,
           "stagger_radius": 6,
@@ -4313,6 +4518,7 @@
         {
           "type": "ExplosionType_Turret_Destroyed",
           "damage_type": "DamageInfoType_Explosion_Turret_Destroyed",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.200000003,
           "outer_radius": 2,
           "stagger_radius": 6,
@@ -4343,6 +4549,7 @@
         {
           "type": "ExplosionType_Nuke",
           "damage_type": "DamageInfoType_Explosion_Hellbomb",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 40,
           "outer_radius": 75,
           "stagger_radius": 125,
@@ -4373,6 +4580,7 @@
         {
           "type": "ExplosionType_Flashield",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalStun",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 15,
           "stagger_radius": 15,
@@ -4401,6 +4609,7 @@
         {
           "type": "ExplosionType_SAM_Missile",
           "damage_type": "DamageInfoType_Explosion_SAM_Missile",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 10,
           "outer_radius": 20,
           "stagger_radius": 60,
@@ -4431,6 +4640,7 @@
         {
           "type": "ExplosionType_Grenade_Smoke",
           "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 5,
           "stagger_radius": 0,
@@ -4459,6 +4669,7 @@
         {
           "type": "ExplosionType_Primary_Airburst",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_Frag",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.5,
           "outer_radius": 3,
           "stagger_radius": 4,
@@ -4473,7 +4684,69 @@
           "surface_impact_type": "SurfaceImpactType_None",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 20,
-          "shrapnel_projectile_type": "ProjectileType_Shrapnel",
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
+          "wind_effect_template": "WindEffectTemplate_SmallExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 1,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0
+        },
+        {
+          "type": "ExplosionType_AirburstCluster",
+          "damage_type": "DamageInfoType_Explosion_HandGrenade_Frag",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 2,
+          "outer_radius": 5,
+          "stagger_radius": 7,
+          "cone_angle": 0,
+          "camera_shake_radius": 12,
+          "shake_assets": [
+            13713658642029338055
+          ],
+          "particle_effect_path": 7866571905921241714,
+          "audio_event": 3903701495,
+          "crater_type": "TerrainDeformationType_Scorch",
+          "surface_impact_type": "SurfaceImpactType_None",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 20,
+          "shrapnel_projectile_type": "ProjectileType_AirburstCluster_Bomb",
+          "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
+          "wind_effect_template": "WindEffectTemplate_SmallExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 1,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0
+        },
+        {
+          "type": "ExplosionType_Primary_Cluster",
+          "damage_type": "DamageInfoType_Explosion_HandGrenade_Frag",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 7,
+          "outer_radius": 15,
+          "stagger_radius": 20,
+          "cone_angle": 0,
+          "camera_shake_radius": 23,
+          "shake_assets": [
+            13713658642029338055
+          ],
+          "particle_effect_path": 7866571905921241714,
+          "audio_event": 3903701495,
+          "crater_type": "TerrainDeformationType_Scorch",
+          "surface_impact_type": "SurfaceImpactType_None",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 45,
+          "shrapnel_projectile_type": "ProjectileType_ClusterBomb_Bomb",
           "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
           "wind_effect_template": "WindEffectTemplate_SmallExplosion",
           "fire_template": "FireTemplate_None",
@@ -4489,6 +4762,7 @@
         {
           "type": "ExplosionType_Primary_ScatterShot",
           "damage_type": "DamageInfoType_Explosion_HandGrenade_Frag",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0,
           "outer_radius": 0.5,
           "stagger_radius": 0.75,
@@ -4519,6 +4793,7 @@
         {
           "type": "ExplosionType_SEAF_Gun_Explosive",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalBarrage",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -4550,6 +4825,7 @@
         {
           "type": "ExplosionType_SEAF_Gun_High_Yield_Explosive",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_500kg",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 6.69999981,
           "outer_radius": 20,
           "stagger_radius": 30,
@@ -4581,6 +4857,7 @@
         {
           "type": "ExplosionType_SEAF_Gun_Mini_Nuke",
           "damage_type": "DamageInfoType_Explosion_Hellbomb",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 17,
           "outer_radius": 25,
           "stagger_radius": 45,
@@ -4611,6 +4888,7 @@
         {
           "type": "ExplosionType_SEAF_Gun_Smoke",
           "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 13,
           "outer_radius": 13,
           "stagger_radius": 0,
@@ -4639,6 +4917,7 @@
         {
           "type": "ExplosionType_SEAF_Gun_Napalm",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_Napalm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.60000002,
           "outer_radius": 13,
           "stagger_radius": 20,
@@ -4669,6 +4948,7 @@
         {
           "type": "ExplosionType_SEAF_Gun_EMP",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalStun",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 13,
           "stagger_radius": 20,
@@ -4699,6 +4979,7 @@
         {
           "type": "ExplosionType_Illuminate_IllusionistDeath",
           "damage_type": "DamageInfoType_Explosion_Illuminate_AdeptCircle",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 1.5,
           "stagger_radius": 2,
@@ -4729,6 +5010,7 @@
         {
           "type": "ExplosionType_Illuminate_TripodDeath",
           "damage_type": "DamageInfoType_Explosion_Illuminate_AdeptCircle",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3,
           "outer_radius": 5,
           "stagger_radius": 4,
@@ -4759,6 +5041,7 @@
         {
           "type": "ExplosionType_Illuminate_Projectile_Huge",
           "damage_type": "DamageInfoType_Explosion_Illuminate_AdeptCircle",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 3,
           "outer_radius": 5,
           "stagger_radius": 7,
@@ -4789,6 +5072,7 @@
         {
           "type": "ExplosionType_Illuminate_IllusionistSmallball",
           "damage_type": "DamageInfoType_Explosion_Illuminate_SmallStun",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.75,
           "outer_radius": 1.5,
           "stagger_radius": 2,
@@ -4819,6 +5103,7 @@
         {
           "type": "ExplosionType_Illuminate_AdeptCircle",
           "damage_type": "DamageInfoType_Explosion_Illuminate_AdeptCircle",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.5,
           "outer_radius": 1.5,
           "stagger_radius": 1.60000002,
@@ -4849,6 +5134,7 @@
         {
           "type": "ExplosionType_AdeptShockwave",
           "damage_type": "DamageInfoType_Explosion_Illuminate_ShockWave",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 4,
           "outer_radius": 5,
           "stagger_radius": 6,
@@ -4879,6 +5165,7 @@
         {
           "type": "ExplosionType_Illuminate_Medium",
           "damage_type": "DamageInfoType_Explosion_Illuminate_OutcastBeam",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.5,
           "outer_radius": 1,
           "stagger_radius": 1.5,
@@ -4909,9 +5196,10 @@
         {
           "type": "ExplosionType_ICBM_takeoff",
           "damage_type": "DamageInfoType_Explosion_Icbm_Take_Off",
-          "inner_radius": 10,
-          "outer_radius": 20,
-          "stagger_radius": 30,
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 40,
+          "outer_radius": 50,
+          "stagger_radius": 40,
           "cone_angle": 0,
           "camera_shake_radius": 180,
           "shake_assets": [
@@ -4939,9 +5227,10 @@
         {
           "type": "ExplosionType_ICBM_takeoffIntense",
           "damage_type": "DamageInfoType_Explosion_Icbm_Take_Off_Intense",
-          "inner_radius": 5,
-          "outer_radius": 10,
-          "stagger_radius": 12,
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 14,
+          "outer_radius": 30,
+          "stagger_radius": 32,
           "cone_angle": 0,
           "camera_shake_radius": 0,
           "shake_assets": [],
@@ -4967,6 +5256,7 @@
         {
           "type": "ExplosionType_ICBM_explode",
           "damage_type": "DamageInfoType_Explosion_ICBM_explode",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 15,
           "outer_radius": 30,
           "stagger_radius": 40,
@@ -4997,6 +5287,7 @@
         {
           "type": "ExplosionType_Prop_Small",
           "damage_type": "DamageInfoType_Explosion_Prop_Small",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.75,
           "outer_radius": 1.5,
           "stagger_radius": 2.5,
@@ -5027,6 +5318,7 @@
         {
           "type": "ExplosionType_Prop_Medium",
           "damage_type": "DamageInfoType_Explosion_Prop_Medium",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 3,
@@ -5057,6 +5349,7 @@
         {
           "type": "ExplosionType_Prop_Large",
           "damage_type": "DamageInfoType_Explosion_Prop_Large",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 5,
           "stagger_radius": 6,
@@ -5087,6 +5380,7 @@
         {
           "type": "ExplosionType_Prop_Huge",
           "damage_type": "DamageInfoType_Explosion_Prop_Huge",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 16,
           "outer_radius": 32,
           "stagger_radius": 40,
@@ -5117,6 +5411,7 @@
         {
           "type": "ExplosionType_Building_Crumble_Small",
           "damage_type": "DamageInfoType_Explosion_Building_Small",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 7,
           "outer_radius": 14,
           "stagger_radius": 18,
@@ -5147,6 +5442,7 @@
         {
           "type": "ExplosionType_Building_Crumble_Medium",
           "damage_type": "DamageInfoType_Explosion_Building_Medium",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 9,
           "outer_radius": 18,
           "stagger_radius": 23,
@@ -5177,6 +5473,7 @@
         {
           "type": "ExplosionType_Building_Crumble_Large",
           "damage_type": "DamageInfoType_Explosion_Building_Large",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 11,
           "outer_radius": 22,
           "stagger_radius": 26,
@@ -5207,6 +5504,7 @@
         {
           "type": "ExplosionType_Building_Crumble_Huge",
           "damage_type": "DamageInfoType_Explosion_Building_Huge",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 13,
           "outer_radius": 26,
           "stagger_radius": 30,
@@ -5237,6 +5535,7 @@
         {
           "type": "ExplosionType_BugDrill",
           "damage_type": "DamageInfoType_Explosion_BugDrill",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 20,
           "outer_radius": 30,
           "stagger_radius": 50,
@@ -5267,6 +5566,7 @@
         {
           "type": "ExplosionType_fueltank_large",
           "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalBarrage",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 6,
           "outer_radius": 12,
           "stagger_radius": 18,
@@ -5297,6 +5597,7 @@
         {
           "type": "ExplosionType_OilField",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_Napalm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.39999998,
           "outer_radius": 7,
           "stagger_radius": 10,
@@ -5327,6 +5628,7 @@
         {
           "type": "ExplosionType_Barrel_Small",
           "damage_type": "DamageInfoType_Explosion_Prop_Barrel",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.200000003,
           "outer_radius": 1,
           "stagger_radius": 3,
@@ -5357,6 +5659,7 @@
         {
           "type": "ExplosionType_Barrel_Medium",
           "damage_type": "DamageInfoType_Explosion_Prop_Barrel",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.400000006,
           "outer_radius": 4,
           "stagger_radius": 12,
@@ -5387,6 +5690,7 @@
         {
           "type": "ExplosionType_Barrel_Large",
           "damage_type": "DamageInfoType_Explosion_Prop_Barrel",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.600000024,
           "outer_radius": 6,
           "stagger_radius": 15,
@@ -5417,6 +5721,7 @@
         {
           "type": "ExplosionType_Chemical_Backpack",
           "damage_type": "DamageInfoType_Explosion_Prop_Barrel",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.400000006,
           "outer_radius": 4,
           "stagger_radius": 12,
@@ -5447,6 +5752,7 @@
         {
           "type": "ExplosionType_Ammo_Cache",
           "damage_type": "DamageInfoType_Explosion_Projectile_CyborgHeavyCannon",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 18,
           "stagger_radius": 30,
@@ -5478,6 +5784,7 @@
         {
           "type": "ExplosionType_Cyborg_Fuel_Silo",
           "damage_type": "DamageInfoType_Explosion_Vehicle_CyborgMediumDeath",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 8,
           "stagger_radius": 18,
@@ -5509,6 +5816,7 @@
         {
           "type": "ExplosionType_Tower_Collapse",
           "damage_type": "DamageInfoType_Explosion_Tower_Collapse",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 20,
           "outer_radius": 40,
           "stagger_radius": 70,
@@ -5539,6 +5847,7 @@
         {
           "type": "ExplosionType_Dummy",
           "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.100000001,
           "outer_radius": 0.100000001,
           "stagger_radius": 0.100000001,
@@ -5567,6 +5876,7 @@
         {
           "type": "ExplosionType_Geyser_Erupt_Small",
           "damage_type": "DamageInfoType_Explosion_Geyser_Erupt",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.800000012,
           "outer_radius": 1.25,
           "stagger_radius": 2.5,
@@ -5597,6 +5907,7 @@
         {
           "type": "ExplosionType_Geyser_Erupt_Medium",
           "damage_type": "DamageInfoType_Explosion_Geyser_Erupt",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.29999995,
           "outer_radius": 2,
           "stagger_radius": 3.5,
@@ -5627,6 +5938,7 @@
         {
           "type": "ExplosionType_Geyser_Erupt_Large",
           "damage_type": "DamageInfoType_Explosion_Geyser_Erupt",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2.5,
           "outer_radius": 3.5,
           "stagger_radius": 4.5,
@@ -5657,24 +5969,25 @@
         {
           "type": "ExplosionType_World_Meteor",
           "damage_type": "DamageInfoType_Explosion_Projectile_WorldMeteor",
-          "inner_radius": 2,
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 3.5,
           "outer_radius": 10,
           "stagger_radius": 17,
           "cone_angle": 0,
           "camera_shake_radius": 95,
           "shake_assets": [
-            5785840688840415542,
+            4859335918958498102,
             18018031293114263148
           ],
           "particle_effect_path": 14059678945051799379,
-          "audio_event": 1341034557,
-          "crater_type": "TerrainDeformationType_Medium",
+          "audio_event": 2658866094,
+          "crater_type": "TerrainDeformationType_Large",
           "surface_impact_type": "SurfaceImpactType_None",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
           "noise_template": "NoiseTemplate_Large_Explosion_Orbital",
-          "wind_effect_template": "WindEffectTemplate_None",
+          "wind_effect_template": "WindEffectTemplate_MediumExplosion",
           "fire_template": "FireTemplate_None",
           "persistent_status_volume": "StatusEffectTemplateType_None",
           "status_volume_effect_time": 0,
@@ -5688,6 +6001,7 @@
         {
           "type": "ExplosionType_World_Escape_Pod_Crash",
           "damage_type": "DamageInfoType_Explosion_EscapePodCrash",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 5,
           "stagger_radius": 10,
@@ -5719,13 +6033,14 @@
         {
           "type": "ExplosionType_World_Earthquake",
           "damage_type": "DamageInfoType_Explosion_Earthquake",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 45,
           "outer_radius": 50,
           "stagger_radius": 55,
           "cone_angle": 0,
           "camera_shake_radius": 60,
           "shake_assets": [
-            18018031293114263148
+            7568853609049256501
           ],
           "particle_effect_path": 0,
           "audio_event": 0,
@@ -5749,6 +6064,7 @@
         {
           "type": "ExplosionType_GasChimney",
           "damage_type": "DamageInfoType_Explosion_Projectile_EagleBomb_Napalm",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1.39999998,
           "outer_radius": 7,
           "stagger_radius": 10,
@@ -5779,6 +6095,7 @@
         {
           "type": "ExplosionType_World_VolcanoStrike",
           "damage_type": "DamageInfoType_Explosion_Projectile_WorldMeteor",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 10,
           "stagger_radius": 17,
@@ -5789,14 +6106,14 @@
             18018031293114263148
           ],
           "particle_effect_path": 12003204301968317755,
-          "audio_event": 1341034557,
+          "audio_event": 624070605,
           "crater_type": "TerrainDeformationType_Medium",
           "surface_impact_type": "SurfaceImpactType_None",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
           "noise_template": "NoiseTemplate_Large_Explosion_Orbital",
-          "wind_effect_template": "WindEffectTemplate_None",
+          "wind_effect_template": "WindEffectTemplate_MediumExplosion",
           "fire_template": "FireTemplate_Large",
           "persistent_status_volume": "StatusEffectTemplateType_None",
           "status_volume_effect_time": 0,
@@ -5810,6 +6127,7 @@
         {
           "type": "ExplosionType_HellDummy",
           "damage_type": "DamageInfoType_Explosion_HellDummy",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 3,
@@ -5840,6 +6158,7 @@
         {
           "type": "ExplosionType_MoorMushroom_Smoke",
           "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 5,
           "outer_radius": 5,
           "stagger_radius": 0,
@@ -5868,6 +6187,7 @@
         {
           "type": "ExplosionType_MoorMushroom_Burst",
           "damage_type": "DamageInfoType_Explosion_MoorMushroom_Burst",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 7,
           "outer_radius": 8,
           "stagger_radius": 9,
@@ -5896,8 +6216,40 @@
           "look_for_audio_source_hijack": 0
         },
         {
+          "type": "ExplosionType_EmbryoCluster_Burst",
+          "damage_type": "DamageInfoType_Explosion_EmbryoCluster_Burst",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 1,
+          "outer_radius": 10,
+          "stagger_radius": 9,
+          "cone_angle": 0,
+          "camera_shake_radius": 15,
+          "shake_assets": [
+            13713658642029338055
+          ],
+          "particle_effect_path": 7219159158307390925,
+          "audio_event": 2121763313,
+          "crater_type": "TerrainDeformationType_None",
+          "surface_impact_type": "SurfaceImpactType_explosion_small",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
+          "wind_effect_template": "WindEffectTemplate_SmallExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_Smoke",
+          "status_volume_effect_time": 20,
+          "status_volume_effect_audio_play": 1682357546,
+          "status_volume_effect_audio_stop": 3316272171,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 1,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0
+        },
+        {
           "type": "ExplosionType_Snowball_Stun",
           "damage_type": "DamageInfoType_Explosion_Projectile_Snowball",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 1,
           "stagger_radius": 1,
@@ -5928,6 +6280,7 @@
         {
           "type": "ExplosionType_Spikeplant_Shrapnel_Explosion",
           "damage_type": "DamageInfoType_Explosion_Spikeplant_Shrapnel_Explosion",
+          "fallback_damage_loc_name": 1236481912,
           "inner_radius": 2,
           "outer_radius": 8,
           "stagger_radius": 8,
@@ -5958,8 +6311,9 @@
         {
           "type": "ExplosionType_Iceplant_Shatter",
           "damage_type": "DamageInfoType_Explosion_Iceplant_Shatter",
+          "fallback_damage_loc_name": 1236481912,
           "inner_radius": 2.5,
-          "outer_radius": 5,
+          "outer_radius": 4.94999981,
           "stagger_radius": 3,
           "cone_angle": 0,
           "camera_shake_radius": 6,
@@ -5988,6 +6342,7 @@
         {
           "type": "ExplosionType_Conscript_Backpack_Explosion",
           "damage_type": "DamageInfoType_Explosion_Prop_Barrel",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 2,
           "outer_radius": 3,
           "stagger_radius": 3,
@@ -6018,8 +6373,9 @@
         {
           "type": "ExplosionType_Conscript_Backpack_LMG",
           "damage_type": "DamageInfoType_Explosion_Prop_Barrel",
-          "inner_radius": 0.200000003,
-          "outer_radius": 1,
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 0.699999988,
+          "outer_radius": 1.5,
           "stagger_radius": 3,
           "cone_angle": 0,
           "camera_shake_radius": 50,
@@ -6048,6 +6404,7 @@
         {
           "type": "ExplosionType_Conscript_Backpack_Flamer",
           "damage_type": "DamageInfoType_Explosion_Prop_Barrel",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 0.400000006,
           "outer_radius": 4,
           "stagger_radius": 12,
@@ -6078,6 +6435,7 @@
         {
           "type": "ExplosionType_StaticField_Sentry",
           "damage_type": "DamageInfoType_Explosion_Prop_Medium",
+          "fallback_damage_loc_name": 0,
           "inner_radius": 1,
           "outer_radius": 2,
           "stagger_radius": 3,

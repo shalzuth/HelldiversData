@@ -1146,8 +1146,8 @@
         "dead_thruster_power": 0.200000003
       }
     ],
-    "force_to_wanted_direction_magnitude": 10,
-    "force_to_wanted_forward_magnitude": 5,
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
     "rotation_started_sound": 0,
     "rotation_stopped_sound": 0,
     "thrust_started_sound": 609113699,

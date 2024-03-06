@@ -9,6 +9,7 @@
     "area_size" : { "type": "float", "default": 0, "description": "A random offset applied to a bomb position, not affecting the salvo's wandering." },
     "wander_start_area_radius" : { "type": "float", "default": 0, "description": "The maximum extents of the bombardment's initial wander offset." },
     "fire_height" : { "type": "float", "default": 3000, "description": "A fixed height from where the bombs will be fired." },
+    "firing_angle_offset" : { "type": "CApiVector3", "description": "a vector offset to apply to the firing direction of the bombs" },
     "fire_from_ship" : { "type": "byte", "description": "[bool]Whether to fire from the ship's position, or from straight above." },
     "projectile_types" : { "type": "array", "subtype": "ProjectileType", "description": "Type of projectile it fires. If more than one is specified, it will act like a pattern until the salvoe ends." },
     "speed" : { "type": "float", "default": 0, "description": "The forward speed of the bombardment, if it has any. Used on stratagems like the Walking Barrage." },

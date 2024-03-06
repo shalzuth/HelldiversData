@@ -20,6 +20,7 @@
     "Tag_CanHellpodAttachTo",
     "Tag_TwoHandedThrowable",
     "Tag_AIObjectiveTarget",
+    "Tag_AISpecialObjectiveTarget",
     "Tag_CanArc",
     "Tag_NoTransportDeployment",
     "Tag_NoAimAssist",
@@ -28,5 +29,6 @@
     "Tag_InvalidEnemyTarget",
     "Tag_CanBeLockedOn",
     "Tag_NoStatTracking",
-    "Tag_SuitableMeleeTarget"
+    "Tag_SuitableMeleeTarget",
+    "Tag_DamageSourceAsDangerOwner"
 ]}

@@ -22,5 +22,6 @@
     "hide_from_map_if_inactive" : { "type": "byte", "description": "[bool]If true then this objective is hidden from map when inactive" },
     "base_counts_per_difficulty" : { "type": "array", "subtype": "float", "description": "For objectives such as kill/horde, this is the base counts for each difficulty to use" },
     "tiers" : { "type": "uint", "description": "For tiered objectives, where you can be rewarded for partial progress if reaching certain milestones" },
-    "info_range" : { "type": "float", "default": -1, "description": "If the player is within this range, the objective info will show up on the HUD. If set to -1, will default to stamp range." }
+    "info_range" : { "type": "float", "default": -1, "description": "If the player is within this range, the objective info will show up on the HUD. If set to -1, will default to stamp range." },
+    "always_show_info_on_hud_when_in_range" : { "type": "byte", "description": "[bool]Default behavior is that info is only shown for the closest objective that is in range - This will force it to always show info for this objective, if it is in range." }
 }}

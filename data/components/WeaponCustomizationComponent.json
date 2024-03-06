@@ -6,6 +6,8 @@
     "magazine_secondary_path" : { "type": "ulong", "description": "[unit]Path to the second magazine unit." },
     "muzzle_path" : { "type": "ulong", "description": "[unit]Path to the muzzle unit." },
     "optics_crosshair_params" : { "type": "CApiVector2", "description": "Offset and scale applied to the crosshair node in the optics unit. X=Forward offset, Y=Scale." },
+    "scoped_shading_environment" : { "type": "ulong", "description": "The shading environment to use when in FPV." },
+    "scoped_blur_shading_environment" : { "type": "ulong", "description": "Same as 'scoped_shading_environment' but only when aiming + sets the property keys: 'dof_focal_far_max' and 'dof_focal_far_max_close'." },
     "underbarrel_path" : { "type": "ulong", "description": "[adhd]Path to the underbarrel entity." },
     "material_override" : { "type": "WeaponMaterialOverride", "description": "Overrides the base material of the weapon." },
     "trigger_settings" : { "type": "WeaponTriggerSettings", "description": "Set trigger settings" },

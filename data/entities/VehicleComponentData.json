@@ -358,6 +358,8 @@
     ],
     "track_animation": 0,
     "audio_source": 3914912840,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 2476017846,
     "audio_engine_stopped": 1121656677,
     "weathering_settings": {
@@ -1271,6 +1273,8 @@
     ],
     "track_animation": 0,
     "audio_source": 2748617169,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 3603541428,
     "audio_engine_stopped": 2976907205,
     "weathering_settings": {
@@ -2184,6 +2188,8 @@
     ],
     "track_animation": 0,
     "audio_source": 3914912840,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 3189365771,
     "audio_engine_stopped": 1623515471,
     "weathering_settings": {
@@ -3097,6 +3103,8 @@
     ],
     "track_animation": 0,
     "audio_source": 0,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 0,
     "audio_engine_stopped": 0,
     "weathering_settings": {
@@ -4010,6 +4018,8 @@
     ],
     "track_animation": 0,
     "audio_source": 2601604451,
+    "hud_icon_left": 833735172302466439,
+    "hud_icon_right": 10319114769240994551,
     "audio_engine_started": 3396146889,
     "audio_engine_stopped": 1017834535,
     "weathering_settings": {
@@ -4557,7 +4567,7 @@
       "StatusEffectType_None"
     ],
     "landing_in_air_time_threshold": 0.5,
-    "landing_impact_type": "SurfaceImpactType_crash_large",
+    "landing_impact_type": "SurfaceImpactType_combat_walker_land",
     "landing_animation_event": 1107741862,
     "falling_animation_event": 2060259718,
     "ignore_vehicle_motion_constraint": 0,
@@ -4923,6 +4933,8 @@
     ],
     "track_animation": 0,
     "audio_source": 2601604451,
+    "hud_icon_left": 12821817234771031647,
+    "hud_icon_right": 12821817234771031647,
     "audio_engine_started": 3396146889,
     "audio_engine_stopped": 1017834535,
     "weathering_settings": {
@@ -5470,7 +5482,7 @@
       "StatusEffectType_None"
     ],
     "landing_in_air_time_threshold": 0.5,
-    "landing_impact_type": "SurfaceImpactType_crash_large",
+    "landing_impact_type": "SurfaceImpactType_combat_walker_land",
     "landing_animation_event": 1107741862,
     "falling_animation_event": 2060259718,
     "ignore_vehicle_motion_constraint": 0,
@@ -5836,6 +5848,8 @@
     ],
     "track_animation": 0,
     "audio_source": 0,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 0,
     "audio_engine_stopped": 0,
     "weathering_settings": {
@@ -6749,6 +6763,8 @@
     ],
     "track_animation": 0,
     "audio_source": 0,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 0,
     "audio_engine_stopped": 0,
     "weathering_settings": {
@@ -7662,6 +7678,8 @@
     ],
     "track_animation": 0,
     "audio_source": 0,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 0,
     "audio_engine_stopped": 0,
     "weathering_settings": {
@@ -8575,6 +8593,8 @@
     ],
     "track_animation": 0,
     "audio_source": 0,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 0,
     "audio_engine_stopped": 0,
     "weathering_settings": {
@@ -9488,6 +9508,8 @@
     ],
     "track_animation": 0,
     "audio_source": 2601604451,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 0,
     "audio_engine_stopped": 0,
     "weathering_settings": {
@@ -10401,6 +10423,8 @@
     ],
     "track_animation": 0,
     "audio_source": 2748617169,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 3603541428,
     "audio_engine_stopped": 2976907205,
     "weathering_settings": {
@@ -11314,6 +11338,8 @@
     ],
     "track_animation": 0,
     "audio_source": 0,
+    "hud_icon_left": 0,
+    "hud_icon_right": 0,
     "audio_engine_started": 0,
     "audio_engine_stopped": 0,
     "weathering_settings": {

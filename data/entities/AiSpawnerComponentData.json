@@ -958,13 +958,13 @@
     "spawn_flag": "AiEnemyFlag_None",
     "ability_activate": "AbilityId_Invalid",
     "ability_deactivate": "AbilityId_Invalid",
-    "ability_spawn_start": "AbilityId_Invalid",
-    "ability_spawn_done": "AbilityId_Invalid",
-    "spawn_start_duration": 4,
-    "spawn_stop_duration": 2,
+    "ability_spawn_start": "AbilityId_cyborg_production_spawn_gunship_start",
+    "ability_spawn_done": "AbilityId_cyborg_production_spawn_gunship_stop",
+    "spawn_start_duration": 0,
+    "spawn_stop_duration": 0,
     "spawn_lanes": [
       {
-        "ability": "AbilityId_Invalid",
+        "ability": "AbilityId_cyborg_gunship_spawned",
         "ability_spawn": "AbilityId_Invalid",
         "node": 222832806,
         "attach_spawn_to_node": 0

@@ -1,4 +1,204 @@
 {
+  "16983968416304026806": {
+    "angle": 25,
+    "offset": 1,
+    "type": "ExplosionType_BackblastMedium",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "15986416455258940649": {
+    "angle": 25,
+    "offset": 1,
+    "type": "ExplosionType_BackblastSmall",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "9388736439472594613": {
+    "angle": 20,
+    "offset": 1,
+    "type": "ExplosionType_BackblastSmall",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
+    "particle_effect": {
+      "particle_effect": 9062662378501246943,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 1372059753,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_Stop",
+      "inherit_rotation": 1,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "11493422068836852751": {
+    "angle": 20,
+    "offset": 0.939999998,
+    "type": "ExplosionType_BackblastLarge",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "9264801226655597011": {
+    "angle": 20,
+    "offset": 1.14999998,
+    "type": "ExplosionType_BackblastMedium",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "2802369506329449110": {
+    "angle": 20,
+    "offset": 0.939999998,
+    "type": "ExplosionType_BackblastLarge",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "3965302274531977670": {
+    "angle": 20,
+    "offset": 0.75,
+    "type": "ExplosionType_BackblastMedium",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "18353518081541416628": {
+    "angle": 20,
+    "offset": 1.5,
+    "type": "ExplosionType_BackblastLarge",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
   "9375653687096917621": {
     "angle": 20,
     "offset": 1,
@@ -24,10 +224,35 @@
       "spawn_on_camera": 0
     }
   },
-  "9788122224441672733": {
-    "angle": 25,
+  "6707034374626068020": {
+    "angle": 15,
+    "offset": 5.5,
+    "type": "ExplosionType_BackblastHuge",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "6453678319562593995": {
+    "angle": 20,
     "offset": 1,
-    "type": "ExplosionType_BackblastMedium",
+    "type": "ExplosionType_BackblastSmall",
     "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
     "particle_effect": {
       "particle_effect": 0,
@@ -49,7 +274,7 @@
       "spawn_on_camera": 0
     }
   },
-  "5941497820588716999": {
+  "12230089266536517899": {
     "angle": 25,
     "offset": 1,
     "type": "ExplosionType_BackblastMedium",
@@ -99,86 +324,86 @@
       "spawn_on_camera": 0
     }
   },
-  "9264801226655597011": {
-    "angle": 20,
-    "offset": 1.14999998,
-    "type": "ExplosionType_BackblastMedium",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "18353518081541416628": {
-    "angle": 20,
-    "offset": 1.5,
-    "type": "ExplosionType_BackblastLarge",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "6707034374626068020": {
-    "angle": 15,
-    "offset": 5.5,
-    "type": "ExplosionType_BackblastHuge",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "12230089266536517899": {
+  "14105421989938913075": {
     "angle": 25,
     "offset": 1,
     "type": "ExplosionType_BackblastMedium",
     "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "5941497820588716999": {
+    "angle": 25,
+    "offset": 1,
+    "type": "ExplosionType_BackblastMedium",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "9788122224441672733": {
+    "angle": 25,
+    "offset": 1,
+    "type": "ExplosionType_BackblastMedium",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
+    "particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    }
+  },
+  "11654668915819557853": {
+    "angle": 15,
+    "offset": 5.5,
+    "type": "ExplosionType_BackblastHuge",
+    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
     "particle_effect": {
       "particle_effect": 0,
       "offset": {
@@ -228,206 +453,6 @@
     "angle": 25,
     "offset": 1,
     "type": "ExplosionType_BackblastSmall",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "11654668915819557853": {
-    "angle": 15,
-    "offset": 5.5,
-    "type": "ExplosionType_BackblastHuge",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "3965302274531977670": {
-    "angle": 20,
-    "offset": 0.75,
-    "type": "ExplosionType_BackblastMedium",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "6453678319562593995": {
-    "angle": 20,
-    "offset": 1,
-    "type": "ExplosionType_BackblastSmall",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "16983968416304026806": {
-    "angle": 25,
-    "offset": 1,
-    "type": "ExplosionType_BackblastMedium",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "9388736439472594613": {
-    "angle": 20,
-    "offset": 1,
-    "type": "ExplosionType_BackblastSmall",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
-    "particle_effect": {
-      "particle_effect": 9062662378501246943,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 1372059753,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_Stop",
-      "inherit_rotation": 1,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "15986416455258940649": {
-    "angle": 25,
-    "offset": 1,
-    "type": "ExplosionType_BackblastSmall",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "11493422068836852751": {
-    "angle": 20,
-    "offset": 0.939999998,
-    "type": "ExplosionType_BackblastLarge",
-    "shockwave_type": "SurfaceImpactType_weapon_shockwave_backblast",
-    "particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    }
-  },
-  "14105421989938913075": {
-    "angle": 25,
-    "offset": 1,
-    "type": "ExplosionType_BackblastMedium",
     "shockwave_type": "SurfaceImpactType_weapon_shockwave_medium",
     "particle_effect": {
       "particle_effect": 0,

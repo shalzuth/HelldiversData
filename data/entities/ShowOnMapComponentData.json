@@ -1,27 +1,51 @@
 {
-  "4447782889858555354": {
+  "5763536790522227960": {
     "start_revealed": 0,
-    "is_discoverable": 1,
-    "icon": 443331287904090859,
-    "discovery_cleared_icon": 0,
-    "size_x": 32,
-    "size_y": 32,
-    "use_world_coord_size": 0,
-    "loc_string": 910757278,
-    "is_discovery_location": 0,
-    "revealed_by_map_pulse": 1
-  },
-  "963627585262025575": {
-    "start_revealed": 0,
-    "is_discoverable": 1,
+    "is_discoverable": 0,
     "icon": 15459301811813320676,
     "discovery_cleared_icon": 0,
     "size_x": 32,
     "size_y": 32,
     "use_world_coord_size": 0,
-    "loc_string": 3664780818,
+    "loc_string": 135325812,
     "is_discovery_location": 0,
     "revealed_by_map_pulse": 1
+  },
+  "13803685151943133100": {
+    "start_revealed": 0,
+    "is_discoverable": 0,
+    "icon": 8459123324008576555,
+    "discovery_cleared_icon": 0,
+    "size_x": 64,
+    "size_y": 64,
+    "use_world_coord_size": 0,
+    "loc_string": 0,
+    "is_discovery_location": 0,
+    "revealed_by_map_pulse": 0
+  },
+  "9777107062777261843": {
+    "start_revealed": 0,
+    "is_discoverable": 1,
+    "icon": 12244420657664932688,
+    "discovery_cleared_icon": 11124759105755669199,
+    "size_x": 32,
+    "size_y": 32,
+    "use_world_coord_size": 0,
+    "loc_string": 32661982,
+    "is_discovery_location": 1,
+    "revealed_by_map_pulse": 0
+  },
+  "3572349364299675891": {
+    "start_revealed": 0,
+    "is_discoverable": 0,
+    "icon": 1631563128112403805,
+    "discovery_cleared_icon": 0,
+    "size_x": 64,
+    "size_y": 64,
+    "use_world_coord_size": 0,
+    "loc_string": 0,
+    "is_discovery_location": 0,
+    "revealed_by_map_pulse": 0
   },
   "9258220220468961691": {
     "start_revealed": 0,
@@ -59,28 +83,40 @@
     "is_discovery_location": 1,
     "revealed_by_map_pulse": 0
   },
-  "5763536790522227960": {
+  "14112507246362999093": {
+    "start_revealed": 1,
+    "is_discoverable": 1,
+    "icon": 8459123324008576555,
+    "discovery_cleared_icon": 0,
+    "size_x": 64,
+    "size_y": 64,
+    "use_world_coord_size": 0,
+    "loc_string": 0,
+    "is_discovery_location": 0,
+    "revealed_by_map_pulse": 1
+  },
+  "4447782889858555354": {
     "start_revealed": 0,
-    "is_discoverable": 0,
+    "is_discoverable": 1,
+    "icon": 443331287904090859,
+    "discovery_cleared_icon": 0,
+    "size_x": 32,
+    "size_y": 32,
+    "use_world_coord_size": 0,
+    "loc_string": 910757278,
+    "is_discovery_location": 0,
+    "revealed_by_map_pulse": 1
+  },
+  "963627585262025575": {
+    "start_revealed": 0,
+    "is_discoverable": 1,
     "icon": 15459301811813320676,
     "discovery_cleared_icon": 0,
     "size_x": 32,
     "size_y": 32,
     "use_world_coord_size": 0,
-    "loc_string": 135325812,
+    "loc_string": 3664780818,
     "is_discovery_location": 0,
     "revealed_by_map_pulse": 1
-  },
-  "9777107062777261843": {
-    "start_revealed": 0,
-    "is_discoverable": 1,
-    "icon": 12244420657664932688,
-    "discovery_cleared_icon": 11124759105755669199,
-    "size_x": 32,
-    "size_y": 32,
-    "use_world_coord_size": 0,
-    "loc_string": 32661982,
-    "is_discovery_location": 1,
-    "revealed_by_map_pulse": 0
   }
 }

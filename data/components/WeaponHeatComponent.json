@@ -17,6 +17,7 @@
     "charge_gain_per_second" : { "type": "float", "default": 100, "description": "Amount of charge added to the weapon per second while holding the trigger." },
     "charge_loss_per_second" : { "type": "float", "default": 100, "description": "Amount of charge removed from the weapon per second while not holding the trigger." },
     "reset_charge_after_shot" : { "type": "byte", "description": "[bool]Should set the charge to 0 after each shot?." },
+    "charging_triggers_dry_fire_events" : { "type": "byte", "description": "[bool]Used only for specific weapons that needs to trigger dry fire events when charging" },
     "owner_warning_vo_event" : { "type": "uint", "default": 267052615, "description": "[string]The VO Event to play on owner when the beam weapon reaches warning level." },
     "owner_overheat_vo_event" : { "type": "uint", "default": 3049724096, "description": "[string]The VO Event to play on owner when the beam weapon gets overheated." },
     "min_reload_temperature" : { "type": "float", "default": 0, "description": "How much temperature do we need before we can reload" },

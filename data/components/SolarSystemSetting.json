@@ -6,5 +6,6 @@
     "nighttime_reflectance_intensity_multipler" : { "type": "float", "default": 0.2 },
     "fallback_light_color" : { "type": "CApiVector3" },
     "fallback_light_intensity" : { "type": "float", "default": 2 },
+    "fallback_fog_light_intensity" : { "type": "float", "default": 1 },
     "needs_packages" : { "type": "array", "subtype": "ulong" }
 }}

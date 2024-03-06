@@ -1,44 +1,4 @@
 {
-  "11493422068836852751": {
-    "reloader_ability": "AbilityId_assisted_reload_recoilless_loader",
-    "reloadee_ability": "AbilityId_assisted_reload_recoilless_wielder",
-    "interpolation_speed_aim": 0.100000001,
-    "interpolation_speed_firing": 0.0500000007,
-    "requires_clearing": 0,
-    "reload_amount": 1,
-    "reload_cost": 1,
-    "attach_offset": {
-      "x": -0.25,
-      "y": -0.680000007,
-      "z": 0
-    },
-    "attach_rotation": {
-      "x": 0,
-      "y": 0,
-      "z": 90
-    },
-    "reloader_idle_animation_event": 272961931,
-    "attach_offset_crouch": {
-      "x": -0.25,
-      "y": -0.879999995,
-      "z": 0
-    },
-    "attach_rotation_crouch": {
-      "x": 0,
-      "y": 0,
-      "z": 90
-    },
-    "attach_offset_prone": {
-      "x": 0,
-      "y": -1.14999998,
-      "z": 0
-    },
-    "attach_rotation_prone": {
-      "x": 0,
-      "y": 0,
-      "z": 90
-    }
-  },
   "12164217308285983839": {
     "reloader_ability": "AbilityId_complex_assisted_reload_autocannon_loader",
     "reloadee_ability": "AbilityId_complex_assisted_reload_autocannon_wielder",
@@ -61,6 +21,46 @@
     "attach_offset_crouch": {
       "x": 0.25,
       "y": -0.850000024,
+      "z": 0
+    },
+    "attach_rotation_crouch": {
+      "x": 0,
+      "y": 0,
+      "z": 90
+    },
+    "attach_offset_prone": {
+      "x": 0,
+      "y": -1.14999998,
+      "z": 0
+    },
+    "attach_rotation_prone": {
+      "x": 0,
+      "y": 0,
+      "z": 90
+    }
+  },
+  "11493422068836852751": {
+    "reloader_ability": "AbilityId_assisted_reload_recoilless_loader",
+    "reloadee_ability": "AbilityId_assisted_reload_recoilless_wielder",
+    "interpolation_speed_aim": 0.100000001,
+    "interpolation_speed_firing": 0.0500000007,
+    "requires_clearing": 0,
+    "reload_amount": 1,
+    "reload_cost": 1,
+    "attach_offset": {
+      "x": -0.25,
+      "y": -0.680000007,
+      "z": 0
+    },
+    "attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 90
+    },
+    "reloader_idle_animation_event": 272961931,
+    "attach_offset_crouch": {
+      "x": -0.25,
+      "y": -0.879999995,
       "z": 0
     },
     "attach_rotation_crouch": {
@@ -111,6 +111,46 @@
     "attach_offset_prone": {
       "x": 0,
       "y": -1.14999998,
+      "z": 0
+    },
+    "attach_rotation_prone": {
+      "x": 0,
+      "y": 0,
+      "z": 90
+    }
+  },
+  "2802369506329449110": {
+    "reloader_ability": "AbilityId_assisted_reload_airburst_loader",
+    "reloadee_ability": "AbilityId_assisted_reload_airburst_wielder",
+    "interpolation_speed_aim": 0.100000001,
+    "interpolation_speed_firing": 0.0500000007,
+    "requires_clearing": 0,
+    "reload_amount": 1,
+    "reload_cost": 1,
+    "attach_offset": {
+      "x": 0.400000006,
+      "y": -0.699999988,
+      "z": 0
+    },
+    "attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 90
+    },
+    "reloader_idle_animation_event": 3003732091,
+    "attach_offset_crouch": {
+      "x": 0.400000006,
+      "y": -0.699999988,
+      "z": 0
+    },
+    "attach_rotation_crouch": {
+      "x": 0,
+      "y": 0,
+      "z": 90
+    },
+    "attach_offset_prone": {
+      "x": 0.5,
+      "y": -1.20000005,
       "z": 0
     },
     "attach_rotation_prone": {

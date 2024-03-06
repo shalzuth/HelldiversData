@@ -12,6 +12,7 @@
     "button_combination" : { "type": "array", "subtype": "StratagemButtonDirection" },
     "uses" : { "type": "uint" },
     "spawn_time" : { "type": "float", "default": 0 },
+    "spawn_radius" : { "type": "float", "default": 0 },
     "beacon_linger_time" : { "type": "float", "default": 0 },
     "cooldown_duration_success" : { "type": "float", "default": 0 },
     "cooldown_duration_fail" : { "type": "float", "default": 0 },

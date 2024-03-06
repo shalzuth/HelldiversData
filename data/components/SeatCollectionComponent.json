@@ -10,6 +10,7 @@
     "ignore_entrance_check" : { "type": "byte", "description": "[bool]Should we ignore any logic in regards to the entrance updating?" },
     "play_music_events" : { "type": "byte", "description": "[bool]If true then entering this vehicle triggers music events for the local player" },
     "stratagem_use_allowed" : { "type": "byte", "description": "[bool]If true then the players should be able to use stratagem inside the vehicle." },
+    "holster_equipment_on_enter" : { "type": "byte", "description": "[bool]If true then the players will temporary holster equipment while using seating." },
     "occupy_audio_event" : { "type": "uint", "description": "[wwise]occupy_audio_event" },
     "leave_audio_event" : { "type": "uint", "description": "[wwise]leave_audio_event" },
     "can_manually_leave" : { "type": "byte", "description": "[bool]If we can exit the seat collection via manual player input or not." },

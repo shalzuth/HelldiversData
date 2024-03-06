@@ -56415,6 +56415,83 @@
       {
         "events": [
           {
+            "event_id": 1847376765,
+            "node": 1757145938,
+            "impact_type": "SurfaceImpactType_footstep_human_walk_toe",
+            "shake_asset": 0,
+            "shake_range": 5,
+            "shake_falloff_range": 10,
+            "owner_shake_asset": 0,
+            "owner_shake_range": 5,
+            "owner_shake_falloff_range": 10,
+            "event_animation_variable_value": 0
+          },
+          {
+            "event_id": 3698596081,
+            "node": 3973430073,
+            "impact_type": "SurfaceImpactType_footstep_human_walk_toe",
+            "shake_asset": 0,
+            "shake_range": 5,
+            "shake_falloff_range": 10,
+            "owner_shake_asset": 0,
+            "owner_shake_range": 5,
+            "owner_shake_falloff_range": 10,
+            "event_animation_variable_value": 0
+          },
+          {
+            "event_id": 0,
+            "node": 0,
+            "impact_type": "SurfaceImpactType_None",
+            "shake_asset": 0,
+            "shake_range": 5,
+            "shake_falloff_range": 10,
+            "owner_shake_asset": 0,
+            "owner_shake_range": 5,
+            "owner_shake_falloff_range": 10,
+            "event_animation_variable_value": 0
+          },
+          {
+            "event_id": 0,
+            "node": 0,
+            "impact_type": "SurfaceImpactType_None",
+            "shake_asset": 0,
+            "shake_range": 5,
+            "shake_falloff_range": 10,
+            "owner_shake_asset": 0,
+            "owner_shake_range": 5,
+            "owner_shake_falloff_range": 10,
+            "event_animation_variable_value": 0
+          },
+          {
+            "event_id": 0,
+            "node": 0,
+            "impact_type": "SurfaceImpactType_None",
+            "shake_asset": 0,
+            "shake_range": 5,
+            "shake_falloff_range": 10,
+            "owner_shake_asset": 0,
+            "owner_shake_range": 5,
+            "owner_shake_falloff_range": 10,
+            "event_animation_variable_value": 0
+          },
+          {
+            "event_id": 0,
+            "node": 0,
+            "impact_type": "SurfaceImpactType_None",
+            "shake_asset": 0,
+            "shake_range": 5,
+            "shake_falloff_range": 10,
+            "owner_shake_asset": 0,
+            "owner_shake_range": 5,
+            "owner_shake_falloff_range": 10,
+            "event_animation_variable_value": 0
+          }
+        ],
+        "event_animation_variable": 0
+      },
+      {
+        "events": [
+          {
             "event_id": 1415739578,
             "node": 1757145938,
             "impact_type": "SurfaceImpactType_footstep_human_scuff_norm_start",
@@ -56531,83 +56608,6 @@
             "event_id": 141189019,
             "node": 3973430073,
             "impact_type": "SurfaceImpactType_footstep_human_scuff_hard_stop",
-            "shake_asset": 0,
-            "shake_range": 5,
-            "shake_falloff_range": 10,
-            "owner_shake_asset": 0,
-            "owner_shake_range": 5,
-            "owner_shake_falloff_range": 10,
-            "event_animation_variable_value": 0
-          },
-          {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
-            "shake_asset": 0,
-            "shake_range": 5,
-            "shake_falloff_range": 10,
-            "owner_shake_asset": 0,
-            "owner_shake_range": 5,
-            "owner_shake_falloff_range": 10,
-            "event_animation_variable_value": 0
-          },
-          {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
-            "shake_asset": 0,
-            "shake_range": 5,
-            "shake_falloff_range": 10,
-            "owner_shake_asset": 0,
-            "owner_shake_range": 5,
-            "owner_shake_falloff_range": 10,
-            "event_animation_variable_value": 0
-          }
-        ],
-        "event_animation_variable": 0
-      },
-      {
-        "events": [
-          {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
-            "shake_asset": 0,
-            "shake_range": 5,
-            "shake_falloff_range": 10,
-            "owner_shake_asset": 0,
-            "owner_shake_range": 5,
-            "owner_shake_falloff_range": 10,
-            "event_animation_variable_value": 0
-          },
-          {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
-            "shake_asset": 0,
-            "shake_range": 5,
-            "shake_falloff_range": 10,
-            "owner_shake_asset": 0,
-            "owner_shake_range": 5,
-            "owner_shake_falloff_range": 10,
-            "event_animation_variable_value": 0
-          },
-          {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
-            "shake_asset": 0,
-            "shake_range": 5,
-            "shake_falloff_range": 10,
-            "owner_shake_asset": 0,
-            "owner_shake_range": 5,
-            "owner_shake_falloff_range": 10,
-            "event_animation_variable_value": 0
-          },
-          {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
             "shake_asset": 0,
             "shake_range": 5,
             "shake_falloff_range": 10,
@@ -64436,9 +64436,9 @@
             "event_animation_variable_value": 0
           },
           {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
+            "event_id": 3272785968,
+            "node": 4123276432,
+            "impact_type": "SurfaceImpactType_combat_walker_stomp",
             "shake_asset": 0,
             "shake_range": 5,
             "shake_falloff_range": 10,
@@ -64448,9 +64448,9 @@
             "event_animation_variable_value": 0
           },
           {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
+            "event_id": 798667778,
+            "node": 4123276432,
+            "impact_type": "SurfaceImpactType_combat_walker_land",
             "shake_asset": 0,
             "shake_range": 5,
             "shake_falloff_range": 10,
@@ -64460,9 +64460,9 @@
             "event_animation_variable_value": 0
           },
           {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
+            "event_id": 3829951088,
+            "node": 3281660596,
+            "impact_type": "SurfaceImpactType_hulk_stomp",
             "shake_asset": 0,
             "shake_range": 5,
             "shake_falloff_range": 10,
@@ -88492,9 +88492,9 @@
             "event_animation_variable_value": 0
           },
           {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
+            "event_id": 3272785968,
+            "node": 4123276432,
+            "impact_type": "SurfaceImpactType_combat_walker_stomp",
             "shake_asset": 0,
             "shake_range": 5,
             "shake_falloff_range": 10,
@@ -88504,9 +88504,9 @@
             "event_animation_variable_value": 0
           },
           {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
+            "event_id": 798667778,
+            "node": 4123276432,
+            "impact_type": "SurfaceImpactType_combat_walker_land",
             "shake_asset": 0,
             "shake_range": 5,
             "shake_falloff_range": 10,
@@ -88516,9 +88516,9 @@
             "event_animation_variable_value": 0
           },
           {
-            "event_id": 0,
-            "node": 0,
-            "impact_type": "SurfaceImpactType_None",
+            "event_id": 3829951088,
+            "node": 3281660596,
+            "impact_type": "SurfaceImpactType_hulk_stomp",
             "shake_asset": 0,
             "shake_range": 5,
             "shake_falloff_range": 10,

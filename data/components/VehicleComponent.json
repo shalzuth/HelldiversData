@@ -4,6 +4,8 @@
     "wheel_info" : { "type": "array", "subtype": "WheelInfo", "description": "The wheel info as it appears in the physics file (this should somehow be automated)." },
     "track_animation" : { "type": "byte", "description": "[bool]Does it have track UV animation" },
     "audio_source" : { "type": "uint", "description": "[string]The position from where engine audio is played" },
+    "hud_icon_left" : { "type": "ulong", "description": "[string]The icon that appears on the left side of ammo widget. Represents the left mount" },
+    "hud_icon_right" : { "type": "ulong", "description": "[string]The icon that appears on the right side of ammo widget. Represents the right mount" },
     "audio_engine_started" : { "type": "uint", "description": "[string]The audio event to send when the engine is started" },
     "audio_engine_stopped" : { "type": "uint", "description": "[string]The audio event to send when the engine is stopped" },
     "weathering_settings" : { "type": "VehicleWeatheringSettings", "description": "How much dirt is added to this vehicle as it drives around." },

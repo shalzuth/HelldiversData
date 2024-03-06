@@ -313,7 +313,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "4577685471418352301": {
     "damage_dealer_zones": [
@@ -629,7 +630,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "1962385103464102102": {
     "damage_dealer_zones": [
@@ -945,7 +947,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "16121648674137865605": {
     "damage_dealer_zones": [
@@ -1261,7 +1264,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "7208293264043292125": {
     "damage_dealer_zones": [
@@ -1290,7 +1294,7 @@
         "max_imparted_impact_damage": 30,
         "killable_threshold": "UnitSize_Medium",
         "base_demolition_strength": 10,
-        "max_demolition_strength": 10,
+        "max_demolition_strength": 30,
         "hit_interval": 5,
         "activation_threshold_kmh": 7,
         "deactivation_threshold_kmh": 0,
@@ -1577,7 +1581,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "15239773297738004195": {
     "damage_dealer_zones": [
@@ -1586,8 +1591,8 @@
         "shape": "DamageDealerZoneShape_Box",
         "node": 2601604451,
         "size": {
-          "x": 3,
-          "y": 6,
+          "x": 3.5,
+          "y": 7,
           "z": 2.5
         },
         "offset": {
@@ -1599,14 +1604,14 @@
         "knockback_force_max": 150,
         "damage_angle": 360,
         "mode": "OverlapDamageMode_ImpactDamage",
-        "graze_damage_multiplier": 0.5,
+        "graze_damage_multiplier": 1,
         "base_impact_damage_speed": 1,
         "max_impact_damage_speed": 4,
         "base_imparted_impact_damage": 20,
         "max_imparted_impact_damage": 200,
         "killable_threshold": "UnitSize_Medium",
-        "base_demolition_strength": 40,
-        "max_demolition_strength": 40,
+        "base_demolition_strength": 50,
+        "max_demolition_strength": 50,
         "hit_interval": 1.5,
         "activation_threshold_kmh": 1,
         "deactivation_threshold_kmh": 0,
@@ -1625,7 +1630,7 @@
         "shape": "DamageDealerZoneShape_Box",
         "node": 2134474349,
         "size": {
-          "x": 3,
+          "x": 4,
           "y": 1,
           "z": 1
         },
@@ -1638,16 +1643,16 @@
         "knockback_force_max": 15,
         "damage_angle": 360,
         "mode": "OverlapDamageMode_ImpactDamage",
-        "graze_damage_multiplier": 0.5,
+        "graze_damage_multiplier": 1,
         "base_impact_damage_speed": 1,
         "max_impact_damage_speed": 20,
         "base_imparted_impact_damage": 20,
         "max_imparted_impact_damage": 20,
         "killable_threshold": "UnitSize_Medium",
-        "base_demolition_strength": 40,
-        "max_demolition_strength": 40,
+        "base_demolition_strength": 50,
+        "max_demolition_strength": 50,
         "hit_interval": 0.5,
-        "activation_threshold_kmh": 4,
+        "activation_threshold_kmh": 2,
         "deactivation_threshold_kmh": 0,
         "on_vehicle_speed_forward": 1,
         "on_vehicle_speed_reverse": 1,
@@ -1664,7 +1669,7 @@
         "shape": "DamageDealerZoneShape_Box",
         "node": 1635152410,
         "size": {
-          "x": 3,
+          "x": 4,
           "y": 1,
           "z": 1
         },
@@ -1677,16 +1682,16 @@
         "knockback_force_max": 15,
         "damage_angle": 360,
         "mode": "OverlapDamageMode_ImpactDamage",
-        "graze_damage_multiplier": 0.5,
+        "graze_damage_multiplier": 1,
         "base_impact_damage_speed": 1,
         "max_impact_damage_speed": 20,
         "base_imparted_impact_damage": 20,
         "max_imparted_impact_damage": 20,
         "killable_threshold": "UnitSize_Medium",
-        "base_demolition_strength": 40,
-        "max_demolition_strength": 40,
+        "base_demolition_strength": 50,
+        "max_demolition_strength": 50,
         "hit_interval": 0.5,
-        "activation_threshold_kmh": 4,
+        "activation_threshold_kmh": 2,
         "deactivation_threshold_kmh": 0,
         "on_vehicle_speed_forward": 1,
         "on_vehicle_speed_reverse": 1,
@@ -1703,7 +1708,7 @@
         "shape": "DamageDealerZoneShape_Box",
         "node": 3325952832,
         "size": {
-          "x": 3,
+          "x": 4,
           "y": 1,
           "z": 1
         },
@@ -1716,16 +1721,16 @@
         "knockback_force_max": 15,
         "damage_angle": 360,
         "mode": "OverlapDamageMode_ImpactDamage",
-        "graze_damage_multiplier": 0.5,
+        "graze_damage_multiplier": 1,
         "base_impact_damage_speed": 1,
         "max_impact_damage_speed": 20,
         "base_imparted_impact_damage": 20,
         "max_imparted_impact_damage": 20,
         "killable_threshold": "UnitSize_Medium",
-        "base_demolition_strength": 40,
-        "max_demolition_strength": 40,
+        "base_demolition_strength": 50,
+        "max_demolition_strength": 50,
         "hit_interval": 0.5,
-        "activation_threshold_kmh": 4,
+        "activation_threshold_kmh": 2,
         "deactivation_threshold_kmh": 0,
         "on_vehicle_speed_forward": 1,
         "on_vehicle_speed_reverse": 1,
@@ -1742,7 +1747,7 @@
         "shape": "DamageDealerZoneShape_Box",
         "node": 3838971876,
         "size": {
-          "x": 3,
+          "x": 4,
           "y": 1,
           "z": 1
         },
@@ -1755,16 +1760,16 @@
         "knockback_force_max": 15,
         "damage_angle": 360,
         "mode": "OverlapDamageMode_ImpactDamage",
-        "graze_damage_multiplier": 0.5,
+        "graze_damage_multiplier": 1,
         "base_impact_damage_speed": 1,
         "max_impact_damage_speed": 20,
         "base_imparted_impact_damage": 20,
         "max_imparted_impact_damage": 20,
         "killable_threshold": "UnitSize_Medium",
-        "base_demolition_strength": 40,
-        "max_demolition_strength": 40,
+        "base_demolition_strength": 50,
+        "max_demolition_strength": 50,
         "hit_interval": 0.5,
-        "activation_threshold_kmh": 4,
+        "activation_threshold_kmh": 2,
         "deactivation_threshold_kmh": 0,
         "on_vehicle_speed_forward": 1,
         "on_vehicle_speed_reverse": 1,
@@ -1893,7 +1898,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "10835289456440565066": {
     "damage_dealer_zones": [
@@ -2209,7 +2215,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "14005216303325302728": {
     "damage_dealer_zones": [
@@ -2218,8 +2225,8 @@
         "shape": "DamageDealerZoneShape_Capsule",
         "node": 1243096897,
         "size": {
-          "x": 3,
-          "y": 3,
+          "x": 3.25,
+          "y": 3.25,
           "z": 7
         },
         "offset": {
@@ -2525,7 +2532,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "2206473276648512700": {
     "damage_dealer_zones": [
@@ -2841,7 +2849,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "4140939466573601321": {
     "damage_dealer_zones": [
@@ -3157,7 +3166,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "8867451643782573472": {
     "damage_dealer_zones": [
@@ -3473,7 +3483,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "2862976050209719244": {
     "damage_dealer_zones": [
@@ -3789,7 +3800,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "15438282343866021807": {
     "damage_dealer_zones": [
@@ -4105,7 +4117,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "3583430772214091149": {
     "damage_dealer_zones": [
@@ -4421,7 +4434,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "17238162226885792459": {
     "damage_dealer_zones": [
@@ -4737,7 +4751,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "6041739005686103399": {
     "damage_dealer_zones": [
@@ -5053,7 +5068,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "11398074038506794973": {
     "damage_dealer_zones": [
@@ -5369,7 +5385,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "8484362704672433843": {
     "damage_dealer_zones": [
@@ -5685,7 +5702,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "1909471264691872944": {
     "damage_dealer_zones": [
@@ -6001,7 +6019,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "14286719829563111324": {
     "damage_dealer_zones": [
@@ -6317,7 +6336,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "851455025217071569": {
     "damage_dealer_zones": [
@@ -6633,7 +6653,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "7719208875390099550": {
     "damage_dealer_zones": [
@@ -6949,7 +6970,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "14038927220542196401": {
     "damage_dealer_zones": [
@@ -7265,7 +7287,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_VehicleStep"
   },
   "11335415903596859741": {
     "damage_dealer_zones": [
@@ -7581,7 +7604,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "16450357640400839941": {
     "damage_dealer_zones": [
@@ -7897,7 +7921,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "2895453262415111841": {
     "damage_dealer_zones": [
@@ -8213,7 +8238,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "3359716870288230953": {
     "damage_dealer_zones": [
@@ -8529,7 +8555,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "7196537832909981064": {
     "damage_dealer_zones": [
@@ -8845,7 +8872,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "4382784381499614144": {
     "damage_dealer_zones": [
@@ -9161,7 +9189,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "15232332905046032499": {
     "damage_dealer_zones": [
@@ -9477,7 +9506,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "8783342891467425251": {
     "damage_dealer_zones": [
@@ -9793,7 +9823,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_VehicleStep"
   },
   "4571403555494335481": {
     "damage_dealer_zones": [
@@ -10109,7 +10140,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "15062487539698939333": {
     "damage_dealer_zones": [
@@ -10425,7 +10457,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "2568747792294183916": {
     "damage_dealer_zones": [
@@ -10741,7 +10774,8 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   },
   "4251221953861716889": {
     "damage_dealer_zones": [
@@ -11057,6 +11091,7 @@
         "only_damage_corpses": 0,
         "only_hit_main_damage_zone": 0
       }
-    ]
+    ],
+    "hit_effect_damage_type": "HitEffectDamageType_Blunt"
   }
 }

@@ -1,0 +1,5 @@
+{ "EncounterRampUpThreshold" : {
+    "threshold_points" : { "type": "uint", "description": "The threshold point" },
+    "threshold_timer" : { "type": "float", "default": -1, "description": "The threshold timer. Set to < 0 to disable spawning automatically while in this threshold." },
+    "number_of_encounters" : { "type": "uint", "default": 1, "description": "Sets the number of encounters that should trigger when this threshold is reached." }
+}}

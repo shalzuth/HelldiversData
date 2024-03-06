@@ -9,5 +9,7 @@
     "padding_after_vo" : { "type": "float", "default": 0 },
     "loop_until_vo_done" : { "type": "uint" },
     "ui_ids" : { "type": "array", "subtype": "uint" },
-    "req_story_beat_id" : { "type": "uint" }
+    "req_story_beat_id" : { "type": "uint" },
+    "req_major_order_success" : { "type": "byte" },
+    "req_major_order_fail" : { "type": "byte" }
 }}

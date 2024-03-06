@@ -3850,15 +3850,151 @@
           }
         },
         {
-          "key": 0,
+          "key": 4061663312512188572,
           "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 15.1999998,
+                  "y": -7.0999999
+                },
+                "radius": 51.9153557,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 85.7837677,
+                  "y": 90.2398071
+                },
+                "radius": 39.3880196,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 0.5,
+                  "y": -111.599998
+                },
+                "radius": 28.3129826,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -29.8401241,
+                  "y": 72.5085602
+                },
+                "radius": 64.7206116,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -165.366364,
+                  "y": -81.2938766
+                },
+                "radius": 62.9970245,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -76.3000031,
+                  "y": -121.112335
+                },
+                "radius": 59.7761879,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 54.4000015,
+                  "y": -73.9000015
+                },
+                "radius": 45.4380417,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [
+              {
+                "position": {
+                  "x": -96.8450928,
+                  "y": -3.46135616
+                },
+                "half_extents": {
+                  "x": 73.8718109,
+                  "y": 28.7003574
+                },
+                "rotation": 0,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 65.7000046,
+                  "y": -4.5
+                },
+                "half_extents": {
+                  "x": 15.9634714,
+                  "y": 9.5113163
+                },
+                "rotation": 0,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "entrypoints": [
+              {
+                "type": "StampEntryType_connection",
+                "direction": -0.0207726154,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 0
+                }
+              },
+              {
+                "type": "StampEntryType_stop",
+                "direction": 3.12082005,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 3
+                }
+              }
+            ],
+            "splines": [
+              {
+                "spline_type": "StampSpline_Path",
+                "segments": [
+                  {
+                    "x": -169.729065,
+                    "y": -3.20000005
+                  },
+                  {
+                    "x": -169.729065,
+                    "y": -3.20000005
+                  },
+                  {
+                    "x": -166.880325,
+                    "y": -3.25918412
+                  },
+                  {
+                    "x": -166.880325,
+                    "y": -3.25918412
+                  }
+                ],
+                "entrypoints": [
+                  0,
+                  1
+                ]
+              }
+            ],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -3874,15 +4010,127 @@
           }
         },
         {
-          "key": 0,
+          "key": 12351972867713319070,
           "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 12.1999998,
+                  "y": -9.60000038
+                },
+                "radius": 43.7695923,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 115.995941,
+                  "y": 102.625694
+                },
+                "radius": 32.2157211,
+                "flattening_intensity": 0.5,
+                "flatten_terrain": 0
+              },
+              {
+                "position": {
+                  "x": -135.975113,
+                  "y": 117.809662
+                },
+                "radius": 40,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -0.5,
+                  "y": -163.300003
+                },
+                "radius": 35.210125,
+                "flattening_intensity": 0.5,
+                "flatten_terrain": 0
+              },
+              {
+                "position": {
+                  "x": -88.0999985,
+                  "y": 33.5
+                },
+                "radius": 34.7889671,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [
+              {
+                "position": {
+                  "x": -103.900002,
+                  "y": -3.9000001
+                },
+                "half_extents": {
+                  "x": 87.3642502,
+                  "y": 26.5993576
+                },
+                "rotation": 0,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -14.9312429,
+                  "y": 49.7664642
+                },
+                "half_extents": {
+                  "x": 31.9244499,
+                  "y": 5.4167285
+                },
+                "rotation": 0.416281879,
+                "flattening_intensity": 0,
+                "flatten_terrain": 0
+              },
+              {
+                "position": {
+                  "x": 28.7664776,
+                  "y": -90.5544205
+                },
+                "half_extents": {
+                  "x": 23.7495975,
+                  "y": 4.02654696
+                },
+                "rotation": -1.76378345,
+                "flattening_intensity": 0,
+                "flatten_terrain": 0
+              },
+              {
+                "position": {
+                  "x": 116.835228,
+                  "y": 45.2065048
+                },
+                "half_extents": {
+                  "x": 26.825695,
+                  "y": 4.5516057
+                },
+                "rotation": -0.759568572,
+                "flattening_intensity": 0,
+                "flatten_terrain": 0
+              },
+              {
+                "position": {
+                  "x": 64.2000046,
+                  "y": -3.9000001
+                },
+                "half_extents": {
+                  "x": 27.5382862,
+                  "y": 26.5993576
+                },
+                "rotation": 0,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -7187,6 +7435,136 @@
           }
         },
         {
+          "key": 8047799633051250950,
+          "stamp": {
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -19.8999977,
+                  "y": -53.3000107
+                },
+                "radius": 87.7563019,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -47.4000015,
+                  "y": 30.2999897
+                },
+                "radius": 93.1124649,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 49.5000114,
+                  "y": 125.600006
+                },
+                "radius": 34.0907707,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -67.1000061,
+                  "y": 94.1000214
+                },
+                "radius": 99.5007629,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 143.100006,
+                  "y": -88.2000046
+                },
+                "radius": 40.9039001,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 6,
+                  "y": 0.799995422
+                },
+                "radius": 74.8214493,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 88.4654541,
+                  "y": 102.662598
+                },
+                "radius": 24.5612869,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 55.1000175,
+                  "y": 108
+                },
+                "radius": 34.0907707,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 154.5,
+                  "y": -119
+                },
+                "radius": 24.9547596,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 156.699997,
+                  "y": -70.0999985
+                },
+                "radius": 37.1559029,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 93.5207748,
+                  "y": 133.267609
+                },
+                "radius": 26.5413876,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 168.199997,
+                  "y": -35.7000008
+                },
+                "radius": 11.5644016,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 109.800003,
+                  "y": -71.4000015
+                },
+                "radius": 28.8997746,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [],
+            "entrypoints": [],
+            "splines": [],
+            "extensions": [],
+            "proxies": [],
+            "rotation_type": "StampRotationType_random"
+          }
+        },
+        {
           "key": 15416560492348625157,
           "stamp": {
             "collision_circles": [
@@ -7206,18 +7584,6 @@
             "extensions": [],
             "proxies": [],
             "rotation_type": "StampRotationType_random"
-          }
-        },
-        {
-          "key": 0,
-          "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
-            "extensions": [],
-            "proxies": [],
-            "rotation_type": []
           }
         },
         {
@@ -12393,6 +12759,154 @@
           }
         },
         {
+          "key": 3077891181774799285,
+          "stamp": {
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 15.1999998,
+                  "y": -7.0999999
+                },
+                "radius": 51.9153557,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 85.7837677,
+                  "y": 90.2398071
+                },
+                "radius": 39.3880196,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 0.5,
+                  "y": -111.599998
+                },
+                "radius": 28.3129826,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -29.8401241,
+                  "y": 72.5085602
+                },
+                "radius": 64.7206116,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -165.366364,
+                  "y": -81.2938766
+                },
+                "radius": 62.9970245,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -76.3000031,
+                  "y": -121.112335
+                },
+                "radius": 59.7761879,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 54.4000015,
+                  "y": -73.9000015
+                },
+                "radius": 45.4380417,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [
+              {
+                "position": {
+                  "x": -96.8450928,
+                  "y": -3.46135616
+                },
+                "half_extents": {
+                  "x": 73.8718109,
+                  "y": 28.7003574
+                },
+                "rotation": 0,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 65.7000046,
+                  "y": -4.5
+                },
+                "half_extents": {
+                  "x": 15.9634714,
+                  "y": 9.5113163
+                },
+                "rotation": 0,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "entrypoints": [
+              {
+                "type": "StampEntryType_connection",
+                "direction": -0.0207726154,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 0
+                }
+              },
+              {
+                "type": "StampEntryType_stop",
+                "direction": 3.12082005,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 3
+                }
+              }
+            ],
+            "splines": [
+              {
+                "spline_type": "StampSpline_Path",
+                "segments": [
+                  {
+                    "x": -169.729065,
+                    "y": -3.20000005
+                  },
+                  {
+                    "x": -169.729065,
+                    "y": -3.20000005
+                  },
+                  {
+                    "x": -166.880325,
+                    "y": -3.25918412
+                  },
+                  {
+                    "x": -166.880325,
+                    "y": -3.25918412
+                  }
+                ],
+                "entrypoints": [
+                  0,
+                  1
+                ]
+              }
+            ],
+            "extensions": [],
+            "proxies": [],
+            "rotation_type": "StampRotationType_random"
+          }
+        },
+        {
           "key": 17744852403117326773,
           "stamp": {
             "collision_circles": [
@@ -12402,6 +12916,37 @@
                   "y": 12.4335804
                 },
                 "radius": 28,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [],
+            "entrypoints": [],
+            "splines": [],
+            "extensions": [],
+            "proxies": [],
+            "rotation_type": "StampRotationType_random"
+          }
+        },
+        {
+          "key": 9460234696508801463,
+          "stamp": {
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "radius": 152,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -108.933464,
+                  "y": -99.0771866
+                },
+                "radius": 42.8710289,
                 "flattening_intensity": 1,
                 "flatten_terrain": 1
               }
@@ -12510,49 +13055,6 @@
               }
             ],
             "rotation_type": "StampRotationType_random"
-          }
-        },
-        {
-          "key": 9460234696508801463,
-          "stamp": {
-            "collision_circles": [
-              {
-                "position": {
-                  "x": 0,
-                  "y": 0
-                },
-                "radius": 152,
-                "flattening_intensity": 1,
-                "flatten_terrain": 1
-              },
-              {
-                "position": {
-                  "x": -108.933464,
-                  "y": -99.0771866
-                },
-                "radius": 42.8710289,
-                "flattening_intensity": 1,
-                "flatten_terrain": 1
-              }
-            ],
-            "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
-            "extensions": [],
-            "proxies": [],
-            "rotation_type": "StampRotationType_random"
-          }
-        },
-        {
-          "key": 0,
-          "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
-            "extensions": [],
-            "proxies": [],
-            "rotation_type": []
           }
         },
         {
@@ -16441,15 +16943,88 @@
           }
         },
         {
-          "key": 0,
+          "key": 10148539512188789311,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 133.536194,
+                  "y": 123.102402
+                },
+                "radius": 40,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -115.439972,
+                  "y": 122.577621
+                },
+                "radius": 40,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 0.324821472,
+                  "y": -130.882187
+                },
+                "radius": 60.7876663,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -19.0524712,
+                  "y": 9.13699913
+                },
+                "radius": 95.3458099,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 76.244339,
+                  "y": 80.9907761
+                },
+                "radius": 40,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 8.35010147,
+                  "y": 106.318169
+                },
+                "radius": 40,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 8.35010147,
+                  "y": 157.543045
+                },
+                "radius": 40,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 60.7932739,
+                  "y": -80.839386
+                },
+                "radius": 60.8641586,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -17293,15 +17868,15 @@
           }
         },
         {
-          "key": 17565377741902733913,
+          "key": 12186879492577272408,
           "stamp": {
             "collision_circles": [
               {
                 "position": {
-                  "x": -2.35855031,
-                  "y": 2.28262281
+                  "x": 0,
+                  "y": 0
                 },
-                "radius": 15.9401999,
+                "radius": 64,
                 "flattening_intensity": 1,
                 "flatten_terrain": 1
               }
@@ -17346,15 +17921,15 @@
           }
         },
         {
-          "key": 3584467565573087833,
+          "key": 17565377741902733913,
           "stamp": {
             "collision_circles": [
               {
                 "position": {
-                  "x": 0,
-                  "y": 0
+                  "x": -2.35855031,
+                  "y": 2.28262281
                 },
-                "radius": 48,
+                "radius": 15.9401999,
                 "flattening_intensity": 1,
                 "flatten_terrain": 1
               }
@@ -17390,33 +17965,15 @@
           }
         },
         {
-          "key": 17394654646787043933,
+          "key": 3584467565573087833,
           "stamp": {
             "collision_circles": [
               {
                 "position": {
-                  "x": -3.6886816,
-                  "y": -1.72840595
+                  "x": 0,
+                  "y": 0
                 },
-                "radius": 3.62250972,
-                "flattening_intensity": 1,
-                "flatten_terrain": 1
-              },
-              {
-                "position": {
-                  "x": 0.511135101,
-                  "y": -1.10942435
-                },
-                "radius": 4.7353425,
-                "flattening_intensity": 1,
-                "flatten_terrain": 1
-              },
-              {
-                "position": {
-                  "x": 3.13976431,
-                  "y": 2.96357346
-                },
-                "radius": 4.28247023,
+                "radius": 48,
                 "flattening_intensity": 1,
                 "flatten_terrain": 1
               }
@@ -17656,6 +18213,46 @@
           }
         },
         {
+          "key": 17394654646787043933,
+          "stamp": {
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -3.6886816,
+                  "y": -1.72840595
+                },
+                "radius": 3.62250972,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 0.511135101,
+                  "y": -1.10942435
+                },
+                "radius": 4.7353425,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 3.13976431,
+                  "y": 2.96357346
+                },
+                "radius": 4.28247023,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [],
+            "entrypoints": [],
+            "splines": [],
+            "extensions": [],
+            "proxies": [],
+            "rotation_type": "StampRotationType_random"
+          }
+        },
+        {
           "key": 5697009163810320992,
           "stamp": {
             "collision_circles": [],
@@ -17679,18 +18276,6 @@
             "extensions": [],
             "proxies": [],
             "rotation_type": "StampRotationType_random"
-          }
-        },
-        {
-          "key": 0,
-          "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
-            "extensions": [],
-            "proxies": [],
-            "rotation_type": []
           }
         },
         {
@@ -18805,6 +19390,136 @@
           }
         },
         {
+          "key": 18385162954107331215,
+          "stamp": {
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -7.70110035,
+                  "y": -64.5831451
+                },
+                "radius": 77.3371429,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -44.1000023,
+                  "y": -35.9000015
+                },
+                "radius": 52.688427,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 25.7902279,
+                  "y": 122.17157
+                },
+                "radius": 34.0907707,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -69.5307159,
+                  "y": 91.1994858
+                },
+                "radius": 99.3350906,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 143.100006,
+                  "y": -88.2000046
+                },
+                "radius": 40.9039001,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 3.11942196,
+                  "y": 15.7499657
+                },
+                "radius": 74.8214493,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 79.2618713,
+                  "y": 100.814514
+                },
+                "radius": 31.2625008,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 49.2720947,
+                  "y": 113.7826
+                },
+                "radius": 38.6450005,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 154.5,
+                  "y": -119
+                },
+                "radius": 24.9547596,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 156.699997,
+                  "y": -70.0999985
+                },
+                "radius": 37.1559029,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 96.3025436,
+                  "y": 131.973404
+                },
+                "radius": 22.316206,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 168.199997,
+                  "y": -35.7000008
+                },
+                "radius": 11.5644016,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 112.972618,
+                  "y": -72.662117
+                },
+                "radius": 28.8997746,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [],
+            "entrypoints": [],
+            "splines": [],
+            "extensions": [],
+            "proxies": [],
+            "rotation_type": "StampRotationType_random"
+          }
+        },
+        {
           "key": 3473442832991224463,
           "stamp": {
             "collision_circles": [
@@ -18891,18 +19606,6 @@
             "extensions": [],
             "proxies": [],
             "rotation_type": "StampRotationType_random"
-          }
-        },
-        {
-          "key": 0,
-          "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
-            "extensions": [],
-            "proxies": [],
-            "rotation_type": []
           }
         },
         {
@@ -22989,15 +23692,151 @@
           }
         },
         {
-          "key": 0,
+          "key": 8788444021924295466,
           "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 15.1999998,
+                  "y": -7.0999999
+                },
+                "radius": 51.9153557,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 85.7837677,
+                  "y": 90.2398071
+                },
+                "radius": 39.3880196,
+                "flattening_intensity": 0.5,
+                "flatten_terrain": 0
+              },
+              {
+                "position": {
+                  "x": 0.5,
+                  "y": -111.599998
+                },
+                "radius": 28.3129826,
+                "flattening_intensity": 0.5,
+                "flatten_terrain": 0
+              },
+              {
+                "position": {
+                  "x": -28.3178444,
+                  "y": 77.7739182
+                },
+                "radius": 57.5908966,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -159.699997,
+                  "y": -87.8000031
+                },
+                "radius": 57.490345,
+                "flattening_intensity": 1,
+                "flatten_terrain": 0
+              },
+              {
+                "position": {
+                  "x": -76.3000031,
+                  "y": -118.599998
+                },
+                "radius": 59.7761879,
+                "flattening_intensity": 1,
+                "flatten_terrain": 0
+              },
+              {
+                "position": {
+                  "x": 54.4000015,
+                  "y": -73.9000015
+                },
+                "radius": 45.4380417,
+                "flattening_intensity": 1,
+                "flatten_terrain": 0
+              }
+            ],
+            "collision_rectangles": [
+              {
+                "position": {
+                  "x": -103.900002,
+                  "y": -1.80000019
+                },
+                "half_extents": {
+                  "x": 87.3642502,
+                  "y": 28.7003574
+                },
+                "rotation": 0,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 65.7000046,
+                  "y": -4.5
+                },
+                "half_extents": {
+                  "x": 15.9634714,
+                  "y": 9.5113163
+                },
+                "rotation": 0,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "entrypoints": [
+              {
+                "type": "StampEntryType_connection",
+                "direction": -0.0207726154,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 0
+                }
+              },
+              {
+                "type": "StampEntryType_stop",
+                "direction": 3.12082005,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 3
+                }
+              }
+            ],
+            "splines": [
+              {
+                "spline_type": "StampSpline_Path",
+                "segments": [
+                  {
+                    "x": -189.600006,
+                    "y": -3.20000005
+                  },
+                  {
+                    "x": -189.600006,
+                    "y": -3.20000005
+                  },
+                  {
+                    "x": -186.751266,
+                    "y": -3.25918412
+                  },
+                  {
+                    "x": -186.751266,
+                    "y": -3.25918412
+                  }
+                ],
+                "entrypoints": [
+                  0,
+                  1
+                ]
+              }
+            ],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -27778,15 +28617,25 @@
           }
         },
         {
-          "key": 0,
+          "key": 7650918151259280362,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "radius": 64,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -28577,15 +29426,25 @@
           }
         },
         {
-          "key": 0,
+          "key": 13626120788827079690,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 0,
+                  "y": 0
+                },
+                "radius": 64,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -36671,15 +37530,25 @@
           }
         },
         {
-          "key": 0,
+          "key": 4874025379407824176,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -1.53606415,
+                  "y": 0.205580711
+                },
+                "radius": 28,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -39704,15 +40573,110 @@
           }
         },
         {
-          "key": 0,
+          "key": 1014085327519925661,
           "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -74.6437073,
+                  "y": 70.1037903
+                },
+                "radius": 47.1352806,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 65.7721176,
+                  "y": 88.6916351
+                },
+                "radius": 51.2959213,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -1.45563745,
+                  "y": 53.1444168
+                },
+                "radius": 77.1016617,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 22.8236904,
+                  "y": -76.7207794
+                },
+                "radius": 65.7765884,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -25.376276,
+                  "y": -80.9484406
+                },
+                "radius": 61.8066406,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -162.850052,
+                  "y": 37.8838615
+                },
+                "radius": 32.4842834,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [
+              {
+                "position": {
+                  "x": -156.344299,
+                  "y": -20.3679237
+                },
+                "half_extents": {
+                  "x": 54.9963303,
+                  "y": 36.8977661
+                },
+                "rotation": -1.57079637,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -50.182869,
+                  "y": -1.14899826
+                },
+                "half_extents": {
+                  "x": 57.001873,
+                  "y": 26.4452572
+                },
+                "rotation": -1.57079637,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 41.4119911,
+                  "y": -7.19717789
+                },
+                "half_extents": {
+                  "x": 57.001873,
+                  "y": 26.4452572
+                },
+                "rotation": -1.57079637,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -39858,15 +40822,124 @@
           }
         },
         {
-          "key": 0,
+          "key": 16523847466103621030,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -113.933228,
+                  "y": 1.68789673
+                },
+                "radius": 62.2630234,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 30.7000008,
+                  "y": -113.000008
+                },
+                "radius": 52.4549103,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 5.00004387,
+                  "y": 5.15356636
+                },
+                "radius": 74.4025574,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 5.52163029,
+                  "y": 109.098885
+                },
+                "radius": 54.448101,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -65.5307007,
+                  "y": 82.4177322
+                },
+                "radius": 48.2268677,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 53.4007072,
+                  "y": -48.2441177
+                },
+                "radius": 26.9903812,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -58.3092537,
+                  "y": -59.2020073
+                },
+                "radius": 32.1869774,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -6.79999971,
+                  "y": -111.400002
+                },
+                "radius": 52.4549103,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 79.3482666,
+                  "y": 72.8610229
+                },
+                "radius": 41.055397,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -65.5670013,
+                  "y": 130.613083
+                },
+                "radius": 29.7118492,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 61.5366554,
+                  "y": 138.141739
+                },
+                "radius": 35.2331581,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 86.5201874,
+                  "y": 120.912308
+                },
+                "radius": 27.6229477,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -51912,15 +52985,52 @@
           }
         },
         {
-          "key": 0,
+          "key": 2742288553280227160,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 3.27844238,
+                  "y": 4.71308899
+                },
+                "radius": 89.882103,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 143.400009,
+                  "y": 5.68032837
+                },
+                "radius": 74.8443146,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -0.899997711,
+                  "y": -131.900009
+                },
+                "radius": 74.8443146,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -100.499992,
+                  "y": 11.4000006
+                },
+                "radius": 74.8443146,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -57834,15 +58944,52 @@
           }
         },
         {
-          "key": 0,
+          "key": 1921190745634441292,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 14.3394928,
+                  "y": 13.5460625
+                },
+                "radius": 16.5009232,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -5.5511694,
+                  "y": -4.60535431
+                },
+                "radius": 19.0702858,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 10.0123053,
+                  "y": -19.2597656
+                },
+                "radius": 9.46000862,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -17.3385391,
+                  "y": 9.6514473
+                },
+                "radius": 9.46000862,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -60741,15 +61888,79 @@
           }
         },
         {
-          "key": 0,
+          "key": 10060634368771098845,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 133.536194,
+                  "y": 123.102402
+                },
+                "radius": 40,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -115.439972,
+                  "y": 122.577621
+                },
+                "radius": 40,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 7.69485474,
+                  "y": -129.471115
+                },
+                "radius": 62.1723213,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -2.92158127,
+                  "y": -16.1985111
+                },
+                "radius": 72.8381729,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 8.35010147,
+                  "y": 86.7841568
+                },
+                "radius": 49.1312828,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 8.35010147,
+                  "y": 157.543045
+                },
+                "radius": 40,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -119.369537,
+                  "y": 20.6590347
+                },
+                "radius": 75.1164551,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -62149,6 +63360,73 @@
           }
         },
         {
+          "key": 15712180552505448729,
+          "stamp": {
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -18.5,
+                  "y": -14.1999998
+                },
+                "radius": 11.2668648,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [],
+            "entrypoints": [
+              {
+                "type": "StampEntryType_connection",
+                "direction": -0.0207726154,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 0
+                }
+              },
+              {
+                "type": "StampEntryType_stop",
+                "direction": 3.12082005,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 3
+                }
+              }
+            ],
+            "splines": [
+              {
+                "spline_type": "StampSpline_Path",
+                "segments": [
+                  {
+                    "x": -29.4212437,
+                    "y": -13.9450903
+                  },
+                  {
+                    "x": -29.4212437,
+                    "y": -13.9450903
+                  },
+                  {
+                    "x": -26.5725117,
+                    "y": -14.0042744
+                  },
+                  {
+                    "x": -26.5725117,
+                    "y": -14.0042744
+                  }
+                ],
+                "entrypoints": [
+                  0,
+                  1
+                ]
+              }
+            ],
+            "extensions": [],
+            "proxies": [],
+            "rotation_type": "StampRotationType_north"
+          }
+        },
+        {
           "key": 10902919057377523993,
           "stamp": {
             "collision_circles": [
@@ -62310,18 +63588,6 @@
             "extensions": [],
             "proxies": [],
             "rotation_type": "StampRotationType_random"
-          }
-        },
-        {
-          "key": 0,
-          "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
-            "extensions": [],
-            "proxies": [],
-            "rotation_type": []
           }
         },
         {
@@ -64120,15 +65386,106 @@
           }
         },
         {
-          "key": 0,
+          "key": 5069632420718061924,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -113.933228,
+                  "y": 1.68789673
+                },
+                "radius": 62.2630234,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 27.5261669,
+                  "y": -113.500435
+                },
+                "radius": 52.4549103,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 9.72735596,
+                  "y": 7.66194296
+                },
+                "radius": 74.4025574,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 0.699996948,
+                  "y": 105.099991
+                },
+                "radius": 54.448101,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -59.7383881,
+                  "y": 98.7590561
+                },
+                "radius": 57.5169449,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 26.8484535,
+                  "y": -46.6481171
+                },
+                "radius": 49.8011971,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -62.0313835,
+                  "y": 32.3382034
+                },
+                "radius": 26.4728756,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -56.4967766,
+                  "y": -47.6235199
+                },
+                "radius": 37.4953308,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -0.300168991,
+                  "y": -105.828232
+                },
+                "radius": 68.6004868,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 60.0999985,
+                  "y": 93.0999985
+                },
+                "radius": 60.082077,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -71282,15 +72639,52 @@
           }
         },
         {
-          "key": 0,
+          "key": 18367884666333416085,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -12.1513195,
+                  "y": -8.66309738
+                },
+                "radius": 15.4983215,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 10.1432343,
+                  "y": 8.06365204
+                },
+                "radius": 15.4983215,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -12.0783882,
+                  "y": 12.0004873
+                },
+                "radius": 12.0184078,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 8.09106255,
+                  "y": -15.6499023
+                },
+                "radius": 12.0184078,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -74634,15 +76028,133 @@
           }
         },
         {
-          "key": 0,
+          "key": 22252121520659250,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -76.5,
+                  "y": -141.300003
+                },
+                "radius": 42.2855225,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 20.2000008,
+                  "y": -49.7000008
+                },
+                "radius": 85.9335938,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 78.8000031,
+                  "y": 73.8000031
+                },
+                "radius": 73.4285736,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -144.199997,
+                  "y": -87.9000015
+                },
+                "radius": 76.5636749,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 0.200000048,
+                  "y": -150.199997
+                },
+                "radius": 39.4566574,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -34.7999992,
+                  "y": 69.4000015
+                },
+                "radius": 73.4285736,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -58.7999992,
+                  "y": -32
+                },
+                "radius": 104.084869,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 24.3000011,
+                  "y": 94.8000031
+                },
+                "radius": 49.9919662,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
+            "entrypoints": [
+              {
+                "type": "StampEntryType_connection",
+                "direction": -0.0207726154,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 0
+                }
+              },
+              {
+                "type": "StampEntryType_stop",
+                "direction": 3.12082005,
+                "satellite_type": "StampEntrySatelliteType_General",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 3
+                }
+              }
+            ],
+            "splines": [
+              {
+                "spline_type": "StampSpline_Path",
+                "segments": [
+                  {
+                    "x": -169.729065,
+                    "y": -3.20000005
+                  },
+                  {
+                    "x": -169.729065,
+                    "y": -3.20000005
+                  },
+                  {
+                    "x": -166.880325,
+                    "y": -3.25918412
+                  },
+                  {
+                    "x": -166.880325,
+                    "y": -3.25918412
+                  }
+                ],
+                "entrypoints": [
+                  0,
+                  1
+                ]
+              }
+            ],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -75348,7 +76860,7 @@
               {
                 "position": {
                   "x": 0.560506582,
-                  "y": -7.30724621
+                  "y": -7.20000029
                 },
                 "radius": 6.82092381,
                 "flattening_intensity": 1,
@@ -83365,15 +84877,110 @@
           }
         },
         {
-          "key": 0,
+          "key": 11550899722037341357,
           "stamp": {
-            "collision_circles": [],
-            "collision_rectangles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": -57.6184654,
+                  "y": 86.3508682
+                },
+                "radius": 63.7596283,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 65.7721176,
+                  "y": 88.6916351
+                },
+                "radius": 51.2959213,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -1.45563745,
+                  "y": 53.1444168
+                },
+                "radius": 77.1016617,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 22.8236904,
+                  "y": -76.7207794
+                },
+                "radius": 65.7765884,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -25.376276,
+                  "y": -80.9484406
+                },
+                "radius": 61.8066406,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -162.850052,
+                  "y": 37.8838615
+                },
+                "radius": 32.4842834,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
+            "collision_rectangles": [
+              {
+                "position": {
+                  "x": -156.344299,
+                  "y": -20.3679237
+                },
+                "half_extents": {
+                  "x": 54.9963303,
+                  "y": 36.8977661
+                },
+                "rotation": -1.57079637,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -50.182869,
+                  "y": -1.14899826
+                },
+                "half_extents": {
+                  "x": 57.001873,
+                  "y": 34.4219589
+                },
+                "rotation": -1.57079637,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 41.4119911,
+                  "y": -7.19717789
+                },
+                "half_extents": {
+                  "x": 57.001873,
+                  "y": 40.9436646
+                },
+                "rotation": -1.57079637,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -92947,15 +94554,140 @@
           }
         },
         {
-          "key": 0,
+          "key": 13417333807823089162,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 2.49280262,
+                  "y": -8.72196007
+                },
+                "radius": 22.3302593,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": 3.62491798,
+                  "y": 7.51953793
+                },
+                "radius": 22.3302593,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -8.73547173,
+                  "y": 5.57124329
+                },
+                "radius": 22.3302593,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              },
+              {
+                "position": {
+                  "x": -7.99061203,
+                  "y": -7.3032465
+                },
+                "radius": 22.3302593,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
-            "entrypoints": [],
-            "splines": [],
+            "entrypoints": [
+              {
+                "type": "StampEntryType_connection",
+                "direction": 1.52976298,
+                "satellite_type": "StampEntrySatelliteType_None",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 0
+                }
+              },
+              {
+                "type": "StampEntryType_stop",
+                "direction": -1.61182964,
+                "satellite_type": "StampEntrySatelliteType_None",
+                "spline_connection": {
+                  "index": 0,
+                  "segment": 3
+                }
+              },
+              {
+                "type": "StampEntryType_connection",
+                "direction": 3.12747908,
+                "satellite_type": "StampEntrySatelliteType_None",
+                "spline_connection": {
+                  "index": 1,
+                  "segment": 0
+                }
+              },
+              {
+                "type": "StampEntryType_stop",
+                "direction": -0.0141135342,
+                "satellite_type": "StampEntrySatelliteType_None",
+                "spline_connection": {
+                  "index": 1,
+                  "segment": 3
+                }
+              }
+            ],
+            "splines": [
+              {
+                "spline_type": "StampSpline_SuperEarthRoad",
+                "segments": [
+                  {
+                    "x": -0.57277143,
+                    "y": -32.3017349
+                  },
+                  {
+                    "x": -0.57277143,
+                    "y": -32.3017349
+                  },
+                  {
+                    "x": -0.0827082396,
+                    "y": -20.3653889
+                  },
+                  {
+                    "x": -0.0827082396,
+                    "y": -20.3653889
+                  }
+                ],
+                "entrypoints": [
+                  0,
+                  1
+                ]
+              },
+              {
+                "spline_type": "StampSpline_SuperEarthRoad",
+                "segments": [
+                  {
+                    "x": 25.3679256,
+                    "y": -8.44350529
+                  },
+                  {
+                    "x": 25.3679256,
+                    "y": -8.44350529
+                  },
+                  {
+                    "x": 4.95197678,
+                    "y": -8.15534496
+                  },
+                  {
+                    "x": 4.95197678,
+                    "y": -8.15534496
+                  }
+                ],
+                "entrypoints": [
+                  2,
+                  3
+                ]
+              }
+            ],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -94864,15 +96596,25 @@
           }
         },
         {
-          "key": 0,
+          "key": 12911623523936366178,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 13.1323814,
+                  "y": -14.5928879
+                },
+                "radius": 14.7176094,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {
@@ -95563,15 +97305,25 @@
           }
         },
         {
-          "key": 0,
+          "key": 18324938146890129016,
           "stamp": {
-            "collision_circles": [],
+            "collision_circles": [
+              {
+                "position": {
+                  "x": 2.67684984,
+                  "y": -0.885088444
+                },
+                "radius": 28,
+                "flattening_intensity": 1,
+                "flatten_terrain": 1
+              }
+            ],
             "collision_rectangles": [],
             "entrypoints": [],
             "splines": [],
             "extensions": [],
             "proxies": [],
-            "rotation_type": []
+            "rotation_type": "StampRotationType_random"
           }
         },
         {

@@ -61,6 +61,7 @@
     "SurfaceImpactType_crash_large",
     "SurfaceImpactType_crash_huge",
     "SurfaceImpactType_footstep_human_walk",
+    "SurfaceImpactType_footstep_human_walk_toe",
     "SurfaceImpactType_footstep_human_walk_crouch",
     "SurfaceImpactType_footstep_human_jog",
     "SurfaceImpactType_footstep_human_sprint",
@@ -166,5 +167,7 @@
     "SurfaceImpactType_footstep_bug_scavenger_back_land",
     "SurfaceImpactType_footstep_bug_scavenger_land",
     "SurfaceImpactType_body_impact_shrieker",
+    "SurfaceImpactType_combat_walker_stomp",
+    "SurfaceImpactType_combat_walker_land",
     "SurfaceImpactType_Count"
 ]}

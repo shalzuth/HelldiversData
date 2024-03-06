@@ -1,4 +1,6 @@
 { "ObjectiveDynamicLinkComponent" : {
     "objective_type" : { "type": "StratagemObjectiveDropRequirement", "default": "StratagemObjectiveDropRequirement_None", "description": "What kind of stratagem drop requirement objective type to attach to" },
+    "objective_importance_type" : { "type": "ObjectiveImportanceType", "default": "ObjectiveImportanceType_Primary", "description": "What objective importance type to attach to." },
+    "link_type" : { "type": "ObjectiveDynamicLinkComponentLinkType", "default": "ObjectiveDynamicLinkComponentLinkType_Stratagem", "description": "Determines the link type." },
     "auto_link" : { "type": "byte", "description": "[bool]Should this try to link by default?" }
 }}

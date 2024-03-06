@@ -1816,7 +1816,7 @@
     "max_impulse": 10000,
     "impulse_scale": 1,
     "use_simplified_hit_direction_vectors": 0,
-    "force_strength_threshold_to_knockback": 18
+    "force_strength_threshold_to_knockback": 500
   },
   "11135777548304851724": {
     "hit_react_sets": [
@@ -4384,7 +4384,7 @@
     "max_impulse": 10000,
     "impulse_scale": 1,
     "use_simplified_hit_direction_vectors": 0,
-    "force_strength_threshold_to_knockback": 18
+    "force_strength_threshold_to_knockback": 500
   },
   "1024464436030047776": {
     "hit_react_sets": [
@@ -7808,7 +7808,7 @@
     "max_impulse": 10000,
     "impulse_scale": 1,
     "use_simplified_hit_direction_vectors": 0,
-    "force_strength_threshold_to_knockback": 18
+    "force_strength_threshold_to_knockback": 500
   },
   "17943362722330235151": {
     "hit_react_sets": [

@@ -1,6 +1,7 @@
 { "AiEnemyFollowCurveSettings" : {
     "time_anim_events" : { "type": "array", "subtype": "AiEnemyFollowCurveAnimEvent" },
     "exit_anim_event" : { "type": "uint", "description": "[string]" },
+    "exit_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play while exiting the curve." },
     "swoop_audio" : { "type": "uint", "description": "[wwise]The sound to trigger when the enemy swoops past its target." },
     "swoop_audio_time" : { "type": "float", "default": -1, "description": "At which point of the curve should the audio event be played, in the range (0-1)" }
 }}

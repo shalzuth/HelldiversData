@@ -175,7 +175,7 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 1
         },
         {
           "type": "StatusEffectType_Rooted",
@@ -850,7 +850,7 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 1
         },
         {
           "type": "StatusEffectType_StunMedium",
@@ -875,7 +875,7 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 1
         },
         {
           "type": "StatusEffectType_StunLarge",
@@ -900,7 +900,7 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 1
         },
         {
           "type": "StatusEffectType_StunMassive",
@@ -925,7 +925,7 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 1
         },
         {
           "type": "StatusEffectType_StunIlluminate",
@@ -950,7 +950,7 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 1
         },
         {
           "type": "StatusEffectType_Gas",
@@ -1151,6 +1151,31 @@
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
           "block_sprint": 0
+        },
+        {
+          "type": "StatusEffectType_Tremor",
+          "debug_name": "Tremor",
+          "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
+          "shading_environment": 0,
+          "shading_environment_fade_time": 0,
+          "strength": 1,
+          "duration": 10,
+          "damage_info_type": "DamageInfoType_None",
+          "particle_effect_path": 0,
+          "script_event_start": 0,
+          "script_event_stop": 0,
+          "wwise_state": "WwiseAudioState_None",
+          "audio_event_start": 2808552258,
+          "audio_event_stop": 2469509031,
+          "audio_event_enter": 0,
+          "audio_event_exit": 0,
+          "animation_event_start": 0,
+          "animation_event_stop": 0,
+          "difficult_terrain_amount": 1,
+          "unique_effect": 0,
+          "no_susceptibility_required": 1,
+          "audio_event_master_only": 0,
+          "block_sprint": 1
         }
       ]
     }

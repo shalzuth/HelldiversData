@@ -26,12 +26,12 @@
   },
   "14005216303325302728": {
     "warning_type": "DangerWarningType_FireTornado",
-    "trigger_radius": 60,
+    "trigger_radius": 80,
     "start_active": 1
   },
   "2036607187954284541": {
     "warning_type": "DangerWarningType_MeteorShower",
-    "trigger_radius": 35,
+    "trigger_radius": 165,
     "start_active": 1
   },
   "8850657780063593973": {
@@ -61,7 +61,7 @@
   },
   "2918844402145947936": {
     "warning_type": "DangerWarningType_VolcanicActivity",
-    "trigger_radius": 100,
+    "trigger_radius": 150,
     "start_active": 0
   }
 }

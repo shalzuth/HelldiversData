@@ -513,7 +513,7 @@
           "day_weather_settings": 1012805741424135039,
           "night_weather_settings": 9469814564815974450,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 600,
+          "time_fully_active": 540,
           "fade_out_time": 100,
           "is_override_weather": 0
         },
@@ -522,7 +522,32 @@
           "day_weather_settings": 7574789396986773105,
           "night_weather_settings": 2072291641225828476,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 120,
+          "time_fully_active": 180,
+          "fade_out_time": 75,
+          "is_override_weather": 0
+        }
+      ]
+    }
+  },
+  {
+    "ScenarioSettings": {
+      "id": 15249077914307529028,
+      "settings": [
+        {
+          "name": 60792642,
+          "day_weather_settings": 11255914366223911568,
+          "night_weather_settings": 9411301130880626567,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 540,
+          "fade_out_time": 100,
+          "is_override_weather": 0
+        },
+        {
+          "name": 3527998741,
+          "day_weather_settings": 7574789396986773105,
+          "night_weather_settings": 2072291641225828476,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 280,
           "fade_out_time": 75,
           "is_override_weather": 0
         }
@@ -672,8 +697,8 @@
           "day_weather_settings": 4246556173604407926,
           "night_weather_settings": 7289502601709040156,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 200,
-          "fade_out_time": 100,
+          "time_fully_active": 100,
+          "fade_out_time": 50,
           "is_override_weather": 0
         }
       ]
@@ -718,6 +743,22 @@
           "time_fully_active": 200,
           "fade_out_time": 100,
           "is_override_weather": 1
+        }
+      ]
+    }
+  },
+  {
+    "ScenarioSettings": {
+      "id": 12424937391684518072,
+      "settings": [
+        {
+          "name": 3419923254,
+          "day_weather_settings": 16026906945225683739,
+          "night_weather_settings": 5397145870119194075,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 200,
+          "fade_out_time": 100,
+          "is_override_weather": 0
         }
       ]
     }
@@ -838,7 +879,7 @@
         {
           "name": 3419923254,
           "day_weather_settings": 6334127180186341333,
-          "night_weather_settings": 12711690642136070829,
+          "night_weather_settings": 0,
           "weather_settings_from_scenario": 0,
           "time_fully_active": 200,
           "fade_out_time": 100,
@@ -922,7 +963,7 @@
           "day_weather_settings": 6253053615573437015,
           "night_weather_settings": 11986077216295523633,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 660,
+          "time_fully_active": 480,
           "fade_out_time": 90,
           "is_override_weather": 0
         },
@@ -931,7 +972,7 @@
           "day_weather_settings": 6040439129335796186,
           "night_weather_settings": 12597997738864460392,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 480,
+          "time_fully_active": 360,
           "fade_out_time": 180,
           "is_override_weather": 0
         },
@@ -979,12 +1020,30 @@
           "is_override_weather": 0
         },
         {
+          "name": 142862733,
+          "day_weather_settings": 9856530229331196450,
+          "night_weather_settings": 15142471897274653263,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 0,
+          "fade_out_time": 30,
+          "is_override_weather": 0
+        },
+        {
           "name": 319882148,
           "day_weather_settings": 13641036800243826886,
           "night_weather_settings": 7267833232091277272,
           "weather_settings_from_scenario": 0,
           "time_fully_active": 400,
           "fade_out_time": 75,
+          "is_override_weather": 0
+        },
+        {
+          "name": 4097073202,
+          "day_weather_settings": 9856530229331196450,
+          "night_weather_settings": 15142471897274653263,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 0,
+          "fade_out_time": 30,
           "is_override_weather": 0
         }
       ]
@@ -1063,12 +1122,30 @@
           "is_override_weather": 0
         },
         {
+          "name": 4108057422,
+          "day_weather_settings": 16983334248233469033,
+          "night_weather_settings": 8142053827682042481,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 0,
+          "fade_out_time": 30,
+          "is_override_weather": 0
+        },
+        {
           "name": 1162305942,
           "day_weather_settings": 13105293998681528368,
           "night_weather_settings": 4194605724577904953,
           "weather_settings_from_scenario": 0,
           "time_fully_active": 120,
           "fade_out_time": 60,
+          "is_override_weather": 0
+        },
+        {
+          "name": 4430552,
+          "day_weather_settings": 16983334248233469033,
+          "night_weather_settings": 8142053827682042481,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 0,
+          "fade_out_time": 30,
           "is_override_weather": 0
         }
       ]

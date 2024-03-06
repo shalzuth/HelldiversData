@@ -11,10 +11,10 @@
     "weather_name": 4002753097
   },
   "3312206059057944298": {
-    "previous_weather_out_time": 15,
-    "target_weather_in_time": 15,
-    "target_weather_active_hold_time": 60,
-    "target_weather_out_time": 60,
+    "previous_weather_out_time": 30,
+    "target_weather_in_time": 30,
+    "target_weather_active_hold_time": 180,
+    "target_weather_out_time": 90,
     "weather_catch_up_time": 30,
     "gameplay_effect_activation_point": 0.600000024,
     "remove_entity_on_completion": 1,

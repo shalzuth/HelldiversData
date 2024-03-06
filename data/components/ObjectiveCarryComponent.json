@@ -10,6 +10,7 @@
     "fail_on_lost_time" : { "type": "float", "default": 5, "description": "How long a carry needs to be considered `lost` to fail objective" },
     "position_marker_unit_type" : { "type": "ulong", "description": "[unit]Marker used for randomly positioning on spawn" },
     "map_icon" : { "type": "ulong", "description": "[material]icon that this carryable appears as on the minimap" },
+    "should_show_on_minimap_when_attached" : { "type": "byte", "description": "[bool]Should the map icon show in the minimap when this carryable is attached to something?" },
     "carry_complete_type" : { "type": "ObjectiveCarryableCompleteType", "default": "ObjectiveCarryableCompleteType_ShuttleExtraction" },
     "deploy_area_tag" : { "type": "uint", "description": "[string]Tag to match with an objective carry deployment area component or interaction zone name, when a carryable can be deployed/used." },
     "deploy_helldiver_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play on helldiver when deploying carryable" },

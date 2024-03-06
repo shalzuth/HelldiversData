@@ -32,5 +32,6 @@
     "on_dead_show_visibility_group" : { "type": "uint", "description": "[string]Visibility group to show when this unit dies." },
     "on_death_destruction_level" : { "type": "DestructionTemplateType", "default": "DestructionTemplateType_none", "description": "If this unit dies from the health component, then apply this level of destrction to itself from the destruction system" },
     "can_die_naturally" : { "type": "byte", "description": "[bool]Normally if a unit takes enough damage, they'll die. If this is disabled, it will only go down to constitution and needs to be killed via outside forces, such as behavior." },
-    "death_propagation" : { "type": "DeathPropagation", "default": "DeathPropagation_None", "description": "If this unit dies, It'll propagate the death to the selected inheritance direction selected in this field." }
+    "death_propagation" : { "type": "DeathPropagation", "default": "DeathPropagation_None", "description": "If this unit dies, It'll propagate the death to the selected inheritance direction selected in this field." },
+    "ui_health_strings" : { "type": "array", "subtype": "uint", "description": "[string]These strings will be used in the UI in certain places to denote the health status of the entity. The number of these set also determine the thresholds, with the first one being the most damaged." }
 }}

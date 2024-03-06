@@ -1,0 +1,4 @@
+{ "EncounterRampUpComponent" : {
+    "number_of_thresholds" : { "type": "uint", "description": "Number Of Thresholds" },
+    "thresholds" : { "type": "array", "subtype": "EncounterRampUpThreshold", "description": "The thresholds." }
+}}
