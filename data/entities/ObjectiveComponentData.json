@@ -1738,7 +1738,7 @@
         "type": "ObjectiveStageType_WaitForBehavior",
         "units_of_interest": [
           {
-            "path": 16823757388845438169,
+            "path": 0,
             "explicit_uoi_id": 0,
             "fail_on_destroyed": "ObjectiveFailOnDestroyedType_None"
           },
@@ -1782,7 +1782,7 @@
         "on_uoi_completed": 0,
         "on_uoi_triggered": 0,
         "completion_percentage": 1,
-        "map_type": "ObjectiveShowMapType_UnitsOfInterest",
+        "map_type": "ObjectiveShowMapType_None",
         "use_uoi_position_as_objective_position": 1,
         "allow_extraction": 0,
         "stratagem_drop": "StratagemObjectiveDropRequirement_None",
@@ -1796,7 +1796,7 @@
         "type": "ObjectiveStageType_WaitForBehavior",
         "units_of_interest": [
           {
-            "path": 9789369277487810778,
+            "path": 0,
             "explicit_uoi_id": 0,
             "fail_on_destroyed": "ObjectiveFailOnDestroyedType_None"
           },
@@ -1840,7 +1840,7 @@
         "on_uoi_completed": 0,
         "on_uoi_triggered": 0,
         "completion_percentage": 1,
-        "map_type": "ObjectiveShowMapType_UnitsOfInterest",
+        "map_type": "ObjectiveShowMapType_None",
         "use_uoi_position_as_objective_position": 1,
         "allow_extraction": 0,
         "stratagem_drop": "StratagemObjectiveDropRequirement_None",
@@ -1854,7 +1854,7 @@
         "type": "ObjectiveStageType_MinigameComplete",
         "units_of_interest": [
           {
-            "path": 3776542571935933494,
+            "path": 0,
             "explicit_uoi_id": 0,
             "fail_on_destroyed": "ObjectiveFailOnDestroyedType_None"
           },
