@@ -22,12 +22,12 @@
   },
   "13716881457783327350": {
     "spawn_timer_min": {
-      "x": 210,
-      "y": 210
+      "x": 255,
+      "y": 255
     },
     "spawn_timer_max": {
-      "x": 720,
-      "y": 720
+      "x": 960,
+      "y": 960
     },
     "spawned_entity": 6196760958746040749,
     "random_offset_distance_range": {
@@ -43,33 +43,33 @@
   },
   "4030485156009350934": {
     "spawn_timer_min": {
-      "x": 180,
-      "y": 180
+      "x": 255,
+      "y": 255
     },
     "spawn_timer_max": {
-      "x": 720,
-      "y": 720
+      "x": 995,
+      "y": 995
     },
     "spawned_entity": 2036607187954284541,
     "random_offset_distance_range": {
       "x": 0,
-      "y": 20
+      "y": 15
     },
     "scale_rate_on_objective_completion": 0,
     "spawn_on_origin": 0,
     "spawn_on_navmesh": 0,
-    "paused_while_spawned": 0,
+    "paused_while_spawned": 1,
     "start_active": 1,
     "avoid_objective_location_distance": 20
   },
   "7367839628474820840": {
     "spawn_timer_min": {
-      "x": 150,
-      "y": 150
+      "x": 375,
+      "y": 375
     },
     "spawn_timer_max": {
-      "x": 900,
-      "y": 900
+      "x": 1080,
+      "y": 1080
     },
     "spawned_entity": 2918844402145947936,
     "random_offset_distance_range": {
@@ -85,12 +85,12 @@
   },
   "8912550789086281002": {
     "spawn_timer_min": {
-      "x": 150,
-      "y": 150
+      "x": 215,
+      "y": 215
     },
     "spawn_timer_max": {
-      "x": 660,
-      "y": 660
+      "x": 750,
+      "y": 750
     },
     "spawned_entity": 3312206059057944298,
     "random_offset_distance_range": {
@@ -148,17 +148,17 @@
   },
   "10412515891379368875": {
     "spawn_timer_min": {
-      "x": 75,
-      "y": 75
+      "x": 145,
+      "y": 145
     },
     "spawn_timer_max": {
-      "x": 420,
-      "y": 420
+      "x": 725,
+      "y": 725
     },
     "spawned_entity": 8850657780063593973,
     "random_offset_distance_range": {
       "x": 0,
-      "y": 35
+      "y": 30
     },
     "scale_rate_on_objective_completion": 0,
     "spawn_on_origin": 0,

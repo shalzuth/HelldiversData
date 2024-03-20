@@ -5491,8 +5491,8 @@
             0
           ],
           "demolition_strength": 50,
-          "force_strength": 30,
-          "force_impulse": 20,
+          "force_strength": 35,
+          "force_impulse": 25,
           "element_type": "ElementType_None",
           "status_effects": [
             {
@@ -7616,13 +7616,13 @@
         {
           "type": "DamageInfoType_Projectile_Laser_Pulse",
           "damage": [
-            450,
-            450
+            650,
+            650
           ],
           "armor_penetration_per_angle": [
             6,
-            5,
-            5,
+            6,
+            6,
             3
           ],
           "demolition_strength": 30,
@@ -9576,11 +9576,11 @@
         {
           "type": "DamageInfoType_Explosion_Projectile_WorldMeteor",
           "damage": [
-            1000,
-            1000
+            700,
+            700
           ],
           "armor_penetration_per_angle": [
-            5,
+            6,
             0,
             0,
             0

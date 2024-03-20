@@ -145,26 +145,26 @@
         "name": 1035033667,
         "weapon_index": 1,
         "limits": {
-          "pitch_limit_min": -25,
-          "pitch_limit_max": 25,
-          "yaw_limit_min": -90,
-          "yaw_limit_max": 90,
+          "pitch_limit_min": -20,
+          "pitch_limit_max": 20,
+          "yaw_limit_min": -12,
+          "yaw_limit_max": 45,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
         "aim_speed": 1,
         "parent_node": 2601604451,
-        "pivot_node": 551832871,
+        "pivot_node": 0,
         "unit_type": "MultiTargetUnitType_Weapon"
       },
       {
         "name": 2884967578,
         "weapon_index": 0,
         "limits": {
-          "pitch_limit_min": -25,
-          "pitch_limit_max": 25,
-          "yaw_limit_min": -90,
-          "yaw_limit_max": 90,
+          "pitch_limit_min": -20,
+          "pitch_limit_max": 20,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 15,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
@@ -4272,8 +4272,8 @@
         "aim_constraint": 0,
         "aim_constraint_distance": 10,
         "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
+          "pitch_limit_min": -180,
+          "pitch_limit_max": 180,
           "yaw_limit_min": -180,
           "yaw_limit_max": 180,
           "pitch_deadzone": 45,
@@ -4405,10 +4405,10 @@
         "name": 1035033667,
         "weapon_index": 1,
         "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
+          "pitch_limit_min": -5,
+          "pitch_limit_max": 2.5,
+          "yaw_limit_min": -12,
+          "yaw_limit_max": 65,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
