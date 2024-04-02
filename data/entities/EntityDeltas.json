@@ -163,6 +163,10 @@
     "magazines_max": 4,
     "chambered": 0
   },
+  "5561857465385532946": {
+    "immediate_extraction": 1,
+    "map_size_override": 0.575
+  },
   "6496346306736513044": {
     "projectile_type": "ProjectileType_Pistol_12x25mm_tox",
     "weapon_stat_modifiers[0].type": "WeaponStatModifierType_Mul_SpreadHorizontal",
@@ -6367,6 +6371,21 @@
     "muzzle_path": 13346297317041401928,
     "muzzle_flash": 16823787479404769990
   },
+  "9618612182455580745": {
+    "immediate_extraction": 1,
+    "starting_time_limit": 1200,
+    "mission_difficulty_settings.patrol_count_max_modifier.mission_progression_step_multipliers[0]": 0,
+    "mission_difficulty_settings.patrol_count_max_modifier.mission_progression_step_multipliers[1]": 0,
+    "mission_difficulty_settings.patrol_count_max_modifier.mission_progression_step_multipliers[2]": 0,
+    "mission_difficulty_settings.patrol_count_max_modifier.mission_progression_step_multipliers[3]": 0,
+    "mission_difficulty_settings.patrol_count_max_modifier.mission_progression_step_multipliers[4]": 0,
+    "mission_difficulty_settings.patrol_count_max_modifier.player_count_multipliers[0]": 0,
+    "mission_difficulty_settings.patrol_count_max_modifier.player_count_multipliers[1]": 0,
+    "mission_difficulty_settings.patrol_count_max_modifier.player_count_multipliers[2]": 0,
+    "mission_difficulty_settings.patrol_count_max_modifier.player_count_multipliers[3]": 0,
+    "mission_difficulty_settings.patrol_count_max_modifier.extraction_available_multiplier": 0,
+    "mission_time_start_paused": 1
+  },
   "7546010150065048137": {
     "magazine_capacity": 16,
     "magazines": 5,
@@ -8510,8 +8529,7 @@
   },
   "14257721759557106506": {
     "patrol_spawn_duration_multiplier": 0.4,
-    "immediate_extraction": 1,
-    "regular_extraction_on_mission_end": 1
+    "immediate_extraction": 1
   },
   "987320979226785100": {
     "weapon_stat_modifiers[0].type": "WeaponStatModifierType_Add_Ergonomics",

@@ -97,6 +97,55 @@
     "movement_should_be_processed_by_projectile_system": 0,
     "projectile_type_to_process": "ProjectileType_None"
   },
+  "9674649994301135605": {
+    "targeting_mode": "SeekingMissileTargetingMode_TargetLock",
+    "autoplay_starting_effects": 1,
+    "time_to_enable_guidance": 0,
+    "time_to_disable_guidance": -1,
+    "distance_to_enable_guidance": -1,
+    "distance_to_disable_guidance": 1,
+    "angle_lost_guidance": 180,
+    "movement_prediction_accuracy": 0,
+    "time_to_enable_movement": 0,
+    "time_to_enable_explosive": 0,
+    "max_lifetime": 10,
+    "starting_speed": 5,
+    "minimum_speed": 5,
+    "preferred_speed": 30,
+    "acceleration": 20,
+    "max_angle_to_target": 45,
+    "min_turn_speed": 0,
+    "max_turn_speed": 5,
+    "p_factor": 0.5,
+    "i_factor": 1,
+    "d_factor": 9.99999975e-05,
+    "target_update_interval": 0,
+    "missile_trail": {
+      "particle_effect": 11729500833301673747,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 3348593499,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_Destroy",
+      "inherit_rotation": 1,
+      "linked": 1,
+      "spawn_on_camera": 0
+    },
+    "missile_trail_audio_event": 3355805861,
+    "missile_trail_audio_event_stop": 1575614952,
+    "target_dot_minimum": 0.5,
+    "javelin_firing_mode": 0,
+    "movement_should_be_processed_by_projectile_system": 0,
+    "projectile_type_to_process": "ProjectileType_None"
+  },
   "11146770675064382806": {
     "targeting_mode": "SeekingMissileTargetingMode_Behavior",
     "autoplay_starting_effects": 1,
@@ -242,55 +291,6 @@
     "target_dot_minimum": -1,
     "javelin_firing_mode": 0,
     "movement_should_be_processed_by_projectile_system": 1,
-    "projectile_type_to_process": "ProjectileType_None"
-  },
-  "15986416455258940649": {
-    "targeting_mode": "SeekingMissileTargetingMode_Guidance",
-    "autoplay_starting_effects": 1,
-    "time_to_enable_guidance": 0,
-    "time_to_disable_guidance": -1,
-    "distance_to_enable_guidance": -1,
-    "distance_to_disable_guidance": -1,
-    "angle_lost_guidance": 180,
-    "movement_prediction_accuracy": 0,
-    "time_to_enable_movement": -1,
-    "time_to_enable_explosive": -1,
-    "max_lifetime": 0,
-    "starting_speed": 1,
-    "minimum_speed": 1,
-    "preferred_speed": 200,
-    "acceleration": 50,
-    "max_angle_to_target": 45,
-    "min_turn_speed": 4,
-    "max_turn_speed": 6,
-    "p_factor": 0.5,
-    "i_factor": 1,
-    "d_factor": 9.99999975e-05,
-    "target_update_interval": 0,
-    "missile_trail": {
-      "particle_effect": 15354781082875440306,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 90,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 3348593499,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_Stop",
-      "inherit_rotation": 1,
-      "linked": 1,
-      "spawn_on_camera": 0
-    },
-    "missile_trail_audio_event": 2848480356,
-    "missile_trail_audio_event_stop": 1326063454,
-    "target_dot_minimum": -1,
-    "javelin_firing_mode": 0,
-    "movement_should_be_processed_by_projectile_system": 0,
     "projectile_type_to_process": "ProjectileType_None"
   },
   "12668691934073286373": {

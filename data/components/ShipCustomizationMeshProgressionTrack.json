@@ -1,0 +1,4 @@
+{ "ShipCustomizationMeshProgressionTrack" : {
+    "entries" : { "type": "array", "subtype": "ShipCustomizationMeshProgressionEntry", "description": "Mesh entries for this progression track" },
+    "progression_package_id" : { "type": "uint", "description": "[string]Progression package that control this ship customization track" }
+}}

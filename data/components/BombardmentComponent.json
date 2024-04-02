@@ -18,5 +18,7 @@
     "walk_angle" : { "type": "float", "default": 0, "description": "Angle relative to forward direction that the bombardment will walk. Clockwise, in degrees." },
     "walk_offset_fraction" : { "type": "float", "default": 0, "description": "Fraction of the walk that should happen before behind the target. Set to 0.5 to center on the spawn position." },
     "destroyer_stratagem_fire" : { "type": "uint", "default": 3511619768, "description": "[wwise]We are triggering a loop for this so we do not get event spamming" },
-    "destroyer_stratagem_fire_stop" : { "type": "uint", "default": 948676210, "description": "[wwise]" }
+    "destroyer_stratagem_fire_stop" : { "type": "uint", "default": 948676210, "description": "[wwise]" },
+    "tag_avoidances" : { "type": "array", "subtype": "Tag", "description": "List of tags to avoid for each individual projectile this bombardment spawns." },
+    "tag_avoidance_distance" : { "type": "float", "default": 0, "description": "The minimum distance from entities with that has a tag in 'tag_avoidance' for each individual projectile." }
 }}

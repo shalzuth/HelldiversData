@@ -3597,16 +3597,16 @@
           "in_space_star_intensity": 10,
           "ambient_diffuse_intensity_day": 1,
           "ambient_diffuse_intensity_sunset": 1.5,
-          "ambient_diffuse_intensity_night": 2,
+          "ambient_diffuse_intensity_night": 1.5,
           "ambient_diffuse_ground_bounce_intensity_day": 1,
-          "ambient_diffuse_ground_bounce_intensity_sunset": 1.5,
-          "ambient_diffuse_ground_bounce_intensity_night": 2,
+          "ambient_diffuse_ground_bounce_intensity_sunset": 1,
+          "ambient_diffuse_ground_bounce_intensity_night": 1,
           "fog_ambient_intensity_day": 1,
-          "fog_ambient_intensity_sunset": 1.5,
-          "fog_ambient_intensity_night": 2,
+          "fog_ambient_intensity_sunset": 1,
+          "fog_ambient_intensity_night": 1,
           "fog_ambient_ground_bounce_intensity_day": 1,
-          "fog_ambient_ground_bounce_intensity_sunset": 1.5,
-          "fog_ambient_ground_bounce_intensity_night": 2
+          "fog_ambient_ground_bounce_intensity_sunset": 1,
+          "fog_ambient_ground_bounce_intensity_night": 1
         }
       ]
     }

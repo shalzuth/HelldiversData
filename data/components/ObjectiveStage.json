@@ -13,5 +13,9 @@
     "stratagem_drop_max_distance" : { "type": "float", "default": 5, "description": "Max Distance a stratagem drop can be placed for it to be successful" },
     "track_uoi" : { "type": "byte", "description": "[bool]If the objective is in this stage, then the first unit of interest is tracked on the map" },
     "wait_for_behavior_type" : { "type": "ObjectiveWaitForBehaviorType", "default": "ObjectiveWaitForBehaviorType_Default", "description": "The type of wait_for_behavior." },
-    "wait_for_behavior_goal_count" : { "type": "uint", "description": "If type is ObjectiveWaitForBehaviorType_Count, this is the goal count." }
+    "wait_for_behavior_count_behavior" : { "type": "WaitForBehaviorCountBehavior", "default": "WaitForBehaviorCountBehavior_CompleteWhenGoalReached", "description": "Defines how the ObjectiveWaitForBehaviorType_Count functions." },
+    "wait_for_behavior_count_use_loc_vars" : { "type": "byte", "description": "[bool]If set, objective stages with ObjectiveWaitForBehaviorType::ObjectiveWaitForBehaviorType_Count will use loc vars to fill in CURRENT / GOAL, using the #CURRENT / #TARGET loc vars." },
+    "wait_for_behavior_goal_count" : { "type": "uint", "description": "If type is ObjectiveWaitForBehaviorType_Count, this is the goal count." },
+    "countdown_time" : { "type": "float", "default": 10, "description": "If type is ObjectiveStageType_Countdown, this is the countdown time." },
+    "count_step" : { "type": "byte", "description": "[bool]If set, this step will be counted as a step." }
 }}

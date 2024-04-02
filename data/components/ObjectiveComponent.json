@@ -23,5 +23,8 @@
     "base_counts_per_difficulty" : { "type": "array", "subtype": "float", "description": "For objectives such as kill/horde, this is the base counts for each difficulty to use" },
     "tiers" : { "type": "uint", "description": "For tiered objectives, where you can be rewarded for partial progress if reaching certain milestones" },
     "info_range" : { "type": "float", "default": -1, "description": "If the player is within this range, the objective info will show up on the HUD. If set to -1, will default to stamp range." },
-    "always_show_info_on_hud_when_in_range" : { "type": "byte", "description": "[bool]Default behavior is that info is only shown for the closest objective that is in range - This will force it to always show info for this objective, if it is in range." }
+    "always_show_info_on_hud_when_in_range" : { "type": "byte", "description": "[bool]Default behavior is that info is only shown for the closest objective that is in range - This will force it to always show info for this objective, if it is in range." },
+    "allow_stratagem_use_after_completion" : { "type": "byte", "description": "[bool]If true then stratagems used in this objective will be available after completing the objective." },
+    "can_be_completed_partially" : { "type": "byte", "description": "[bool]If true then the objective can reward partial rewards based on current_step_count/total_step_count." },
+    "count_linked_steps" : { "type": "byte", "description": "[bool]If set, the current/total steps of linked units will be taken into account for the progression objective." }
 }}

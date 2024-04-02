@@ -1,0 +1,11 @@
+{ "WaveEncounterTriggerComponent" : {
+    "number_of_waves" : { "type": "uint", "default": 20, "description": "The number of waves this component will spawn." },
+    "start_time_between_waves" : { "type": "float", "default": 60, "description": "The start time between then one wave ends and the next one starts." },
+    "end_time_between_waves" : { "type": "float", "default": 40, "description": "The end time between then one wave ends and the next one starts." },
+    "maximum_time_between_waves" : { "type": "float", "default": 20, "description": "If a wave has been completely cleared, then we enforce this maximum time between waves." },
+    "start_encounter_points_multipliers" : { "type": "array", "subtype": "float", "description": "A multiplier relative to the base encounter points for the current difficulty." },
+    "end_encounter_points_multipliers" : { "type": "array", "subtype": "float", "description": "A multiplier relative to the base encounter points for the current difficulty." },
+    "spawn_boss" : { "type": "byte", "description": "[bool]Sets if a boss should spawn." },
+    "boss_frequency" : { "type": "uint", "default": 5, "description": "Sets the frequency of when bosses spawn, for example ever 5:th wave if set to 5." },
+    "target_unit" : { "type": "ulong", "description": "[unit]If set, encounter will have their target position to a unit of this type in the level." }
+}}

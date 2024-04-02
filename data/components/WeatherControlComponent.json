@@ -7,5 +7,7 @@
     "gameplay_effect_activation_point" : { "type": "float", "default": 0.6 },
     "remove_entity_on_completion" : { "type": "byte" },
     "start_active" : { "type": "byte" },
-    "weather_name" : { "type": "uint", "description": "[string]" }
+    "weather_name" : { "type": "uint", "description": "[string]" },
+    "on_activate_script_event" : { "type": "uint", "description": "[string]Sends this script event to the behavior component when gameplay effect activates" },
+    "on_deactivate_script_event" : { "type": "uint", "description": "[string]Sends this script event to the behavior component when gameplay effect deactivates" }
 }}

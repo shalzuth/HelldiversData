@@ -1385,6 +1385,132 @@
     "explode_on_death": 0,
     "on_armed_ability": "AbilityId_grenade_frag_armed"
   },
+  "9674649994301135605": {
+    "mode": "ExplosiveMode_Impact",
+    "collision_raycast_filter": "RaycastTemplate_IlluminateDamage",
+    "arming_delay": 1,
+    "explosion_delay": 0,
+    "removal_delay": 0,
+    "start_active": 0,
+    "hide_on_explosion": 1,
+    "destroy_actor_on_explosion": 1,
+    "ignore_friendly_fire": 0,
+    "impact_distance": 0.100000001,
+    "impact_airburst_distance": 0,
+    "explosion_type": "ExplosionType_Illuminate_IllusionistSmallball",
+    "impact_explosion_type": "ExplosionType_None",
+    "on_exploded_sound": 0,
+    "on_status_effect_done_sound": 0,
+    "armed_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    },
+    "trail_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    },
+    "status_effect_particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    },
+    "status_effect_done_particle_effect": {
+      "particle_effect": 0,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "node_id": 0,
+      "trigger_emit_event": 0,
+      "link_option": "UnitEffectOrphanStrategy_None",
+      "inherit_rotation": 0,
+      "linked": 1,
+      "spawn_on_camera": 0
+    },
+    "armed_sound": 0,
+    "status_effect_template": {
+      "effect_template": {
+        "type": "StatusEffectTemplateType_None",
+        "effects": [
+          {
+            "type": "StatusEffectType_None",
+            "value_per_second": 1
+          },
+          {
+            "type": "StatusEffectType_None",
+            "value_per_second": 1
+          },
+          {
+            "type": "StatusEffectType_None",
+            "value_per_second": 1
+          },
+          {
+            "type": "StatusEffectType_None",
+            "value_per_second": 1
+          }
+        ],
+        "needs_to_hit_valid_actor": 0
+      },
+      "lifetime": 3,
+      "trigger_volume_node_name": 0,
+      "inner_radius": 1,
+      "outer_radius": 2
+    },
+    "trigger_actor": 0,
+    "collision_actor": 0,
+    "explode_on_death": 1,
+    "on_armed_ability": "AbilityId_Invalid"
+  },
   "3251783147077776986": {
     "mode": "ExplosiveMode_Impact",
     "collision_raycast_filter": "RaycastTemplate_IlluminateDamage",
@@ -1888,132 +2014,6 @@
     "collision_actor": 975499119,
     "explode_on_death": 0,
     "on_armed_ability": "AbilityId_grenade_frag_armed"
-  },
-  "15986416455258940649": {
-    "mode": "ExplosiveMode_Impact",
-    "collision_raycast_filter": "RaycastTemplate_Damage",
-    "arming_delay": 0,
-    "explosion_delay": 0,
-    "removal_delay": 1,
-    "start_active": 0,
-    "hide_on_explosion": 1,
-    "destroy_actor_on_explosion": 0,
-    "ignore_friendly_fire": 0,
-    "impact_distance": 3,
-    "impact_airburst_distance": 0,
-    "explosion_type": "ExplosionType_Mini_Missile_Silo",
-    "impact_explosion_type": "ExplosionType_None",
-    "on_exploded_sound": 0,
-    "on_status_effect_done_sound": 0,
-    "armed_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    },
-    "trail_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    },
-    "status_effect_particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    },
-    "status_effect_done_particle_effect": {
-      "particle_effect": 0,
-      "offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "rotation_offset": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "node_id": 0,
-      "trigger_emit_event": 0,
-      "link_option": "UnitEffectOrphanStrategy_None",
-      "inherit_rotation": 0,
-      "linked": 1,
-      "spawn_on_camera": 0
-    },
-    "armed_sound": 0,
-    "status_effect_template": {
-      "effect_template": {
-        "type": "StatusEffectTemplateType_None",
-        "effects": [
-          {
-            "type": "StatusEffectType_None",
-            "value_per_second": 1
-          },
-          {
-            "type": "StatusEffectType_None",
-            "value_per_second": 1
-          },
-          {
-            "type": "StatusEffectType_None",
-            "value_per_second": 1
-          },
-          {
-            "type": "StatusEffectType_None",
-            "value_per_second": 1
-          }
-        ],
-        "needs_to_hit_valid_actor": 0
-      },
-      "lifetime": 3,
-      "trigger_volume_node_name": 0,
-      "inner_radius": 1,
-      "outer_radius": 2
-    },
-    "trigger_actor": 0,
-    "collision_actor": 2748617169,
-    "explode_on_death": 1,
-    "on_armed_ability": "AbilityId_mini_missile_silo_missile_arm"
   },
   "2303622299803843892": {
     "mode": "ExplosiveMode_Timed",

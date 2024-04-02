@@ -1,4 +1,26 @@
 {
+  "518600486455451088": {
+    "takeoff_force": 35,
+    "takeoff_duration": 0.5,
+    "boosted_takeoff_duration": 0.75,
+    "takeoff_forward_frac": 0.0500000007,
+    "landing_thrust_force": 60,
+    "landing_thrust_duration": 1,
+    "landing_thrust_backward_frac": 0.100000001,
+    "landing_trigger_delay_time": 1,
+    "landing_trigger_velocity": 3,
+    "landing_stop_velocity": 1,
+    "mid_air_adjustment_speed": 4,
+    "fall_damage_thrusters": 0,
+    "ground_smoke_effect": "SurfaceImpactType_jumppack_ground",
+    "ability_thrusters_recharge_start": "AbilityId_jumppack_thrusters_recharge_start",
+    "ability_thrusters_recharge_done": "AbilityId_jumppack_thrusters_recharge_done",
+    "ability_thrusters_activate_jump_fail": "AbilityId_jumppack_thrusters_activate_jump_fail",
+    "ability_thrusters_activate_jump": "AbilityId_bug_objectives_darkfluid_aoe",
+    "script_event_thrusters_activate_jump": 4262094111,
+    "ability_thrusters_activate_land": "AbilityId_jumppack_thrusters_activate_land",
+    "ability_thrusters_deactivate": "AbilityId_jumppack_thrusters_deactivate"
+  },
   "6468799106264970105": {
     "takeoff_force": 25,
     "takeoff_duration": 0.5,
@@ -17,6 +39,7 @@
     "ability_thrusters_recharge_done": "AbilityId_jumppack_thrusters_recharge_done",
     "ability_thrusters_activate_jump_fail": "AbilityId_jumppack_thrusters_activate_jump_fail",
     "ability_thrusters_activate_jump": "AbilityId_jumppack_thrusters_activate_jump",
+    "script_event_thrusters_activate_jump": 1288385068,
     "ability_thrusters_activate_land": "AbilityId_jumppack_thrusters_activate_land",
     "ability_thrusters_deactivate": "AbilityId_jumppack_thrusters_deactivate"
   }

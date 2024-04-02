@@ -1,4 +1,19 @@
 {
+  "8924623437272706588": {
+    "category_type": "StratagemCategoryType_Count",
+    "block_radius": 150,
+    "start_active": 1
+  },
+  "2578414789566162565": {
+    "category_type": "StratagemCategoryType_Count",
+    "block_radius": 150,
+    "start_active": 1
+  },
+  "12587270281642273949": {
+    "category_type": "StratagemCategoryType_CloseAirSupport",
+    "block_radius": 150,
+    "start_active": 1
+  },
   "6196760958746040749": {
     "category_type": "StratagemCategoryType_Count",
     "block_radius": -1,
@@ -9,19 +24,9 @@
     "block_radius": 40,
     "start_active": 1
   },
-  "2578414789566162565": {
+  "13427666347591013927": {
     "category_type": "StratagemCategoryType_Count",
-    "block_radius": 150,
-    "start_active": 1
-  },
-  "8924623437272706588": {
-    "category_type": "StratagemCategoryType_Count",
-    "block_radius": 150,
-    "start_active": 1
-  },
-  "12587270281642273949": {
-    "category_type": "StratagemCategoryType_CloseAirSupport",
-    "block_radius": 150,
+    "block_radius": 300,
     "start_active": 1
   }
 }

@@ -1,0 +1,7 @@
+{ "ShipCustomizationMeshProgressionEntry" : {
+    "package" : { "type": "ulong", "description": "[package]Optional package, useful for spawning meshes that are not loaded by the progression_package_system." },
+    "unit_path" : { "type": "ulong", "description": "[unit]Path to the unit." },
+    "max_level" : { "type": "uint", "description": "Max package progression level." },
+    "min_level" : { "type": "uint", "description": "Max package progression level." },
+    "attachment_node" : { "type": "uint", "description": "[string]Super destroyer's node id to attach this mesh to." }
+}}

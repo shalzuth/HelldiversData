@@ -1,484 +1,4 @@
 {
-  "10376328634656085665": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 3042882781,
-    "delivery_unit_type": 16632824083766830307,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "8096066089414940474": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 2366511802,
-    "delivery_unit_type": 0,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 6720525522977842436,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "4894393506576860267": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 3042882781,
-    "delivery_unit_type": 0,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "17696993194780227077": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 2366511802,
-    "delivery_unit_type": 11124398588417671766,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
-  },
-  "6279750092088033715": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 2366511802,
-    "delivery_unit_type": 9156963873071449061,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "11389144440041661089": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 457310130,
-    "delivery_unit_type": 16632824083766830307,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 1696158145,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "4459198455771523223": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 3042882781,
-    "delivery_unit_type": 16632824083766830307,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "15356733335604944785": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 1684682375,
-    "delivery_unit_type": 15805795754758043311,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 1696158145,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "16185879173872143133": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 2366511802,
-    "delivery_unit_type": 11124398588417671766,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
-  },
-  "3743261888606184850": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 1684682375,
-    "delivery_unit_type": 16632824083766830307,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 8932295213927644867,
-    "should_show_on_minimap_when_attached": 1,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 1696158145,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "8971696097026260232": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 468209619,
-    "delivery_unit_type": 16632824083766830307,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DeployInArea",
-    "deploy_area_tag": 1848854125,
-    "deploy_helldiver_ability": "AbilityId_avatar_objective_plant_flag_avatar",
-    "carryable_deployed_ability": "AbilityId_avatar_objective_plant_flag_planted",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 3706304929,
-    "loc_info_carried": 759124456,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "15859727822481861892": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 2366511802,
-    "delivery_unit_type": 11124398588417671766,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
-  },
-  "11329506424240616277": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 468209619,
-    "delivery_unit_type": 16632824083766830307,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DeployInArea",
-    "deploy_area_tag": 2734915449,
-    "deploy_helldiver_ability": "AbilityId_avatar_objective_plant_flag_avatar",
-    "carryable_deployed_ability": "AbilityId_avatar_objective_plant_flag_planted",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 3706304929,
-    "loc_info_carried": 2881735687,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "1577001701089971290": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 3042882781,
-    "delivery_unit_type": 16632824083766830307,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "7810054165681946755": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 2366511802,
-    "delivery_unit_type": 11124398588417671766,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
-  },
-  "4510702625533881224": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 457310130,
-    "delivery_unit_type": 7994234785698608762,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 8932295213927644867,
-    "should_show_on_minimap_when_attached": 1,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 1255637022,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
   "10339505652348491976": {
     "carrying_event": 252763994,
     "dropped_event": 935333705,
@@ -509,42 +29,12 @@
     "loc_info_carried": 521738944,
     "carry_entity_type": "ObjectiveCarryEntityType_None"
   },
-  "5084997687310749502": {
-    "carrying_event": 252763994,
+  "518600486455451088": {
+    "carrying_event": 3951292831,
     "dropped_event": 935333705,
     "lost_event": 469283641,
     "complete_event": 1684682375,
-    "delivery_unit_type": 14465236078627581141,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 1696158145,
-    "carry_entity_type": "ObjectiveCarryEntityType_None"
-  },
-  "7745884044284159061": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 2366511802,
-    "delivery_unit_type": 11124398588417671766,
+    "delivery_unit_type": 830284595714798800,
     "drop_off_attach_offset": {
       "x": 0,
       "y": 0,
@@ -566,40 +56,10 @@
     "carryable_deployed_ability": "AbilityId_Invalid",
     "complete_deploy_instantly": 0,
     "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
-    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
-  },
-  "13142476912332493378": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
-    "lost_event": 469283641,
-    "complete_event": 3042882781,
-    "delivery_unit_type": 16632824083766830307,
-    "drop_off_attach_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0.25
-    },
-    "drop_off_attach_rotation": {
-      "x": 0,
-      "y": 90,
-      "z": 0
-    },
-    "migrate_owner_on_drop_off": 0,
-    "fail_on_lost_time": 5,
-    "position_marker_unit_type": 0,
-    "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
-    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
-    "deploy_area_tag": 0,
-    "deploy_helldiver_ability": "AbilityId_Invalid",
-    "carryable_deployed_ability": "AbilityId_Invalid",
-    "complete_deploy_instantly": 0,
-    "loc_info_deploy": 2498763121,
-    "loc_info_carried": 3702651477,
+    "loc_info_carried": 1319105446,
     "carry_entity_type": "ObjectiveCarryEntityType_None"
   },
-  "4616777209957967593": {
+  "8096066089414940474": {
     "carrying_event": 252763994,
     "dropped_event": 935333705,
     "lost_event": 469283641,
@@ -659,6 +119,156 @@
     "loc_info_carried": 1696158145,
     "carry_entity_type": "ObjectiveCarryEntityType_None"
   },
+  "4894393506576860267": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 3042882781,
+    "delivery_unit_type": 0,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "15356733335604944785": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 1684682375,
+    "delivery_unit_type": 15805795754758043311,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 1696158145,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "6279750092088033715": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 2366511802,
+    "delivery_unit_type": 9156963873071449061,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "4616777209957967593": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 2366511802,
+    "delivery_unit_type": 0,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 6720525522977842436,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "8971696097026260232": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 468209619,
+    "delivery_unit_type": 16632824083766830307,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DeployInArea",
+    "deploy_area_tag": 1848854125,
+    "deploy_helldiver_ability": "AbilityId_avatar_objective_plant_flag_avatar",
+    "carryable_deployed_ability": "AbilityId_avatar_objective_plant_flag_planted",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 3706304929,
+    "loc_info_carried": 759124456,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
   "13847484889080110003": {
     "carrying_event": 252763994,
     "dropped_event": 935333705,
@@ -689,11 +299,371 @@
     "loc_info_carried": 3702651477,
     "carry_entity_type": "ObjectiveCarryEntityType_Shell"
   },
+  "16185879173872143133": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 2366511802,
+    "delivery_unit_type": 11124398588417671766,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
+  },
+  "10376328634656085665": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 3042882781,
+    "delivery_unit_type": 16632824083766830307,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "11329506424240616277": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 468209619,
+    "delivery_unit_type": 16632824083766830307,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DeployInArea",
+    "deploy_area_tag": 2734915449,
+    "deploy_helldiver_ability": "AbilityId_avatar_objective_plant_flag_avatar",
+    "carryable_deployed_ability": "AbilityId_avatar_objective_plant_flag_planted",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 3706304929,
+    "loc_info_carried": 2881735687,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
   "17587738009391187453": {
     "carrying_event": 252763994,
     "dropped_event": 935333705,
     "lost_event": 469283641,
     "complete_event": 1684682375,
+    "delivery_unit_type": 16632824083766830307,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 1696158145,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "16482681913442925439": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 2366511802,
+    "delivery_unit_type": 11124398588417671766,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
+  },
+  "1577001701089971290": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 3042882781,
+    "delivery_unit_type": 16632824083766830307,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "5084997687310749502": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 1684682375,
+    "delivery_unit_type": 14465236078627581141,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 1696158145,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "15859727822481861892": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 2366511802,
+    "delivery_unit_type": 11124398588417671766,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
+  },
+  "17696993194780227077": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 2366511802,
+    "delivery_unit_type": 11124398588417671766,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
+  },
+  "4459198455771523223": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 3042882781,
+    "delivery_unit_type": 16632824083766830307,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "7810054165681946755": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 2366511802,
+    "delivery_unit_type": 11124398588417671766,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_Shell"
+  },
+  "13142476912332493378": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 3042882781,
+    "delivery_unit_type": 16632824083766830307,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 0,
+    "should_show_on_minimap_when_attached": 0,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 3702651477,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "11389144440041661089": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 457310130,
     "delivery_unit_type": 16632824083766830307,
     "drop_off_attach_offset": {
       "x": 0,
@@ -749,7 +719,37 @@
     "loc_info_carried": 3702651477,
     "carry_entity_type": "ObjectiveCarryEntityType_None"
   },
-  "16482681913442925439": {
+  "4510702625533881224": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 457310130,
+    "delivery_unit_type": 7994234785698608762,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 8932295213927644867,
+    "should_show_on_minimap_when_attached": 1,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 1255637022,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
+  },
+  "7745884044284159061": {
     "carrying_event": 252763994,
     "dropped_event": 935333705,
     "lost_event": 469283641,
@@ -778,5 +778,35 @@
     "loc_info_deploy": 2498763121,
     "loc_info_carried": 3702651477,
     "carry_entity_type": "ObjectiveCarryEntityType_Shell"
+  },
+  "3743261888606184850": {
+    "carrying_event": 252763994,
+    "dropped_event": 935333705,
+    "lost_event": 469283641,
+    "complete_event": 1684682375,
+    "delivery_unit_type": 16632824083766830307,
+    "drop_off_attach_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0.25
+    },
+    "drop_off_attach_rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "migrate_owner_on_drop_off": 0,
+    "fail_on_lost_time": 5,
+    "position_marker_unit_type": 0,
+    "map_icon": 8932295213927644867,
+    "should_show_on_minimap_when_attached": 1,
+    "carry_complete_type": "ObjectiveCarryableCompleteType_DropOff",
+    "deploy_area_tag": 0,
+    "deploy_helldiver_ability": "AbilityId_Invalid",
+    "carryable_deployed_ability": "AbilityId_Invalid",
+    "complete_deploy_instantly": 0,
+    "loc_info_deploy": 2498763121,
+    "loc_info_carried": 1696158145,
+    "carry_entity_type": "ObjectiveCarryEntityType_None"
   }
 }

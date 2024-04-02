@@ -1,6 +1,10 @@
 { "ThrowerComponent" : {
     "throwable_path" : { "type": "ulong", "description": "[unit]Path to the unit that should be thrown." },
     "audio_node" : { "type": "uint", "description": "[string]Node to play spinning audio effects from." },
+    "spin_start_audio_event" : { "type": "uint", "description": "[wwise]The wwise sound id to play when the mine launcher spin starts." },
+    "spin_end_audio_event" : { "type": "uint", "description": "[wwise]The wwise sound id to play when the mine launcher spin ends." },
+    "mine_released_audio_event" : { "type": "uint", "description": "[wwise]The wwise sound id to play when mines are released." },
+    "mine_land_audio_event" : { "type": "uint", "description": "[wwise]The wwise sound id to play when mines land." },
     "panel_count" : { "type": "uint", "default": 6, "description": "The number of panels this thrower has." },
     "throwable_count" : { "type": "uint", "default": 8, "description": "The number of throwables to throw per-panel." },
     "nodes" : { "type": "array", "subtype": "uint", "description": "[string]The throwable nodes on the panels" },

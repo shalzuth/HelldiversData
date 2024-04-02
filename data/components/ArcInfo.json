@@ -15,5 +15,6 @@
     "explosion_effect_path" : { "type": "ulong", "description": "[particles]" },
     "hit_effect_damage_type" : { "type": "HitEffectDamageType", "default": "HitEffectDamageType_None" },
     "hit_audio_event" : { "type": "uint" },
-    "beam_path" : { "type": "ulong", "description": "[unit]" }
+    "beam_path" : { "type": "ulong", "description": "[unit]" },
+    "demolition_strength" : { "type": "uint" }
 }}

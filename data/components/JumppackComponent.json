@@ -16,6 +16,7 @@
     "ability_thrusters_recharge_done" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_recharge_done", "description": "The ability to play when we are done charging" },
     "ability_thrusters_activate_jump_fail" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_activate_jump_fail", "description": "The ability to play when we are done charging" },
     "ability_thrusters_activate_jump" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_activate_jump", "description": "The ability to play when we are done charging" },
+    "script_event_thrusters_activate_jump" : { "type": "uint", "default": 1288385068, "description": "[string]Script event to call when thrusters activate jump." },
     "ability_thrusters_activate_land" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_activate_land", "description": "The ability to play when we are done charging" },
     "ability_thrusters_deactivate" : { "type": "AbilityId", "default": "AbilityId_jumppack_thrusters_deactivate", "description": "The ability to play when we are done charging" }
 }}

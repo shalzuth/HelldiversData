@@ -8,84 +8,9 @@
     "life_regen_time": 120,
     "immediate_extraction": 0,
     "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "4119787788098417919": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "5808153078233765273": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "1035582494342310493": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "15310831283362138511": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "4971254005476332729": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "11214776831578948095": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "16173737029892384591": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
   },
   "9796372134785992837": {
     "reinforce_time": 7,
@@ -96,29 +21,9 @@
     "life_regen_time": 120,
     "immediate_extraction": 0,
     "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "9562546443765914919": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "15734220103569014877": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
   },
   "2678554217936754689": {
     "reinforce_time": 7,
@@ -129,18 +34,9 @@
     "life_regen_time": 120,
     "immediate_extraction": 0,
     "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "3686600486986266946": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
   },
   "9037877505857081793": {
     "reinforce_time": 7,
@@ -151,7 +47,100 @@
     "life_regen_time": 120,
     "immediate_extraction": 0,
     "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "15310831283362138511": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "4577499252883928066": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "11214776831578948095": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "4971254005476332729": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "15734220103569014877": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "3686600486986266946": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "16173737029892384591": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
   },
   "12768986400783294623": {
     "reinforce_time": 7,
@@ -162,18 +151,9 @@
     "life_regen_time": 120,
     "immediate_extraction": 0,
     "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
-  },
-  "12993421683837798712": {
-    "reinforce_time": 7,
-    "solo_reinforce_time": 30,
-    "extra_reinforce_time_per_death_team": 2,
-    "extra_reinforce_time_per_death_self": 0,
-    "extra_reinforce_time_per_minute": 0.5,
-    "life_regen_time": 120,
-    "immediate_extraction": 0,
-    "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
   },
   "92346607788498241": {
     "reinforce_time": 7,
@@ -184,6 +164,73 @@
     "life_regen_time": 120,
     "immediate_extraction": 0,
     "regular_extraction_on_mission_end": 0,
-    "trigger_extraction_when_timer_runs_out": 1
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "1035582494342310493": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "9562546443765914919": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "4119787788098417919": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "12993421683837798712": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
+  },
+  "5808153078233765273": {
+    "reinforce_time": 7,
+    "solo_reinforce_time": 30,
+    "extra_reinforce_time_per_death_team": 2,
+    "extra_reinforce_time_per_death_self": 0,
+    "extra_reinforce_time_per_minute": 0.5,
+    "life_regen_time": 120,
+    "immediate_extraction": 0,
+    "regular_extraction_on_mission_end": 0,
+    "regular_extraction_on_mission_fail": 0,
+    "trigger_extraction_when_timer_runs_out": 1,
+    "map_size_override": -1
   }
 }

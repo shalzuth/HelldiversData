@@ -9,8 +9,6 @@
     "charge_up_vibration_frequency_start" : { "type": "uint", "description": "(Used by weapons that have spin up, charge, beam, etc) Replace the initial trigger resist with a vibration. This determines the vibration at 0% charge. 0 means off." },
     "charge_up_vibration_frequency_end" : { "type": "uint", "description": "(Used by weapons that have spin up, charge, beam, etc) Replace the initial trigger resist with a vibration strength. This determines the vibration at 100% charge." },
     "weight_resistance" : { "type": "uint", "default": 3, "description": "The amount of maximum resistance when aiming a weapon." },
-    "aim_threshold" : { "type": "uint", "default": 5, "description": "The position at which the aim triggers." },
-    "aim_threshold_release" : { "type": "uint", "default": 2, "description": "The position at which the aim releases." },
     "double_action_trigger" : { "type": "uint", "description": "If above 0, will activate the single shot trigger. Number determines by how much to offset the regular trigger." },
     "double_action_regular_offset" : { "type": "uint", "description": "If double action is enabled, but we aren't in Full Auto, how much should the trigger threshold be offsetted by." },
     "on_fire_event" : { "type": "uint", "description": "[string]The name of the audio event to send to the trigger on every fire event (for rumble + controller audio)." }

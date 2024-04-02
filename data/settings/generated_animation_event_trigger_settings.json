@@ -9657,6 +9657,131 @@
           ]
         },
         {
+          "unit_resource": 8279761197893036288,
+          "event_triggers": [
+            {
+              "animation_event": 3156676296,
+              "sound_event": 2220307727,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3529204694,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 1804750953,
+              "sound_event": 0,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3529204694,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 4236194261,
+              "sound_event": 0,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3529204694,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            }
+          ]
+        },
+        {
           "unit_resource": 6358746089464627494,
           "event_triggers": [
             {
@@ -16361,9 +16486,9 @@
             },
             {
               "animation_event": 631719176,
-              "sound_event": 0,
+              "sound_event": 3318979214,
               "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
+              "sound_node_id": 743470638,
               "effect": {
                 "particle_effect": 12070882348872295728,
                 "offset": {
@@ -16401,9 +16526,9 @@
             },
             {
               "animation_event": 3350404874,
-              "sound_event": 0,
+              "sound_event": 3318979214,
               "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
+              "sound_node_id": 2005006368,
               "effect": {
                 "particle_effect": 12070882348872295728,
                 "offset": {
@@ -16441,9 +16566,9 @@
             },
             {
               "animation_event": 119354336,
-              "sound_event": 0,
+              "sound_event": 3318979214,
               "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
+              "sound_node_id": 2496648986,
               "effect": {
                 "particle_effect": 12070882348872295728,
                 "offset": {
@@ -16481,9 +16606,9 @@
             },
             {
               "animation_event": 1452365879,
-              "sound_event": 0,
+              "sound_event": 3136932192,
               "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
+              "sound_node_id": 2601604451,
               "effect": {
                 "particle_effect": 9751830381201064585,
                 "offset": {
@@ -16520,10 +16645,90 @@
               "scale_node": []
             },
             {
-              "animation_event": 2313930587,
-              "sound_event": 0,
+              "animation_event": 3612282973,
+              "sound_event": 2318130435,
               "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
+              "sound_node_id": 741404392,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 2145249160,
+              "sound_event": 2318130435,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2761045760,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 2313930587,
+              "sound_event": 195998945,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3197892359,
               "effect": {
                 "particle_effect": 14718455881197532058,
                 "offset": {
@@ -16561,9 +16766,9 @@
             },
             {
               "animation_event": 1058435959,
-              "sound_event": 0,
+              "sound_event": 195998945,
               "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
+              "sound_node_id": 530923526,
               "effect": {
                 "particle_effect": 14718455881197532058,
                 "offset": {
@@ -16601,9 +16806,9 @@
             },
             {
               "animation_event": 1424928621,
-              "sound_event": 0,
+              "sound_event": 195998945,
               "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
+              "sound_node_id": 3333966575,
               "effect": {
                 "particle_effect": 14718455881197532058,
                 "offset": {
@@ -16641,9 +16846,9 @@
             },
             {
               "animation_event": 221061654,
-              "sound_event": 0,
+              "sound_event": 195998945,
               "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
+              "sound_node_id": 2674903193,
               "effect": {
                 "particle_effect": 14718455881197532058,
                 "offset": {
@@ -16724,6 +16929,806 @@
               "sound_event": 3240604176,
               "owner_specific_sound_event": 0,
               "sound_node_id": 3838971876,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 1544125066,
+              "sound_event": 2964359924,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3462630969,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 2593061440,
+              "sound_event": 2964359924,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3445412921,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 3825258169,
+              "sound_event": 4115015034,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2137230842,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 2053068989,
+              "sound_event": 4115015034,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 1079599251,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 296816836,
+              "sound_event": 2697516393,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2601604451,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 3186417634,
+              "sound_event": 3799523877,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2540511347,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 1510176320,
+              "sound_event": 1896146490,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2321807384,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 53746183,
+              "sound_event": 1896146490,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2321807384,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 1766634629,
+              "sound_event": 1896146490,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2070474549,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 4000330242,
+              "sound_event": 1896146490,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2444339823,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 1996669667,
+              "sound_event": 2510631353,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 4021502339,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 4138833239,
+              "sound_event": 2510631353,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3373566462,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 121613462,
+              "sound_event": 1080292518,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2601604451,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 764218019,
+              "sound_event": 1581280370,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2601604451,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 53384779,
+              "sound_event": 2118673382,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 4021502339,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 2881164091,
+              "sound_event": 2118673382,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3107671668,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 1367652372,
+              "sound_event": 3107564253,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3923526250,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 2477542953,
+              "sound_event": 1832595167,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3923526250,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 3698293806,
+              "sound_event": 937818440,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3923526250,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 2841387515,
+              "sound_event": 1157752468,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 3923526250,
               "effect": {
                 "particle_effect": 0,
                 "offset": {
@@ -41658,6 +42663,95 @@
               "scale_node": []
             }
           ]
+        },
+        {
+          "unit_resource": 13682275477419944701,
+          "event_triggers": [
+            {
+              "animation_event": 512857319,
+              "sound_event": 1515471082,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2601604451,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            },
+            {
+              "animation_event": 556094642,
+              "sound_event": 2921637004,
+              "owner_specific_sound_event": 0,
+              "sound_node_id": 2601604451,
+              "effect": {
+                "particle_effect": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "rotation_offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "node_id": 0,
+                "trigger_emit_event": 0,
+                "link_option": "UnitEffectOrphanStrategy_None",
+                "inherit_rotation": 0,
+                "linked": 1,
+                "spawn_on_camera": 0
+              },
+              "camera_shake": {
+                "shake": 0,
+                "node_id": 0,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "inner_radius": 1,
+                "inner_outer": 10,
+                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
+                "linked": 0
+              },
+              "set_visibility_group": [],
+              "scale_node": []
+            }
+          ]
+        },
+        {
+          "unit_resource": 211331680192206384,
+          "event_triggers": []
         }
       ]
     }

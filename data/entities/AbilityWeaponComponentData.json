@@ -1,4 +1,10 @@
 {
+  "3371451580584923919": {
+    "weapon_ability_id": "AbilityId_Invalid",
+    "wielder_ability_id": "AbilityId_Invalid",
+    "target_ability_id": "AbilityId_Invalid",
+    "can_cancel": 0
+  },
   "11300340358119080560": {
     "weapon_ability_id": "AbilityId_Invalid",
     "wielder_ability_id": "AbilityId_complex_avatar_place_prospector",
@@ -7,12 +13,6 @@
   },
   "9182363845171390146": {
     "weapon_ability_id": "AbilityId_drone_camera_shoot",
-    "wielder_ability_id": "AbilityId_Invalid",
-    "target_ability_id": "AbilityId_Invalid",
-    "can_cancel": 0
-  },
-  "4686290245664085219": {
-    "weapon_ability_id": "AbilityId_Invalid",
     "wielder_ability_id": "AbilityId_Invalid",
     "target_ability_id": "AbilityId_Invalid",
     "can_cancel": 0
@@ -32,18 +32,6 @@
   "10266352102081711787": {
     "weapon_ability_id": "AbilityId_remote_explosive_do_trigger",
     "wielder_ability_id": "AbilityId_avatar_drop_remote_detonator",
-    "target_ability_id": "AbilityId_Invalid",
-    "can_cancel": 0
-  },
-  "10744843724429302507": {
-    "weapon_ability_id": "AbilityId_Invalid",
-    "wielder_ability_id": "AbilityId_Invalid",
-    "target_ability_id": "AbilityId_Invalid",
-    "can_cancel": 0
-  },
-  "3371451580584923919": {
-    "weapon_ability_id": "AbilityId_Invalid",
-    "wielder_ability_id": "AbilityId_Invalid",
     "target_ability_id": "AbilityId_Invalid",
     "can_cancel": 0
   }

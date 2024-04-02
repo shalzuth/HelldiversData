@@ -1,11 +1,11 @@
 {
-  "3101227300789072443": {
-    "arc_type": "ArcType_IlluminateObelisk",
+  "10871298989420119782": {
+    "arc_type": "ArcType_ArcThrower",
     "rounds_per_minute": -1,
     "infinite_ammo": 1,
     "rpc_synced_fire_events": 0,
-    "fire_single_audio_event": 0,
-    "fire_fail_audio_event": 0,
+    "fire_single_audio_event": 694574617,
+    "fire_fail_audio_event": 1078217113,
     "haptics_fire_single_audio_event": 4044808858,
     "fire_source_node": 747556395,
     "on_round_fired_shakes": {
@@ -18,34 +18,15 @@
     "muzzle_flash": 10465347570353705351,
     "muzzle_flash_fail": 16648530335928772614
   },
-  "8383906277678357886": {
-    "arc_type": "ArcType_TeslaTurret",
+  "10214051119573296464": {
+    "arc_type": "ArcType_IlluminateTripod",
     "rounds_per_minute": -1,
     "infinite_ammo": 1,
     "rpc_synced_fire_events": 0,
-    "fire_single_audio_event": 1726138993,
-    "fire_fail_audio_event": 0,
-    "haptics_fire_single_audio_event": 4044808858,
-    "fire_source_node": 1441931427,
-    "on_round_fired_shakes": {
-      "world_shake_effect": 15470634414645351875,
-      "local_shake_effect": 15470634414645351875,
-      "fpv_shake_effect": 0,
-      "inner_radius": 3,
-      "outer_radius": 10
-    },
-    "muzzle_flash": 0,
-    "muzzle_flash_fail": 0
-  },
-  "10871298989420119782": {
-    "arc_type": "ArcType_ArcThrower",
-    "rounds_per_minute": -1,
-    "infinite_ammo": 1,
-    "rpc_synced_fire_events": 0,
-    "fire_single_audio_event": 694574617,
+    "fire_single_audio_event": 1204667037,
     "fire_fail_audio_event": 1078217113,
     "haptics_fire_single_audio_event": 4044808858,
-    "fire_source_node": 747556395,
+    "fire_source_node": 2601604451,
     "on_round_fired_shakes": {
       "world_shake_effect": 15470634414645351875,
       "local_shake_effect": 15470634414645351875,
@@ -94,15 +75,34 @@
     "muzzle_flash": 10465347570353705351,
     "muzzle_flash_fail": 16648530335928772614
   },
-  "10214051119573296464": {
-    "arc_type": "ArcType_IlluminateTripod",
+  "952558497108237637": {
+    "arc_type": "ArcType_IlluminateTurretTesla",
     "rounds_per_minute": -1,
     "infinite_ammo": 1,
     "rpc_synced_fire_events": 0,
-    "fire_single_audio_event": 1204667037,
-    "fire_fail_audio_event": 1078217113,
+    "fire_single_audio_event": 1726138993,
+    "fire_fail_audio_event": 0,
     "haptics_fire_single_audio_event": 4044808858,
-    "fire_source_node": 2601604451,
+    "fire_source_node": 1243096897,
+    "on_round_fired_shakes": {
+      "world_shake_effect": 15470634414645351875,
+      "local_shake_effect": 15470634414645351875,
+      "fpv_shake_effect": 0,
+      "inner_radius": 3,
+      "outer_radius": 10
+    },
+    "muzzle_flash": 0,
+    "muzzle_flash_fail": 0
+  },
+  "3101227300789072443": {
+    "arc_type": "ArcType_IlluminateObelisk",
+    "rounds_per_minute": -1,
+    "infinite_ammo": 1,
+    "rpc_synced_fire_events": 0,
+    "fire_single_audio_event": 0,
+    "fire_fail_audio_event": 0,
+    "haptics_fire_single_audio_event": 4044808858,
+    "fire_source_node": 747556395,
     "on_round_fired_shakes": {
       "world_shake_effect": 15470634414645351875,
       "local_shake_effect": 15470634414645351875,
@@ -112,5 +112,24 @@
     },
     "muzzle_flash": 10465347570353705351,
     "muzzle_flash_fail": 16648530335928772614
+  },
+  "8383906277678357886": {
+    "arc_type": "ArcType_TeslaTurret",
+    "rounds_per_minute": -1,
+    "infinite_ammo": 1,
+    "rpc_synced_fire_events": 0,
+    "fire_single_audio_event": 1726138993,
+    "fire_fail_audio_event": 0,
+    "haptics_fire_single_audio_event": 4044808858,
+    "fire_source_node": 1441931427,
+    "on_round_fired_shakes": {
+      "world_shake_effect": 15470634414645351875,
+      "local_shake_effect": 15470634414645351875,
+      "fpv_shake_effect": 0,
+      "inner_radius": 3,
+      "outer_radius": 10
+    },
+    "muzzle_flash": 0,
+    "muzzle_flash_fail": 0
   }
 }

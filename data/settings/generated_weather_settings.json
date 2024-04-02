@@ -26879,7 +26879,7 @@
         "y": 0.945097983,
         "z": 1
       },
-      "distant_weather_effects_color_intensity": 35,
+      "distant_weather_effects_color_intensity": 20,
       "distant_weather_effects_fade_in_out": {
         "x": 0.0350000001,
         "y": 0.280000001
@@ -27171,7 +27171,7 @@
         "y": 0.945097983,
         "z": 1
       },
-      "distant_weather_effects_color_intensity": 35,
+      "distant_weather_effects_color_intensity": 20,
       "distant_weather_effects_fade_in_out": {
         "x": 0.0350000001,
         "y": 0.280000001
@@ -27450,7 +27450,7 @@
         "y": 0.945097983,
         "z": 1
       },
-      "distant_weather_effects_color_intensity": 35,
+      "distant_weather_effects_color_intensity": 20,
       "distant_weather_effects_fade_in_out": {
         "x": 0.0350000001,
         "y": 0.280000001
@@ -27742,7 +27742,7 @@
         "y": 0.945097983,
         "z": 1
       },
-      "distant_weather_effects_color_intensity": 35,
+      "distant_weather_effects_color_intensity": 20,
       "distant_weather_effects_fade_in_out": {
         "x": 0.0350000001,
         "y": 0.280000001
@@ -27851,7 +27851,7 @@
       "inherits": "content/level_generation_settings/env_shared/weather_settings/hazy",
       "init": 0,
       "weather_type": "WeatherType_Clear",
-      "environment_effect_tag": "EnvironmentalEffectType_ThickFog",
+      "environment_effect_tag": "EnvironmentalEffectType_None",
       "wind_speed_min": 2,
       "wind_speed_max": 3,
       "cloud_weather_map": 14634142498539175458,
@@ -28096,7 +28096,7 @@
       "inherits": "content/level_generation_settings/planet_forest_moor/weather_settings/planet_forest_moor_base_misty",
       "init": 0,
       "weather_type": "WeatherType_Clear",
-      "environment_effect_tag": "EnvironmentalEffectType_ThickFog",
+      "environment_effect_tag": "EnvironmentalEffectType_None",
       "wind_speed_min": 2,
       "wind_speed_max": 3,
       "cloud_weather_map": 14634142498539175458,
@@ -29298,7 +29298,7 @@
         "y": 0.945097983,
         "z": 1
       },
-      "distant_weather_effects_color_intensity": 35,
+      "distant_weather_effects_color_intensity": 20,
       "distant_weather_effects_fade_in_out": {
         "x": 0.0350000001,
         "y": 0.280000001

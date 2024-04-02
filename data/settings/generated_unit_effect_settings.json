@@ -8442,6 +8442,21 @@
           "despawn_sounds": [],
           "destroy_sounds": [],
           "randomized_effect": []
+        },
+        {
+          "unit_resource": 15239773297738004195,
+          "destroy_option": "UnitEffectOrphanStrategy_Stop",
+          "effects": [],
+          "sounds": [
+            {
+              "sound_id": 1005483420,
+              "node_id": 3171671320
+            }
+          ],
+          "node_scales": [],
+          "despawn_sounds": [],
+          "destroy_sounds": [],
+          "randomized_effect": []
         }
       ]
     }

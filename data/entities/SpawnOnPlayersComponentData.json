@@ -1,67 +1,4 @@
 {
-  "10375802719390920449": {
-    "spawn_timer_min": {
-      "x": 90,
-      "y": 30
-    },
-    "spawn_timer_max": {
-      "x": 150,
-      "y": 60
-    },
-    "spawned_entity": 4822214108367178297,
-    "random_offset_distance_range": {
-      "x": 0,
-      "y": 50
-    },
-    "scale_rate_on_objective_completion": 1,
-    "spawn_on_origin": 0,
-    "spawn_on_navmesh": 0,
-    "paused_while_spawned": 0,
-    "start_active": 1,
-    "avoid_objective_location_distance": 45
-  },
-  "13716881457783327350": {
-    "spawn_timer_min": {
-      "x": 255,
-      "y": 255
-    },
-    "spawn_timer_max": {
-      "x": 960,
-      "y": 960
-    },
-    "spawned_entity": 6196760958746040749,
-    "random_offset_distance_range": {
-      "x": 0,
-      "y": 0
-    },
-    "scale_rate_on_objective_completion": 0,
-    "spawn_on_origin": 1,
-    "spawn_on_navmesh": 0,
-    "paused_while_spawned": 1,
-    "start_active": 1,
-    "avoid_objective_location_distance": -1
-  },
-  "4030485156009350934": {
-    "spawn_timer_min": {
-      "x": 255,
-      "y": 255
-    },
-    "spawn_timer_max": {
-      "x": 995,
-      "y": 995
-    },
-    "spawned_entity": 2036607187954284541,
-    "random_offset_distance_range": {
-      "x": 0,
-      "y": 15
-    },
-    "scale_rate_on_objective_completion": 0,
-    "spawn_on_origin": 0,
-    "spawn_on_navmesh": 0,
-    "paused_while_spawned": 1,
-    "start_active": 1,
-    "avoid_objective_location_distance": 20
-  },
   "7367839628474820840": {
     "spawn_timer_min": {
       "x": 375,
@@ -125,27 +62,6 @@
     "start_active": 0,
     "avoid_objective_location_distance": 8
   },
-  "14635045411664702170": {
-    "spawn_timer_min": {
-      "x": 30,
-      "y": 30
-    },
-    "spawn_timer_max": {
-      "x": 40,
-      "y": 40
-    },
-    "spawned_entity": 8850657780063593973,
-    "random_offset_distance_range": {
-      "x": 7.5,
-      "y": 50
-    },
-    "scale_rate_on_objective_completion": 0,
-    "spawn_on_origin": 0,
-    "spawn_on_navmesh": 0,
-    "paused_while_spawned": 1,
-    "start_active": 1,
-    "avoid_objective_location_distance": -1
-  },
   "10412515891379368875": {
     "spawn_timer_min": {
       "x": 145,
@@ -166,5 +82,152 @@
     "paused_while_spawned": 1,
     "start_active": 1,
     "avoid_objective_location_distance": -1
+  },
+  "13716881457783327350": {
+    "spawn_timer_min": {
+      "x": 255,
+      "y": 255
+    },
+    "spawn_timer_max": {
+      "x": 960,
+      "y": 960
+    },
+    "spawned_entity": 6196760958746040749,
+    "random_offset_distance_range": {
+      "x": 0,
+      "y": 0
+    },
+    "scale_rate_on_objective_completion": 0,
+    "spawn_on_origin": 1,
+    "spawn_on_navmesh": 0,
+    "paused_while_spawned": 1,
+    "start_active": 1,
+    "avoid_objective_location_distance": -1
+  },
+  "9049165293479258496": {
+    "spawn_timer_min": {
+      "x": 330,
+      "y": 330
+    },
+    "spawn_timer_max": {
+      "x": 1200,
+      "y": 1200
+    },
+    "spawned_entity": 15543627206611261570,
+    "random_offset_distance_range": {
+      "x": 0,
+      "y": 0
+    },
+    "scale_rate_on_objective_completion": 0,
+    "spawn_on_origin": 1,
+    "spawn_on_navmesh": 0,
+    "paused_while_spawned": 1,
+    "start_active": 1,
+    "avoid_objective_location_distance": -1
+  },
+  "10375802719390920449": {
+    "spawn_timer_min": {
+      "x": 90,
+      "y": 30
+    },
+    "spawn_timer_max": {
+      "x": 150,
+      "y": 60
+    },
+    "spawned_entity": 4822214108367178297,
+    "random_offset_distance_range": {
+      "x": 0,
+      "y": 50
+    },
+    "scale_rate_on_objective_completion": 1,
+    "spawn_on_origin": 0,
+    "spawn_on_navmesh": 0,
+    "paused_while_spawned": 0,
+    "start_active": 1,
+    "avoid_objective_location_distance": 45
+  },
+  "6975936814670258217": {
+    "spawn_timer_min": {
+      "x": 60,
+      "y": 60
+    },
+    "spawn_timer_max": {
+      "x": 720,
+      "y": 720
+    },
+    "spawned_entity": 16930826278911679558,
+    "random_offset_distance_range": {
+      "x": 0,
+      "y": 0
+    },
+    "scale_rate_on_objective_completion": 0,
+    "spawn_on_origin": 1,
+    "spawn_on_navmesh": 0,
+    "paused_while_spawned": 1,
+    "start_active": 1,
+    "avoid_objective_location_distance": -1
+  },
+  "14635045411664702170": {
+    "spawn_timer_min": {
+      "x": 1,
+      "y": 1
+    },
+    "spawn_timer_max": {
+      "x": 1,
+      "y": 1
+    },
+    "spawned_entity": 8850657780063593973,
+    "random_offset_distance_range": {
+      "x": 1,
+      "y": 1
+    },
+    "scale_rate_on_objective_completion": 0,
+    "spawn_on_origin": 0,
+    "spawn_on_navmesh": 0,
+    "paused_while_spawned": 1,
+    "start_active": 1,
+    "avoid_objective_location_distance": -1
+  },
+  "15445992454365354016": {
+    "spawn_timer_min": {
+      "x": 240,
+      "y": 240
+    },
+    "spawn_timer_max": {
+      "x": 1080,
+      "y": 1080
+    },
+    "spawned_entity": 17591740805331981563,
+    "random_offset_distance_range": {
+      "x": 0,
+      "y": 0
+    },
+    "scale_rate_on_objective_completion": 0,
+    "spawn_on_origin": 1,
+    "spawn_on_navmesh": 0,
+    "paused_while_spawned": 1,
+    "start_active": 1,
+    "avoid_objective_location_distance": -1
+  },
+  "4030485156009350934": {
+    "spawn_timer_min": {
+      "x": 255,
+      "y": 255
+    },
+    "spawn_timer_max": {
+      "x": 995,
+      "y": 995
+    },
+    "spawned_entity": 2036607187954284541,
+    "random_offset_distance_range": {
+      "x": 0,
+      "y": 15
+    },
+    "scale_rate_on_objective_completion": 0,
+    "spawn_on_origin": 0,
+    "spawn_on_navmesh": 0,
+    "paused_while_spawned": 1,
+    "start_active": 1,
+    "avoid_objective_location_distance": 20
   }
 }

@@ -17311,14 +17311,14 @@
                 "x": 0,
                 "y": 0
               },
-              "fog_light_intensity": 4,
+              "fog_light_intensity": 3,
               "start_angle_range": {
                 "x": 5,
                 "y": 5
               }
             },
             {
-              "planet_type": 11196420898004577771,
+              "planet_type": 2365587269818790469,
               "ring_type": 0,
               "planet_object_settings": {
                 "unit_id": 0,
@@ -17347,7 +17347,7 @@
                 "x": 27,
                 "y": 27
               },
-              "planet_id": "SolarSystemPlanet_C",
+              "planet_id": "SolarSystemPlanet_B",
               "orbits_planet": "SolarSystemPlanet_Mission",
               "orbit_distance": 215,
               "orbit_tilt": {
@@ -17378,7 +17378,7 @@
                 "x": 0,
                 "y": 10
               },
-              "fog_light_intensity": 4,
+              "fog_light_intensity": 2,
               "start_angle_range": {
                 "x": 120,
                 "y": 120
@@ -17414,7 +17414,7 @@
                 "x": 0.5,
                 "y": 0.5
               },
-              "planet_id": "SolarSystemPlanet_B",
+              "planet_id": "SolarSystemPlanet_C",
               "orbits_planet": "SolarSystemPlanet_Mission",
               "orbit_distance": 9,
               "orbit_tilt": {
@@ -17445,7 +17445,7 @@
                 "x": 0,
                 "y": 360
               },
-              "fog_light_intensity": 5,
+              "fog_light_intensity": 3,
               "start_angle_range": {
                 "x": 325,
                 "y": 325
@@ -17512,7 +17512,7 @@
                 "x": 0,
                 "y": 360
               },
-              "fog_light_intensity": 5,
+              "fog_light_intensity": 3,
               "start_angle_range": {
                 "x": 240,
                 "y": 240
@@ -17579,7 +17579,7 @@
                 "x": 0,
                 "y": 0
               },
-              "fog_light_intensity": 6,
+              "fog_light_intensity": 3,
               "start_angle_range": {
                 "x": 0,
                 "y": 0
@@ -17646,7 +17646,7 @@
                 "x": 0,
                 "y": 0
               },
-              "fog_light_intensity": 5,
+              "fog_light_intensity": 3,
               "start_angle_range": {
                 "x": 90,
                 "y": 90
@@ -17713,7 +17713,7 @@
                 "x": 0,
                 "y": 0
               },
-              "fog_light_intensity": 5,
+              "fog_light_intensity": 3,
               "start_angle_range": {
                 "x": 90,
                 "y": 90
@@ -17780,7 +17780,7 @@
                 "x": 5,
                 "y": 5
               },
-              "fog_light_intensity": 4,
+              "fog_light_intensity": 3,
               "start_angle_range": {
                 "x": 95,
                 "y": 105
@@ -17790,13 +17790,13 @@
           "solar_system_ids": [
             6965690938680306050
           ],
-          "nighttime_reflectance_intensity_multipler": 4,
+          "nighttime_reflectance_intensity_multipler": 3,
           "fallback_light_color": {
             "x": 0.5,
             "y": 0.699999988,
             "z": 1
           },
-          "fallback_light_intensity": 5,
+          "fallback_light_intensity": 3.5,
           "fallback_fog_light_intensity": 3,
           "needs_packages": [
             11030322442520308123
@@ -28766,13 +28766,13 @@
           "solar_system_ids": [
             4379019587449105858
           ],
-          "nighttime_reflectance_intensity_multipler": 14,
+          "nighttime_reflectance_intensity_multipler": 7,
           "fallback_light_color": {
             "x": 0.058823999,
             "y": 0.184313998,
             "z": 1
           },
-          "fallback_light_intensity": 10,
+          "fallback_light_intensity": 5,
           "fallback_fog_light_intensity": 2.20000005,
           "needs_packages": [
             11030322442520308123

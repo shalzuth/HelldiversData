@@ -134,15 +134,6 @@
     "turn_on_during_extraction": 0,
     "auto_activate_night": 0
   },
-  "16709116186344048615": {
-    "link_to_all_lights": 0,
-    "start_powered": 1,
-    "power_on_event": 3964514144,
-    "power_off_event": 2364272586,
-    "power_on_flicker_event": 2548833656,
-    "turn_on_during_extraction": 0,
-    "auto_activate_night": 1
-  },
   "13201846197658131494": {
     "link_to_all_lights": 0,
     "start_powered": 0,
@@ -232,6 +223,15 @@
     "power_on_flicker_event": 2548833656,
     "turn_on_during_extraction": 0,
     "auto_activate_night": 0
+  },
+  "16915618249410217346": {
+    "link_to_all_lights": 0,
+    "start_powered": 1,
+    "power_on_event": 3964514144,
+    "power_off_event": 2364272586,
+    "power_on_flicker_event": 2548833656,
+    "turn_on_during_extraction": 0,
+    "auto_activate_night": 1
   },
   "6577715970688476836": {
     "link_to_all_lights": 0,

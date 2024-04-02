@@ -269,6 +269,60 @@
     "backpack_wwise_index": "BackpackWwiseIndex_None",
     "use_backpack_filled_switch": 0
   },
+  "1892480894983787169": {
+    "wield_node": 1339896631,
+    "wield_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "wield_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node": 3438608839,
+    "holster_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_duration": 0.400000006,
+    "wield_duration": 0.300000012,
+    "pickup_duration": 0.5,
+    "wield_animation": 992683582,
+    "pickup_animation": 285206574,
+    "holster_animation": 2280515764,
+    "ammocheck_animation": 2999171832,
+    "holster_duration_for_attach": 0.25,
+    "wield_duration_for_attach": 0.0500000007,
+    "attach_lerp_time": 0.0500000007,
+    "on_holster_animation_event": 0,
+    "wield_animation_self": 3661894371,
+    "pickup_animation_self": 0,
+    "holster_animation_self": 1778428268,
+    "equipment_type": "EquipmentType_Pistol",
+    "drop_mode": "EquipmentDropMode_Decay",
+    "drop_audio_event": 0,
+    "pickup_audio_event": 0,
+    "weapon_switch_wield_audio_event": 1769109006,
+    "weapon_switch_holster_audio_event": 1276899865,
+    "pickup_ability": "AbilityId_avatar_pickup_weapon",
+    "grip_type": "WeaponGripType_Pistol",
+    "is_one_handed": 1,
+    "allow_wield_on_ship": 0,
+    "show_in_pickup_widget": 1,
+    "holster_unit": 0,
+    "hint_id": 0,
+    "equipment_wwise_index": "EquipmentWwiseIndex_Sidearm_StandardPistol",
+    "backpack_wwise_index": "BackpackWwiseIndex_None",
+    "use_backpack_filled_switch": 0
+  },
   "1577001701089971290": {
     "wield_node": 1100233117,
     "wield_node_rotation_offset": {
@@ -801,6 +855,60 @@
     "pickup_ability": "AbilityId_Invalid",
     "grip_type": "WeaponGripType_CarryOneHanded",
     "is_one_handed": 1,
+    "allow_wield_on_ship": 0,
+    "show_in_pickup_widget": 1,
+    "holster_unit": 0,
+    "hint_id": 0,
+    "equipment_wwise_index": "EquipmentWwiseIndex_None",
+    "backpack_wwise_index": "BackpackWwiseIndex_None",
+    "use_backpack_filled_switch": 0
+  },
+  "518600486455451088": {
+    "wield_node": 1339896631,
+    "wield_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "wield_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node": 2004397926,
+    "holster_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_duration": 0.300000012,
+    "wield_duration": 0.5,
+    "pickup_duration": 0.5,
+    "wield_animation": 3661894371,
+    "pickup_animation": 285206574,
+    "holster_animation": 1778428268,
+    "ammocheck_animation": 2295825247,
+    "holster_duration_for_attach": 0,
+    "wield_duration_for_attach": 0,
+    "attach_lerp_time": 0.200000003,
+    "on_holster_animation_event": 0,
+    "wield_animation_self": 3661894371,
+    "pickup_animation_self": 0,
+    "holster_animation_self": 1778428268,
+    "equipment_type": "EquipmentType_BackpackDarkfluid",
+    "drop_mode": "EquipmentDropMode_Infinite",
+    "drop_audio_event": 0,
+    "pickup_audio_event": 1118103803,
+    "weapon_switch_wield_audio_event": 0,
+    "weapon_switch_holster_audio_event": 0,
+    "pickup_ability": "AbilityId_loot_pickup_backpack",
+    "grip_type": "WeaponGripType_Pistol",
+    "is_one_handed": 0,
     "allow_wield_on_ship": 0,
     "show_in_pickup_widget": 1,
     "holster_unit": 0,
@@ -2699,60 +2807,6 @@
     "backpack_wwise_index": "BackpackWwiseIndex_None",
     "use_backpack_filled_switch": 0
   },
-  "11922818763705725842": {
-    "wield_node": 1339896631,
-    "wield_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "wield_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node": 133847770,
-    "holster_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_duration": 0.5,
-    "wield_duration": 0.5,
-    "pickup_duration": 0.5,
-    "wield_animation": 1177628395,
-    "pickup_animation": 285206574,
-    "holster_animation": 187939156,
-    "ammocheck_animation": 2493084034,
-    "holster_duration_for_attach": 0.349999994,
-    "wield_duration_for_attach": 0.100000001,
-    "attach_lerp_time": 0.100000001,
-    "on_holster_animation_event": 0,
-    "wield_animation_self": 3661894371,
-    "pickup_animation_self": 0,
-    "holster_animation_self": 1778428268,
-    "equipment_type": "EquipmentType_Explosive",
-    "drop_mode": "EquipmentDropMode_Infinite",
-    "drop_audio_event": 2259324442,
-    "pickup_audio_event": 2768188317,
-    "weapon_switch_wield_audio_event": 2024437783,
-    "weapon_switch_holster_audio_event": 2500692998,
-    "pickup_ability": "AbilityId_avatar_pickup_weapon",
-    "grip_type": "WeaponGripType_Grenadelauncher",
-    "is_one_handed": 0,
-    "allow_wield_on_ship": 0,
-    "show_in_pickup_widget": 1,
-    "holster_unit": 0,
-    "hint_id": 0,
-    "equipment_wwise_index": "EquipmentWwiseIndex_Support_GrenadeLauncher",
-    "backpack_wwise_index": "BackpackWwiseIndex_None",
-    "use_backpack_filled_switch": 0
-  },
   "13601459612566041022": {
     "wield_node": 1339896631,
     "wield_node_rotation_offset": {
@@ -3833,6 +3887,60 @@
     "backpack_wwise_index": "BackpackWwiseIndex_None",
     "use_backpack_filled_switch": 0
   },
+  "578623101395158887": {
+    "wield_node": 1339896631,
+    "wield_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "wield_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node": 3968224353,
+    "holster_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_duration": 0.400000006,
+    "wield_duration": 0.300000012,
+    "pickup_duration": 0.5,
+    "wield_animation": 3917483420,
+    "pickup_animation": 285206574,
+    "holster_animation": 729165486,
+    "ammocheck_animation": 2619649939,
+    "holster_duration_for_attach": 0.349999994,
+    "wield_duration_for_attach": 0.100000001,
+    "attach_lerp_time": 0.100000001,
+    "on_holster_animation_event": 0,
+    "wield_animation_self": 96643953,
+    "pickup_animation_self": 0,
+    "holster_animation_self": 2805777923,
+    "equipment_type": "EquipmentType_SMG",
+    "drop_mode": "EquipmentDropMode_Infinite",
+    "drop_audio_event": 0,
+    "pickup_audio_event": 0,
+    "weapon_switch_wield_audio_event": 307914184,
+    "weapon_switch_holster_audio_event": 645907003,
+    "pickup_ability": "AbilityId_avatar_pickup_weapon",
+    "grip_type": "WeaponGripType_PDW",
+    "is_one_handed": 1,
+    "allow_wield_on_ship": 0,
+    "show_in_pickup_widget": 1,
+    "holster_unit": 0,
+    "hint_id": 0,
+    "equipment_wwise_index": "EquipmentWwiseIndex_Primary_PersonalDefenceWeapon",
+    "backpack_wwise_index": "BackpackWwiseIndex_None",
+    "use_backpack_filled_switch": 0
+  },
   "10844335154607830587": {
     "wield_node": 1100233117,
     "wield_node_rotation_offset": {
@@ -4049,6 +4157,60 @@
     "backpack_wwise_index": "BackpackWwiseIndex_None",
     "use_backpack_filled_switch": 0
   },
+  "18102809172282470538": {
+    "wield_node": 1339896631,
+    "wield_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "wield_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node": 3968224353,
+    "holster_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_duration": 0.400000006,
+    "wield_duration": 0.300000012,
+    "pickup_duration": 0.5,
+    "wield_animation": 3917483420,
+    "pickup_animation": 285206574,
+    "holster_animation": 729165486,
+    "ammocheck_animation": 399387407,
+    "holster_duration_for_attach": 0.349999994,
+    "wield_duration_for_attach": 0.100000001,
+    "attach_lerp_time": 0.100000001,
+    "on_holster_animation_event": 0,
+    "wield_animation_self": 3661894371,
+    "pickup_animation_self": 0,
+    "holster_animation_self": 1778428268,
+    "equipment_type": "EquipmentType_Energy",
+    "drop_mode": "EquipmentDropMode_Infinite",
+    "drop_audio_event": 0,
+    "pickup_audio_event": 0,
+    "weapon_switch_wield_audio_event": 916124471,
+    "weapon_switch_holster_audio_event": 4018308774,
+    "pickup_ability": "AbilityId_avatar_pickup_weapon",
+    "grip_type": "WeaponGripType_PlasmaRifle",
+    "is_one_handed": 0,
+    "allow_wield_on_ship": 0,
+    "show_in_pickup_widget": 1,
+    "holster_unit": 0,
+    "hint_id": 0,
+    "equipment_wwise_index": "EquipmentWwiseIndex_Primary_PlasmaRifle",
+    "backpack_wwise_index": "BackpackWwiseIndex_None",
+    "use_backpack_filled_switch": 0
+  },
   "13142476912332493378": {
     "wield_node": 1100233117,
     "wield_node_rotation_offset": {
@@ -4157,60 +4319,6 @@
     "backpack_wwise_index": "BackpackWwiseIndex_None",
     "use_backpack_filled_switch": 0
   },
-  "6918199871803715620": {
-    "wield_node": 1339896631,
-    "wield_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "wield_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node": 3968224353,
-    "holster_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_duration": 0.300000012,
-    "wield_duration": 0.100000001,
-    "pickup_duration": 0.5,
-    "wield_animation": 2301814695,
-    "pickup_animation": 285206574,
-    "holster_animation": 1778428268,
-    "ammocheck_animation": 271502196,
-    "holster_duration_for_attach": 0,
-    "wield_duration_for_attach": 0,
-    "attach_lerp_time": 0,
-    "on_holster_animation_event": 0,
-    "wield_animation_self": 2301814695,
-    "pickup_animation_self": 0,
-    "holster_animation_self": 1778428268,
-    "equipment_type": "EquipmentType_SpecialGrenade",
-    "drop_mode": "EquipmentDropMode_Decay",
-    "drop_audio_event": 0,
-    "pickup_audio_event": 0,
-    "weapon_switch_wield_audio_event": 0,
-    "weapon_switch_holster_audio_event": 0,
-    "pickup_ability": "AbilityId_Invalid",
-    "grip_type": "WeaponGripType_Pistol",
-    "is_one_handed": 0,
-    "allow_wield_on_ship": 0,
-    "show_in_pickup_widget": 1,
-    "holster_unit": 0,
-    "hint_id": 0,
-    "equipment_wwise_index": "EquipmentWwiseIndex_None",
-    "backpack_wwise_index": "BackpackWwiseIndex_None",
-    "use_backpack_filled_switch": 0
-  },
   "15426747087447648220": {
     "wield_node": 1100233117,
     "wield_node_rotation_offset": {
@@ -4257,6 +4365,60 @@
     "pickup_ability": "AbilityId_Invalid",
     "grip_type": "WeaponGripType_CarryOneHanded",
     "is_one_handed": 1,
+    "allow_wield_on_ship": 0,
+    "show_in_pickup_widget": 1,
+    "holster_unit": 0,
+    "hint_id": 0,
+    "equipment_wwise_index": "EquipmentWwiseIndex_None",
+    "backpack_wwise_index": "BackpackWwiseIndex_None",
+    "use_backpack_filled_switch": 0
+  },
+  "6918199871803715620": {
+    "wield_node": 1339896631,
+    "wield_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "wield_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node": 3968224353,
+    "holster_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_duration": 0.300000012,
+    "wield_duration": 0.100000001,
+    "pickup_duration": 0.5,
+    "wield_animation": 2301814695,
+    "pickup_animation": 285206574,
+    "holster_animation": 1778428268,
+    "ammocheck_animation": 271502196,
+    "holster_duration_for_attach": 0,
+    "wield_duration_for_attach": 0,
+    "attach_lerp_time": 0,
+    "on_holster_animation_event": 0,
+    "wield_animation_self": 2301814695,
+    "pickup_animation_self": 0,
+    "holster_animation_self": 1778428268,
+    "equipment_type": "EquipmentType_SpecialGrenade",
+    "drop_mode": "EquipmentDropMode_Decay",
+    "drop_audio_event": 0,
+    "pickup_audio_event": 0,
+    "weapon_switch_wield_audio_event": 0,
+    "weapon_switch_holster_audio_event": 0,
+    "pickup_ability": "AbilityId_Invalid",
+    "grip_type": "WeaponGripType_Pistol",
+    "is_one_handed": 0,
     "allow_wield_on_ship": 0,
     "show_in_pickup_widget": 1,
     "holster_unit": 0,
@@ -4520,10 +4682,10 @@
     "holster_animation_self": 1773131953,
     "equipment_type": "EquipmentType_Explosive",
     "drop_mode": "EquipmentDropMode_Infinite",
-    "drop_audio_event": 2615775362,
-    "pickup_audio_event": 256445717,
-    "weapon_switch_wield_audio_event": 2649330799,
-    "weapon_switch_holster_audio_event": 1431410846,
+    "drop_audio_event": 3329167794,
+    "pickup_audio_event": 3251832357,
+    "weapon_switch_wield_audio_event": 3362722975,
+    "weapon_switch_holster_audio_event": 277460110,
     "pickup_ability": "AbilityId_avatar_pickup_weapon",
     "grip_type": "WeaponGripType_ShoulderMounted",
     "is_one_handed": 0,
@@ -5831,60 +5993,6 @@
     "backpack_wwise_index": "BackpackWwiseIndex_None",
     "use_backpack_filled_switch": 0
   },
-  "6453678319562593995": {
-    "wield_node": 1339896631,
-    "wield_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "wield_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node": 3893183355,
-    "holster_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_duration": 0.5,
-    "wield_duration": 0.5,
-    "pickup_duration": 0.5,
-    "wield_animation": 3306965767,
-    "pickup_animation": 285206574,
-    "holster_animation": 3600230837,
-    "ammocheck_animation": 2953696708,
-    "holster_duration_for_attach": 0.349999994,
-    "wield_duration_for_attach": 0.100000001,
-    "attach_lerp_time": 0.100000001,
-    "on_holster_animation_event": 0,
-    "wield_animation_self": 3661894371,
-    "pickup_animation_self": 0,
-    "holster_animation_self": 1773131953,
-    "equipment_type": "EquipmentType_Explosive",
-    "drop_mode": "EquipmentDropMode_Infinite",
-    "drop_audio_event": 3384781067,
-    "pickup_audio_event": 1635487112,
-    "weapon_switch_wield_audio_event": 3351225890,
-    "weapon_switch_holster_audio_event": 232596725,
-    "pickup_ability": "AbilityId_avatar_pickup_weapon",
-    "grip_type": "WeaponGripType_ShoulderMounted",
-    "is_one_handed": 0,
-    "allow_wield_on_ship": 0,
-    "show_in_pickup_widget": 1,
-    "holster_unit": 0,
-    "hint_id": 0,
-    "equipment_wwise_index": "EquipmentWwiseIndex_Support_LaserGuidedMissileLauncher",
-    "backpack_wwise_index": "BackpackWwiseIndex_None",
-    "use_backpack_filled_switch": 0
-  },
   "14770371728907552577": {
     "wield_node": 1339896631,
     "wield_node_rotation_offset": {
@@ -6315,60 +6423,6 @@
     "hint_id": 0,
     "equipment_wwise_index": "EquipmentWwiseIndex_None",
     "backpack_wwise_index": "BackpackWwiseIndex_None",
-    "use_backpack_filled_switch": 0
-  },
-  "1666635846319828791": {
-    "wield_node": 1339896631,
-    "wield_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "wield_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node": 2004397926,
-    "holster_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_duration": 0.300000012,
-    "wield_duration": 0.5,
-    "pickup_duration": 0.5,
-    "wield_animation": 3661894371,
-    "pickup_animation": 285206574,
-    "holster_animation": 1778428268,
-    "ammocheck_animation": 2295825247,
-    "holster_duration_for_attach": 0,
-    "wield_duration_for_attach": 0,
-    "attach_lerp_time": 0.200000003,
-    "on_holster_animation_event": 0,
-    "wield_animation_self": 3661894371,
-    "pickup_animation_self": 0,
-    "holster_animation_self": 1778428268,
-    "equipment_type": "EquipmentType_BackpackSupport",
-    "drop_mode": "EquipmentDropMode_Infinite",
-    "drop_audio_event": 3695212082,
-    "pickup_audio_event": 3597982693,
-    "weapon_switch_wield_audio_event": 0,
-    "weapon_switch_holster_audio_event": 0,
-    "pickup_ability": "AbilityId_loot_pickup_backpack",
-    "grip_type": "WeaponGripType_Pistol",
-    "is_one_handed": 0,
-    "allow_wield_on_ship": 0,
-    "show_in_pickup_widget": 1,
-    "holster_unit": 0,
-    "hint_id": 0,
-    "equipment_wwise_index": "EquipmentWwiseIndex_None",
-    "backpack_wwise_index": "BackpackWwiseIndex_RecoillessRifle",
     "use_backpack_filled_switch": 0
   },
   "17709977744562302112": {
@@ -6911,6 +6965,60 @@
     "backpack_wwise_index": "BackpackWwiseIndex_None",
     "use_backpack_filled_switch": 0
   },
+  "14845617694460717074": {
+    "wield_node": 1339896631,
+    "wield_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "wield_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node": 3968224353,
+    "holster_node_rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_node_position_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "holster_duration": 0.400000006,
+    "wield_duration": 0.300000012,
+    "pickup_duration": 0.5,
+    "wield_animation": 3917483420,
+    "pickup_animation": 285206574,
+    "holster_animation": 729165486,
+    "ammocheck_animation": 220892795,
+    "holster_duration_for_attach": 0.349999994,
+    "wield_duration_for_attach": 0.100000001,
+    "attach_lerp_time": 0.100000001,
+    "on_holster_animation_event": 2235895672,
+    "wield_animation_self": 3661894371,
+    "pickup_animation_self": 0,
+    "holster_animation_self": 1773131953,
+    "equipment_type": "EquipmentType_AssaultRifle",
+    "drop_mode": "EquipmentDropMode_Infinite",
+    "drop_audio_event": 0,
+    "pickup_audio_event": 0,
+    "weapon_switch_wield_audio_event": 1420518772,
+    "weapon_switch_holster_audio_event": 3201637967,
+    "pickup_ability": "AbilityId_avatar_pickup_weapon",
+    "grip_type": "WeaponGripType_RifleBullpup",
+    "is_one_handed": 0,
+    "allow_wield_on_ship": 0,
+    "show_in_pickup_widget": 1,
+    "holster_unit": 0,
+    "hint_id": 0,
+    "equipment_wwise_index": "EquipmentWwiseIndex_Primary_AssaultRifle",
+    "backpack_wwise_index": "BackpackWwiseIndex_None",
+    "use_backpack_filled_switch": 0
+  },
   "11389144440041661089": {
     "wield_node": 1100233117,
     "wield_node_rotation_offset": {
@@ -7384,8 +7492,8 @@
     "drop_mode": "EquipmentDropMode_Infinite",
     "drop_audio_event": 0,
     "pickup_audio_event": 0,
-    "weapon_switch_wield_audio_event": 2252856948,
-    "weapon_switch_holster_audio_event": 1715966287,
+    "weapon_switch_wield_audio_event": 1468610814,
+    "weapon_switch_holster_audio_event": 1212473033,
     "pickup_ability": "AbilityId_avatar_pickup_weapon",
     "grip_type": "WeaponGripType_RifleBullpup",
     "is_one_handed": 0,
@@ -7393,7 +7501,7 @@
     "show_in_pickup_widget": 1,
     "holster_unit": 0,
     "hint_id": 0,
-    "equipment_wwise_index": "EquipmentWwiseIndex_Primary_MarksmanRifleVigilance",
+    "equipment_wwise_index": "EquipmentWwiseIndex_Primary_Crossbow",
     "backpack_wwise_index": "BackpackWwiseIndex_None",
     "use_backpack_filled_switch": 0
   },
@@ -7658,60 +7766,6 @@
     "weapon_switch_holster_audio_event": 1103055775,
     "pickup_ability": "AbilityId_avatar_pickup_weapon",
     "grip_type": "WeaponGripType_RifleBullpup",
-    "is_one_handed": 0,
-    "allow_wield_on_ship": 0,
-    "show_in_pickup_widget": 1,
-    "holster_unit": 0,
-    "hint_id": 0,
-    "equipment_wwise_index": "EquipmentWwiseIndex_None",
-    "backpack_wwise_index": "BackpackWwiseIndex_None",
-    "use_backpack_filled_switch": 0
-  },
-  "18353518081541416628": {
-    "wield_node": 1339896631,
-    "wield_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "wield_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node": 3893183355,
-    "holster_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_duration": 0.850000024,
-    "wield_duration": 1.60000002,
-    "pickup_duration": 0.5,
-    "wield_animation": 249977969,
-    "pickup_animation": 285206574,
-    "holster_animation": 2251823235,
-    "ammocheck_animation": 406762845,
-    "holster_duration_for_attach": 0,
-    "wield_duration_for_attach": 0,
-    "attach_lerp_time": 0.100000001,
-    "on_holster_animation_event": 0,
-    "wield_animation_self": 3661894371,
-    "pickup_animation_self": 0,
-    "holster_animation_self": 1778428268,
-    "equipment_type": "EquipmentType_Explosive",
-    "drop_mode": "EquipmentDropMode_InfiniteIfNonEmpty",
-    "drop_audio_event": 0,
-    "pickup_audio_event": 0,
-    "weapon_switch_wield_audio_event": 0,
-    "weapon_switch_holster_audio_event": 0,
-    "pickup_ability": "AbilityId_avatar_pickup_weapon",
-    "grip_type": "WeaponGripType_LAT",
     "is_one_handed": 0,
     "allow_wield_on_ship": 0,
     "show_in_pickup_widget": 1,
@@ -9285,60 +9339,6 @@
     "hint_id": 0,
     "equipment_wwise_index": "EquipmentWwiseIndex_Primary_JetRifle",
     "backpack_wwise_index": "BackpackWwiseIndex_None",
-    "use_backpack_filled_switch": 0
-  },
-  "13012964727571811944": {
-    "wield_node": 1339896631,
-    "wield_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "wield_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node": 2004397926,
-    "holster_node_rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_node_position_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "holster_duration": 0.300000012,
-    "wield_duration": 0.5,
-    "pickup_duration": 0.5,
-    "wield_animation": 3661894371,
-    "pickup_animation": 285206574,
-    "holster_animation": 1778428268,
-    "ammocheck_animation": 2295825247,
-    "holster_duration_for_attach": 0,
-    "wield_duration_for_attach": 0,
-    "attach_lerp_time": 0.200000003,
-    "on_holster_animation_event": 0,
-    "wield_animation_self": 3661894371,
-    "pickup_animation_self": 0,
-    "holster_animation_self": 1778428268,
-    "equipment_type": "EquipmentType_BackpackDisplacement",
-    "drop_mode": "EquipmentDropMode_Infinite",
-    "drop_audio_event": 3695212082,
-    "pickup_audio_event": 3597982693,
-    "weapon_switch_wield_audio_event": 0,
-    "weapon_switch_holster_audio_event": 0,
-    "pickup_ability": "AbilityId_loot_pickup_backpack",
-    "grip_type": "WeaponGripType_Pistol",
-    "is_one_handed": 0,
-    "allow_wield_on_ship": 0,
-    "show_in_pickup_widget": 1,
-    "holster_unit": 0,
-    "hint_id": 0,
-    "equipment_wwise_index": "EquipmentWwiseIndex_None",
-    "backpack_wwise_index": "BackpackWwiseIndex_Displacement",
     "use_backpack_filled_switch": 0
   },
   "6468799106264970105": {

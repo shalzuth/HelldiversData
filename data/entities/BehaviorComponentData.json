@@ -1,816 +1,61 @@
 {
-  "10427010750460978344": {
-    "behavior_id": "BehaviorId_cache_loot_marker",
+  "10988915095021253731": {
+    "behavior_id": "BehaviorId_objective_destroy_communication",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "4616777209957967593": {
-    "behavior_id": "BehaviorId_objective_carry_warhead_warhead",
+  "2910105667914708922": {
+    "behavior_id": "BehaviorId_delivery_drop_off",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "2857163956342376634": {
-    "behavior_id": "BehaviorId_objective_common_deliver",
+  "11126812272816398245": {
+    "behavior_id": "BehaviorId_objective_horde_defend_terminal",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "8484362704672433843": {
-    "behavior_id": "BehaviorId_transport_shuttle",
+  "14038927220542196401": {
+    "behavior_id": "BehaviorId_combat_walker",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "6962260187829921276": {
-    "behavior_id": "BehaviorId_illuminate_ghoul",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "10828817397904429935": {
-    "behavior_id": "BehaviorId_bot_soldier_rocketpods",
+  "18198461672611034237": {
+    "behavior_id": "BehaviorId_bot_soldier_standard",
     "task_cooldown": 20,
     "task_user": "TaskUser_SE_Security"
   },
-  "8533440398577070699": {
-    "behavior_id": "BehaviorId_objective_interact",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10124715820538360434": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7719208875390099550": {
-    "behavior_id": "BehaviorId_bug_charger_acid",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Charger"
-  },
-  "4894393506576860267": {
-    "behavior_id": "BehaviorId_objective_explosive_backpack",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13201846197658131494": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4483950418716673108": {
-    "behavior_id": "BehaviorId_combat_walker_autocannon_right",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11611005396094793514": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5998795766663914760": {
-    "behavior_id": "BehaviorId_collect_drop_off",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14547755768690831328": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14456228988684753701": {
-    "behavior_id": "BehaviorId_lieutenant_saw",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5040002189893227102": {
-    "behavior_id": "BehaviorId_objective_bug_central_core",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9206001518518161274": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_zoo_3_section",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6272702886533038489": {
-    "behavior_id": "BehaviorId_objective_interact",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4228282467230068514": {
-    "behavior_id": "BehaviorId_objective_gen_raise_flag",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5744599939368375614": {
-    "behavior_id": "BehaviorId_bot_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1664699655495063064": {
-    "behavior_id": "BehaviorId_tcs_02_behavior_button",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7258218216136199873": {
-    "behavior_id": "BehaviorId_bot_conscript_tier1",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "2616888780303759269": {
-    "behavior_id": "BehaviorId_manned_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16653674489725268507": {
-    "behavior_id": "BehaviorId_se_civilian_base",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11601043503813400874": {
-    "behavior_id": "BehaviorId_drone_mg",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14772015414747343144": {
-    "behavior_id": "BehaviorId_vehicle_mount",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4509500645241400734": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_bug_pit_section",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16841371283351459334": {
+  "14828710641940459992": {
     "behavior_id": "BehaviorId_ship_quartermaster",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "6624453650490018537": {
-    "behavior_id": "BehaviorId_drone_laser_rifle",
+  "3123276832726192677": {
+    "behavior_id": "BehaviorId_objective_oil_pickup_terminal",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "11329506424240616277": {
-    "behavior_id": "BehaviorId_objective_carry_flag",
+  "18344214658832605710": {
+    "behavior_id": "BehaviorId_objective_colony_relay_tower_light",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "1903375976943875074": {
-    "behavior_id": "BehaviorId_tutorial_bot_injury",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2894270520075116435": {
-    "behavior_id": "BehaviorId_objective_remains_backpack",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17261669187097390826": {
-    "behavior_id": "BehaviorId_habs_colony_sign_01",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12258680351245336970": {
-    "behavior_id": "BehaviorId_objective_common_deliver",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15529686099596640908": {
-    "behavior_id": "BehaviorId_tutorial_instructor_bot",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5892418254001999486": {
-    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13037131039069521275": {
-    "behavior_id": "BehaviorId_bot_conscript_machinegunner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Officer"
-  },
-  "5345357976875590500": {
-    "behavior_id": "BehaviorId_gen_behavior_button",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4907829208379359321": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3572349364299675891": {
-    "behavior_id": "BehaviorId_objective_bug_tcs_01_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17421195960715507203": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11572589917031421603": {
-    "behavior_id": "BehaviorId_objective_bug_tcs_02_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17259437333005147504": {
-    "behavior_id": "BehaviorId_gatling_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2047310211000472840": {
-    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2139899069241334240": {
-    "behavior_id": "BehaviorId_media_drone",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12219802832843368217": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8927886877810488150": {
-    "behavior_id": "BehaviorId_objective_icbm_silo_tutorial",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15336140906172278556": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Mechanic"
-  },
-  "11350815606295074697": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6290687013549728522": {
-    "behavior_id": "BehaviorId_cache_behavior_button",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1201994798374221065": {
-    "behavior_id": "BehaviorId_objective_tcs_main_tower_02",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14595396733932835349": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_loadout_room_section",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "18002332014700027641": {
-    "behavior_id": "BehaviorId_drone_mg",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13707236614338800569": {
-    "behavior_id": "BehaviorId_bug_warrior",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "10770873609175974470": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16529620887519110477": {
-    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5903841343181520462": {
-    "behavior_id": "BehaviorId_bug_scavenger",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Science"
-  },
-  "10744843724429302507": {
-    "behavior_id": "BehaviorId_illuminate_magus_adept_tier_2",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Security"
-  },
-  "16743939080994882991": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15749354740743811640": {
-    "behavior_id": "BehaviorId_tutorial_zoo_one_enemy_hatch",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10897067899328555568": {
-    "behavior_id": "BehaviorId_objective_destroy_communication_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12008441084326179745": {
-    "behavior_id": "BehaviorId_bot_berserker",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Shuttle"
-  },
-  "13399733575043728622": {
-    "behavior_id": "BehaviorId_objective_icbm_warning_light",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4668234253054032579": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11035656831144141243": {
-    "behavior_id": "BehaviorId_bot_turret_small_autocannon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5577728660932040813": {
-    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9599852755180419173": {
-    "behavior_id": "BehaviorId_objective_killenemies",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11595118386686545266": {
-    "behavior_id": "BehaviorId_extract_civilian_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13575269880792024885": {
-    "behavior_id": "BehaviorId_eagle_pilot",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2108432737919758797": {
-    "behavior_id": "BehaviorId_personnel_helm",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15062487539698939333": {
-    "behavior_id": "BehaviorId_troop_transport_shuttle",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14286719829563111324": {
-    "behavior_id": "BehaviorId_bot_tank_autocannons",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Strider"
-  },
-  "1239378520908923324": {
-    "behavior_id": "BehaviorId_personnel_security",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13347714344522860215": {
-    "behavior_id": "BehaviorId_objective_cy_samsite",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "114072341195801864": {
-    "behavior_id": "BehaviorId_drone_mg",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1316316087295822341": {
-    "behavior_id": "BehaviorId_objective_gen_truth_transmitter_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3616880406816074209": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14898043555555802822": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15438282343866021807": {
-    "behavior_id": "BehaviorId_illuminate_tripod_tier_2",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Officer"
-  },
-  "8060547059099038311": {
-    "behavior_id": "BehaviorId_objective_tcs_support_pillar",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5867714920953300654": {
-    "behavior_id": "BehaviorId_objective_evacuate_civilians_release_civ_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16068259472993542878": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17238162226885792459": {
-    "behavior_id": "BehaviorId_extraction_shuttle",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16468696380634166840": {
-    "behavior_id": "BehaviorId_objective_common_upload_data_interact",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6041739005686103399": {
-    "behavior_id": "BehaviorId_bot_tank_heavycannon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Stalker"
-  },
-  "9375653687096917621": {
-    "behavior_id": "BehaviorId_combat_walker_missile_launcher",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2769960080684004361": {
-    "behavior_id": "BehaviorId_cyborg_detector_tower",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5268813631875709973": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Mechanic"
-  },
-  "31641368152217202": {
-    "behavior_id": "BehaviorId_tutorial_instructor_bot",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16668812455095794960": {
-    "behavior_id": "BehaviorId_tutorial_helldiver_dummy",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9388736439472594613": {
-    "behavior_id": "BehaviorId_combat_walker_missile_launcher",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6064682638603804494": {
-    "behavior_id": "BehaviorId_radar_station",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17056602409427303540": {
-    "behavior_id": "BehaviorId_objective_interact",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8930946772956507401": {
-    "behavior_id": "BehaviorId_illuminate_outcast_melee",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Science"
-  },
-  "486069874015074437": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "645713022044093730": {
-    "behavior_id": "BehaviorId_combat_walker_gatling",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9614788353289254415": {
-    "behavior_id": "BehaviorId_bot_conscript_jump_melee",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Mechanic"
-  },
-  "9967847099073753597": {
-    "behavior_id": "BehaviorId_objective_seismic_probe",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6355261656649627019": {
-    "behavior_id": "BehaviorId_objective_tcs_01_support_terminal_screen",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17149918388466130800": {
-    "behavior_id": "BehaviorId_bot_walker_scout_shield",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4571403555494335481": {
-    "behavior_id": "BehaviorId_transport_shuttle",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4469039597602705386": {
-    "behavior_id": "BehaviorId_bot_lieutenant_assault",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Boomer_Nurser"
-  },
-  "7539955080993332996": {
-    "behavior_id": "BehaviorId_gatling_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5996076969140922181": {
-    "behavior_id": "BehaviorId_bot_command_bunker_side",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "18047604708754565239": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Mechanic"
-  },
-  "4245989540495302209": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11082091182168822265": {
-    "behavior_id": "BehaviorId_objective_orbital_cannon_ship",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13781410671701883569": {
-    "behavior_id": "BehaviorId_combat_walker_autocannon_left",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12199264466169219381": {
-    "behavior_id": "BehaviorId_objective_colony_relay_alarm_light",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16919711124802745493": {
-    "behavior_id": "BehaviorId_bug_warrior",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "11378380912689724438": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_obstacle_course_section",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13344881319959877562": {
-    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17756861745706792858": {
-    "behavior_id": "BehaviorId_bot_soldier_rocketpods",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Charger_Bull"
-  },
-  "4371511811598490931": {
-    "behavior_id": "BehaviorId_tutorial_helldiver_dummy",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "126203366270103050": {
-    "behavior_id": "BehaviorId_objective_tut_shooting_range",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3508555955240290181": {
-    "behavior_id": "BehaviorId_se_civilian_smg",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2190700087544369166": {
-    "behavior_id": "BehaviorId_bot_lieutenant_artillery",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Prowler"
-  },
-  "6234346553392955601": {
-    "behavior_id": "BehaviorId_carry_data",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7050825374897234339": {
-    "behavior_id": "BehaviorId_objective_cy_ammunition_stockpile",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10339505652348491976": {
-    "behavior_id": "BehaviorId_objective_carry_flag",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16027418915446721044": {
-    "behavior_id": "BehaviorId_lav_autocannon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6707034374626068020": {
-    "behavior_id": "BehaviorId_bot_tank_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15854709965361796617": {
-    "behavior_id": "BehaviorId_None",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8910407407621342451": {
-    "behavior_id": "BehaviorId_objective_deliver_bugkiller",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2186831762627068031": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Mechanic"
-  },
-  "1606828565903665132": {
-    "behavior_id": "BehaviorId_objective_gen_train_car",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5909160229139284606": {
-    "behavior_id": "BehaviorId_bot_conscript_jetpack_standard",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "10355039786464021751": {
-    "behavior_id": "BehaviorId_bot_tank_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11725209044667795456": {
-    "behavior_id": "BehaviorId_None",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "18089545462937747186": {
-    "behavior_id": "BehaviorId_objective_common_upload_data_interact",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16204610837508709347": {
-    "behavior_id": "BehaviorId_manned_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11353844921854370643": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14354158653026475511": {
-    "behavior_id": "BehaviorId_shooting_dummy",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "850711056443892715": {
-    "behavior_id": "BehaviorId_personnel_officer",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13864011471993598988": {
-    "behavior_id": "BehaviorId_objective_terminal_collect_data",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11903301011381114842": {
-    "behavior_id": "BehaviorId_objective_orbital_cannon_terminal_control",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17926952039446538616": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16168705537545719415": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3481178218570318335": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10102631721084298887": {
-    "behavior_id": "BehaviorId_lav",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1217169640955283183": {
-    "behavior_id": "BehaviorId_objective_grinder_pipes",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17884030985831788708": {
-    "behavior_id": "BehaviorId_objective_gen_raise_flag",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6092654391569710384": {
-    "behavior_id": "BehaviorId_habs_lamp_wall",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "491952778460278721": {
-    "behavior_id": "BehaviorId_objective_common_alert_on_dead",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14783244423755879381": {
-    "behavior_id": "BehaviorId_bot_turret_command_bunker_hmg",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4399458158766252490": {
-    "behavior_id": "BehaviorId_bug_hunter",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Shuttle"
-  },
-  "6458388534208535674": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12628840167151644876": {
-    "behavior_id": "BehaviorId_tutorial_weapon_dispenser",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8394658118651964481": {
-    "behavior_id": "BehaviorId_objective_neutralize_cannon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17870518574608098412": {
-    "behavior_id": "BehaviorId_drone_mg",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9064778780587088108": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14063862578293974406": {
-    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6899731441642484256": {
-    "behavior_id": "BehaviorId_samsite_missile",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5636559233179871057": {
-    "behavior_id": "BehaviorId_evacuate_civilian_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12165351853986040244": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "144044438809665453": {
-    "behavior_id": "BehaviorId_tutorial_speaker_stratagems",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4760682768060898725": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3361379816955777588": {
-    "behavior_id": "BehaviorId_gen_behavior_button",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8639323329072579590": {
+  "11590952981248000518": {
     "behavior_id": "BehaviorId_bridge_lights",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "3777467844477933828": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
+  "14099479304988978801": {
+    "behavior_id": "BehaviorId_capital_defense_tower",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "13897873237453396693": {
-    "behavior_id": "BehaviorId_illuminate_shield_outcast",
+  "1909471264691872944": {
+    "behavior_id": "BehaviorId_bug_charger",
     "task_cooldown": 20,
-    "task_user": "TaskUser_None"
+    "task_user": "TaskUser_Bug_Charger"
   },
-  "1869985465112560625": {
-    "behavior_id": "BehaviorId_objective_gen_convoy",
+  "17187374806630445117": {
+    "behavior_id": "BehaviorId_filling_station",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -819,283 +64,28 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "7120969853994206156": {
-    "behavior_id": "BehaviorId_objective_colony_relay_tower",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1693779833228390074": {
-    "behavior_id": "BehaviorId_objective_bug_tcs_02_destroy_eggs",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5950303641766825438": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5556372446766824087": {
-    "behavior_id": "BehaviorId_avatar",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14828710641940459992": {
-    "behavior_id": "BehaviorId_ship_quartermaster",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13169529879182108256": {
-    "behavior_id": "BehaviorId_objective_gen_capital_defense_building",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1649808155683745294": {
-    "behavior_id": "BehaviorId_objective_tcs_support_pillar_02",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14662222925452487008": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16013780943492644453": {
-    "behavior_id": "BehaviorId_objective_samsite_light",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7532632187257416932": {
-    "behavior_id": "BehaviorId_bug_spawner_mechanical",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11404441187706728588": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14767523449115355633": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15465644369007147549": {
-    "behavior_id": "BehaviorId_objective_colony_relay_tower_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1451908776850496697": {
-    "behavior_id": "BehaviorId_objective_orbital_cannon_ammo_dispenser",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3798524844923598828": {
-    "behavior_id": "BehaviorId_bridge_lights",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1184701852267929014": {
-    "behavior_id": "BehaviorId_objective_tut_rocket_walkway",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11682065381586027134": {
-    "behavior_id": "BehaviorId_power_station",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9099653686517942657": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4083821917710944045": {
-    "behavior_id": "BehaviorId_tutorial_store_bot",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14571812785558082826": {
-    "behavior_id": "BehaviorId_super_earth_cache_lid",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
   "3921749220478349097": {
     "behavior_id": "BehaviorId_objective_rescue_point",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "12157917601251901249": {
-    "behavior_id": "BehaviorId_illuminate_spawner",
+  "11572589917031421603": {
+    "behavior_id": "BehaviorId_objective_bug_tcs_02_terminal",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "2701932254995028846": {
-    "behavior_id": "BehaviorId_gen_behavior_button",
+  "14046951553415398260": {
+    "behavior_id": "BehaviorId_objective_seaf_gun_terminal",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "16350010024704713163": {
-    "behavior_id": "BehaviorId_grinder",
+  "8685302826332299227": {
+    "behavior_id": "BehaviorId_ship_hellpod_delivery_system",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "3517035000518974420": {
-    "behavior_id": "BehaviorId_bot_conscript_scout",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "7196537832909981064": {
-    "behavior_id": "BehaviorId_bot_tank_rocketlauncher",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Stalker"
-  },
-  "368631843724369925": {
-    "behavior_id": "BehaviorId_objective_orbital_cannon_terminal_gun",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15376684313133811097": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9796573205647524202": {
-    "behavior_id": "BehaviorId_tutorial_target_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15007207091907096107": {
-    "behavior_id": "BehaviorId_generator",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16570517418531528145": {
-    "behavior_id": "BehaviorId_combat_walker_autocannon_left",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3306034378071258267": {
-    "behavior_id": "BehaviorId_stab_machine",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13956703628786069213": {
-    "behavior_id": "BehaviorId_objective_horde_collect",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9670353792785147784": {
-    "behavior_id": "BehaviorId_autocannon_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6674443306042095289": {
-    "behavior_id": "BehaviorId_personnel_security",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1006683030863220015": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5861687265757701821": {
-    "behavior_id": "BehaviorId_bot_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15805795754758043311": {
-    "behavior_id": "BehaviorId_delivery_drop_off_cargo_container",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16121421951002036444": {
-    "behavior_id": "BehaviorId_bug_scavenger_captive",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Science"
-  },
-  "6280200573229258796": {
-    "behavior_id": "BehaviorId_emergency_extraction_beacon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17587738009391187453": {
-    "behavior_id": "BehaviorId_carry_data",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13485308558916937688": {
-    "behavior_id": "BehaviorId_delivery_drop_off",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9513169167295339035": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "16829215401001488699": {
-    "behavior_id": "BehaviorId_filling_station",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8854579676299966684": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16430698813342931719": {
-    "behavior_id": "BehaviorId_objective_gen_truth_transmitter_speaker",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17034107482228854788": {
-    "behavior_id": "BehaviorId_objective_gen_raise_flag",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3583430772214091149": {
-    "behavior_id": "BehaviorId_bot_tank_base",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Stalker"
-  },
-  "1594932588367012453": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11975793431023421943": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14800397876905027470": {
-    "behavior_id": "BehaviorId_objective_illuminate_purge_colony",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1585898554922009358": {
-    "behavior_id": "BehaviorId_bot_tank_hull_mg",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3128706810926128882": {
-    "behavior_id": "BehaviorId_personnel_helm",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11669807341511884260": {
-    "behavior_id": "BehaviorId_bug_warrior_plus",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "8604848163181421628": {
-    "behavior_id": "BehaviorId_personnel_scienceadvisor",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4228803675738017635": {
-    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
+  "7505373399809431787": {
+    "behavior_id": "BehaviorId_objective_cy_control_tower",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -1104,13 +94,143 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "17770438694342329485": {
-    "behavior_id": "BehaviorId_objective_carry_warhead",
+  "6234346553392955601": {
+    "behavior_id": "BehaviorId_carry_data",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "12002069999009437467": {
-    "behavior_id": "BehaviorId_objective_scrambler",
+  "2617097444341149716": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_fake_objective_sequence",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "491952778460278721": {
+    "behavior_id": "BehaviorId_objective_common_alert_on_dead",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "18147592157440151051": {
+    "behavior_id": "BehaviorId_power_station",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3270354809248583475": {
+    "behavior_id": "BehaviorId_bot_gunship_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15809454270358060682": {
+    "behavior_id": "BehaviorId_personnel_helm",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17034107482228854788": {
+    "behavior_id": "BehaviorId_objective_gen_raise_flag",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11082091182168822265": {
+    "behavior_id": "BehaviorId_objective_orbital_cannon_ship",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11654668915819557853": {
+    "behavior_id": "BehaviorId_sam_site",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11329506424240616277": {
+    "behavior_id": "BehaviorId_objective_carry_flag",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16085819457051082660": {
+    "behavior_id": "BehaviorId_objective_bug_central_core_drill",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2210598302234166538": {
+    "behavior_id": "BehaviorId_ship_quartermaster",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13781410671701883569": {
+    "behavior_id": "BehaviorId_combat_walker_autocannon_left",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12548565706891777268": {
+    "behavior_id": "BehaviorId_gatling_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5483174697237418522": {
+    "behavior_id": "BehaviorId_control_tower_delivery_drop_off",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9137331974793918131": {
+    "behavior_id": "BehaviorId_bot_conscript_standard",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "8394658118651964481": {
+    "behavior_id": "BehaviorId_objective_neutralize_cannon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "850711056443892715": {
+    "behavior_id": "BehaviorId_personnel_officer",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13486456492332597201": {
+    "behavior_id": "BehaviorId_objective_illuminate_harvester",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11146770675064382806": {
+    "behavior_id": "BehaviorId_cyborg_small_missile",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10102056965302435169": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15602970412943297293": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10465095819242630732": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17870518574608098412": {
+    "behavior_id": "BehaviorId_drone_mg",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9645832190055189087": {
+    "behavior_id": "BehaviorId_tutorial_speaker_bugs",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4510702625533881224": {
+    "behavior_id": "BehaviorId_cy_carry_data",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12562787704342269592": {
+    "behavior_id": "BehaviorId_bot_conscript_machinegunner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "11378380912689724438": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_obstacle_course_section",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -1119,8 +239,53 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "6113742425058627513": {
-    "behavior_id": "BehaviorId_autocannon_turret",
+  "17813271651167410876": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5611918484584041126": {
+    "behavior_id": "BehaviorId_bridge_lights",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11350815606295074697": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13046085176924039681": {
+    "behavior_id": "BehaviorId_objective_common_alert_on_dead",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15239773297738004195": {
+    "behavior_id": "BehaviorId_bot_walker_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Shrieker"
+  },
+  "17926952039446538616": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2620951529389892581": {
+    "behavior_id": "BehaviorId_military_uplink_delivery_drop_off",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16013780943492644453": {
+    "behavior_id": "BehaviorId_objective_samsite_light",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11601043503813400874": {
+    "behavior_id": "BehaviorId_drone_mg",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11297499216687771913": {
+    "behavior_id": "BehaviorId_ship_quartermaster",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -1129,13 +294,183 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "12570902796716292349": {
-    "behavior_id": "BehaviorId_objective_tcs_01_support_terminal_screen",
+  "16468696380634166840": {
+    "behavior_id": "BehaviorId_objective_common_upload_data_interact",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "17187374806630445117": {
-    "behavior_id": "BehaviorId_filling_station",
+  "16027418915446721044": {
+    "behavior_id": "BehaviorId_lav_autocannon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11092217959637116905": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_end_sequence",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8927886877810488150": {
+    "behavior_id": "BehaviorId_objective_icbm_silo_tutorial",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14054387432745785364": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Mechanic"
+  },
+  "17787598205174663652": {
+    "behavior_id": "BehaviorId_objective_upload_data_antenna",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4371511811598490931": {
+    "behavior_id": "BehaviorId_tutorial_helldiver_dummy",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12219802832843368217": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3306034378071258267": {
+    "behavior_id": "BehaviorId_stab_machine",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12566139334605762628": {
+    "behavior_id": "BehaviorId_bot_soldier_standard",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Security"
+  },
+  "3583430772214091149": {
+    "behavior_id": "BehaviorId_bot_tank_base",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Stalker"
+  },
+  "15826517860803373234": {
+    "behavior_id": "BehaviorId_objective_illuminate_harvester_shield1",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12765265282294763822": {
+    "behavior_id": "BehaviorId_objective_tcs_03_hellpod_thumper",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14706018561483658544": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_resupply_area_section",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9468080011357415026": {
+    "behavior_id": "BehaviorId_shuttle_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4228282467230068514": {
+    "behavior_id": "BehaviorId_objective_gen_raise_flag",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9576485996670470682": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "4960479884336891143": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "5084997687310749502": {
+    "behavior_id": "BehaviorId_objective_mass_extermination_weapon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14849219961588156217": {
+    "behavior_id": "BehaviorId_objective_common_deliver",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11105721130648470965": {
+    "behavior_id": "BehaviorId_objective_gen_raise_flag_hellpod_flag",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5965964328729758265": {
+    "behavior_id": "BehaviorId_tut_intro_mission_sprint_room_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16974551944278808389": {
+    "behavior_id": "BehaviorId_manned_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1127579667861114802": {
+    "behavior_id": "BehaviorId_bug_tcs_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5996076969140922181": {
+    "behavior_id": "BehaviorId_bot_command_bunker_side",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "18129582262547983427": {
+    "behavior_id": "BehaviorId_bot_conscript_scout_walker_rider",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "6041739005686103399": {
+    "behavior_id": "BehaviorId_bot_tank_heavycannon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Stalker"
+  },
+  "12383542358383909066": {
+    "behavior_id": "BehaviorId_bot_turret_heavycannon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6280200573229258796": {
+    "behavior_id": "BehaviorId_emergency_extraction_beacon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4190780991503244826": {
+    "behavior_id": "BehaviorId_objective_oil_pump_active",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17837615728688239629": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12938655957325924048": {
+    "behavior_id": "BehaviorId_objective_oil_pickup_tank",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7513611035105172383": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3337360454134565268": {
+    "behavior_id": "BehaviorId_objective_gen_raise_flag",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17770438694342329485": {
+    "behavior_id": "BehaviorId_objective_carry_warhead",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1645988921014818404": {
+    "behavior_id": "BehaviorId_objective_control_tower_terminal",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -1144,17 +479,142 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "1155202780614770422": {
-    "behavior_id": "BehaviorId_bug_warrior_acid",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "12121433940686135271": {
+  "11431935895339018839": {
     "behavior_id": "BehaviorId_objective_common_basic",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "9786667141728709159": {
+  "15890905443268450539": {
+    "behavior_id": "BehaviorId_sam_site_foundation",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11135777548304851724": {
+    "behavior_id": "BehaviorId_bug_scavenger",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Science"
+  },
+  "13464541428490103295": {
+    "behavior_id": "BehaviorId_objective_icbm_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17206948040897225595": {
+    "behavior_id": "BehaviorId_objective_terminal_upload_data",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11776729651266323273": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8910407407621342451": {
+    "behavior_id": "BehaviorId_objective_deliver_bugkiller",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9579814997562801345": {
+    "behavior_id": "BehaviorId_objective_power_generated_gate",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4111341420364086640": {
+    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3658900074006331912": {
+    "behavior_id": "BehaviorId_combat_walker_autocannon_left",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14800397876905027470": {
+    "behavior_id": "BehaviorId_objective_illuminate_purge_colony",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5345357976875590500": {
+    "behavior_id": "BehaviorId_gen_behavior_button",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "18417602992972518459": {
+    "behavior_id": "BehaviorId_combat_walker_autocannon_right",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10828817397904429935": {
+    "behavior_id": "BehaviorId_bot_soldier_rocketpods",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Security"
+  },
+  "6064682638603804494": {
+    "behavior_id": "BehaviorId_radar_station",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2342804839217806141": {
+    "behavior_id": "BehaviorId_shuttle_escape_entrance",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12798267174913426597": {
+    "behavior_id": "BehaviorId_objective_defend_horde_silo",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6364351340166354540": {
+    "behavior_id": "BehaviorId_non_objective_oil_pump_animated",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14215408457861845183": {
+    "behavior_id": "BehaviorId_objective_gen_truth_transmitter",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "239891554647054645": {
+    "behavior_id": "BehaviorId_ship_hub_destroyer",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1869985465112560625": {
+    "behavior_id": "BehaviorId_objective_gen_convoy",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5199653481743360714": {
+    "behavior_id": "BehaviorId_objective_fire_artillery_cannon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14456228988684753701": {
+    "behavior_id": "BehaviorId_lieutenant_saw",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12154768248238632812": {
+    "behavior_id": "BehaviorId_bot_gunship_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15376684313133811097": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17622196031515135370": {
+    "behavior_id": "BehaviorId_generic_intel",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1903375976943875074": {
+    "behavior_id": "BehaviorId_tutorial_bot_injury",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14662222925452487008": {
     "behavior_id": "BehaviorId_objective_common_basic",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
@@ -1164,173 +624,8 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "12140879278807710899": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9545949827108816555": {
-    "behavior_id": "BehaviorId_shooting_dummy",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "116979858003057948": {
-    "behavior_id": "BehaviorId_objective_escape_pod_crashed_pod",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3333863532576551500": {
-    "behavior_id": "BehaviorId_objective_oil_pump_tank",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15726775732878460914": {
-    "behavior_id": "BehaviorId_illuminate_guy_staff",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Mechanic"
-  },
-  "15490625510083281258": {
-    "behavior_id": "BehaviorId_objective_destroy_control_tower",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1825817556220264183": {
-    "behavior_id": "BehaviorId_tutorial_instructor_bot",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "928497489738142592": {
-    "behavior_id": "BehaviorId_objective_destroy_stratagem_blocker",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15594628034710908636": {
-    "behavior_id": "BehaviorId_objective_evacuate_civilians_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14849219961588156217": {
-    "behavior_id": "BehaviorId_objective_common_deliver",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4784131434976142113": {
-    "behavior_id": "BehaviorId_ship_hellpod_delivery_system",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17645598452853810508": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8563171598051303249": {
-    "behavior_id": "BehaviorId_objective_oil_pickup",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9837329084246247941": {
-    "behavior_id": "BehaviorId_objective_common_upload_data_interact",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5321902713564716286": {
-    "behavior_id": "BehaviorId_door_light",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2658120186062166777": {
-    "behavior_id": "BehaviorId_tutorial_gate_light",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9468080011357415026": {
-    "behavior_id": "BehaviorId_shuttle_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14446049687376616670": {
-    "behavior_id": "BehaviorId_tutorial_speaker_shooting",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12603372162479839611": {
-    "behavior_id": "BehaviorId_tutorial_cutout_target_stratagem",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2721785515915949283": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16709116186344048615": {
-    "behavior_id": "BehaviorId_objective_gen_capital_defense",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4111341420364086640": {
-    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8883573249939290241": {
-    "behavior_id": "BehaviorId_bot_conscript_standard",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "602390376167162446": {
-    "behavior_id": "BehaviorId_vehicle_mount",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15809454270358060682": {
-    "behavior_id": "BehaviorId_personnel_helm",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6676641717166653626": {
-    "behavior_id": "BehaviorId_bug_hunter",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Shuttle"
-  },
-  "11431935895339018839": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15739121579397943036": {
-    "behavior_id": "BehaviorId_recieve_drop_off",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13340847352459495240": {
-    "behavior_id": "BehaviorId_bot_soldier_machinegun",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Security"
-  },
-  "7208293264043292125": {
-    "behavior_id": "BehaviorId_bug_shrieker",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Shrieker"
-  },
-  "3294140577296249453": {
-    "behavior_id": "BehaviorId_illuminate_outcast_beamer",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Science"
-  },
-  "17672347716099392046": {
-    "behavior_id": "BehaviorId_bug_stalker",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Stalker"
-  },
-  "13006740284537092303": {
-    "behavior_id": "BehaviorId_illuminate_outcast_beamer_tier_2",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Science"
-  },
-  "5347332922468726267": {
-    "behavior_id": "BehaviorId_objective_orbital_cannon_ammo_dropoff",
+  "6624453650490018537": {
+    "behavior_id": "BehaviorId_drone_laser_rifle",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -1339,393 +634,8 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "12815336614061458907": {
-    "behavior_id": "BehaviorId_objective_icbm_silo",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15356733335604944785": {
-    "behavior_id": "BehaviorId_cargo_container_deliverable",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11389144440041661089": {
-    "behavior_id": "BehaviorId_cy_carry_data",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8806287475843878476": {
-    "behavior_id": "BehaviorId_se_soldier_standard",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6607904924646909560": {
-    "behavior_id": "BehaviorId_objective_tcs_01_support_terminal_screen",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3626558530581732572": {
-    "behavior_id": "BehaviorId_bug_warrior",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "9100766894272830527": {
-    "behavior_id": "BehaviorId_bug_spawner_mechanical",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10514734670540770044": {
-    "behavior_id": "BehaviorId_bot_soldier_riotgunner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Security"
-  },
-  "3615428601912953509": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5250245939082938461": {
-    "behavior_id": "BehaviorId_se_civilian_pistol",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8465410813751171043": {
-    "behavior_id": "BehaviorId_objective_killenemies",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17943362722330235151": {
-    "behavior_id": "BehaviorId_se_civilian_extractable",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10102056965302435169": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8254084607894060467": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_sprint_corridor_section",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5149481135433687355": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7231051959008182318": {
-    "behavior_id": "BehaviorId_objective_retrieve_filled_backpacks",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2342804839217806141": {
-    "behavior_id": "BehaviorId_shuttle_escape_entrance",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6927066342767148424": {
-    "behavior_id": "BehaviorId_bug_nurser",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Boomer_Nurser"
-  },
-  "2507395399702661992": {
-    "behavior_id": "BehaviorId_bot_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7057055776013546117": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Mechanic"
-  },
-  "7509990704627358840": {
-    "behavior_id": "BehaviorId_objective_orbital_defenses_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12300518439027380185": {
-    "behavior_id": "BehaviorId_bug_scavenger_predator",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Science"
-  },
-  "11297499216687771913": {
-    "behavior_id": "BehaviorId_ship_quartermaster",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8516193903153996376": {
-    "behavior_id": "BehaviorId_objective_capture_commander_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15476367111502679467": {
-    "behavior_id": "BehaviorId_shuttle_escape_hatch",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8850657780063593973": {
-    "behavior_id": "BehaviorId_earthquake",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15982881189096313978": {
-    "behavior_id": "BehaviorId_tutorial_trigger_area",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "725877384353361216": {
-    "behavior_id": "BehaviorId_landingzone_beacon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8743388434472300512": {
-    "behavior_id": "BehaviorId_drone_mg",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5938625030399109341": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9576485996670470682": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "12154768248238632812": {
-    "behavior_id": "BehaviorId_bot_gunship_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3486684185096151188": {
-    "behavior_id": "BehaviorId_objective_killenemies",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4021120973472933563": {
-    "behavior_id": "BehaviorId_machinegun_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1329563596910409350": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_cryo_rocket",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16153967468671429253": {
-    "behavior_id": "BehaviorId_fog_generator",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12548565706891777268": {
-    "behavior_id": "BehaviorId_gatling_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9577604981892255736": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11105721130648470965": {
-    "behavior_id": "BehaviorId_objective_gen_raise_flag_hellpod_flag",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11432560202897483622": {
-    "behavior_id": "BehaviorId_objective_larva_container",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6200794816799183239": {
-    "behavior_id": "BehaviorId_objective_gen_defend_train",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14706018561483658544": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_resupply_area_section",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10568765948699138973": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15219556623070951071": {
-    "behavior_id": "BehaviorId_lav_autocannon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8214092399932925392": {
-    "behavior_id": "BehaviorId_objective_common_deliver",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "552747719338665864": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11135777548304851724": {
-    "behavior_id": "BehaviorId_bug_scavenger",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Science"
-  },
-  "12041129896721693842": {
-    "behavior_id": "BehaviorId_bot_conscript_commander",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "5650246641905721936": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4789698883114413229": {
-    "behavior_id": "BehaviorId_objective_icbm_rocket",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13558922670169218566": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4474568446749299574": {
-    "behavior_id": "BehaviorId_cha_soldier_ship",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14215408457861845183": {
-    "behavior_id": "BehaviorId_objective_gen_truth_transmitter",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9549082741251590168": {
-    "behavior_id": "BehaviorId_se_civilian_revolver",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5289274991058480552": {
-    "behavior_id": "BehaviorId_bot_tank_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14046951553415398260": {
-    "behavior_id": "BehaviorId_objective_seaf_gun_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16927169355845479754": {
-    "behavior_id": "BehaviorId_objective_oil_pump_tower",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5711896723562826494": {
-    "behavior_id": "BehaviorId_se_cctv_camera",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15764803490959105887": {
-    "behavior_id": "BehaviorId_illuminate_hexagon_shield",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8971696097026260232": {
-    "behavior_id": "BehaviorId_objective_carry_flag",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12562787704342269592": {
-    "behavior_id": "BehaviorId_bot_conscript_machinegunner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "10556172238611112061": {
-    "behavior_id": "BehaviorId_ship_hub_arcade_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10835289456440565066": {
-    "behavior_id": "BehaviorId_illuminate_tripod",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Officer"
-  },
-  "12383542358383909066": {
-    "behavior_id": "BehaviorId_bot_turret_heavycannon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1569497653147940902": {
-    "behavior_id": "BehaviorId_bridge_lights",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13164140782040636665": {
-    "behavior_id": "BehaviorId_objective_killenemies",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15890905443268450539": {
-    "behavior_id": "BehaviorId_sam_site_foundation",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14314828040919828387": {
-    "behavior_id": "BehaviorId_hellbomb",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16085819457051082660": {
-    "behavior_id": "BehaviorId_objective_bug_central_core_drill",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8877785022740485000": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15449222908953809681": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "18400802241877839954": {
-    "behavior_id": "BehaviorId_bot_turret_mortar",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5828081381579848698": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11776729651266323273": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6699176282901212749": {
-    "behavior_id": "BehaviorId_bug_spawner_mechanical_scavenger",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8885304100860015374": {
-    "behavior_id": "BehaviorId_colony_rover",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11202044778487390708": {
-    "behavior_id": "BehaviorId_objective_oil_pump_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1645988921014818404": {
-    "behavior_id": "BehaviorId_objective_control_tower_terminal",
+  "17934801039153533546": {
+    "behavior_id": "BehaviorId_delivery_drop_off",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -1734,605 +644,30 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "8806659706193737949": {
-    "behavior_id": "BehaviorId_objective_common_deliver",
+  "8971696097026260232": {
+    "behavior_id": "BehaviorId_objective_carry_flag",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "15621795958426619957": {
-    "behavior_id": "BehaviorId_bot_conscript_melee",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "3743261888606184850": {
-    "behavior_id": "BehaviorId_carry_data",
+  "12992758703951315707": {
+    "behavior_id": "BehaviorId_objective_cyb_refinery_terminal",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "9944277644647265182": {
-    "behavior_id": "BehaviorId_objective_killenemies",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14099479304988978801": {
-    "behavior_id": "BehaviorId_capital_defense_tower",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "514170838033788081": {
-    "behavior_id": "BehaviorId_objective_tcs_main_tower",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "18129582262547983427": {
-    "behavior_id": "BehaviorId_bot_conscript_scout_walker_rider",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "7505373399809431787": {
-    "behavior_id": "BehaviorId_objective_cy_control_tower",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "97075763438001001": {
-    "behavior_id": "BehaviorId_objective_prospecting_drill",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14038927220542196401": {
-    "behavior_id": "BehaviorId_combat_walker",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2390745754385977850": {
-    "behavior_id": "BehaviorId_door_01",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17934801039153533546": {
-    "behavior_id": "BehaviorId_delivery_drop_off",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3948687847710625144": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3239012324354685117": {
-    "behavior_id": "BehaviorId_bot_turret_heavycannon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8497107045170994022": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16351786163496137892": {
-    "behavior_id": "BehaviorId_gen_behavior_button",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12827722989328478091": {
-    "behavior_id": "BehaviorId_mortar_turret_staticfield",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14731312854664874139": {
-    "behavior_id": "BehaviorId_bug_nurser",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Boomer"
-  },
-  "8867451643782573472": {
-    "behavior_id": "BehaviorId_bot_dropship",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12678933009494671289": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2705451358132878461": {
-    "behavior_id": "BehaviorId_tutorial_gate",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11100638659050451003": {
+  "7547940876509756291": {
     "behavior_id": "BehaviorId_objective_basic_terminal",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "15239773297738004195": {
-    "behavior_id": "BehaviorId_bot_walker_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Shrieker"
-  },
-  "3066287922325845383": {
-    "behavior_id": "BehaviorId_bridge_lights",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7206737413830444600": {
+  "3481178218570318335": {
     "behavior_id": "BehaviorId_objective_common_basic",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "10892987900330561893": {
-    "behavior_id": "BehaviorId_bot_tank_hull_mg",
+  "8261922003134896957": {
+    "behavior_id": "BehaviorId_bug_scavenger_spitter",
     "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17206948040897225595": {
-    "behavior_id": "BehaviorId_objective_terminal_upload_data",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2210598302234166538": {
-    "behavior_id": "BehaviorId_ship_quartermaster",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6944625163582509804": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7911125090997601213": {
-    "behavior_id": "BehaviorId_objective_oil_pump_valve",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4375091888770509304": {
-    "behavior_id": "BehaviorId_dummy_rts",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1403303179954968823": {
-    "behavior_id": "BehaviorId_bot_lieutenant_suppressor",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Boomer"
-  },
-  "5452892418991605202": {
-    "behavior_id": "BehaviorId_objective_bug_tcs_02",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3939129929398354246": {
-    "behavior_id": "BehaviorId_bug_boomer",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Boomer"
-  },
-  "12013007335500498924": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10891980237210483685": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2036607187954284541": {
-    "behavior_id": "BehaviorId_meteor_shower",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2158846871734942541": {
-    "behavior_id": "BehaviorId_bridge_lights",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15821153730695962661": {
-    "behavior_id": "BehaviorId_bot_dropship",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6951176475743020159": {
-    "behavior_id": "BehaviorId_combat_walker_gatling",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6279750092088033715": {
-    "behavior_id": "BehaviorId_objective_orbital_cannon_ammo_carry",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14748816422034837943": {
-    "behavior_id": "BehaviorId_bug_boomer_tier_2",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Boomer"
-  },
-  "15155335998927187595": {
-    "behavior_id": "BehaviorId_shooting_dummy",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12209482505501190673": {
-    "behavior_id": "BehaviorId_manned_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7208474548146572067": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11843619417684963016": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8856951146059978232": {
-    "behavior_id": "BehaviorId_objective_killenemies",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2185060772554300245": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2910105667914708922": {
-    "behavior_id": "BehaviorId_delivery_drop_off",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1909471264691872944": {
-    "behavior_id": "BehaviorId_bug_charger",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Charger"
-  },
-  "1924189784453431416": {
-    "behavior_id": "BehaviorId_chimney_01",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2620951529389892581": {
-    "behavior_id": "BehaviorId_military_uplink_delivery_drop_off",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15341635186769797274": {
-    "behavior_id": "BehaviorId_tutorial_crossway_hatch",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15774069906119861992": {
-    "behavior_id": "BehaviorId_objective_scanning",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11092217959637116905": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_end_sequence",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5169535861656312576": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "933789309381855061": {
-    "behavior_id": "BehaviorId_objective_common_alert_on_dead",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8685302826332299227": {
-    "behavior_id": "BehaviorId_ship_hellpod_delivery_system",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "18198461672611034237": {
-    "behavior_id": "BehaviorId_bot_soldier_standard",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Security"
-  },
-  "12731112548075941437": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5483174697237418522": {
-    "behavior_id": "BehaviorId_control_tower_delivery_drop_off",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7656202398795925139": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2918844402145947936": {
-    "behavior_id": "BehaviorId_volcanic_activity",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14709257759554793401": {
-    "behavior_id": "BehaviorId_frv",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12424973596508546593": {
-    "behavior_id": "BehaviorId_objective_gen_hellpod_seismic_probe",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9532721265049708333": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "18417602992972518459": {
-    "behavior_id": "BehaviorId_combat_walker_autocannon_right",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4686290245664085219": {
-    "behavior_id": "BehaviorId_illuminate_magus_adept_tier_1",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Security"
-  },
-  "4882226405607636345": {
-    "behavior_id": "BehaviorId_objective_killenemies",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3123276832726192677": {
-    "behavior_id": "BehaviorId_objective_oil_pickup_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11146770675064382806": {
-    "behavior_id": "BehaviorId_cyborg_small_missile",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13724753315452942943": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_vo",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17622196031515135370": {
-    "behavior_id": "BehaviorId_generic_intel",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17436906914518414550": {
-    "behavior_id": "BehaviorId_objective_communications_relay",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9577704727799187723": {
-    "behavior_id": "BehaviorId_objective_tut_outpost",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17350595647090867816": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9414910092732904122": {
-    "behavior_id": "BehaviorId_bot_conscript_flamer",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "17970022205926771882": {
-    "behavior_id": "BehaviorId_soldier_shield",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5244756512985933074": {
-    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7517413542877783132": {
-    "behavior_id": "BehaviorId_hellpod_launcher",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14195043073648156734": {
-    "behavior_id": "BehaviorId_objective_bug_blocking_chunk",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "239891554647054645": {
-    "behavior_id": "BehaviorId_ship_hub_destroyer",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "721550233589928225": {
-    "behavior_id": "BehaviorId_combat_walker_autocannon_right",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5944132402360200348": {
-    "behavior_id": "BehaviorId_bridge_lights",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12023841631339054706": {
-    "behavior_id": "BehaviorId_tutorial_instructor_bot",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9645832190055189087": {
-    "behavior_id": "BehaviorId_tutorial_speaker_bugs",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5663271064929335883": {
-    "behavior_id": "BehaviorId_bug_warrior_captive",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Warrior_Captive"
-  },
-  "2701456486977900736": {
-    "behavior_id": "BehaviorId_bot_conscript_shotgun",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "9872437428268460875": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16663155180854538800": {
-    "behavior_id": "BehaviorId_radar_wagon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17143953852085010013": {
-    "behavior_id": "BehaviorId_objective_common_deliver",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4618830856548850870": {
-    "behavior_id": "BehaviorId_bot_conscript_tier1",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "3948864985834670423": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8783342891467425251": {
-    "behavior_id": "BehaviorId_combat_walker",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15602970412943297293": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5189349237828734558": {
-    "behavior_id": "BehaviorId_objective_common_alert_on_dead",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12449657272871172571": {
-    "behavior_id": "BehaviorId_landingzone_beacon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15691978653806246852": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "16028776869590666997": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17837615728688239629": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16116574862830205005": {
-    "behavior_id": "BehaviorId_objective_gen_hellpod_prospecting_drill",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2578414789566162565": {
-    "behavior_id": "BehaviorId_stratagem_blocker",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8802167435320733248": {
-    "behavior_id": "BehaviorId_ship_hellpod_warning_light",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9780776840013060354": {
-    "behavior_id": "BehaviorId_objective_cyb_refinery",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17346053465930021216": {
-    "behavior_id": "BehaviorId_bot_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4251221953861716889": {
-    "behavior_id": "BehaviorId_bug_charger",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Charger_Bull"
-  },
-  "12566139334605762628": {
-    "behavior_id": "BehaviorId_bot_soldier_standard",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Security"
-  },
-  "12686825540942855252": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1024464436030047776": {
-    "behavior_id": "BehaviorId_se_civilian_extractable",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16592571298339013747": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15599629815890585244": {
-    "behavior_id": "BehaviorId_ship_quartermaster",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15358116161893188517": {
-    "behavior_id": "BehaviorId_bug_warrior_big",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Officer"
-  },
-  "7223794220521538414": {
-    "behavior_id": "BehaviorId_smuggler_cache",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "992978004870917680": {
-    "behavior_id": "BehaviorId_fog_generator",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5077454099412397096": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6330749436544581330": {
-    "behavior_id": "BehaviorId_objective_gen_truth_transmitter_screen",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9342761096312224748": {
-    "behavior_id": "BehaviorId_cache_behavior_button_left",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4577685471418352301": {
-    "behavior_id": "BehaviorId_extraction_shuttle",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16434537386038201618": {
-    "behavior_id": "BehaviorId_objective_radar_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15659331049401757247": {
-    "behavior_id": "BehaviorId_bug_hunter",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Shuttle"
+    "task_user": "TaskUser_SE_Science"
   },
   "15701184648926402687": {
     "behavior_id": "BehaviorId_personnel_generic",
@@ -2344,363 +679,38 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "1514077279537086268": {
-    "behavior_id": "BehaviorId_fog_generator",
+  "13575269880792024885": {
+    "behavior_id": "BehaviorId_eagle_pilot",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "6977774793986153489": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13046085176924039681": {
-    "behavior_id": "BehaviorId_objective_common_alert_on_dead",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7513611035105172383": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8175195359858327927": {
-    "behavior_id": "BehaviorId_objective_gen_raise_flag",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2412946532637084179": {
-    "behavior_id": "BehaviorId_cache_interactable_box",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "344970826846105488": {
-    "behavior_id": "BehaviorId_tutorial_safety_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17279431001545929122": {
-    "behavior_id": "BehaviorId_objective_bug_spire_exterior",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5199653481743360714": {
-    "behavior_id": "BehaviorId_objective_fire_artillery_cannon",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8096066089414940474": {
-    "behavior_id": "BehaviorId_objective_carry_warhead_warhead",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "641481206831155133": {
-    "behavior_id": "BehaviorId_illuminate_guy_staff",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Mechanic"
-  },
-  "10958708641660631096": {
-    "behavior_id": "BehaviorId_bot_dropship_harvester",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2731543306975334902": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3337360454134565268": {
-    "behavior_id": "BehaviorId_objective_gen_raise_flag",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13464541428490103295": {
-    "behavior_id": "BehaviorId_objective_icbm_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5270180603555517763": {
-    "behavior_id": "BehaviorId_objective_extract_civilians",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13803685151943133100": {
-    "behavior_id": "BehaviorId_objective_tcs_support_damageable",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9137331974793918131": {
-    "behavior_id": "BehaviorId_bot_conscript_standard",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "14054387432745785364": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Mechanic"
-  },
-  "152751642744350684": {
-    "behavior_id": "BehaviorId_se_soldier_standard",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10416929864932969247": {
+  "6355261656649627019": {
     "behavior_id": "BehaviorId_objective_tcs_01_support_terminal_screen",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "15429932976569953657": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "363124815175446673": {
-    "behavior_id": "BehaviorId_tutorial_bot_onboarding",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4610896280338708106": {
-    "behavior_id": "BehaviorId_objective_common_deliver",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11457796999526261852": {
-    "behavior_id": "BehaviorId_se_soldier_machinegunner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11666871103883414186": {
-    "behavior_id": "BehaviorId_objective_keycode_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "767968035755763": {
-    "behavior_id": "BehaviorId_bot_conscript_tier2",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "2815330344581547423": {
-    "behavior_id": "BehaviorId_objective_bug_tcs_01",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9046500131216860899": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_zoo_1_section",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17813271651167410876": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7587445649108074590": {
-    "behavior_id": "BehaviorId_personnel_officer",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "18344214658832605710": {
-    "behavior_id": "BehaviorId_objective_colony_relay_tower_light",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17921415124075533547": {
-    "behavior_id": "BehaviorId_bot_soldier_machinegun",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Charger_Bull"
-  },
-  "2995258593083456624": {
-    "behavior_id": "BehaviorId_illuminate_magus_summoner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Shuttle"
-  },
-  "672872697911391764": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5197663570806576153": {
-    "behavior_id": "BehaviorId_hellpod_launcher",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13438997273276941449": {
-    "behavior_id": "BehaviorId_objective_restore_power_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11398074038506794973": {
-    "behavior_id": "BehaviorId_bug_strider",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Strider"
-  },
-  "2061822237979984059": {
-    "behavior_id": "BehaviorId_objective_common_deliver",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10010036769485699164": {
-    "behavior_id": "BehaviorId_objective_gen_raise_flag",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12938655957325924048": {
-    "behavior_id": "BehaviorId_objective_oil_pickup_tank",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4960479884336891143": {
-    "behavior_id": "BehaviorId_personnel_generic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "1928810666819169491": {
+  "6200794816799183239": {
     "behavior_id": "BehaviorId_objective_gen_defend_train",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "8924623437272706588": {
-    "behavior_id": "BehaviorId_bug_stratagem_blocker",
+  "126203366270103050": {
+    "behavior_id": "BehaviorId_objective_tut_shooting_range",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "1051445694670701817": {
-    "behavior_id": "BehaviorId_manned_turret",
+  "928497489738142592": {
+    "behavior_id": "BehaviorId_objective_destroy_stratagem_blocker",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "5340759330213134814": {
-    "behavior_id": "BehaviorId_bunker_cache",
+  "116979858003057948": {
+    "behavior_id": "BehaviorId_objective_escape_pod_crashed_pod",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "12992758703951315707": {
-    "behavior_id": "BehaviorId_objective_cyb_refinery_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17787598205174663652": {
-    "behavior_id": "BehaviorId_objective_upload_data_antenna",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1797246649011612926": {
-    "behavior_id": "BehaviorId_extract_civilians_shuttle",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12804177843322019488": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_zoo_2_section",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3658900074006331912": {
-    "behavior_id": "BehaviorId_combat_walker_autocannon_left",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10699906417599039617": {
-    "behavior_id": "BehaviorId_cape_dispenser",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12587270281642273949": {
-    "behavior_id": "BehaviorId_bot_turret_autocannons",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3031503431338798614": {
-    "behavior_id": "BehaviorId_bot_conscript_cannoneer",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "6337264778388549835": {
-    "behavior_id": "BehaviorId_tutorial_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17893994667461974811": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "13815066062691483913": {
-    "behavior_id": "BehaviorId_objective_tcs_02_support_terminal_screen",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7512712492736498702": {
-    "behavior_id": "BehaviorId_se_soldier_standard",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Helm"
-  },
-  "3270354809248583475": {
-    "behavior_id": "BehaviorId_bot_gunship_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "3101227300789072443": {
-    "behavior_id": "BehaviorId_illuminate_structure_obelisk",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "6402070425737732431": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16974551944278808389": {
-    "behavior_id": "BehaviorId_manned_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12269323780666160625": {
-    "behavior_id": "BehaviorId_machinegun_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7947054938934221308": {
-    "behavior_id": "BehaviorId_bot_command_bunker",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17902981416659057430": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10988915095021253731": {
-    "behavior_id": "BehaviorId_objective_destroy_communication",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10134470972353573832": {
-    "behavior_id": "BehaviorId_combat_walker_autocannon_left",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "10861016308832836833": {
-    "behavior_id": "BehaviorId_bot_lieutenant_suppressor",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Boomer_Nurser"
-  },
-  "12706617161845284909": {
-    "behavior_id": "BehaviorId_bot_conscript_cannoneer",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "14394260739264934509": {
-    "behavior_id": "BehaviorId_objective_bug_hellpod_thumper",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14465236078627581141": {
-    "behavior_id": "BehaviorId_tutorial_trigger_area",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4112142781971718072": {
-    "behavior_id": "BehaviorId_None",
+  "3128706810926128882": {
+    "behavior_id": "BehaviorId_personnel_helm",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -2709,128 +719,18 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "6364351340166354540": {
-    "behavior_id": "BehaviorId_non_objective_oil_pump_animated",
+  "5077454099412397096": {
+    "behavior_id": "BehaviorId_personnel_generic",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "11193918233387225593": {
-    "behavior_id": "BehaviorId_bug_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12310998353472793193": {
-    "behavior_id": "BehaviorId_retracting_pole",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16623861033827131602": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "1346028121179999955": {
+  "1825817556220264183": {
     "behavior_id": "BehaviorId_tutorial_instructor_bot",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "8389409523877355744": {
-    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2617097444341149716": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_fake_objective_sequence",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "9839990240943553653": {
-    "behavior_id": "BehaviorId_cargo_car",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5965964328729758265": {
-    "behavior_id": "BehaviorId_tut_intro_mission_sprint_room_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7547940876509756291": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "17613848926527811920": {
-    "behavior_id": "BehaviorId_objective_killenemies",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "7672538193198738711": {
-    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "12380301216966035631": {
-    "behavior_id": "BehaviorId_objective_common_deliver",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "16748776261021166525": {
-    "behavior_id": "BehaviorId_objective_common_basic",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "5611918484584041126": {
-    "behavior_id": "BehaviorId_bridge_lights",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "14628646008515670247": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15125779956101896786": {
-    "behavior_id": "BehaviorId_bug_prowler",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8261922003134896957": {
-    "behavior_id": "BehaviorId_bug_scavenger_spitter",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Science"
-  },
-  "11648480632094885955": {
-    "behavior_id": "BehaviorId_bot_spawner",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "11224539174350765599": {
-    "behavior_id": "BehaviorId_illuminate_ghoul",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "4510702625533881224": {
-    "behavior_id": "BehaviorId_cy_carry_data",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "2895453262415111841": {
-    "behavior_id": "BehaviorId_bot_gunship",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "4190780991503244826": {
-    "behavior_id": "BehaviorId_objective_oil_pump_active",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "8383906277678357886": {
-    "behavior_id": "BehaviorId_tesla_turret",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_None"
-  },
-  "15855903412068188757": {
-    "behavior_id": "BehaviorId_shouting_dummy",
+  "8867451643782573472": {
+    "behavior_id": "BehaviorId_bot_dropship",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -2839,58 +739,113 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "4015747776278116983": {
-    "behavior_id": "BehaviorId_shooting_dummy",
+  "4610896280338708106": {
+    "behavior_id": "BehaviorId_objective_common_deliver",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "18060975240140501595": {
-    "behavior_id": "BehaviorId_objective_common_basic",
+  "1514077279537086268": {
+    "behavior_id": "BehaviorId_fog_generator",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "13704070866682688455": {
-    "behavior_id": "BehaviorId_objective_evacuate_civilians",
+  "7223794220521538414": {
+    "behavior_id": "BehaviorId_smuggler_cache",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "3830429337415795976": {
-    "behavior_id": "BehaviorId_objective_tut_stratagem_range",
+  "725877384353361216": {
+    "behavior_id": "BehaviorId_landingzone_beacon",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "17294904350295630225": {
-    "behavior_id": "BehaviorId_bridge_lights",
+  "6092654391569710384": {
+    "behavior_id": "BehaviorId_habs_lamp_wall",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "5084997687310749502": {
-    "behavior_id": "BehaviorId_objective_mass_extermination_weapon",
+  "16841371283351459334": {
+    "behavior_id": "BehaviorId_ship_quartermaster",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "5462582617967312674": {
-    "behavior_id": "BehaviorId_objective_bug_thumper",
+  "6272702886533038489": {
+    "behavior_id": "BehaviorId_objective_interact",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "7655267415106750589": {
-    "behavior_id": "BehaviorId_se_civilian_shotgun",
+  "11843619417684963016": {
+    "behavior_id": "BehaviorId_personnel_generic",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "6828244415317081206": {
-    "behavior_id": "BehaviorId_objective_tut_intro_mission_stim_section",
+  "8516193903153996376": {
+    "behavior_id": "BehaviorId_objective_capture_commander_terminal",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "10465095819242630732": {
-    "behavior_id": "BehaviorId_objective_basic_terminal",
+  "1184701852267929014": {
+    "behavior_id": "BehaviorId_objective_tut_rocket_walkway",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "6151955879095205724": {
-    "behavior_id": "BehaviorId_objective_common_basic",
+  "15007207091907096107": {
+    "behavior_id": "BehaviorId_generator",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12570902796716292349": {
+    "behavior_id": "BehaviorId_objective_tcs_01_support_terminal_screen",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7231051959008182318": {
+    "behavior_id": "BehaviorId_objective_retrieve_filled_backpacks",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2412946532637084179": {
+    "behavior_id": "BehaviorId_cache_interactable_box",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "18089545462937747186": {
+    "behavior_id": "BehaviorId_objective_common_upload_data_interact",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2190700087544369166": {
+    "behavior_id": "BehaviorId_bot_lieutenant_artillery",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Prowler"
+  },
+  "3239012324354685117": {
+    "behavior_id": "BehaviorId_bot_turret_heavycannon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3031503431338798614": {
+    "behavior_id": "BehaviorId_bot_conscript_cannoneer",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "15659331049401757247": {
+    "behavior_id": "BehaviorId_bug_hunter",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Shuttle"
+  },
+  "15821153730695962661": {
+    "behavior_id": "BehaviorId_bot_dropship",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12706617161845284909": {
+    "behavior_id": "BehaviorId_bot_conscript_cannoneer",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "8175195359858327927": {
+    "behavior_id": "BehaviorId_objective_gen_raise_flag",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -2899,13 +854,88 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
+  "5462582617967312674": {
+    "behavior_id": "BehaviorId_objective_bug_thumper",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12008441084326179745": {
+    "behavior_id": "BehaviorId_bot_berserker",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Shuttle"
+  },
+  "13427666347591013927": {
+    "behavior_id": "BehaviorId_objective_bug_tcs_03_backpack",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8465410813751171043": {
+    "behavior_id": "BehaviorId_objective_killenemies",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17421195960715507203": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4571403555494335481": {
+    "behavior_id": "BehaviorId_transport_shuttle",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17875655752828743943": {
+    "behavior_id": "BehaviorId_bot_walker_scout",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Charger"
+  },
   "11300340358119080560": {
     "behavior_id": "BehaviorId_objective_bug_prospector",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "3907162354404645355": {
-    "behavior_id": "BehaviorId_bot_tank_hull_mg",
+  "5492393195882837684": {
+    "behavior_id": "BehaviorId_tutorial_instructor_bot",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12165351853986040244": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "10416929864932969247": {
+    "behavior_id": "BehaviorId_objective_tcs_01_support_terminal_screen",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13037131039069521275": {
+    "behavior_id": "BehaviorId_bot_conscript_machinegunner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Officer"
+  },
+  "5950303641766825438": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17884030985831788708": {
+    "behavior_id": "BehaviorId_objective_gen_raise_flag",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4882226405607636345": {
+    "behavior_id": "BehaviorId_objective_killenemies",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11353844921854370643": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17436906914518414550": {
+    "behavior_id": "BehaviorId_objective_communications_relay",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -2914,13 +944,38 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "11654668915819557853": {
-    "behavior_id": "BehaviorId_sam_site",
+  "7532632187257416932": {
+    "behavior_id": "BehaviorId_bug_spawner_mechanical",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "13638071510381683612": {
-    "behavior_id": "BehaviorId_objective_bug_central_core_plug",
+  "8924623437272706588": {
+    "behavior_id": "BehaviorId_bug_stratagem_blocker",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2047310211000472840": {
+    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13201846197658131494": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16623861033827131602": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10958708641660631096": {
+    "behavior_id": "BehaviorId_bot_dropship_harvester",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2139899069241334240": {
+    "behavior_id": "BehaviorId_media_drone",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -2934,43 +989,158 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "5492393195882837684": {
+  "3626558530581732572": {
+    "behavior_id": "BehaviorId_bug_warrior",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "16743939080994882991": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3907162354404645355": {
+    "behavior_id": "BehaviorId_bot_tank_hull_mg",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4894393506576860267": {
+    "behavior_id": "BehaviorId_objective_explosive_backpack",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1346028121179999955": {
     "behavior_id": "BehaviorId_tutorial_instructor_bot",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "2896069159183246418": {
-    "behavior_id": "BehaviorId_illuminate_illusionist",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Charger"
-  },
-  "15892420616544445350": {
-    "behavior_id": "BehaviorId_None",
+  "1088102778169567804": {
+    "behavior_id": "BehaviorId_objective_bug_tcs_03_thumper",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "11590952981248000518": {
+  "12002069999009437467": {
+    "behavior_id": "BehaviorId_objective_scrambler",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5909160229139284606": {
+    "behavior_id": "BehaviorId_bot_conscript_jetpack_standard",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "2701456486977900736": {
+    "behavior_id": "BehaviorId_bot_conscript_shotgun",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "5867714920953300654": {
+    "behavior_id": "BehaviorId_objective_evacuate_civilians_release_civ_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5289274991058480552": {
+    "behavior_id": "BehaviorId_bot_tank_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7196537832909981064": {
+    "behavior_id": "BehaviorId_bot_tank_rocketlauncher",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Stalker"
+  },
+  "5998795766663914760": {
+    "behavior_id": "BehaviorId_collect_drop_off",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4616777209957967593": {
+    "behavior_id": "BehaviorId_objective_carry_warhead_warhead",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "18400802241877839954": {
+    "behavior_id": "BehaviorId_bot_turret_mortar",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7509990704627358840": {
+    "behavior_id": "BehaviorId_objective_orbital_defenses_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1585898554922009358": {
+    "behavior_id": "BehaviorId_bot_tank_hull_mg",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11398074038506794973": {
+    "behavior_id": "BehaviorId_bug_strider",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Strider"
+  },
+  "17294904350295630225": {
     "behavior_id": "BehaviorId_bridge_lights",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "10695807874858680295": {
-    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
+  "3948864985834670423": {
+    "behavior_id": "BehaviorId_objective_common_basic",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "2993845159545954787": {
-    "behavior_id": "BehaviorId_bot_command_bunker_side",
+  "7208293264043292125": {
+    "behavior_id": "BehaviorId_bug_shrieker",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Shrieker"
+  },
+  "3660906948604663911": {
+    "behavior_id": "BehaviorId_objective_illuminate_harvester_shield1",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "17875655752828743943": {
-    "behavior_id": "BehaviorId_bot_walker_scout",
+  "5214047829727418014": {
+    "behavior_id": "BehaviorId_bot_command_bunker_top",
     "task_cooldown": 20,
-    "task_user": "TaskUser_Bug_Charger"
+    "task_user": "TaskUser_None"
   },
-  "10405460102960147340": {
-    "behavior_id": "BehaviorId_tutorial_instructor_bot",
+  "17923742677568213367": {
+    "behavior_id": "BehaviorId_objective_illuminate_interrupt_ritual_raise_building",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8639323329072579590": {
+    "behavior_id": "BehaviorId_bridge_lights",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10355039786464021751": {
+    "behavior_id": "BehaviorId_bot_tank_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9388736439472594613": {
+    "behavior_id": "BehaviorId_combat_walker_missile_launcher",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13724753315452942943": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_vo",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17613848926527811920": {
+    "behavior_id": "BehaviorId_objective_killenemies",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14635045411664702170": {
+    "behavior_id": "BehaviorId_tcs_tremor_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17259437333005147504": {
+    "behavior_id": "BehaviorId_gatling_turret",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -2979,13 +1149,73 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_SE_Science"
   },
-  "9203041545697284770": {
-    "behavior_id": "BehaviorId_objective_grinder_pipes",
+  "5903841343181520462": {
+    "behavior_id": "BehaviorId_bug_scavenger",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Science"
+  },
+  "6899731441642484256": {
+    "behavior_id": "BehaviorId_samsite_missile",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "11785234517959346392": {
-    "behavior_id": "BehaviorId_easter_egg_morse_light",
+  "6927066342767148424": {
+    "behavior_id": "BehaviorId_bug_nurser",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Boomer_Nurser"
+  },
+  "12804177843322019488": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_zoo_2_section",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1403303179954968823": {
+    "behavior_id": "BehaviorId_bot_lieutenant_suppressor",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Boomer"
+  },
+  "8663164604167534893": {
+    "behavior_id": "BehaviorId_objective_defend_horde_rocket",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14772015414747343144": {
+    "behavior_id": "BehaviorId_vehicle_mount",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12575852078853673471": {
+    "behavior_id": "BehaviorId_objective_common_alert_on_dead",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5663271064929335883": {
+    "behavior_id": "BehaviorId_bug_warrior_captive",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Warrior_Captive"
+  },
+  "6151955879095205724": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "992978004870917680": {
+    "behavior_id": "BehaviorId_fog_generator",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4618830856548850870": {
+    "behavior_id": "BehaviorId_bot_conscript_tier1",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "3616880406816074209": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10770873609175974470": {
+    "behavior_id": "BehaviorId_personnel_generic",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -2994,18 +1224,1528 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "12421182327299345565": {
-    "behavior_id": "BehaviorId_illuminate_observer",
-    "task_cooldown": 20,
-    "task_user": "TaskUser_SE_Maintenance"
-  },
-  "5214047829727418014": {
-    "behavior_id": "BehaviorId_bot_command_bunker_top",
+  "16829215401001488699": {
+    "behavior_id": "BehaviorId_filling_station",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "18147592157440151051": {
+  "6458388534208535674": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17921415124075533547": {
+    "behavior_id": "BehaviorId_bot_soldier_machinegun",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Charger_Bull"
+  },
+  "1324846673328253635": {
+    "behavior_id": "BehaviorId_delivery_drop_off",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6290687013549728522": {
+    "behavior_id": "BehaviorId_cache_behavior_button",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6330749436544581330": {
+    "behavior_id": "BehaviorId_objective_gen_truth_transmitter_screen",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3743261888606184850": {
+    "behavior_id": "BehaviorId_carry_data",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5197663570806576153": {
+    "behavior_id": "BehaviorId_hellpod_launcher",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6676641717166653626": {
+    "behavior_id": "BehaviorId_bug_hunter",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Shuttle"
+  },
+  "1664699655495063064": {
+    "behavior_id": "BehaviorId_tcs_02_behavior_button",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14314828040919828387": {
+    "behavior_id": "BehaviorId_hellbomb",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15739121579397943036": {
+    "behavior_id": "BehaviorId_recieve_drop_off",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4021120973472933563": {
+    "behavior_id": "BehaviorId_machinegun_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2857163956342376634": {
+    "behavior_id": "BehaviorId_objective_common_deliver",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7911125090997601213": {
+    "behavior_id": "BehaviorId_objective_oil_pump_valve",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12269323780666160625": {
+    "behavior_id": "BehaviorId_machinegun_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7587445649108074590": {
+    "behavior_id": "BehaviorId_personnel_officer",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12310998353472793193": {
+    "behavior_id": "BehaviorId_retracting_pole",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "363124815175446673": {
+    "behavior_id": "BehaviorId_tutorial_bot_onboarding",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11100638659050451003": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2993845159545954787": {
+    "behavior_id": "BehaviorId_bot_command_bunker_side",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8604848163181421628": {
+    "behavior_id": "BehaviorId_personnel_scienceadvisor",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14783244423755879381": {
+    "behavior_id": "BehaviorId_bot_turret_command_bunker_hmg",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6402070425737732431": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11975793431023421943": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2185060772554300245": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1649808155683745294": {
+    "behavior_id": "BehaviorId_objective_tcs_support_pillar_02",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8497107045170994022": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16995950879610898073": {
+    "behavior_id": "BehaviorId_objective_illuminate_interrupt_ritual",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5556372446766824087": {
+    "behavior_id": "BehaviorId_avatar",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13638071510381683612": {
+    "behavior_id": "BehaviorId_objective_bug_central_core_plug",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8383906277678357886": {
+    "behavior_id": "BehaviorId_tesla_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16028776869590666997": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4245989540495302209": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4251221953861716889": {
+    "behavior_id": "BehaviorId_bug_charger",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Charger_Bull"
+  },
+  "602390376167162446": {
+    "behavior_id": "BehaviorId_vehicle_mount",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "368631843724369925": {
+    "behavior_id": "BehaviorId_objective_orbital_cannon_terminal_gun",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2658120186062166777": {
+    "behavior_id": "BehaviorId_tutorial_gate_light",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17346053465930021216": {
+    "behavior_id": "BehaviorId_bot_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5169535861656312576": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4083821917710944045": {
+    "behavior_id": "BehaviorId_tutorial_store_bot",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13704070866682688455": {
+    "behavior_id": "BehaviorId_objective_evacuate_civilians",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14086474102786926043": {
+    "behavior_id": "BehaviorId_illuminate_turret_tesla",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16529620887519110477": {
+    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9046500131216860899": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_zoo_1_section",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3798524844923598828": {
+    "behavior_id": "BehaviorId_bridge_lights",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7719208875390099550": {
+    "behavior_id": "BehaviorId_bug_charger_acid",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Charger"
+  },
+  "6944625163582509804": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9100766894272830527": {
+    "behavior_id": "BehaviorId_bug_spawner_mechanical",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10427010750460978344": {
+    "behavior_id": "BehaviorId_cache_loot_marker",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8743388434472300512": {
+    "behavior_id": "BehaviorId_drone_mg",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15219556623070951071": {
+    "behavior_id": "BehaviorId_lav_autocannon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8850657780063593973": {
+    "behavior_id": "BehaviorId_earthquake",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16168705537545719415": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17739321622974282125": {
+    "behavior_id": "BehaviorId_objective_bug_tcs_03_bridge",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11903301011381114842": {
+    "behavior_id": "BehaviorId_objective_orbital_cannon_terminal_control",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17943362722330235151": {
+    "behavior_id": "BehaviorId_se_civilian_extractable",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13340847352459495240": {
+    "behavior_id": "BehaviorId_bot_soldier_machinegun",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Security"
+  },
+  "13956703628786069213": {
+    "behavior_id": "BehaviorId_objective_horde_collect",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10556172238611112061": {
+    "behavior_id": "BehaviorId_ship_hub_arcade_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5347332922468726267": {
+    "behavior_id": "BehaviorId_objective_orbital_cannon_ammo_dropoff",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4784131434976142113": {
+    "behavior_id": "BehaviorId_ship_hellpod_delivery_system",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2769960080684004361": {
+    "behavior_id": "BehaviorId_cyborg_detector_tower",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9064778780587088108": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15982881189096313978": {
+    "behavior_id": "BehaviorId_tutorial_trigger_area",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6607904924646909560": {
+    "behavior_id": "BehaviorId_objective_tcs_01_support_terminal_screen",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8563171598051303249": {
+    "behavior_id": "BehaviorId_objective_oil_pickup",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17645598452853810508": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8533440398577070699": {
+    "behavior_id": "BehaviorId_objective_interact",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17970022205926771882": {
+    "behavior_id": "BehaviorId_soldier_shield",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14063862578293974406": {
+    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1924189784453431416": {
+    "behavior_id": "BehaviorId_chimney_01",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5944132402360200348": {
+    "behavior_id": "BehaviorId_bridge_lights",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9872437428268460875": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5636559233179871057": {
+    "behavior_id": "BehaviorId_evacuate_civilian_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13438997273276941449": {
+    "behavior_id": "BehaviorId_objective_restore_power_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2578414789566162565": {
+    "behavior_id": "BehaviorId_stratagem_blocker",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9414910092732904122": {
+    "behavior_id": "BehaviorId_bot_conscript_flamer",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "933789309381855061": {
+    "behavior_id": "BehaviorId_objective_common_alert_on_dead",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4399458158766252490": {
+    "behavior_id": "BehaviorId_bug_hunter",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Shuttle"
+  },
+  "97075763438001001": {
+    "behavior_id": "BehaviorId_objective_prospecting_drill",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12140879278807710899": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4097725484338160989": {
+    "behavior_id": "BehaviorId_behavior_power_generator_button",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5321902713564716286": {
+    "behavior_id": "BehaviorId_door_light",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5650246641905721936": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16919711124802745493": {
+    "behavior_id": "BehaviorId_bug_warrior",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "1374362502002005721": {
+    "behavior_id": "BehaviorId_idle_sam_site",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7947054938934221308": {
+    "behavior_id": "BehaviorId_bot_command_bunker",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12827722989328478091": {
+    "behavior_id": "BehaviorId_mortar_turret_staticfield",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9513169167295339035": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "16351786163496137892": {
+    "behavior_id": "BehaviorId_gen_behavior_button",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9780776840013060354": {
+    "behavior_id": "BehaviorId_objective_cyb_refinery",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4907829208379359321": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17350595647090867816": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2036607187954284541": {
+    "behavior_id": "BehaviorId_meteor_shower",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13344881319959877562": {
+    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17902981416659057430": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15490625510083281258": {
+    "behavior_id": "BehaviorId_objective_destroy_control_tower",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10134470972353573832": {
+    "behavior_id": "BehaviorId_combat_walker_autocannon_left",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4375091888770509304": {
+    "behavior_id": "BehaviorId_dummy_rts",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8883573249939290241": {
+    "behavior_id": "BehaviorId_bot_conscript_standard",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "6674443306042095289": {
+    "behavior_id": "BehaviorId_personnel_security",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2815330344581547423": {
+    "behavior_id": "BehaviorId_objective_bug_tcs_01",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12121433940686135271": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7208474548146572067": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12258680351245336970": {
+    "behavior_id": "BehaviorId_objective_common_deliver",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3572349364299675891": {
+    "behavior_id": "BehaviorId_objective_bug_tcs_01_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7057055776013546117": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Mechanic"
+  },
+  "17143953852085010013": {
+    "behavior_id": "BehaviorId_objective_common_deliver",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15356733335604944785": {
+    "behavior_id": "BehaviorId_cargo_container_deliverable",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14595396733932835349": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_loadout_room_section",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "18002332014700027641": {
+    "behavior_id": "BehaviorId_drone_mg",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7672538193198738711": {
+    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6977774793986153489": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14898043555555802822": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15429932976569953657": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3333863532576551500": {
+    "behavior_id": "BehaviorId_objective_oil_pump_tank",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13513250760266585466": {
+    "behavior_id": "BehaviorId_objective_illuminate_harvester_shield2",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15892420616544445350": {
+    "behavior_id": "BehaviorId_None",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4509500645241400734": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_bug_pit_section",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "672872697911391764": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1928810666819169491": {
+    "behavior_id": "BehaviorId_objective_gen_defend_train",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7656202398795925139": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14394260739264934509": {
+    "behavior_id": "BehaviorId_objective_bug_hellpod_thumper",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8806659706193737949": {
+    "behavior_id": "BehaviorId_objective_common_deliver",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16592571298339013747": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "144044438809665453": {
+    "behavior_id": "BehaviorId_tutorial_speaker_stratagems",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9599852755180419173": {
+    "behavior_id": "BehaviorId_objective_killenemies",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4469039597602705386": {
+    "behavior_id": "BehaviorId_bot_lieutenant_assault",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Boomer_Nurser"
+  },
+  "2616888780303759269": {
+    "behavior_id": "BehaviorId_manned_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12628840167151644876": {
+    "behavior_id": "BehaviorId_tutorial_weapon_dispenser",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1594932588367012453": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12209482505501190673": {
+    "behavior_id": "BehaviorId_manned_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15465644369007147549": {
+    "behavior_id": "BehaviorId_objective_colony_relay_tower_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1024464436030047776": {
+    "behavior_id": "BehaviorId_se_civilian_extractable",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16068259472993542878": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3948687847710625144": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11414927297022134959": {
+    "behavior_id": "BehaviorId_objective_il_harvester_weakspot",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2721785515915949283": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9532721265049708333": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9577604981892255736": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5189349237828734558": {
+    "behavior_id": "BehaviorId_objective_common_alert_on_dead",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13897873237453396693": {
+    "behavior_id": "BehaviorId_illuminate_shield_outcast",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16153967468671429253": {
+    "behavior_id": "BehaviorId_fog_generator",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4760682768060898725": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1329563596910409350": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_cryo_rocket",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "18047604708754565239": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Mechanic"
+  },
+  "14628646008515670247": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1201994798374221065": {
+    "behavior_id": "BehaviorId_objective_tcs_main_tower_02",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4228803675738017635": {
+    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14043102828537131669": {
+    "behavior_id": "BehaviorId_marker_enemy_target",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9342761096312224748": {
+    "behavior_id": "BehaviorId_cache_behavior_button_left",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9670353792785147784": {
+    "behavior_id": "BehaviorId_autocannon_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6951176475743020159": {
+    "behavior_id": "BehaviorId_combat_walker_gatling",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11595118386686545266": {
+    "behavior_id": "BehaviorId_extract_civilian_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15529686099596640908": {
+    "behavior_id": "BehaviorId_tutorial_instructor_bot",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9528799688439966563": {
+    "behavior_id": "BehaviorId_bot_walker_turret_cannon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11785234517959346392": {
+    "behavior_id": "BehaviorId_easter_egg_morse_light",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2701932254995028846": {
+    "behavior_id": "BehaviorId_gen_behavior_button",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10568765948699138973": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11682065381586027134": {
     "behavior_id": "BehaviorId_power_station",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16570517418531528145": {
+    "behavior_id": "BehaviorId_combat_walker_autocannon_left",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2061822237979984059": {
+    "behavior_id": "BehaviorId_objective_common_deliver",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9796573205647524202": {
+    "behavior_id": "BehaviorId_tutorial_target_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3101227300789072443": {
+    "behavior_id": "BehaviorId_illuminate_structure_obelisk",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17587738009391187453": {
+    "behavior_id": "BehaviorId_carry_data",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13485308558916937688": {
+    "behavior_id": "BehaviorId_delivery_drop_off",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15155335998927187595": {
+    "behavior_id": "BehaviorId_shooting_dummy",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6828244415317081206": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_stim_section",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13707236614338800569": {
+    "behavior_id": "BehaviorId_bug_warrior",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "12424973596508546593": {
+    "behavior_id": "BehaviorId_objective_gen_hellpod_seismic_probe",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14731312854664874139": {
+    "behavior_id": "BehaviorId_bug_nurser",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Boomer"
+  },
+  "5711896723562826494": {
+    "behavior_id": "BehaviorId_se_cctv_camera",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16204610837508709347": {
+    "behavior_id": "BehaviorId_manned_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3830429337415795976": {
+    "behavior_id": "BehaviorId_objective_tut_stratagem_range",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12678933009494671289": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16121421951002036444": {
+    "behavior_id": "BehaviorId_bug_scavenger_captive",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Science"
+  },
+  "8877785022740485000": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9577704727799187723": {
+    "behavior_id": "BehaviorId_objective_tut_outpost",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14571812785558082826": {
+    "behavior_id": "BehaviorId_super_earth_cache_lid",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8060547059099038311": {
+    "behavior_id": "BehaviorId_objective_tcs_support_pillar",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10405460102960147340": {
+    "behavior_id": "BehaviorId_tutorial_instructor_bot",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2390745754385977850": {
+    "behavior_id": "BehaviorId_door_01",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10891980237210483685": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16663155180854538800": {
+    "behavior_id": "BehaviorId_radar_wagon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15691978653806246852": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "15476367111502679467": {
+    "behavior_id": "BehaviorId_shuttle_escape_hatch",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10897067899328555568": {
+    "behavior_id": "BehaviorId_objective_destroy_communication_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "514170838033788081": {
+    "behavior_id": "BehaviorId_objective_tcs_main_tower",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "552747719338665864": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15599629815890585244": {
+    "behavior_id": "BehaviorId_ship_quartermaster",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4789698883114413229": {
+    "behavior_id": "BehaviorId_objective_icbm_rocket",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13803685151943133100": {
+    "behavior_id": "BehaviorId_objective_tcs_support_damageable",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "767968035755763": {
+    "behavior_id": "BehaviorId_bot_conscript_tier2",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "15749354740743811640": {
+    "behavior_id": "BehaviorId_tutorial_zoo_one_enemy_hatch",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17238162226885792459": {
+    "behavior_id": "BehaviorId_extraction_shuttle",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1693779833228390074": {
+    "behavior_id": "BehaviorId_objective_bug_tcs_02_destroy_eggs",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "645713022044093730": {
+    "behavior_id": "BehaviorId_combat_walker_gatling",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12724955242749375934": {
+    "behavior_id": "BehaviorId_objective_illuminate_harvester_shield3",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "31641368152217202": {
+    "behavior_id": "BehaviorId_tutorial_instructor_bot",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5828081381579848698": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2642665978849996335": {
+    "behavior_id": "BehaviorId_power_generator",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11881991669617894885": {
+    "behavior_id": "BehaviorId_objective_il_harvester_weakspot",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11666871103883414186": {
+    "behavior_id": "BehaviorId_objective_keycode_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14547755768690831328": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10695807874858680295": {
+    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12731112548075941437": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9967847099073753597": {
+    "behavior_id": "BehaviorId_objective_seismic_probe",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11725209044667795456": {
+    "behavior_id": "BehaviorId_None",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8802167435320733248": {
+    "behavior_id": "BehaviorId_ship_hellpod_warning_light",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12199264466169219381": {
+    "behavior_id": "BehaviorId_objective_colony_relay_alarm_light",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10861016308832836833": {
+    "behavior_id": "BehaviorId_bot_lieutenant_suppressor",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Boomer_Nurser"
+  },
+  "11648480632094885955": {
+    "behavior_id": "BehaviorId_bot_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14195043073648156734": {
+    "behavior_id": "BehaviorId_objective_bug_blocking_chunk",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15855903412068188757": {
+    "behavior_id": "BehaviorId_shouting_dummy",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12587270281642273949": {
+    "behavior_id": "BehaviorId_bot_turret_autocannons",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17672347716099392046": {
+    "behavior_id": "BehaviorId_bug_stalker",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Stalker"
+  },
+  "4474568446749299574": {
+    "behavior_id": "BehaviorId_cha_soldier_ship",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1451908776850496697": {
+    "behavior_id": "BehaviorId_objective_orbital_cannon_ammo_dispenser",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8389409523877355744": {
+    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2894270520075116435": {
+    "behavior_id": "BehaviorId_objective_remains_backpack",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7539955080993332996": {
+    "behavior_id": "BehaviorId_gatling_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10892987900330561893": {
+    "behavior_id": "BehaviorId_bot_tank_hull_mg",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10699906417599039617": {
+    "behavior_id": "BehaviorId_cape_dispenser",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11432560202897483622": {
+    "behavior_id": "BehaviorId_objective_larva_container",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6337264778388549835": {
+    "behavior_id": "BehaviorId_tutorial_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11611005396094793514": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15774069906119861992": {
+    "behavior_id": "BehaviorId_objective_scanning",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13864011471993598988": {
+    "behavior_id": "BehaviorId_objective_terminal_collect_data",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5577728660932040813": {
+    "behavior_id": "BehaviorId_tutorial_cutout_target_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5149481135433687355": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9545949827108816555": {
+    "behavior_id": "BehaviorId_shooting_dummy",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10010036769485699164": {
+    "behavior_id": "BehaviorId_objective_gen_raise_flag",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13164140782040636665": {
+    "behavior_id": "BehaviorId_objective_killenemies",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16927169355845479754": {
+    "behavior_id": "BehaviorId_objective_oil_pump_tower",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5040002189893227102": {
+    "behavior_id": "BehaviorId_objective_bug_central_core",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7120969853994206156": {
+    "behavior_id": "BehaviorId_objective_colony_relay_tower",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "721550233589928225": {
+    "behavior_id": "BehaviorId_combat_walker_autocannon_right",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2705451358132878461": {
+    "behavior_id": "BehaviorId_tutorial_gate",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15594628034710908636": {
+    "behavior_id": "BehaviorId_objective_evacuate_civilians_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16350010024704713163": {
+    "behavior_id": "BehaviorId_grinder",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16668812455095794960": {
+    "behavior_id": "BehaviorId_tutorial_helldiver_dummy",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "952558497108237637": {
+    "behavior_id": "BehaviorId_illuminate_turret_tesla_ball",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12380301216966035631": {
+    "behavior_id": "BehaviorId_objective_common_deliver",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4483950418716673108": {
+    "behavior_id": "BehaviorId_combat_walker_autocannon_right",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5938625030399109341": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14748816422034837943": {
+    "behavior_id": "BehaviorId_bug_boomer_tier_2",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Boomer"
+  },
+  "13169529879182108256": {
+    "behavior_id": "BehaviorId_objective_gen_capital_defense_building",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8783342891467425251": {
+    "behavior_id": "BehaviorId_combat_walker",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13815066062691483913": {
+    "behavior_id": "BehaviorId_objective_tcs_02_support_terminal_screen",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12041129896721693842": {
+    "behavior_id": "BehaviorId_bot_conscript_commander",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "5744599939368375614": {
+    "behavior_id": "BehaviorId_bot_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15449222908953809681": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5340759330213134814": {
+    "behavior_id": "BehaviorId_bunker_cache",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14767523449115355633": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5861687265757701821": {
+    "behavior_id": "BehaviorId_bot_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6279750092088033715": {
+    "behavior_id": "BehaviorId_objective_orbital_cannon_ammo_carry",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11035656831144141243": {
+    "behavior_id": "BehaviorId_bot_turret_small_autocannon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4668234253054032579": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12023841631339054706": {
+    "behavior_id": "BehaviorId_tutorial_instructor_bot",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "518600486455451088": {
+    "behavior_id": "BehaviorId_objective_darkfluid_backpack",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12686825540942855252": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8856951146059978232": {
+    "behavior_id": "BehaviorId_objective_killenemies",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7050825374897234339": {
+    "behavior_id": "BehaviorId_objective_cy_ammunition_stockpile",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1217169640955283183": {
+    "behavior_id": "BehaviorId_objective_grinder_pipes",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2918844402145947936": {
+    "behavior_id": "BehaviorId_volcanic_activity",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9944277644647265182": {
+    "behavior_id": "BehaviorId_objective_killenemies",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "114072341195801864": {
+    "behavior_id": "BehaviorId_drone_mg",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6699176282901212749": {
+    "behavior_id": "BehaviorId_bug_spawner_mechanical_scavenger",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16915618249410217346": {
+    "behavior_id": "BehaviorId_objective_gen_horde_defend",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1606828565903665132": {
+    "behavior_id": "BehaviorId_objective_gen_train_car",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1797246649011612926": {
+    "behavior_id": "BehaviorId_extract_civilians_shuttle",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8214092399932925392": {
+    "behavior_id": "BehaviorId_objective_common_deliver",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5244756512985933074": {
+    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5892418254001999486": {
+    "behavior_id": "BehaviorId_bot_walker_tank_sideturret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17756861745706792858": {
+    "behavior_id": "BehaviorId_bot_soldier_rocketpods",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Charger_Bull"
+  },
+  "7517413542877783132": {
+    "behavior_id": "BehaviorId_hellpod_launcher",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2108432737919758797": {
+    "behavior_id": "BehaviorId_personnel_helm",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3939129929398354246": {
+    "behavior_id": "BehaviorId_bug_boomer",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Boomer"
+  },
+  "9614788353289254415": {
+    "behavior_id": "BehaviorId_bot_conscript_jump_melee",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Mechanic"
+  },
+  "2731543306975334902": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1006683030863220015": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5268813631875709973": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Mechanic"
+  },
+  "17261669187097390826": {
+    "behavior_id": "BehaviorId_habs_colony_sign_01",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7258218216136199873": {
+    "behavior_id": "BehaviorId_bot_conscript_tier1",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "12300518439027380185": {
+    "behavior_id": "BehaviorId_bug_scavenger_predator",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Science"
+  },
+  "10514734670540770044": {
+    "behavior_id": "BehaviorId_bot_soldier_riotgunner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Security"
+  },
+  "8254084607894060467": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_sprint_corridor_section",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4577685471418352301": {
+    "behavior_id": "BehaviorId_extraction_shuttle",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1155202780614770422": {
+    "behavior_id": "BehaviorId_bug_warrior_acid",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "16434537386038201618": {
+    "behavior_id": "BehaviorId_objective_radar_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13558922670169218566": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11669807341511884260": {
+    "behavior_id": "BehaviorId_bug_warrior_plus",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "10339505652348491976": {
+    "behavior_id": "BehaviorId_objective_carry_flag",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14286719829563111324": {
+    "behavior_id": "BehaviorId_bot_tank_autocannons",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_Bug_Strider"
+  },
+  "17149918388466130800": {
+    "behavior_id": "BehaviorId_bot_walker_scout_shield",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11202044778487390708": {
+    "behavior_id": "BehaviorId_objective_oil_pump_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3517035000518974420": {
+    "behavior_id": "BehaviorId_bot_conscript_scout",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "1569497653147940902": {
+    "behavior_id": "BehaviorId_bridge_lights",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15854709965361796617": {
+    "behavior_id": "BehaviorId_None",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1239378520908923324": {
+    "behavior_id": "BehaviorId_personnel_security",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14354158653026475511": {
+    "behavior_id": "BehaviorId_shooting_dummy",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15336140906172278556": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Mechanic"
+  },
+  "16430698813342931719": {
+    "behavior_id": "BehaviorId_objective_gen_truth_transmitter_speaker",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9203041545697284770": {
+    "behavior_id": "BehaviorId_objective_grinder_pipes",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
@@ -3014,18 +2754,283 @@
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
+  "3066287922325845383": {
+    "behavior_id": "BehaviorId_bridge_lights",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9099653686517942657": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9206001518518161274": {
+    "behavior_id": "BehaviorId_objective_tut_intro_mission_zoo_3_section",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17279431001545929122": {
+    "behavior_id": "BehaviorId_objective_bug_spire_exterior",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5452892418991605202": {
+    "behavior_id": "BehaviorId_objective_bug_tcs_02",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "18060975240140501595": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14465236078627581141": {
+    "behavior_id": "BehaviorId_tutorial_trigger_area",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9786667141728709159": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15341635186769797274": {
+    "behavior_id": "BehaviorId_tutorial_crossway_hatch",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13399733575043728622": {
+    "behavior_id": "BehaviorId_objective_icbm_warning_light",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11193918233387225593": {
+    "behavior_id": "BehaviorId_bug_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17893994667461974811": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15621795958426619957": {
+    "behavior_id": "BehaviorId_bot_conscript_melee",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Maintenance"
+  },
+  "4015747776278116983": {
+    "behavior_id": "BehaviorId_shooting_dummy",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "344970826846105488": {
+    "behavior_id": "BehaviorId_tutorial_safety_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15125779956101896786": {
+    "behavior_id": "BehaviorId_bug_prowler",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2186831762627068031": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Mechanic"
+  },
+  "12449657272871172571": {
+    "behavior_id": "BehaviorId_landingzone_beacon",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "14446049687376616670": {
+    "behavior_id": "BehaviorId_tutorial_speaker_shooting",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "7206737413830444600": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15805795754758043311": {
+    "behavior_id": "BehaviorId_delivery_drop_off_cargo_container",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3777467844477933828": {
+    "behavior_id": "BehaviorId_objective_basic_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12013007335500498924": {
+    "behavior_id": "BehaviorId_personnel_generic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "13347714344522860215": {
+    "behavior_id": "BehaviorId_objective_cy_samsite",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2158846871734942541": {
+    "behavior_id": "BehaviorId_bridge_lights",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11389144440041661089": {
+    "behavior_id": "BehaviorId_cy_carry_data",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "2895453262415111841": {
+    "behavior_id": "BehaviorId_bot_gunship",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "5270180603555517763": {
+    "behavior_id": "BehaviorId_objective_extract_civilians",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3486684185096151188": {
+    "behavior_id": "BehaviorId_objective_killenemies",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9375653687096917621": {
+    "behavior_id": "BehaviorId_combat_walker_missile_launcher",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "11404441187706728588": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9219146911950674287": {
+    "behavior_id": "BehaviorId_power_generated_gatling_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1016693250774512036": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16116574862830205005": {
+    "behavior_id": "BehaviorId_objective_gen_hellpod_prospecting_drill",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3615428601912953509": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "9837329084246247941": {
+    "behavior_id": "BehaviorId_objective_common_upload_data_interact",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1316316087295822341": {
+    "behavior_id": "BehaviorId_objective_gen_truth_transmitter_terminal",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15358116161893188517": {
+    "behavior_id": "BehaviorId_bug_warrior_big",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_SE_Officer"
+  },
   "8785151313511435740": {
     "behavior_id": "BehaviorId_personnel_generic",
     "task_cooldown": 20,
     "task_user": "TaskUser_SE_Maintenance"
   },
-  "1324846673328253635": {
-    "behavior_id": "BehaviorId_delivery_drop_off",
+  "6707034374626068020": {
+    "behavior_id": "BehaviorId_bot_tank_turret",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   },
-  "14043102828537131669": {
-    "behavior_id": "BehaviorId_marker_enemy_target",
+  "2507395399702661992": {
+    "behavior_id": "BehaviorId_bot_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "6113742425058627513": {
+    "behavior_id": "BehaviorId_autocannon_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8096066089414940474": {
+    "behavior_id": "BehaviorId_objective_carry_warhead_warhead",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12157917601251901249": {
+    "behavior_id": "BehaviorId_illuminate_spawner",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "3361379816955777588": {
+    "behavior_id": "BehaviorId_gen_behavior_button",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "486069874015074437": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12603372162479839611": {
+    "behavior_id": "BehaviorId_tutorial_cutout_target_stratagem",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "16748776261021166525": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "1051445694670701817": {
+    "behavior_id": "BehaviorId_manned_turret",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "4112142781971718072": {
+    "behavior_id": "BehaviorId_None",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8854579676299966684": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "8484362704672433843": {
+    "behavior_id": "BehaviorId_transport_shuttle",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "12815336614061458907": {
+    "behavior_id": "BehaviorId_objective_icbm_silo",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "10124715820538360434": {
+    "behavior_id": "BehaviorId_objective_common_basic",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "17056602409427303540": {
+    "behavior_id": "BehaviorId_objective_interact",
+    "task_cooldown": 20,
+    "task_user": "TaskUser_None"
+  },
+  "15764803490959105887": {
+    "behavior_id": "BehaviorId_illuminate_hexagon_shield",
     "task_cooldown": 20,
     "task_user": "TaskUser_None"
   }

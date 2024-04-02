@@ -1,0 +1,33 @@
+{
+  "16915618249410217346": {
+    "number_of_waves": 17,
+    "start_time_between_waves": 60,
+    "end_time_between_waves": 40,
+    "maximum_time_between_waves": 15,
+    "start_encounter_points_multipliers": [
+      0,
+      0,
+      0,
+      0,
+      1.875,
+      1.875,
+      1.875,
+      1.875,
+      1.875
+    ],
+    "end_encounter_points_multipliers": [
+      0,
+      0,
+      0,
+      0,
+      2.75,
+      2.75,
+      2.75,
+      2.75,
+      2.75
+    ],
+    "spawn_boss": 0,
+    "boss_frequency": 5,
+    "target_unit": 16238797801238878579
+  }
+}

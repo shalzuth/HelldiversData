@@ -5,7 +5,7 @@
         {
           "type": "ArcType_ArcThrower",
           "speed": 300,
-          "distance": 50,
+          "distance": 35,
           "distance_at_max_angle_spread": 40,
           "distance_at_max_angle_spread_first_shot": 40,
           "max_angle_spread": 60,
@@ -19,7 +19,8 @@
           "explosion_effect_path": 7796303474030059700,
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
           "hit_audio_event": 4066763531,
-          "beam_path": 7616758381494621082
+          "beam_path": 7616758381494621082,
+          "demolition_strength": 10
         },
         {
           "type": "ArcType_ArcThrower_MK2",
@@ -38,7 +39,8 @@
           "explosion_effect_path": 7796303474030059700,
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
           "hit_audio_event": 4066763531,
-          "beam_path": 7616758381494621082
+          "beam_path": 7616758381494621082,
+          "demolition_strength": 10
         },
         {
           "type": "ArcType_ArcThrower_MK3",
@@ -57,7 +59,8 @@
           "explosion_effect_path": 7796303474030059700,
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
           "hit_audio_event": 4066763531,
-          "beam_path": 7616758381494621082
+          "beam_path": 7616758381494621082,
+          "demolition_strength": 10
         },
         {
           "type": "ArcType_ArcThrower_MK4",
@@ -76,7 +79,8 @@
           "explosion_effect_path": 7796303474030059700,
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
           "hit_audio_event": 4066763531,
-          "beam_path": 7616758381494621082
+          "beam_path": 7616758381494621082,
+          "demolition_strength": 10
         },
         {
           "type": "ArcType_ArcShotgun",
@@ -95,7 +99,8 @@
           "explosion_effect_path": 7796303474030059700,
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
           "hit_audio_event": 4066763531,
-          "beam_path": 16359245277033039219
+          "beam_path": 16359245277033039219,
+          "demolition_strength": 10
         },
         {
           "type": "ArcType_TeslaTurret",
@@ -114,7 +119,8 @@
           "explosion_effect_path": 7796303474030059700,
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
           "hit_audio_event": 3528384486,
-          "beam_path": 7616758381494621082
+          "beam_path": 7616758381494621082,
+          "demolition_strength": 10
         },
         {
           "type": "ArcType_IlluminateTripod",
@@ -133,7 +139,28 @@
           "explosion_effect_path": 7796303474030059700,
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
           "hit_audio_event": 0,
-          "beam_path": 7616758381494621082
+          "beam_path": 7616758381494621082,
+          "demolition_strength": 10
+        },
+        {
+          "type": "ArcType_IlluminateTurretTesla",
+          "speed": 2000,
+          "distance": 50,
+          "distance_at_max_angle_spread": 1,
+          "distance_at_max_angle_spread_first_shot": 20,
+          "max_angle_spread": 180,
+          "max_angle_spread_first_shot": 22.5,
+          "max_chain_length": 1,
+          "max_chain_split": 1,
+          "damage_info_type": "DamageInfoType_Projectile_Illuminate_turret_tesla",
+          "camera_shake_path": 0,
+          "particle_effect_path": 0,
+          "particle_linger_time": 0.25,
+          "explosion_effect_path": 7796303474030059700,
+          "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
+          "hit_audio_event": 0,
+          "beam_path": 7616758381494621082,
+          "demolition_strength": 10
         },
         {
           "type": "ArcType_IlluminateObelisk",
@@ -152,7 +179,8 @@
           "explosion_effect_path": 7796303474030059700,
           "hit_effect_damage_type": "HitEffectDamageType_PiercingLarge",
           "hit_audio_event": 0,
-          "beam_path": 7616758381494621082
+          "beam_path": 7616758381494621082,
+          "demolition_strength": 10
         },
         {
           "type": "ArcType_IlluminateObserverLightning",
@@ -171,7 +199,8 @@
           "explosion_effect_path": 0,
           "hit_effect_damage_type": "HitEffectDamageType_BeamSmall",
           "hit_audio_event": 4066763531,
-          "beam_path": 7616758381494621082
+          "beam_path": 7616758381494621082,
+          "demolition_strength": 10
         },
         {
           "type": "ArcType_IlluminateSummonerSpawnEffect",
@@ -190,7 +219,8 @@
           "explosion_effect_path": 7796303474030059700,
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "hit_audio_event": 0,
-          "beam_path": 3348712636589073254
+          "beam_path": 3348712636589073254,
+          "demolition_strength": 10
         }
       ]
     }

@@ -1,5 +1,6 @@
 { "ObjectiveUnitType" : {
     "path" : { "type": "ulong", "description": "[unit]The path to the unit that we will link up with." },
     "explicit_uoi_id" : { "type": "uint", "description": "[string]If declared, the only units of interest relevants will be the ones that have as SriptData UOI_ID equals to this value." },
-    "fail_on_destroyed" : { "type": "ObjectiveFailOnDestroyedType", "default": "ObjectiveFailOnDestroyedType_None", "description": "True if the objective should fail if a unit of this type gets destroyed." }
+    "fail_on_destroyed" : { "type": "ObjectiveFailOnDestroyedType", "default": "ObjectiveFailOnDestroyedType_None", "description": "True if the objective should fail if a unit of this type gets destroyed." },
+    "granted_tag" : { "type": "Tag", "description": "Will grant this tag to linked units." }
 }}

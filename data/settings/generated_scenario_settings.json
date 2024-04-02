@@ -488,8 +488,8 @@
           "day_weather_settings": 3487970960703654411,
           "night_weather_settings": 11413680409126819404,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 60,
-          "fade_out_time": 60,
+          "time_fully_active": 10,
+          "fade_out_time": 10,
           "is_override_weather": 1
         }
       ]
@@ -700,6 +700,15 @@
           "time_fully_active": 100,
           "fade_out_time": 50,
           "is_override_weather": 0
+        },
+        {
+          "name": 2072796801,
+          "day_weather_settings": 4246556173604407926,
+          "night_weather_settings": 7289502601709040156,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 10,
+          "fade_out_time": 10,
+          "is_override_weather": 1
         }
       ]
     }
@@ -722,8 +731,8 @@
           "day_weather_settings": 7934050428230573416,
           "night_weather_settings": 10924603224542894796,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 200,
-          "fade_out_time": 100,
+          "time_fully_active": 10,
+          "fade_out_time": 10,
           "is_override_weather": 1
         },
         {

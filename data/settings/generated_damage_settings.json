@@ -21,6 +21,41 @@
         {
           "type": "DamageInfoType_Projectile_Boomer_AcidStream",
           "damage": [
+            32,
+            32
+          ],
+          "armor_penetration_per_angle": [
+            4,
+            4,
+            4,
+            0
+          ],
+          "demolition_strength": 0,
+          "force_strength": 20,
+          "force_impulse": 10,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Projectile_Strider_AcidStream",
+          "damage": [
             50,
             50
           ],
@@ -56,8 +91,8 @@
         {
           "type": "DamageInfoType_Projectile_Boomer_Nurser_AcidStream",
           "damage": [
-            40,
-            40
+            32,
+            32
           ],
           "armor_penetration_per_angle": [
             4,
@@ -65,7 +100,7 @@
             4,
             0
           ],
-          "demolition_strength": 0,
+          "demolition_strength": 10,
           "force_strength": 20,
           "force_impulse": 10,
           "element_type": "ElementType_None",
@@ -162,7 +197,7 @@
           "type": "DamageInfoType_Projectile_CyborgLightRocket",
           "damage": [
             75,
-            75
+            50
           ],
           "armor_penetration_per_angle": [
             6,
@@ -458,6 +493,41 @@
             {
               "type": "StatusEffectType_None",
               "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Projectile_Illuminate_turret_tesla",
+          "damage": [
+            75,
+            75
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            3,
+            3,
+            0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 10,
+          "force_impulse": 10,
+          "element_type": "ElementType_Electricity",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_StunSmall",
+              "value": 10
             },
             {
               "type": "StatusEffectType_None",
@@ -2370,9 +2440,9 @@
             12
           ],
           "armor_penetration_per_angle": [
-            2,
-            2,
-            2,
+            3,
+            3,
+            3,
             0
           ],
           "demolition_strength": 10,
@@ -2716,8 +2786,8 @@
         {
           "type": "DamageInfoType_Projectile_Rocket_15x100mm_std",
           "damage": [
-            200,
-            40
+            300,
+            90
           ],
           "armor_penetration_per_angle": [
             3,
@@ -2726,8 +2796,8 @@
             0
           ],
           "demolition_strength": 10,
-          "force_strength": 20,
-          "force_impulse": 10,
+          "force_strength": 35,
+          "force_impulse": 15,
           "element_type": "ElementType_None",
           "status_effects": [
             {
@@ -3241,8 +3311,8 @@
         {
           "type": "DamageInfoType_Projectile_Shotgun_10g_slug",
           "damage": [
-            280,
-            84
+            250,
+            75
           ],
           "armor_penetration_per_angle": [
             3,
@@ -3250,9 +3320,9 @@
             3,
             0
           ],
-          "demolition_strength": 20,
-          "force_strength": 35,
-          "force_impulse": 50,
+          "demolition_strength": 10,
+          "force_strength": 20,
+          "force_impulse": 35,
           "element_type": "ElementType_None",
           "status_effects": [
             {
@@ -3451,8 +3521,8 @@
         {
           "type": "DamageInfoType_Projectile_Shotgun_12g_flm",
           "damage": [
-            15,
-            9
+            20,
+            10
           ],
           "armor_penetration_per_angle": [
             2,
@@ -3811,7 +3881,7 @@
             0
           ],
           "demolition_strength": 20,
-          "force_strength": 20,
+          "force_strength": 35,
           "force_impulse": 10,
           "element_type": "ElementType_Electricity",
           "status_effects": [
@@ -4046,8 +4116,8 @@
         {
           "type": "DamageInfoType_Projectile_Rifle_12p5x100mm_eit",
           "damage": [
-            350,
-            105
+            450,
+            135
           ],
           "armor_penetration_per_angle": [
             4,
@@ -6809,6 +6879,41 @@
           ]
         },
         {
+          "type": "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
+          "damage": [
+            150,
+            150
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            3,
+            3,
+            0
+          ],
+          "demolition_strength": 25,
+          "force_strength": 25,
+          "force_impulse": 40,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
           "type": "DamageInfoType_Explosion_HandGrenade_Incendiary",
           "damage": [
             150,
@@ -7544,6 +7649,41 @@
           ]
         },
         {
+          "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_DirectHit",
+          "damage": [
+            350,
+            350
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            3,
+            3,
+            0
+          ],
+          "demolition_strength": 30,
+          "force_strength": 50,
+          "force_impulse": 40,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
           "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HEAT",
           "damage": [
             150,
@@ -7865,7 +8005,7 @@
             400
           ],
           "armor_penetration_per_angle": [
-            5,
+            3,
             0,
             0,
             0
@@ -10451,8 +10591,8 @@
         {
           "type": "DamageInfoType_DPS_Fire",
           "damage": [
-            40,
-            20
+            60,
+            30
           ],
           "armor_penetration_per_angle": [
             4,
@@ -10569,6 +10709,41 @@
           "force_strength": 0,
           "force_impulse": 0,
           "element_type": "ElementType_Acid",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_DPS_AcidStorm",
+          "damage": [
+            1,
+            1
+          ],
+          "armor_penetration_per_angle": [
+            9,
+            9,
+            9,
+            9
+          ],
+          "demolition_strength": 0,
+          "force_strength": 0,
+          "force_impulse": 0,
+          "element_type": "ElementType_Bleed",
           "status_effects": [
             {
               "type": "StatusEffectType_None",
@@ -11326,8 +11501,8 @@
         {
           "type": "DamageInfoType_Ability_Bug_Charger_MeleeCrush",
           "damage": [
-            800,
-            800
+            350,
+            350
           ],
           "armor_penetration_per_angle": [
             7,
@@ -12411,7 +12586,7 @@
         {
           "type": "DamageInfoType_Ability_Illuminate_Ghoul_Claw",
           "damage": [
-            25,
+            20,
             2
           ],
           "armor_penetration_per_angle": [
@@ -12726,8 +12901,8 @@
         {
           "type": "DamageInfoType_Ability_Illuminate_Outcast_Melee_Slash",
           "damage": [
-            35,
-            35
+            15,
+            15
           ],
           "armor_penetration_per_angle": [
             2,
@@ -12761,8 +12936,8 @@
         {
           "type": "DamageInfoType_Ability_Illuminate_Outcast_Melee_Slash_Finisher",
           "damage": [
-            45,
-            45
+            25,
+            25
           ],
           "armor_penetration_per_angle": [
             2,
@@ -12808,6 +12983,76 @@
           "demolition_strength": 40,
           "force_strength": 40,
           "force_impulse": 40,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Ability_Darkfluid_Aoe",
+          "damage": [
+            500,
+            5
+          ],
+          "armor_penetration_per_angle": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "demolition_strength": 20,
+          "force_strength": 600,
+          "force_impulse": 600,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Ability_GateCrush",
+          "damage": [
+            500,
+            5
+          ],
+          "armor_penetration_per_angle": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "demolition_strength": 40,
+          "force_strength": 2,
+          "force_impulse": 2,
           "element_type": "ElementType_None",
           "status_effects": [
             {

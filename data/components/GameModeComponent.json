@@ -7,5 +7,7 @@
     "life_regen_time" : { "type": "float", "default": 120, "description": "How much is the Reinforce going to go on cooldown when it begins regenerating a life?" },
     "immediate_extraction" : { "type": "byte", "description": "[bool]If set, will immediately call in the shuttle instead of the landing beacon when extraction is available." },
     "regular_extraction_on_mission_end" : { "type": "byte", "description": "[bool](Only used if Immediate Extraction is set) If set, will use a regular extraction when the mission timer ends, instead of an immediate extraction." },
-    "trigger_extraction_when_timer_runs_out" : { "type": "byte", "description": "[bool]If set, will trigger extraction when the mission timer runs out." }
+    "regular_extraction_on_mission_fail" : { "type": "byte", "description": "[bool](Only used if Immediate Extraction is set) If set, will use a regular extraction when the mission fails, instead of an immediate extraction." },
+    "trigger_extraction_when_timer_runs_out" : { "type": "byte", "description": "[bool]If set, will trigger extraction when the mission timer runs out." },
+    "map_size_override" : { "type": "float", "default": -1, "description": "If non-zero, will override the map size for this specific mission. Range 0-1." }
 }}

@@ -24,5 +24,6 @@
     "ignore_tags" : { "type": "byte", "description": "[bool]Set to true to ignore tag requirements" },
     "ignore_guard_force" : { "type": "byte", "description": "[bool]Set to true to spawn friendly NPCs instead of enemies" },
     "sequential_lanes" : { "type": "byte", "description": "[bool]Will use the spawn lanes sequentially for the duration of the spawn count" },
-    "use_global_spawner_cooldown" : { "type": "byte", "description": "[bool]Indicates if this spawner will be affected by the global cooldown or not." }
+    "use_global_spawner_cooldown" : { "type": "byte", "description": "[bool]Indicates if this spawner will be affected by the global cooldown or not." },
+    "start_disabled" : { "type": "byte", "description": "[bool]Set to true to start disabled" }
 }}

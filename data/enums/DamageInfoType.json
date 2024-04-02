@@ -1,6 +1,7 @@
 { "DamageInfoType": [
     "DamageInfoType_None",
     "DamageInfoType_Projectile_Boomer_AcidStream",
+    "DamageInfoType_Projectile_Strider_AcidStream",
     "DamageInfoType_Projectile_Boomer_Nurser_AcidStream",
     "DamageInfoType_Projectile_Scavenger_AcidBall",
     "DamageInfoType_Projectile_CyborgHeavyFlamer",
@@ -13,6 +14,7 @@
     "DamageInfoType_Projectile_Illuminate_Lightningbolt",
     "DamageInfoType_Projectile_Illuminate_Lightspear",
     "DamageInfoType_Projectile_Illuminate_Obelisk",
+    "DamageInfoType_Projectile_Illuminate_turret_tesla",
     "DamageInfoType_Projectile_Illuminate_Observer_Lightning",
     "DamageInfoType_Projectile_Illuminate_Squidgun",
     "DamageInfoType_Projectile_Illuminate_Tripod_Lightning",
@@ -194,6 +196,7 @@
     "DamageInfoType_Explosion_Building_Large",
     "DamageInfoType_Explosion_Building_Huge",
     "DamageInfoType_Explosion_HandGrenade_Frag",
+    "DamageInfoType_Explosion_HandGrenade_Frag_Cluster",
     "DamageInfoType_Explosion_HandGrenade_Incendiary",
     "DamageInfoType_Explosion_HandGrenade_Thermite",
     "DamageInfoType_Explosion_Projectile_Cannon_20mm_Flak",
@@ -215,6 +218,7 @@
     "DamageInfoType_Explosion_Projectile_Grenade_40mm_APHE",
     "DamageInfoType_Explosion_Projectile_Grenade_40mm_ProximityCone",
     "DamageInfoType_Explosion_Projectile_Grenade_Mortar_40mm_HE",
+    "DamageInfoType_Explosion_Projectile_Grenade_85mm_DirectHit",
     "DamageInfoType_Explosion_Projectile_Grenade_85mm_HEAT",
     "DamageInfoType_Explosion_Projectile_Grenade_75mm_HEAT",
     "DamageInfoType_Projectile_Laser_Pulse",
@@ -302,6 +306,7 @@
     "DamageInfoType_DPS_Thermite",
     "DamageInfoType_DPS_Acid_Splash",
     "DamageInfoType_DPS_Acid_Stream",
+    "DamageInfoType_DPS_AcidStorm",
     "DamageInfoType_DPS_Cyborg_Fire",
     "DamageInfoType_DPS_Pure_Damage",
     "DamageInfoType_DPS_BurningHeavy",
@@ -366,5 +371,7 @@
     "DamageInfoType_Ability_Illuminate_Outcast_Melee_Slash",
     "DamageInfoType_Ability_Illuminate_Outcast_Melee_Slash_Finisher",
     "DamageInfoType_Ability_Hellpod_Traversal",
+    "DamageInfoType_Ability_Darkfluid_Aoe",
+    "DamageInfoType_Ability_GateCrush",
     "DamageInfoType_Count"
 ]}

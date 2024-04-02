@@ -1,0 +1,3 @@
+{ "PowerGeneratorComponent" : {
+    "number_of_charges" : { "type": "uint", "default": 2, "description": "The number of charges that this power generator has." }
+}}

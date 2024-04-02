@@ -1,3 +1,4 @@
 { "StatusEffectVolumeComponent" : {
+    "start_active" : { "type": "byte", "description": "[bool]If true then this volume is active as soon as this entity exists" },
     "infos" : { "type": "array", "subtype": "StatusEffectVolumeInfo", "description": "Settings for each effect type." }
 }}

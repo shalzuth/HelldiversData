@@ -1,9 +1,57 @@
 {
-  "7532632187257416932": {
+  "13724753315452942943": {
     "objective_type": "StratagemObjectiveDropRequirement_None",
     "objective_importance_type": "ObjectiveImportanceType_Primary",
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
     "auto_link": 1
+  },
+  "518600486455451088": {
+    "objective_type": "StratagemObjectiveDropRequirement_DarkFluidBackpack",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "12424973596508546593": {
+    "objective_type": "StratagemObjectiveDropRequirement_SeismicProbe",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "16085819457051082660": {
+    "objective_type": "StratagemObjectiveDropRequirement_Drill",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "11105721130648470965": {
+    "objective_type": "StratagemObjectiveDropRequirement_RaiseFlag",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "4510702625533881224": {
+    "objective_type": "StratagemObjectiveDropRequirement_CyborgCarryData",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "15749354740743811640": {
+    "objective_type": "StratagemObjectiveDropRequirement_None",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "6607904924646909560": {
+    "objective_type": "StratagemObjectiveDropRequirement_None",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Importance",
+    "auto_link": 0
+  },
+  "6355261656649627019": {
+    "objective_type": "StratagemObjectiveDropRequirement_None",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Importance",
+    "auto_link": 0
   },
   "6699176282901212749": {
     "objective_type": "StratagemObjectiveDropRequirement_None",
@@ -11,8 +59,38 @@
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
     "auto_link": 1
   },
-  "11105721130648470965": {
-    "objective_type": "StratagemObjectiveDropRequirement_RaiseFlag",
+  "16116574862830205005": {
+    "objective_type": "StratagemObjectiveDropRequirement_ProspectingDrill",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "12570902796716292349": {
+    "objective_type": "StratagemObjectiveDropRequirement_None",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Importance",
+    "auto_link": 0
+  },
+  "12765265282294763822": {
+    "objective_type": "StratagemObjectiveDropRequirement_TCS03Thumper",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "15449222908953809681": {
+    "objective_type": "StratagemObjectiveDropRequirement_None",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "7532632187257416932": {
+    "objective_type": "StratagemObjectiveDropRequirement_None",
+    "objective_importance_type": "ObjectiveImportanceType_Primary",
+    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
+    "auto_link": 1
+  },
+  "11193918233387225593": {
+    "objective_type": "StratagemObjectiveDropRequirement_None",
     "objective_importance_type": "ObjectiveImportanceType_Primary",
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
     "auto_link": 1
@@ -29,49 +107,25 @@
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
     "auto_link": 1
   },
-  "4510702625533881224": {
-    "objective_type": "StratagemObjectiveDropRequirement_CyborgCarryData",
+  "15805795754758043311": {
+    "objective_type": "StratagemObjectiveDropRequirement_CargoContainer",
     "objective_importance_type": "ObjectiveImportanceType_Primary",
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
     "auto_link": 1
   },
-  "12570902796716292349": {
-    "objective_type": "StratagemObjectiveDropRequirement_None",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Importance",
-    "auto_link": 0
-  },
-  "15449222908953809681": {
+  "16668812455095794960": {
     "objective_type": "StratagemObjectiveDropRequirement_None",
     "objective_importance_type": "ObjectiveImportanceType_Primary",
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
     "auto_link": 1
   },
-  "13724753315452942943": {
+  "4371511811598490931": {
     "objective_type": "StratagemObjectiveDropRequirement_None",
     "objective_importance_type": "ObjectiveImportanceType_Primary",
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
     "auto_link": 1
   },
-  "16085819457051082660": {
-    "objective_type": "StratagemObjectiveDropRequirement_Drill",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
-    "auto_link": 1
-  },
-  "10416929864932969247": {
-    "objective_type": "StratagemObjectiveDropRequirement_None",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Importance",
-    "auto_link": 0
-  },
-  "6355261656649627019": {
-    "objective_type": "StratagemObjectiveDropRequirement_None",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Importance",
-    "auto_link": 0
-  },
-  "15749354740743811640": {
+  "9872437428268460875": {
     "objective_type": "StratagemObjectiveDropRequirement_None",
     "objective_importance_type": "ObjectiveImportanceType_Primary",
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
@@ -83,52 +137,10 @@
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
     "auto_link": 1
   },
-  "12424973596508546593": {
-    "objective_type": "StratagemObjectiveDropRequirement_SeismicProbe",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
-    "auto_link": 1
-  },
-  "9872437428268460875": {
-    "objective_type": "StratagemObjectiveDropRequirement_None",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
-    "auto_link": 1
-  },
-  "6607904924646909560": {
+  "10416929864932969247": {
     "objective_type": "StratagemObjectiveDropRequirement_None",
     "objective_importance_type": "ObjectiveImportanceType_Primary",
     "link_type": "ObjectiveDynamicLinkComponentLinkType_Importance",
     "auto_link": 0
-  },
-  "4371511811598490931": {
-    "objective_type": "StratagemObjectiveDropRequirement_None",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
-    "auto_link": 1
-  },
-  "16668812455095794960": {
-    "objective_type": "StratagemObjectiveDropRequirement_None",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
-    "auto_link": 1
-  },
-  "16116574862830205005": {
-    "objective_type": "StratagemObjectiveDropRequirement_ProspectingDrill",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
-    "auto_link": 1
-  },
-  "15805795754758043311": {
-    "objective_type": "StratagemObjectiveDropRequirement_CargoContainer",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
-    "auto_link": 1
-  },
-  "11193918233387225593": {
-    "objective_type": "StratagemObjectiveDropRequirement_None",
-    "objective_importance_type": "ObjectiveImportanceType_Primary",
-    "link_type": "ObjectiveDynamicLinkComponentLinkType_Stratagem",
-    "auto_link": 1
   }
 }
