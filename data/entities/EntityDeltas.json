@@ -10761,16 +10761,17 @@
     "muzzle_path": 8461770958804471754,
     "muzzle_flash": 15002535470145257271
   },
-  "91792209972782014": {
-    "scope_offset.x": -0.0576,
-    "scope_offset.y": 0.2365,
-    "scope_offset.z": -0.4,
+  "17566682951508615626": {
+    "scope_offset.x": 0,
+    "scope_offset.y": 0,
+    "scope_offset.z": -0.2,
     "aim_zoom.x": 1,
-    "aim_zoom.y": 1,
-    "aim_zoom.z": 1,
-    "optics_path": 7579192334372124302,
-    "optics_crosshair_params.x": 0,
-    "optics_crosshair_params.y": 1
+    "aim_zoom.y": 2,
+    "aim_zoom.z": 3,
+    "scope_lens_hides_weapon": 1,
+    "optics_path": 2618761105051491521,
+    "optics_crosshair_params.x": 0.5,
+    "optics_crosshair_params.y": 2
   },
   "4964499945670853068": {
     "projectile_type": "ProjectileType_Pistol_12x25mm_ther",
@@ -10857,18 +10858,6 @@
     "weapon_stat_modifiers[7].value": 0,
     "muzzle_path": 12795189377325640140,
     "muzzle_flash": 3960639275692882654
-  },
-  "17566682951508615626": {
-    "scope_offset.x": 0,
-    "scope_offset.y": 0,
-    "scope_offset.z": -0.2,
-    "aim_zoom.x": 1,
-    "aim_zoom.y": 2,
-    "aim_zoom.z": 3,
-    "scope_lens_hides_weapon": 1,
-    "optics_path": 2618761105051491521,
-    "optics_crosshair_params.x": 0.5,
-    "optics_crosshair_params.y": 2
   },
   "2075060160588494788": {
     "weapon_stat_modifiers[0].type": "WeaponStatModifierType_Add_Ergonomics",
