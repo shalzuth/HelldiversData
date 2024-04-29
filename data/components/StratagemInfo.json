@@ -55,5 +55,6 @@
     "hellpod_additional_rotation_in_tau" : { "type": "array", "subtype": "float" },
     "equipment_tags" : { "type": "array", "subtype": "uint" },
     "customizations" : { "type": "array", "subtype": "uint" },
-    "allow_for_button_overlap" : { "type": "byte" }
+    "allow_for_button_overlap" : { "type": "byte" },
+    "deploy_on_navmesh_only" : { "type": "byte" }
 }}

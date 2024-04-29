@@ -13,13 +13,13 @@
     "mid_air_adjustment_speed": 4,
     "fall_damage_thrusters": 0,
     "ground_smoke_effect": "SurfaceImpactType_jumppack_ground",
-    "ability_thrusters_recharge_start": "AbilityId_jumppack_thrusters_recharge_start",
-    "ability_thrusters_recharge_done": "AbilityId_jumppack_thrusters_recharge_done",
-    "ability_thrusters_activate_jump_fail": "AbilityId_jumppack_thrusters_activate_jump_fail",
-    "ability_thrusters_activate_jump": "AbilityId_bug_objectives_darkfluid_aoe",
+    "ability_thrusters_recharge_start": "AbilityId_tcs_03_darkfluid_thrusters_recharge_start",
+    "ability_thrusters_recharge_done": "AbilityId_tcs_03_darkfluid_thrusters_recharge_done",
+    "ability_thrusters_activate_jump_fail": "AbilityId_tcs_03_darkfluid_thrusters_activate_jump_fail",
+    "ability_thrusters_activate_jump": "AbilityId_tcs_03_darkfluid_aoe",
     "script_event_thrusters_activate_jump": 4262094111,
-    "ability_thrusters_activate_land": "AbilityId_jumppack_thrusters_activate_land",
-    "ability_thrusters_deactivate": "AbilityId_jumppack_thrusters_deactivate"
+    "ability_thrusters_activate_land": "AbilityId_tcs_03_darkfluid_thrusters_activate_land",
+    "ability_thrusters_deactivate": "AbilityId_tcs_03_darkfluid_thrusters_deactivate"
   },
   "6468799106264970105": {
     "takeoff_force": 25,

@@ -7,6 +7,8 @@
     "pattern_lut" : { "type": "ulong" },
     "cape_lut" : { "type": "ulong" },
     "cape_gradient" : { "type": "ulong" },
+    "cape_nac" : { "type": "ulong" },
     "decal_scalar_fields" : { "type": "ulong" },
+    "base_data" : { "type": "ulong" },
     "decal_sheet" : { "type": "ulong" }
 }}

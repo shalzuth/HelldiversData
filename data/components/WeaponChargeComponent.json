@@ -1,7 +1,5 @@
 { "WeaponChargeComponent" : {
-    "min_charge_time" : { "type": "float", "default": 0.9, "description": "The minimum amount of time you must charge to fire the weapon." },
-    "full_charge_time" : { "type": "float", "default": 1.7, "description": "Time it takes for the weapon to reach full charge." },
-    "overcharge_time" : { "type": "float", "default": 2.7, "description": "The time it takes for the weapon to overcharge." },
+    "charge_state_settings" : { "type": "array", "subtype": "ChargeStateSetting", "description": "Settings related to the current charge state, such as charge time, projectile type, muzzle flash effect and single fire audio." },
     "projectile_multipliers" : { "type": "ProjectileMultipliers", "description": "Multipliers of the setting values for the projectile based on the charge amount." },
     "charge_start_sound_id" : { "type": "uint", "description": "[string]Sound to start playing when the chargeup starts." },
     "charge_stop_sound_id" : { "type": "uint", "description": "[string]Sound id to play when the chargeup ends." },

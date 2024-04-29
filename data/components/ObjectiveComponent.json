@@ -1,6 +1,9 @@
 { "ObjectiveComponent" : {
     "stratagem" : { "type": "StratagemType", "default": "StratagemType_None", "description": "Specify a stratagem which gets unlocked when this objective is active." },
+    "disable_stratagem_when_used" : { "type": "byte", "description": "[bool]If set, will disable the stratagem once it has been used fully." },
     "unique_stratagem" : { "type": "byte", "description": "[bool]Makes the given stratagem be unique - e.g. only give the player this stratagem if they don't already have it." },
+    "stratagem_glow_after_first_use" : { "type": "byte", "description": "[bool]If set, the stratagem will glow anytime it is available, otherwise that will be disabled after the first use." },
+    "control_stratagem_uses" : { "type": "byte", "description": "[bool]If set, this objective will control the stratagem uses for the stratagem." },
     "area_of_interest_min_radius" : { "type": "float", "default": 15, "description": "If the area of interest is shown, specify the minimum radius of the circle to be shown using a larger radius means that the players will potentially have to search a wider area." },
     "hidden_search_radius" : { "type": "float", "default": 150, "description": "Radius the objective is hidden under on the map if hidden" },
     "hide_on_insertion_map" : { "type": "byte", "description": "[bool]Should the objective icon be hidden on the insertion (drop selection) map?" },
@@ -19,12 +22,14 @@
     "on_complete_npc_dialog_event_trigger" : { "type": "uint", "description": "[string]When objective is completed, trigger this npc dialog event (mostly for tutorial)" },
     "sequential" : { "type": "byte", "description": "[bool]If true then the objective is only active if the previous objectives of the same type have been completed (or failed?)." },
     "start_inactive" : { "type": "byte", "description": "[bool]If true then the objective will start inactive." },
-    "hide_from_map_if_inactive" : { "type": "byte", "description": "[bool]If true then this objective is hidden from map when inactive" },
+    "hide_from_ui_if_inactive" : { "type": "byte", "description": "[bool]If true then this objective is hidden from the UI when inactive" },
     "base_counts_per_difficulty" : { "type": "array", "subtype": "float", "description": "For objectives such as kill/horde, this is the base counts for each difficulty to use" },
     "tiers" : { "type": "uint", "description": "For tiered objectives, where you can be rewarded for partial progress if reaching certain milestones" },
     "info_range" : { "type": "float", "default": -1, "description": "If the player is within this range, the objective info will show up on the HUD. If set to -1, will default to stamp range." },
     "always_show_info_on_hud_when_in_range" : { "type": "byte", "description": "[bool]Default behavior is that info is only shown for the closest objective that is in range - This will force it to always show info for this objective, if it is in range." },
     "allow_stratagem_use_after_completion" : { "type": "byte", "description": "[bool]If true then stratagems used in this objective will be available after completing the objective." },
     "can_be_completed_partially" : { "type": "byte", "description": "[bool]If true then the objective can reward partial rewards based on current_step_count/total_step_count." },
-    "count_linked_steps" : { "type": "byte", "description": "[bool]If set, the current/total steps of linked units will be taken into account for the progression objective." }
+    "count_linked_steps" : { "type": "byte", "description": "[bool]If set, the current/total steps of linked units will be taken into account for the progression objective." },
+    "reward_importance" : { "type": "ObjectiveImportanceType", "default": "ObjectiveImportanceType_Count" },
+    "show_mission_completed_callout" : { "type": "byte" }
 }}

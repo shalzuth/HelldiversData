@@ -1,42 +1,76 @@
 {
-  "3358853937828503136": {
-    "min_charge_time": 0.449999988,
-    "full_charge_time": 0.5,
-    "overcharge_time": 3,
+  "10871298989420119782": {
+    "charge_state_settings": [
+      {
+        "charge_time": 1,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 1.10000002,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 1.20000005,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      }
+    ],
     "projectile_multipliers": {
       "speed_multiplier_min": 0.699999988,
-      "speed_multiplier_overcharge": 1,
+      "speed_multiplier_overcharge": 1.39999998,
       "damage_multiplier_min": 1,
-      "damage_multiplier_overcharge": 1.5,
+      "damage_multiplier_overcharge": 1,
       "penetration_multiplier_min": 1,
-      "penetration_multiplier_overcharge": 1.5,
-      "distance_multiplier_min": 0.699999988,
-      "distance_multiplier_overcharge": 1.39999998,
-      "extra_arc_splits_min": 0.699999988,
-      "extra_arc_splits_overcharge": 2.29999995,
-      "extra_arc_chains_min": 0.800000012,
-      "extra_arc_chains_overcharge": 1.5
+      "penetration_multiplier_overcharge": 1,
+      "distance_multiplier_min": 1,
+      "distance_multiplier_overcharge": 1,
+      "extra_arc_splits_min": 0,
+      "extra_arc_splits_overcharge": 0,
+      "extra_arc_chains_min": 0,
+      "extra_arc_chains_overcharge": 0
     },
-    "charge_start_sound_id": 1364443767,
-    "charge_stop_sound_id": 3225180793,
-    "ready_to_fire_sound_id": 217870560,
-    "danger_overcharge_sound_id": 3972604218,
-    "charge_mesh": 4221645464,
-    "charge_material": 4075618851,
+    "charge_start_sound_id": 1948764546,
+    "charge_stop_sound_id": 3315766729,
+    "ready_to_fire_sound_id": 0,
+    "danger_overcharge_sound_id": 0,
+    "charge_mesh": 0,
+    "charge_material": 3939295745,
     "charge_variable": 3379599616,
-    "charge_up_muzzle_flash": 3468653937030545541,
-    "charge_up_muzzle_flash_loop": 1103807549605234752,
-    "charge_anim_id": 0,
-    "charge_end_anim_id": 0,
-    "charge_rate_anim_id": 0,
-    "spin_speed_anim_id": 0,
+    "charge_up_muzzle_flash": 14140686769813675838,
+    "charge_up_muzzle_flash_loop": 15394504651290531889,
+    "charge_anim_id": 450287375,
+    "charge_end_anim_id": 698547094,
+    "charge_rate_anim_id": 1743663529,
+    "spin_speed_anim_id": 1100284942,
     "auto_fire_in_safety": 0,
-    "dry_fire_audio_event": 1837771762
+    "dry_fire_audio_event": 0
   },
   "17664382055250362923": {
-    "min_charge_time": 1.5,
-    "full_charge_time": 3,
-    "overcharge_time": 4.5,
+    "charge_state_settings": [
+      {
+        "charge_time": 1.5,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 3,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 4.5,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      }
+    ],
     "projectile_multipliers": {
       "speed_multiplier_min": 0.699999988,
       "speed_multiplier_overcharge": 1.39999998,
@@ -67,10 +101,129 @@
     "auto_fire_in_safety": 0,
     "dry_fire_audio_event": 0
   },
+  "3358853937828503136": {
+    "charge_state_settings": [
+      {
+        "charge_time": 0.449999988,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 0.5,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 3,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      }
+    ],
+    "projectile_multipliers": {
+      "speed_multiplier_min": 0.699999988,
+      "speed_multiplier_overcharge": 1,
+      "damage_multiplier_min": 1,
+      "damage_multiplier_overcharge": 1.5,
+      "penetration_multiplier_min": 1,
+      "penetration_multiplier_overcharge": 1.5,
+      "distance_multiplier_min": 0.699999988,
+      "distance_multiplier_overcharge": 1.39999998,
+      "extra_arc_splits_min": 0.699999988,
+      "extra_arc_splits_overcharge": 2.29999995,
+      "extra_arc_chains_min": 0.800000012,
+      "extra_arc_chains_overcharge": 1.5
+    },
+    "charge_start_sound_id": 1364443767,
+    "charge_stop_sound_id": 3225180793,
+    "ready_to_fire_sound_id": 217870560,
+    "danger_overcharge_sound_id": 3972604218,
+    "charge_mesh": 4221645464,
+    "charge_material": 4075618851,
+    "charge_variable": 3379599616,
+    "charge_up_muzzle_flash": 3468653937030545541,
+    "charge_up_muzzle_flash_loop": 1103807549605234752,
+    "charge_anim_id": 0,
+    "charge_end_anim_id": 0,
+    "charge_rate_anim_id": 0,
+    "spin_speed_anim_id": 0,
+    "auto_fire_in_safety": 0,
+    "dry_fire_audio_event": 1837771762
+  },
+  "18102809172282470538": {
+    "charge_state_settings": [
+      {
+        "charge_time": 1,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 1,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 1,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      }
+    ],
+    "projectile_multipliers": {
+      "speed_multiplier_min": 0.699999988,
+      "speed_multiplier_overcharge": 1,
+      "damage_multiplier_min": 0.300000012,
+      "damage_multiplier_overcharge": 3,
+      "penetration_multiplier_min": 0.300000012,
+      "penetration_multiplier_overcharge": 3,
+      "distance_multiplier_min": 0.699999988,
+      "distance_multiplier_overcharge": 1.39999998,
+      "extra_arc_splits_min": 0.699999988,
+      "extra_arc_splits_overcharge": 2.29999995,
+      "extra_arc_chains_min": 0.800000012,
+      "extra_arc_chains_overcharge": 1.5
+    },
+    "charge_start_sound_id": 2924963139,
+    "charge_stop_sound_id": 2980208916,
+    "ready_to_fire_sound_id": 2109193558,
+    "danger_overcharge_sound_id": 648648688,
+    "charge_mesh": 0,
+    "charge_material": 0,
+    "charge_variable": 0,
+    "charge_up_muzzle_flash": 3468653937030545541,
+    "charge_up_muzzle_flash_loop": 1103807549605234752,
+    "charge_anim_id": 0,
+    "charge_end_anim_id": 0,
+    "charge_rate_anim_id": 0,
+    "spin_speed_anim_id": 0,
+    "auto_fire_in_safety": 0,
+    "dry_fire_audio_event": 1837771762
+  },
   "2616888780303759269": {
-    "min_charge_time": 1,
-    "full_charge_time": 2,
-    "overcharge_time": 3,
+    "charge_state_settings": [
+      {
+        "charge_time": 1,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 2,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      },
+      {
+        "charge_time": 3,
+        "projectile_type": "ProjectileType_None",
+        "muzzle_flash_effect": 0,
+        "fire_single_audio": 0
+      }
+    ],
     "projectile_multipliers": {
       "speed_multiplier_min": 0.699999988,
       "speed_multiplier_overcharge": 1,
@@ -99,40 +252,6 @@
     "charge_rate_anim_id": 0,
     "spin_speed_anim_id": 0,
     "auto_fire_in_safety": 1,
-    "dry_fire_audio_event": 0
-  },
-  "10871298989420119782": {
-    "min_charge_time": 1,
-    "full_charge_time": 1.10000002,
-    "overcharge_time": 1.20000005,
-    "projectile_multipliers": {
-      "speed_multiplier_min": 0.699999988,
-      "speed_multiplier_overcharge": 1.39999998,
-      "damage_multiplier_min": 1,
-      "damage_multiplier_overcharge": 1,
-      "penetration_multiplier_min": 1,
-      "penetration_multiplier_overcharge": 1,
-      "distance_multiplier_min": 1,
-      "distance_multiplier_overcharge": 1,
-      "extra_arc_splits_min": 0,
-      "extra_arc_splits_overcharge": 0,
-      "extra_arc_chains_min": 0,
-      "extra_arc_chains_overcharge": 0
-    },
-    "charge_start_sound_id": 1948764546,
-    "charge_stop_sound_id": 3315766729,
-    "ready_to_fire_sound_id": 0,
-    "danger_overcharge_sound_id": 0,
-    "charge_mesh": 0,
-    "charge_material": 3939295745,
-    "charge_variable": 3379599616,
-    "charge_up_muzzle_flash": 14140686769813675838,
-    "charge_up_muzzle_flash_loop": 15394504651290531889,
-    "charge_anim_id": 450287375,
-    "charge_end_anim_id": 698547094,
-    "charge_rate_anim_id": 1743663529,
-    "spin_speed_anim_id": 1100284942,
-    "auto_fire_in_safety": 0,
     "dry_fire_audio_event": 0
   }
 }

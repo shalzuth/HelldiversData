@@ -11,5 +11,7 @@
     "spawner_spawn_count_minimum_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the spawner spawn count minimum modified?" },
     "spawner_spawn_cooldown_rate_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the spawner spawn cooldown modified?" },
     "guard_force_member_count_max_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the guard force member count max modified?" },
-    "global_spawner_cooldown_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "Indicates how the global spawner cooldown will be modified by progression/player_count." }
+    "global_spawner_cooldown_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "Indicates how the global spawner cooldown will be modified by progression/player_count." },
+    "travelers_waves_cooldown_multiplier" : { "type": "MissionDifficultyModifierSettings", "description": "Indicates how traveler waves cooldown will be modified by progression/player_count." },
+    "travelers_max_unit_count_multiplier" : { "type": "MissionDifficultyModifierSettings", "description": "Indicates how the maximum amount of traveler units will be modified by progression/player_count. Rounded to closest integer" }
 }}

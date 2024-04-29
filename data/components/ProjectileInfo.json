@@ -57,5 +57,7 @@
     "hit_only_ground" : { "type": "ushort" },
     "can_pass_through_shield" : { "type": "ushort" },
     "allow_long_distance_travel" : { "type": "ushort" },
-    "look_for_audio_source_hijack" : { "type": "ushort" }
+    "look_for_audio_source_hijack" : { "type": "ushort" },
+    "raycast_template" : { "type": "RaycastTemplate", "default": "RaycastTemplate_Damage" },
+    "proximity_explosion_collision_filter" : { "type": "uint", "default": 960337176 }
 }}

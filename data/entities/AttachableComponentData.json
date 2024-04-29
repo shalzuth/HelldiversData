@@ -436,6 +436,29 @@
     "ignore_weapon_damage_for_parent": 0,
     "inherit_angular_momentum": 0
   },
+  "16965724150372546684": {
+    "dynamic_actor": 0,
+    "attached_dynamic_actor": 0,
+    "use_all_dynamic_actors": 0,
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "offset_node": 0,
+    "attach_anim": 0,
+    "parent_attach_anim": 0,
+    "detach_anim": 0,
+    "parent_detach_anim": 0,
+    "affect_scale": 0,
+    "ignore_weapon_damage_for_parent": 0,
+    "inherit_angular_momentum": 0
+  },
   "8864800879179811976": {
     "dynamic_actor": 2748617169,
     "attached_dynamic_actor": 0,
@@ -528,29 +551,6 @@
     "ignore_weapon_damage_for_parent": 0,
     "inherit_angular_momentum": 0
   },
-  "16634382492500136054": {
-    "dynamic_actor": 2748617169,
-    "attached_dynamic_actor": 0,
-    "use_all_dynamic_actors": 0,
-    "offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "offset_node": 0,
-    "attach_anim": 0,
-    "parent_attach_anim": 0,
-    "detach_anim": 0,
-    "parent_detach_anim": 0,
-    "affect_scale": 0,
-    "ignore_weapon_damage_for_parent": 0,
-    "inherit_angular_momentum": 1
-  },
   "7196537832909981064": {
     "dynamic_actor": 0,
     "attached_dynamic_actor": 0,
@@ -620,6 +620,29 @@
     "ignore_weapon_damage_for_parent": 0,
     "inherit_angular_momentum": 0
   },
+  "3199457897835937068": {
+    "dynamic_actor": 2748617169,
+    "attached_dynamic_actor": 0,
+    "use_all_dynamic_actors": 0,
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "offset_node": 0,
+    "attach_anim": 0,
+    "parent_attach_anim": 0,
+    "detach_anim": 0,
+    "parent_detach_anim": 0,
+    "affect_scale": 0,
+    "ignore_weapon_damage_for_parent": 0,
+    "inherit_angular_momentum": 1
+  },
   "17756861745706792858": {
     "dynamic_actor": 0,
     "attached_dynamic_actor": 0,
@@ -666,14 +689,14 @@
     "ignore_weapon_damage_for_parent": 0,
     "inherit_angular_momentum": 0
   },
-  "3199457897835937068": {
-    "dynamic_actor": 2748617169,
+  "8783342891467425251": {
+    "dynamic_actor": 0,
     "attached_dynamic_actor": 0,
-    "use_all_dynamic_actors": 0,
+    "use_all_dynamic_actors": 1,
     "offset": {
       "x": 0,
-      "y": 0,
-      "z": 0
+      "y": -0.25,
+      "z": 0.5
     },
     "rotation_offset": {
       "x": 0,
@@ -682,12 +705,12 @@
     },
     "offset_node": 0,
     "attach_anim": 0,
-    "parent_attach_anim": 0,
-    "detach_anim": 0,
-    "parent_detach_anim": 0,
+    "parent_attach_anim": 1552768317,
+    "detach_anim": 2718563619,
+    "parent_detach_anim": 350688553,
     "affect_scale": 0,
     "ignore_weapon_damage_for_parent": 0,
-    "inherit_angular_momentum": 1
+    "inherit_angular_momentum": 0
   },
   "11493422068836852751": {
     "dynamic_actor": 2748617169,
@@ -711,29 +734,6 @@
     "affect_scale": 0,
     "ignore_weapon_damage_for_parent": 0,
     "inherit_angular_momentum": 1
-  },
-  "8783342891467425251": {
-    "dynamic_actor": 0,
-    "attached_dynamic_actor": 0,
-    "use_all_dynamic_actors": 1,
-    "offset": {
-      "x": 0,
-      "y": -0.25,
-      "z": 0.5
-    },
-    "rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "offset_node": 0,
-    "attach_anim": 0,
-    "parent_attach_anim": 1552768317,
-    "detach_anim": 2718563619,
-    "parent_detach_anim": 350688553,
-    "affect_scale": 0,
-    "ignore_weapon_damage_for_parent": 0,
-    "inherit_angular_momentum": 0
   },
   "6113742425058627513": {
     "dynamic_actor": 0,
@@ -1978,29 +1978,6 @@
     "inherit_angular_momentum": 1
   },
   "3973443609256024694": {
-    "dynamic_actor": 2748617169,
-    "attached_dynamic_actor": 0,
-    "use_all_dynamic_actors": 0,
-    "offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "rotation_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "offset_node": 0,
-    "attach_anim": 0,
-    "parent_attach_anim": 0,
-    "detach_anim": 0,
-    "parent_detach_anim": 0,
-    "affect_scale": 0,
-    "ignore_weapon_damage_for_parent": 0,
-    "inherit_angular_momentum": 1
-  },
-  "9526594500243002157": {
     "dynamic_actor": 2748617169,
     "attached_dynamic_actor": 0,
     "use_all_dynamic_actors": 0,
@@ -5106,6 +5083,29 @@
     "inherit_angular_momentum": 0
   },
   "316723890334202692": {
+    "dynamic_actor": 0,
+    "attached_dynamic_actor": 0,
+    "use_all_dynamic_actors": 0,
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "offset_node": 0,
+    "attach_anim": 0,
+    "parent_attach_anim": 0,
+    "detach_anim": 0,
+    "parent_detach_anim": 0,
+    "affect_scale": 0,
+    "ignore_weapon_damage_for_parent": 0,
+    "inherit_angular_momentum": 0
+  },
+  "5096354858712799022": {
     "dynamic_actor": 0,
     "attached_dynamic_actor": 0,
     "use_all_dynamic_actors": 0,

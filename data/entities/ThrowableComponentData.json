@@ -1,39 +1,4 @@
 {
-  "6766936627846269706": {
-    "dynamic_actor": 975499119,
-    "delayed_dynamic_actor": 0,
-    "delayed_dynamic_actor_duration": 0,
-    "throw_distance_min": 0.100000001,
-    "throw_distance_max": 20,
-    "use_angular_velocity": 1,
-    "custom_angular_velocity_min": {
-      "x": -4,
-      "y": 0,
-      "z": -2
-    },
-    "custom_angular_velocity_max": {
-      "x": -5,
-      "y": 0,
-      "z": -5
-    },
-    "vo_release": 2853716018,
-    "animation_event_arm": 802787461,
-    "animation_event": 780071362,
-    "animation_event_short": 4192910305,
-    "thrower_velocity_addition": 0.400000006,
-    "thrower_velocity_subtraction": 0.200000003,
-    "thrower_velocity_deadzone": 1,
-    "sticky": 0,
-    "sticky_delay": 0,
-    "is_impact_trigger": 0,
-    "ignore_thrower_impact_trigger": 0,
-    "drop_on_cancelled": 1,
-    "enable_interaction_delay": 0.5,
-    "start_amount": 3,
-    "max_amount": 4,
-    "refill_amount": 2,
-    "on_thrown_audio_event": 0
-  },
   "17188493825552378619": {
     "dynamic_actor": 2748617169,
     "delayed_dynamic_actor": 0,
@@ -69,7 +34,7 @@
     "refill_amount": 2,
     "on_thrown_audio_event": 0
   },
-  "10256545209826294564": {
+  "1653832383613497969": {
     "dynamic_actor": 975499119,
     "delayed_dynamic_actor": 0,
     "delayed_dynamic_actor_duration": 0,
@@ -77,16 +42,16 @@
     "throw_distance_max": 20,
     "use_angular_velocity": 1,
     "custom_angular_velocity_min": {
-      "x": -4,
+      "x": 0,
       "y": 0,
-      "z": -2
+      "z": 0
     },
     "custom_angular_velocity_max": {
-      "x": -5,
+      "x": 0,
       "y": 0,
-      "z": -5
+      "z": 0
     },
-    "vo_release": 2853716018,
+    "vo_release": 0,
     "animation_event_arm": 802787461,
     "animation_event": 780071362,
     "animation_event_short": 4192910305,
@@ -96,6 +61,41 @@
     "sticky": 0,
     "sticky_delay": 0,
     "is_impact_trigger": 0,
+    "ignore_thrower_impact_trigger": 0,
+    "drop_on_cancelled": 1,
+    "enable_interaction_delay": -1,
+    "start_amount": 4,
+    "max_amount": 4,
+    "refill_amount": 2,
+    "on_thrown_audio_event": 1413803333
+  },
+  "16965724150372546684": {
+    "dynamic_actor": 975499119,
+    "delayed_dynamic_actor": 0,
+    "delayed_dynamic_actor_duration": 0,
+    "throw_distance_min": 0.100000001,
+    "throw_distance_max": 20,
+    "use_angular_velocity": 1,
+    "custom_angular_velocity_min": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "custom_angular_velocity_max": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "vo_release": 2853716018,
+    "animation_event_arm": 802787461,
+    "animation_event": 780071362,
+    "animation_event_short": 4192910305,
+    "thrower_velocity_addition": 0.400000006,
+    "thrower_velocity_subtraction": 0.200000003,
+    "thrower_velocity_deadzone": 1,
+    "sticky": 1,
+    "sticky_delay": 0,
+    "is_impact_trigger": 1,
     "ignore_thrower_impact_trigger": 0,
     "drop_on_cancelled": 1,
     "enable_interaction_delay": 0.5,
@@ -139,7 +139,42 @@
     "refill_amount": 2,
     "on_thrown_audio_event": 0
   },
-  "14492505679777682035": {
+  "6918199871803715620": {
+    "dynamic_actor": 975499119,
+    "delayed_dynamic_actor": 0,
+    "delayed_dynamic_actor_duration": 0,
+    "throw_distance_min": 0.100000001,
+    "throw_distance_max": 20,
+    "use_angular_velocity": 1,
+    "custom_angular_velocity_min": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "custom_angular_velocity_max": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "vo_release": 2853716018,
+    "animation_event_arm": 802787461,
+    "animation_event": 780071362,
+    "animation_event_short": 4192910305,
+    "thrower_velocity_addition": 0.400000006,
+    "thrower_velocity_subtraction": 0.200000003,
+    "thrower_velocity_deadzone": 1,
+    "sticky": 0,
+    "sticky_delay": 0,
+    "is_impact_trigger": 0,
+    "ignore_thrower_impact_trigger": 0,
+    "drop_on_cancelled": 1,
+    "enable_interaction_delay": 0.5,
+    "start_amount": 4,
+    "max_amount": 4,
+    "refill_amount": 2,
+    "on_thrown_audio_event": 0
+  },
+  "6766936627846269706": {
     "dynamic_actor": 975499119,
     "delayed_dynamic_actor": 0,
     "delayed_dynamic_actor_duration": 0,
@@ -209,12 +244,47 @@
     "refill_amount": 2,
     "on_thrown_audio_event": 578339177
   },
-  "14770371728907552577": {
-    "dynamic_actor": 1099407110,
-    "delayed_dynamic_actor": 1004477750,
-    "delayed_dynamic_actor_duration": 0.100000001,
-    "throw_distance_min": 4,
+  "36176771630602099": {
+    "dynamic_actor": 975499119,
+    "delayed_dynamic_actor": 0,
+    "delayed_dynamic_actor_duration": 0,
+    "throw_distance_min": 0.100000001,
     "throw_distance_max": 20,
+    "use_angular_velocity": 1,
+    "custom_angular_velocity_min": {
+      "x": -4,
+      "y": 0,
+      "z": -2
+    },
+    "custom_angular_velocity_max": {
+      "x": -5,
+      "y": 0,
+      "z": -5
+    },
+    "vo_release": 3742874205,
+    "animation_event_arm": 802787461,
+    "animation_event": 780071362,
+    "animation_event_short": 4192910305,
+    "thrower_velocity_addition": 0.400000006,
+    "thrower_velocity_subtraction": 0.200000003,
+    "thrower_velocity_deadzone": 1,
+    "sticky": 0,
+    "sticky_delay": 0,
+    "is_impact_trigger": 0,
+    "ignore_thrower_impact_trigger": 0,
+    "drop_on_cancelled": 1,
+    "enable_interaction_delay": 0.5,
+    "start_amount": 3,
+    "max_amount": 4,
+    "refill_amount": 2,
+    "on_thrown_audio_event": 0
+  },
+  "226457403917573050": {
+    "dynamic_actor": 2748617169,
+    "delayed_dynamic_actor": 0,
+    "delayed_dynamic_actor_duration": 0,
+    "throw_distance_min": 0,
+    "throw_distance_max": 1,
     "use_angular_velocity": 1,
     "custom_angular_velocity_min": {
       "x": 0,
@@ -226,20 +296,55 @@
       "y": 0,
       "z": 0
     },
-    "vo_release": 3951650251,
-    "animation_event_arm": 0,
+    "vo_release": 2853716018,
+    "animation_event_arm": 802787461,
+    "animation_event": 780071362,
+    "animation_event_short": 4192910305,
+    "thrower_velocity_addition": 0.400000006,
+    "thrower_velocity_subtraction": 0.200000003,
+    "thrower_velocity_deadzone": 1,
+    "sticky": 0,
+    "sticky_delay": 0,
+    "is_impact_trigger": 0,
+    "ignore_thrower_impact_trigger": 0,
+    "drop_on_cancelled": 1,
+    "enable_interaction_delay": -1,
+    "start_amount": 4,
+    "max_amount": 4,
+    "refill_amount": 2,
+    "on_thrown_audio_event": 0
+  },
+  "14249494547947571097": {
+    "dynamic_actor": 975499119,
+    "delayed_dynamic_actor": 0,
+    "delayed_dynamic_actor_duration": 0,
+    "throw_distance_min": 0.100000001,
+    "throw_distance_max": 20,
+    "use_angular_velocity": 1,
+    "custom_angular_velocity_min": {
+      "x": -12,
+      "y": 0,
+      "z": 0
+    },
+    "custom_angular_velocity_max": {
+      "x": -8,
+      "y": 0,
+      "z": 0
+    },
+    "vo_release": 1961573452,
+    "animation_event_arm": 802787461,
     "animation_event": 780071362,
     "animation_event_short": 4192910305,
     "thrower_velocity_addition": 0.400000006,
     "thrower_velocity_subtraction": 0.200000003,
     "thrower_velocity_deadzone": 1,
     "sticky": 1,
-    "sticky_delay": 0,
-    "is_impact_trigger": 1,
-    "ignore_thrower_impact_trigger": 1,
+    "sticky_delay": 0.25,
+    "is_impact_trigger": 0,
+    "ignore_thrower_impact_trigger": 0,
     "drop_on_cancelled": 1,
     "enable_interaction_delay": 0.5,
-    "start_amount": 4,
+    "start_amount": 3,
     "max_amount": 4,
     "refill_amount": 2,
     "on_thrown_audio_event": 0
@@ -279,42 +384,7 @@
     "refill_amount": 2,
     "on_thrown_audio_event": 0
   },
-  "8540606443036588471": {
-    "dynamic_actor": 975499119,
-    "delayed_dynamic_actor": 0,
-    "delayed_dynamic_actor_duration": 0,
-    "throw_distance_min": 0.100000001,
-    "throw_distance_max": 20,
-    "use_angular_velocity": 1,
-    "custom_angular_velocity_min": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "custom_angular_velocity_max": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "vo_release": 2853716018,
-    "animation_event_arm": 802787461,
-    "animation_event": 780071362,
-    "animation_event_short": 4192910305,
-    "thrower_velocity_addition": 0.400000006,
-    "thrower_velocity_subtraction": 0.200000003,
-    "thrower_velocity_deadzone": 1,
-    "sticky": 1,
-    "sticky_delay": 0,
-    "is_impact_trigger": 1,
-    "ignore_thrower_impact_trigger": 0,
-    "drop_on_cancelled": 1,
-    "enable_interaction_delay": 0.5,
-    "start_amount": 3,
-    "max_amount": 4,
-    "refill_amount": 2,
-    "on_thrown_audio_event": 0
-  },
-  "36176771630602099": {
+  "7715225218085078398": {
     "dynamic_actor": 975499119,
     "delayed_dynamic_actor": 0,
     "delayed_dynamic_actor_duration": 0,
@@ -331,7 +401,7 @@
       "y": 0,
       "z": -5
     },
-    "vo_release": 3742874205,
+    "vo_release": 2853716018,
     "animation_event_arm": 802787461,
     "animation_event": 780071362,
     "animation_event_short": 4192910305,
@@ -384,37 +454,37 @@
     "refill_amount": 2,
     "on_thrown_audio_event": 0
   },
-  "14249494547947571097": {
-    "dynamic_actor": 975499119,
-    "delayed_dynamic_actor": 0,
-    "delayed_dynamic_actor_duration": 0,
-    "throw_distance_min": 0.100000001,
+  "14770371728907552577": {
+    "dynamic_actor": 1099407110,
+    "delayed_dynamic_actor": 1004477750,
+    "delayed_dynamic_actor_duration": 0.100000001,
+    "throw_distance_min": 4,
     "throw_distance_max": 20,
     "use_angular_velocity": 1,
     "custom_angular_velocity_min": {
-      "x": -12,
+      "x": 0,
       "y": 0,
       "z": 0
     },
     "custom_angular_velocity_max": {
-      "x": -8,
+      "x": 0,
       "y": 0,
       "z": 0
     },
-    "vo_release": 1961573452,
-    "animation_event_arm": 802787461,
+    "vo_release": 3951650251,
+    "animation_event_arm": 0,
     "animation_event": 780071362,
     "animation_event_short": 4192910305,
     "thrower_velocity_addition": 0.400000006,
     "thrower_velocity_subtraction": 0.200000003,
     "thrower_velocity_deadzone": 1,
     "sticky": 1,
-    "sticky_delay": 0.25,
-    "is_impact_trigger": 0,
-    "ignore_thrower_impact_trigger": 0,
+    "sticky_delay": 0,
+    "is_impact_trigger": 1,
+    "ignore_thrower_impact_trigger": 1,
     "drop_on_cancelled": 1,
     "enable_interaction_delay": 0.5,
-    "start_amount": 3,
+    "start_amount": 4,
     "max_amount": 4,
     "refill_amount": 2,
     "on_thrown_audio_event": 0
@@ -489,112 +559,7 @@
     "refill_amount": 2,
     "on_thrown_audio_event": 0
   },
-  "6918199871803715620": {
-    "dynamic_actor": 975499119,
-    "delayed_dynamic_actor": 0,
-    "delayed_dynamic_actor_duration": 0,
-    "throw_distance_min": 0.100000001,
-    "throw_distance_max": 20,
-    "use_angular_velocity": 1,
-    "custom_angular_velocity_min": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "custom_angular_velocity_max": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "vo_release": 2853716018,
-    "animation_event_arm": 802787461,
-    "animation_event": 780071362,
-    "animation_event_short": 4192910305,
-    "thrower_velocity_addition": 0.400000006,
-    "thrower_velocity_subtraction": 0.200000003,
-    "thrower_velocity_deadzone": 1,
-    "sticky": 0,
-    "sticky_delay": 0,
-    "is_impact_trigger": 0,
-    "ignore_thrower_impact_trigger": 0,
-    "drop_on_cancelled": 1,
-    "enable_interaction_delay": 0.5,
-    "start_amount": 4,
-    "max_amount": 4,
-    "refill_amount": 2,
-    "on_thrown_audio_event": 0
-  },
-  "1653832383613497969": {
-    "dynamic_actor": 975499119,
-    "delayed_dynamic_actor": 0,
-    "delayed_dynamic_actor_duration": 0,
-    "throw_distance_min": 0.100000001,
-    "throw_distance_max": 20,
-    "use_angular_velocity": 1,
-    "custom_angular_velocity_min": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "custom_angular_velocity_max": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "vo_release": 0,
-    "animation_event_arm": 802787461,
-    "animation_event": 780071362,
-    "animation_event_short": 4192910305,
-    "thrower_velocity_addition": 0.400000006,
-    "thrower_velocity_subtraction": 0.200000003,
-    "thrower_velocity_deadzone": 1,
-    "sticky": 0,
-    "sticky_delay": 0,
-    "is_impact_trigger": 0,
-    "ignore_thrower_impact_trigger": 0,
-    "drop_on_cancelled": 1,
-    "enable_interaction_delay": -1,
-    "start_amount": 4,
-    "max_amount": 4,
-    "refill_amount": 2,
-    "on_thrown_audio_event": 1413803333
-  },
-  "226457403917573050": {
-    "dynamic_actor": 2748617169,
-    "delayed_dynamic_actor": 0,
-    "delayed_dynamic_actor_duration": 0,
-    "throw_distance_min": 0,
-    "throw_distance_max": 1,
-    "use_angular_velocity": 1,
-    "custom_angular_velocity_min": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "custom_angular_velocity_max": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "vo_release": 2853716018,
-    "animation_event_arm": 802787461,
-    "animation_event": 780071362,
-    "animation_event_short": 4192910305,
-    "thrower_velocity_addition": 0.400000006,
-    "thrower_velocity_subtraction": 0.200000003,
-    "thrower_velocity_deadzone": 1,
-    "sticky": 0,
-    "sticky_delay": 0,
-    "is_impact_trigger": 0,
-    "ignore_thrower_impact_trigger": 0,
-    "drop_on_cancelled": 1,
-    "enable_interaction_delay": -1,
-    "start_amount": 4,
-    "max_amount": 4,
-    "refill_amount": 2,
-    "on_thrown_audio_event": 0
-  },
-  "7715225218085078398": {
+  "14492505679777682035": {
     "dynamic_actor": 975499119,
     "delayed_dynamic_actor": 0,
     "delayed_dynamic_actor_duration": 0,
@@ -621,6 +586,76 @@
     "sticky": 0,
     "sticky_delay": 0,
     "is_impact_trigger": 0,
+    "ignore_thrower_impact_trigger": 0,
+    "drop_on_cancelled": 1,
+    "enable_interaction_delay": 0.5,
+    "start_amount": 3,
+    "max_amount": 4,
+    "refill_amount": 2,
+    "on_thrown_audio_event": 0
+  },
+  "10256545209826294564": {
+    "dynamic_actor": 975499119,
+    "delayed_dynamic_actor": 0,
+    "delayed_dynamic_actor_duration": 0,
+    "throw_distance_min": 0.100000001,
+    "throw_distance_max": 20,
+    "use_angular_velocity": 1,
+    "custom_angular_velocity_min": {
+      "x": -4,
+      "y": 0,
+      "z": -2
+    },
+    "custom_angular_velocity_max": {
+      "x": -5,
+      "y": 0,
+      "z": -5
+    },
+    "vo_release": 2853716018,
+    "animation_event_arm": 802787461,
+    "animation_event": 780071362,
+    "animation_event_short": 4192910305,
+    "thrower_velocity_addition": 0.400000006,
+    "thrower_velocity_subtraction": 0.200000003,
+    "thrower_velocity_deadzone": 1,
+    "sticky": 0,
+    "sticky_delay": 0,
+    "is_impact_trigger": 0,
+    "ignore_thrower_impact_trigger": 0,
+    "drop_on_cancelled": 1,
+    "enable_interaction_delay": 0.5,
+    "start_amount": 3,
+    "max_amount": 4,
+    "refill_amount": 2,
+    "on_thrown_audio_event": 0
+  },
+  "8540606443036588471": {
+    "dynamic_actor": 975499119,
+    "delayed_dynamic_actor": 0,
+    "delayed_dynamic_actor_duration": 0,
+    "throw_distance_min": 0.100000001,
+    "throw_distance_max": 20,
+    "use_angular_velocity": 1,
+    "custom_angular_velocity_min": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "custom_angular_velocity_max": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "vo_release": 2853716018,
+    "animation_event_arm": 802787461,
+    "animation_event": 780071362,
+    "animation_event_short": 4192910305,
+    "thrower_velocity_addition": 0.400000006,
+    "thrower_velocity_subtraction": 0.200000003,
+    "thrower_velocity_deadzone": 1,
+    "sticky": 1,
+    "sticky_delay": 0,
+    "is_impact_trigger": 1,
     "ignore_thrower_impact_trigger": 0,
     "drop_on_cancelled": 1,
     "enable_interaction_delay": 0.5,

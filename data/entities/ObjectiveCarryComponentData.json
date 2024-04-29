@@ -690,8 +690,8 @@
     "carry_entity_type": "ObjectiveCarryEntityType_None"
   },
   "11432560202897483622": {
-    "carrying_event": 252763994,
-    "dropped_event": 935333705,
+    "carrying_event": 287944816,
+    "dropped_event": 1696281048,
     "lost_event": 469283641,
     "complete_event": 3042882781,
     "delivery_unit_type": 0,
@@ -709,7 +709,7 @@
     "fail_on_lost_time": 5,
     "position_marker_unit_type": 0,
     "map_icon": 0,
-    "should_show_on_minimap_when_attached": 0,
+    "should_show_on_minimap_when_attached": 1,
     "carry_complete_type": "ObjectiveCarryableCompleteType_ShuttleExtraction",
     "deploy_area_tag": 0,
     "deploy_helldiver_ability": "AbilityId_Invalid",

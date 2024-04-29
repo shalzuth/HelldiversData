@@ -28603,12 +28603,12 @@
                 "y": 50
               },
               "seconds_for_one_orbit": {
-                "x": 10000,
-                "y": 10000
+                "x": 7200,
+                "y": 14400
               },
               "seconds_for_one_axis_rotation": {
-                "x": 1440,
-                "y": 10000
+                "x": 14400,
+                "y": 86400
               },
               "seconds_for_one_ring_rotation": {
                 "x": 1440,
@@ -28670,8 +28670,8 @@
                 "y": 0
               },
               "seconds_for_one_orbit": {
-                "x": 100000,
-                "y": 100000
+                "x": 1000000,
+                "y": 1000000
               },
               "seconds_for_one_axis_rotation": {
                 "x": 1440,
@@ -28737,8 +28737,8 @@
                 "y": 0
               },
               "seconds_for_one_orbit": {
-                "x": 100000,
-                "y": 100000
+                "x": 1000000,
+                "y": 1000000
               },
               "seconds_for_one_axis_rotation": {
                 "x": 1440,

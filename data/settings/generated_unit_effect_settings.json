@@ -305,6 +305,10 @@
             {
               "sound_id": 0,
               "node_id": 0
+            },
+            {
+              "sound_id": 3624295292,
+              "node_id": 4005868427
             }
           ],
           "node_scales": [],
@@ -8451,6 +8455,21 @@
             {
               "sound_id": 1005483420,
               "node_id": 3171671320
+            }
+          ],
+          "node_scales": [],
+          "despawn_sounds": [],
+          "destroy_sounds": [],
+          "randomized_effect": []
+        },
+        {
+          "unit_resource": 1254953472719525391,
+          "destroy_option": "UnitEffectOrphanStrategy_Stop",
+          "effects": [],
+          "sounds": [
+            {
+              "sound_id": 3109485856,
+              "node_id": 4005868427
             }
           ],
           "node_scales": [],

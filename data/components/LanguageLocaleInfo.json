@@ -3,5 +3,9 @@
     "soft_dividers" : { "type": "string" },
     "return_dividers" : { "type": "string" },
     "not_last" : { "type": "string" },
-    "not_first" : { "type": "string" }
+    "not_first" : { "type": "string" },
+    "decimal_separator" : { "type": "string" },
+    "grouping_separator" : { "type": "string" },
+    "grouping_size" : { "type": "uint", "default": 3 },
+    "secondary_grouping_size" : { "type": "uint", "default": 3 }
 }}

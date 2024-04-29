@@ -122,9 +122,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -237,6 +237,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -366,9 +398,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -481,6 +513,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -727,6 +791,38 @@
           0.550000012
         ],
         "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
       }
     },
     "mission_time_start_paused": 0
@@ -971,6 +1067,38 @@
           0.550000012
         ],
         "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
       }
     },
     "mission_time_start_paused": 0
@@ -1098,9 +1226,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -1213,6 +1341,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -1459,6 +1619,38 @@
           0.550000012
         ],
         "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
       }
     },
     "mission_time_start_paused": 0
@@ -1586,9 +1778,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -1701,6 +1893,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -1830,9 +2054,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -1945,6 +2169,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -2191,6 +2447,38 @@
           0.550000012
         ],
         "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
       }
     },
     "mission_time_start_paused": 0
@@ -2318,9 +2606,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -2433,6 +2721,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -2562,9 +2882,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -2677,6 +2997,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -2806,9 +3158,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -2921,6 +3273,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -3050,9 +3434,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -3165,6 +3549,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -3294,9 +3710,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -3409,6 +3825,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -3538,9 +3986,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -3653,6 +4101,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }
@@ -3899,6 +4379,38 @@
           0.550000012
         ],
         "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
       }
     },
     "mission_time_start_paused": 0
@@ -4143,6 +4655,38 @@
           0.550000012
         ],
         "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
       }
     },
     "mission_time_start_paused": 0
@@ -4270,9 +4814,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1.25,
-          1.39999998,
-          1.5
+          1,
+          1,
+          1
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -4385,6 +4929,38 @@
           0.75,
           0.649999976,
           0.550000012
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_waves_cooldown_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.25,
+          1.20000005,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
+        ],
+        "extraction_available_multiplier": 1
+      },
+      "travelers_max_unit_count_multiplier": {
+        "mission_progression_step_multipliers": [
+          1.29999995,
+          1.10000002,
+          1,
+          1,
+          1
+        ],
+        "player_count_multipliers": [
+          0.5,
+          0.800000012,
+          1,
+          1
         ],
         "extraction_available_multiplier": 1
       }

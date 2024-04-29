@@ -13,6 +13,9 @@
     "outside_playable_area_culling_screen_size_weight" : { "type": "float" },
     "horde_playable_distance" : { "type": "float" },
     "detailed_distance" : { "type": "float" },
+    "water_safe_height" : { "type": "float" },
+    "full_fade_height_variance" : { "type": "float" },
+    "full_fade_radius_factor" : { "type": "float" },
     "exploration_settings" : { "type": "ExplorationSettings" },
     "cache_loot_tables" : { "type": "array", "subtype": "CacheLootTable" }
 }}

@@ -1,0 +1,6 @@
+{ "ChargeStateSetting" : {
+    "charge_time" : { "type": "float", "default": 0.9, "description": "Time it takes for the weapon to reach this charge state." },
+    "projectile_type" : { "type": "ProjectileType", "default": "ProjectileType_None", "description": "Projectile type to fire for this charge state." },
+    "muzzle_flash_effect" : { "type": "ulong", "description": "[particles]Muzzle flash particle effect to spawn for this charge state." },
+    "fire_single_audio" : { "type": "uint", "description": "[wwise]Audio event to trigger when firing single shot in this charge state." }
+}}

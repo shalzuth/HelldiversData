@@ -61,7 +61,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_ClusterBomb_Bomb",
@@ -122,7 +124,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 1,
-          "look_for_audio_source_hijack": 1
+          "look_for_audio_source_hijack": 1,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_100kg",
@@ -183,7 +187,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_100kg_MK2",
@@ -244,7 +250,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_100kg_MK3",
@@ -305,7 +313,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_Napalm",
@@ -366,7 +376,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_Napalm_MK2",
@@ -427,7 +439,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_Napalm_MK3",
@@ -488,7 +502,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_Smoke",
@@ -549,7 +565,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_200kg",
@@ -610,7 +628,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_500kg",
@@ -671,7 +691,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_500kg_MK2",
@@ -732,7 +754,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bomb_500kg_MK3",
@@ -793,7 +817,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Strider_AcidStream",
@@ -854,7 +880,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Boomer_AcidStream",
@@ -915,7 +943,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Boomer_Nurser_AcidStream",
@@ -976,7 +1006,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Scavenger_AcidBall",
@@ -1037,7 +1069,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Strider_Spike",
@@ -1098,7 +1132,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Bug_Artillery",
@@ -1159,7 +1195,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_20mm_APHET",
@@ -1220,7 +1258,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_20mm_Flak",
@@ -1281,7 +1321,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_20mm_HVAPT",
@@ -1342,7 +1384,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_20mm_HE",
@@ -1403,7 +1447,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_30mm_APHE",
@@ -1464,7 +1510,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_40mm_Flak",
@@ -1525,7 +1573,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_40mm_APHE",
@@ -1586,7 +1636,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_Eagle_23mm_with_audio_trigger",
@@ -1647,7 +1699,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 1
+          "look_for_audio_source_hijack": 1,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_Eagle_23mm",
@@ -1708,7 +1762,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cannon_Eagle_23mm_no_explosion",
@@ -1769,7 +1825,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Rifle",
@@ -1830,7 +1888,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Mg",
@@ -1891,7 +1951,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Hmg",
@@ -1952,7 +2014,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Aa",
@@ -2013,7 +2077,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_LightCannon",
@@ -2074,7 +2140,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_HeavyCannon",
@@ -2135,7 +2203,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_SpawnerMountedCannon",
@@ -2196,7 +2266,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Sniper_Reddeath",
@@ -2257,7 +2329,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Shotgun",
@@ -2318,7 +2392,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_LightRocket",
@@ -2347,7 +2423,7 @@
           "projectile_unit_path": 11146770675064382806,
           "explosion_threshold_angle": 90,
           "explosion_type_on_impact": "ExplosionType_Cyborg_Projectile_LightRocket",
-          "explosion_proximity": 0.300000012,
+          "explosion_proximity": 0.25,
           "explosion_delay": 0,
           "explosion_type_expire": "ExplosionType_None",
           "arming_distance": 4,
@@ -2379,7 +2455,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_HeavyRocket",
@@ -2440,7 +2518,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Flare",
@@ -2501,7 +2581,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Mortar_Grenade_HE",
@@ -2562,7 +2644,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Orbital_Cannon",
@@ -2623,7 +2707,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Flamethrower_Heavy",
@@ -2684,7 +2770,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Cyborg_Artillery",
@@ -2745,7 +2833,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_40mm_HE",
@@ -2806,7 +2896,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_40mm_HE_MK2",
@@ -2867,7 +2959,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_40mm_Incendiary",
@@ -2928,7 +3022,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_40mm_HEAT",
@@ -2989,7 +3085,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_40mm_Stun",
@@ -3050,7 +3148,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_40mm_ProximityCone",
@@ -3111,7 +3211,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_Mortar_40mm_HE",
@@ -3172,7 +3274,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_Mortar_40mm_Staticfield",
@@ -3233,7 +3337,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_75mm_HEAT",
@@ -3294,7 +3400,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_85mm_HE",
@@ -3355,7 +3463,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_85mm_HE_MK2",
@@ -3416,7 +3526,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_85mm_HEAT",
@@ -3477,7 +3589,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_85mm_HEAT_MK2",
@@ -3538,7 +3652,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Grenade_85mm_AirburstCluster",
@@ -3567,7 +3683,7 @@
           "projectile_unit_path": 3939411889253242210,
           "explosion_threshold_angle": 360,
           "explosion_type_on_impact": "ExplosionType_AirburstCluster",
-          "explosion_proximity": 5,
+          "explosion_proximity": 2,
           "explosion_delay": 0.200000003,
           "explosion_type_expire": "ExplosionType_AirburstCluster",
           "arming_distance": 1,
@@ -3599,7 +3715,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 2399083774
         },
         {
           "type": "ProjectileType_AirburstCluster_Bomb",
@@ -3660,7 +3778,9 @@
           "hit_only_ground": 1,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 1,
-          "look_for_audio_source_hijack": 1
+          "look_for_audio_source_hijack": 1,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Illuminate_Lightspear",
@@ -3721,7 +3841,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Illuminate_Squidgunbolt",
@@ -3782,7 +3904,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Illuminate_IllusionistDeathball",
@@ -3843,7 +3967,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Illuminate_TripodDeathball",
@@ -3904,7 +4030,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Illuminate_Obelisk",
@@ -3965,7 +4093,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Illuminate_ShootingStar",
@@ -4026,7 +4156,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Illuminate_Outcast_Beam",
@@ -4087,7 +4219,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_illuminate_Shockwave",
@@ -4148,7 +4282,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Missile_66mm",
@@ -4209,7 +4345,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Missile_66mm_MK2",
@@ -4270,7 +4408,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Missile_Stinger",
@@ -4331,7 +4471,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Missile_Faf",
@@ -4392,7 +4534,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Missile_Faf_MK2",
@@ -4453,7 +4597,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Missile_Combat_Walker",
@@ -4514,7 +4660,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Missile_Combat_Walker_MK2",
@@ -4575,7 +4723,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_EagleMissile",
@@ -4636,7 +4786,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Missile_SAM",
@@ -4697,7 +4849,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Cannon_110mm",
@@ -4758,7 +4912,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Cannon_110mm_MK2",
@@ -4819,7 +4975,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Cannon_120mm_HE",
@@ -4880,7 +5038,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Cannon_120mm_HE_Cheap",
@@ -4941,7 +5101,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Cannon_380mm_HE",
@@ -5002,7 +5164,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Precision_Strike",
@@ -5063,7 +5227,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Cannon_380mm_HE_Cheap",
@@ -5124,7 +5290,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Cannon_380mm_HE_MK2",
@@ -5185,7 +5353,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Stunround",
@@ -5246,7 +5416,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Stunround_Upgraded_MK2",
@@ -5307,7 +5479,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Stunround_Upgraded_MK3",
@@ -5368,7 +5542,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Gas",
@@ -5429,7 +5605,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Gas_MK2",
@@ -5490,7 +5668,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Gas_MK3",
@@ -5551,7 +5731,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Smoke",
@@ -5612,7 +5794,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_illumination_shot",
@@ -5673,7 +5857,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_illumination_flare",
@@ -5734,7 +5920,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Orbital_Railcannon",
@@ -5795,7 +5983,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 1,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_SEAF_Gun_Explosive",
@@ -5856,7 +6046,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_SEAF_Gun_High_Yield_Explosive",
@@ -5917,7 +6109,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_SEAF_Gun_Mini_Nuke",
@@ -5978,7 +6172,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_SEAF_Gun_Smoke",
@@ -6039,7 +6235,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_SEAF_Gun_Napalm",
@@ -6100,7 +6298,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_SEAF_Gun_EMP",
@@ -6161,7 +6361,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_9x20mm_exp",
@@ -6222,7 +6424,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_9x20mm_fmj",
@@ -6283,7 +6487,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_9x20mm_smj",
@@ -6344,7 +6550,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_9x20mm_hp",
@@ -6405,7 +6613,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_9x20mm_hv",
@@ -6466,7 +6676,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_9x20mm_pla",
@@ -6527,7 +6739,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_9x20mm_rip",
@@ -6588,7 +6802,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_9x20mm_ther",
@@ -6649,7 +6865,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_9x20mm_tox",
@@ -6710,7 +6928,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_12x25mm_exp",
@@ -6771,7 +6991,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_12x25mm_fmj",
@@ -6832,7 +7054,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_12x25mm_hp",
@@ -6893,7 +7117,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_12x25mm_hv",
@@ -6954,7 +7180,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_12x25mm_pla",
@@ -7015,7 +7243,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_12x25mm_rip",
@@ -7076,7 +7306,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_12x25mm_ther",
@@ -7137,7 +7369,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_12x25mm_tox",
@@ -7198,7 +7432,135 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
+        },
+        {
+          "type": "ProjectileType_Pistol_12x25mm_stun",
+          "name_upper": 4185180471,
+          "name_cased": 1834364900,
+          "short_name": 4056765033,
+          "hud_icon": 15456004906982031577,
+          "calibre": 12,
+          "num_projectiles": 1,
+          "speed": 210,
+          "mass": 15,
+          "drag": 0.300000012,
+          "gravity_multiplier": 1,
+          "simulation_steps": 1,
+          "life_time": 0,
+          "life_time_randomness": 0,
+          "damage_info_type": "DamageInfoType_Projectile_Pistol_12x25mm_stun",
+          "penetration_slowdown": 0.25,
+          "particle_thruster_effect_path": 7125953194633755548,
+          "low_ammo_particle_thruster_effect_path": 4557633415823676875,
+          "particle_thruster_effect_length": 0.00999999978,
+          "particle_trail_effect_path": 0,
+          "dissipate_particle_effect_path": 0,
+          "disintegration_particle_effect_path": 839414130627746627,
+          "hit_direction_hint_effect": 0,
+          "projectile_unit_path": 15708617757746754668,
+          "explosion_threshold_angle": 80,
+          "explosion_type_on_impact": "ExplosionType_None",
+          "explosion_proximity": 0,
+          "explosion_delay": 0,
+          "explosion_type_expire": "ExplosionType_None",
+          "arming_distance": 0,
+          "decal_size": 0.100000001,
+          "surface_impact_type": "SurfaceImpactType_projectile_solid_medium",
+          "ricochet_impact_type": "SurfaceImpactType_projectile_solid_medium",
+          "max_ricochets": 1,
+          "ricochet_threshold_angle": 83,
+          "ricochet_threshold_speed": 60,
+          "ricochet_angle_loss": 0.75,
+          "ricochet_spread_vertical": 2,
+          "ricochet_spread_horizontal": 15,
+          "audio_crack_event": 2900491565,
+          "audio_ricochet_event": 988188807,
+          "audio_trail_event_start": 0,
+          "audio_trail_event_stop": 0,
+          "status_effect_volume_template": "ProjectileStatusEffectVolumeTemplate_None",
+          "effect_damage_type": "HitEffectDamageType_PiercingSmall",
+          "fire_template": "FireTemplate_None",
+          "inherit_velocity": 1,
+          "ignore_terminal_velocity": 0,
+          "remove_thruster_effect_instantly": 1,
+          "remove_trail_effect_instantly": 1,
+          "projectile_unit_auto_remove": 1,
+          "explosions_inherit_velocity": 1,
+          "project_decal": 1,
+          "global_audio": 0,
+          "audio_danger_zone": 0,
+          "hit_only_ground": 0,
+          "can_pass_through_shield": 0,
+          "allow_long_distance_travel": 0,
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
+        },
+        {
+          "type": "ProjectileType_Pistol_Magnum",
+          "name_upper": 661457705,
+          "name_cased": 1514994279,
+          "short_name": 4056765033,
+          "hud_icon": 15456004906982031577,
+          "calibre": 12,
+          "num_projectiles": 1,
+          "speed": 285,
+          "mass": 15,
+          "drag": 0.300000012,
+          "gravity_multiplier": 1,
+          "simulation_steps": 1,
+          "life_time": 0,
+          "life_time_randomness": 0,
+          "damage_info_type": "DamageInfoType_Projectile_Pistol_Magnum",
+          "penetration_slowdown": 0.25,
+          "particle_thruster_effect_path": 7125953194633755548,
+          "low_ammo_particle_thruster_effect_path": 4557633415823676875,
+          "particle_thruster_effect_length": 0.00999999978,
+          "particle_trail_effect_path": 0,
+          "dissipate_particle_effect_path": 0,
+          "disintegration_particle_effect_path": 0,
+          "hit_direction_hint_effect": 0,
+          "projectile_unit_path": 15708617757746754668,
+          "explosion_threshold_angle": 80,
+          "explosion_type_on_impact": "ExplosionType_None",
+          "explosion_proximity": 0,
+          "explosion_delay": 0,
+          "explosion_type_expire": "ExplosionType_None",
+          "arming_distance": 0,
+          "decal_size": 0.100000001,
+          "surface_impact_type": "SurfaceImpactType_projectile_solid_medium",
+          "ricochet_impact_type": "SurfaceImpactType_projectile_solid_medium",
+          "max_ricochets": 1,
+          "ricochet_threshold_angle": 83,
+          "ricochet_threshold_speed": 60,
+          "ricochet_angle_loss": 0.75,
+          "ricochet_spread_vertical": 2,
+          "ricochet_spread_horizontal": 15,
+          "audio_crack_event": 2900491565,
+          "audio_ricochet_event": 988188807,
+          "audio_trail_event_start": 0,
+          "audio_trail_event_stop": 0,
+          "status_effect_volume_template": "ProjectileStatusEffectVolumeTemplate_None",
+          "effect_damage_type": "HitEffectDamageType_PiercingSmall",
+          "fire_template": "FireTemplate_None",
+          "inherit_velocity": 1,
+          "ignore_terminal_velocity": 0,
+          "remove_thruster_effect_instantly": 1,
+          "remove_trail_effect_instantly": 1,
+          "projectile_unit_auto_remove": 1,
+          "explosions_inherit_velocity": 1,
+          "project_decal": 1,
+          "global_audio": 0,
+          "audio_danger_zone": 0,
+          "hit_only_ground": 0,
+          "can_pass_through_shield": 0,
+          "allow_long_distance_travel": 0,
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_13x40mm_ap",
@@ -7259,7 +7621,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_13x40mm_fmj",
@@ -7320,7 +7684,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_13x40mm_hp",
@@ -7381,7 +7747,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_13x40mm_mag",
@@ -7442,7 +7810,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Pistol_13x40mm_rip",
@@ -7503,7 +7873,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_fmj",
@@ -7564,7 +7936,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_ap",
@@ -7625,7 +7999,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_dev",
@@ -7686,7 +8062,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_exp",
@@ -7747,7 +8125,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_hp",
@@ -7808,7 +8188,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_hv",
@@ -7869,7 +8251,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_pow",
@@ -7930,7 +8314,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_rip",
@@ -7991,7 +8377,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_spr",
@@ -8052,7 +8440,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_ss",
@@ -8113,7 +8503,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_suc",
@@ -8174,7 +8566,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_5p5x50mm_tracer",
@@ -8235,7 +8629,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_airb",
@@ -8296,7 +8692,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_ap",
@@ -8357,7 +8755,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_dev",
@@ -8418,7 +8818,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_exp",
@@ -8479,7 +8881,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_flm",
@@ -8540,7 +8944,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_fmj",
@@ -8601,7 +9007,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_fmj_NoCrack",
@@ -8662,7 +9070,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_hv",
@@ -8723,7 +9133,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_pow",
@@ -8784,7 +9196,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_snb",
@@ -8845,7 +9259,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_ss",
@@ -8906,7 +9322,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_suc",
@@ -8967,7 +9385,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_tracer",
@@ -9028,7 +9448,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_tracer_NoCrack",
@@ -9089,7 +9511,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_8x60mm_apt",
@@ -9150,7 +9574,72 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
+        },
+        {
+          "type": "ProjectileType_Rifle_Rico",
+          "name_upper": 1377184716,
+          "name_cased": 425050408,
+          "short_name": 4056765033,
+          "hud_icon": 15456004906982031577,
+          "calibre": 8,
+          "num_projectiles": 1,
+          "speed": 820,
+          "mass": 11,
+          "drag": 0.300000012,
+          "gravity_multiplier": 1,
+          "simulation_steps": 1,
+          "life_time": 0,
+          "life_time_randomness": 0,
+          "damage_info_type": "DamageInfoType_Projectile_Rifle_Rico",
+          "penetration_slowdown": 0.25,
+          "particle_thruster_effect_path": 7125953194633755548,
+          "low_ammo_particle_thruster_effect_path": 4557633415823676875,
+          "particle_thruster_effect_length": 0.00999999978,
+          "particle_trail_effect_path": 0,
+          "dissipate_particle_effect_path": 0,
+          "disintegration_particle_effect_path": 0,
+          "hit_direction_hint_effect": 0,
+          "projectile_unit_path": 0,
+          "explosion_threshold_angle": 80,
+          "explosion_type_on_impact": "ExplosionType_None",
+          "explosion_proximity": 0,
+          "explosion_delay": 0,
+          "explosion_type_expire": "ExplosionType_None",
+          "arming_distance": 0,
+          "decal_size": 0.100000001,
+          "surface_impact_type": "SurfaceImpactType_projectile_solid_medium",
+          "ricochet_impact_type": "SurfaceImpactType_projectile_solid_medium",
+          "max_ricochets": 1,
+          "ricochet_threshold_angle": 83,
+          "ricochet_threshold_speed": 60,
+          "ricochet_angle_loss": 0.75,
+          "ricochet_spread_vertical": 2,
+          "ricochet_spread_horizontal": 12,
+          "audio_crack_event": 4148749155,
+          "audio_ricochet_event": 988188807,
+          "audio_trail_event_start": 0,
+          "audio_trail_event_stop": 0,
+          "status_effect_volume_template": "ProjectileStatusEffectVolumeTemplate_None",
+          "effect_damage_type": "HitEffectDamageType_PiercingSmall",
+          "fire_template": "FireTemplate_None",
+          "inherit_velocity": 1,
+          "ignore_terminal_velocity": 0,
+          "remove_thruster_effect_instantly": 1,
+          "remove_trail_effect_instantly": 1,
+          "projectile_unit_auto_remove": 1,
+          "explosions_inherit_velocity": 1,
+          "project_decal": 1,
+          "global_audio": 0,
+          "audio_danger_zone": 0,
+          "hit_only_ground": 0,
+          "can_pass_through_shield": 0,
+          "allow_long_distance_travel": 0,
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_9x70mm_ap",
@@ -9211,7 +9700,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_9x70mm_fmj",
@@ -9272,7 +9763,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_9x70mm_hv",
@@ -9333,7 +9826,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_9x70mm_snb",
@@ -9394,7 +9889,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_9x70mm_soc",
@@ -9455,7 +9952,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_9x70mm_spr",
@@ -9516,7 +10015,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_9x70mm_suc",
@@ -9577,7 +10078,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_12p5x100mm_fmj",
@@ -9638,7 +10141,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_12p5x100mm_eit",
@@ -9699,7 +10204,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_12p5x100mm_eit_mk2",
@@ -9760,7 +10267,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rifle_12p5x100mm_bchp",
@@ -9821,7 +10330,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Crossbow_Bolt_exp",
@@ -9831,7 +10342,7 @@
           "hud_icon": 15456004906982031577,
           "calibre": 15,
           "num_projectiles": 1,
-          "speed": 50,
+          "speed": 100,
           "mass": 100,
           "drag": 1,
           "gravity_multiplier": 0.5,
@@ -9882,7 +10393,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_15x100mm_emp",
@@ -9943,7 +10456,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_15x100mm_exp",
@@ -10004,7 +10519,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_15x100mm_frag",
@@ -10065,7 +10582,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_15x100mm_pla",
@@ -10126,7 +10645,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_15x100mm_hv",
@@ -10187,7 +10708,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_15x100mm_std",
@@ -10248,7 +10771,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_15x100mm_ther",
@@ -10309,7 +10834,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_15x100mm_tox",
@@ -10370,7 +10897,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_JarPhoenix_20mm",
@@ -10431,7 +10960,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_70mm",
@@ -10492,7 +11023,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_70mm_turret",
@@ -10553,7 +11086,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_110mm",
@@ -10614,7 +11149,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_110mm_silent",
@@ -10675,7 +11212,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Rocket_110mm_MK2",
@@ -10736,7 +11275,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_12g_bir",
@@ -10797,7 +11338,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_12g_buc",
@@ -10858,7 +11401,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_12g_bug",
@@ -10919,7 +11464,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_12g_fle",
@@ -10980,7 +11527,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_12g_flm",
@@ -11041,7 +11590,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_12g_mag",
@@ -11102,7 +11653,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_12g_magtri",
@@ -11163,7 +11716,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_12g_scs",
@@ -11224,7 +11779,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_12g_tri",
@@ -11285,7 +11842,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_bir",
@@ -11346,7 +11905,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_buc",
@@ -11407,7 +11968,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_bug",
@@ -11468,7 +12031,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_fle",
@@ -11529,7 +12094,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_flm",
@@ -11590,7 +12157,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_frag",
@@ -11651,7 +12220,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_mag",
@@ -11712,7 +12283,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_magtri",
@@ -11773,7 +12346,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_sab",
@@ -11834,7 +12409,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_sab2",
@@ -11895,7 +12472,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_sabhv",
@@ -11956,7 +12535,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_scs",
@@ -12017,7 +12598,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_slug",
@@ -12078,7 +12661,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shotgun_10g_tri",
@@ -12139,7 +12724,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shrapnel",
@@ -12200,7 +12787,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_ScatterShot",
@@ -12261,7 +12850,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shrapnel_High_Velocity",
@@ -12322,7 +12913,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shrapnel_Heavy",
@@ -12383,7 +12976,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Shrapnel_Heavy_MK2",
@@ -12444,7 +13039,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Plasma_Bolt_Small",
@@ -12505,7 +13102,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Plasma_Bolt_Medium",
@@ -12566,7 +13165,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Plasma_Bolt_Medium_Volatile",
@@ -12627,24 +13228,26 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
-          "type": "ProjectileType_Plasma_Bolt_Large",
-          "name_upper": 3783536724,
-          "name_cased": 4251523721,
+          "type": "ProjectileType_Plasma_Bolt_Medium_Charge",
+          "name_upper": 3939727225,
+          "name_cased": 2144174422,
           "short_name": 4056765033,
           "hud_icon": 15456004906982031577,
           "calibre": 20,
           "num_projectiles": 1,
-          "speed": 45,
+          "speed": 550,
           "mass": 100,
-          "drag": 3,
-          "gravity_multiplier": 1.5,
+          "drag": 1,
+          "gravity_multiplier": 0.5,
           "simulation_steps": 1,
-          "life_time": 0,
+          "life_time": 0.100000001,
           "life_time_randomness": 0,
-          "damage_info_type": "DamageInfoType_Projectile_Plasma_Bolt",
+          "damage_info_type": "DamageInfoType_Projectile_Plasma_Bolt_Charge",
           "penetration_slowdown": 0.349999994,
           "particle_thruster_effect_path": 1871721291442495144,
           "low_ammo_particle_thruster_effect_path": 0,
@@ -12655,10 +13258,10 @@
           "hit_direction_hint_effect": 0,
           "projectile_unit_path": 0,
           "explosion_threshold_angle": 80,
-          "explosion_type_on_impact": "ExplosionType_Plasma_Bolt_Large",
+          "explosion_type_on_impact": "ExplosionType_Plasma_Bolt_Medium",
           "explosion_proximity": 0,
           "explosion_delay": 0,
-          "explosion_type_expire": "ExplosionType_None",
+          "explosion_type_expire": "ExplosionType_Plasma_Bolt_Medium_Volatile",
           "arming_distance": 0,
           "decal_size": 0.100000001,
           "surface_impact_type": "SurfaceImpactType_projectile_plasma_medium",
@@ -12688,19 +13291,21 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
-          "type": "ProjectileType_Plasma_Punisher_Projectile",
+          "type": "ProjectileType_Plasma_Bolt_Large",
           "name_upper": 3783536724,
           "name_cased": 4251523721,
           "short_name": 4056765033,
           "hud_icon": 15456004906982031577,
           "calibre": 20,
           "num_projectiles": 1,
-          "speed": 45,
+          "speed": 350,
           "mass": 100,
-          "drag": 3,
+          "drag": 1,
           "gravity_multiplier": 1.5,
           "simulation_steps": 1,
           "life_time": 0,
@@ -12716,8 +13321,71 @@
           "hit_direction_hint_effect": 0,
           "projectile_unit_path": 0,
           "explosion_threshold_angle": 80,
-          "explosion_type_on_impact": "ExplosionType_Punisher_Plasma_Explosion",
+          "explosion_type_on_impact": "ExplosionType_Plasma_Bolt_Large",
           "explosion_proximity": 0,
+          "explosion_delay": 0,
+          "explosion_type_expire": "ExplosionType_None",
+          "arming_distance": 0,
+          "decal_size": 0.100000001,
+          "surface_impact_type": "SurfaceImpactType_projectile_plasma_medium",
+          "ricochet_impact_type": "SurfaceImpactType_projectile_plasma_medium",
+          "max_ricochets": 0,
+          "ricochet_threshold_angle": 83,
+          "ricochet_threshold_speed": 60,
+          "ricochet_angle_loss": 0.75,
+          "ricochet_spread_vertical": 3,
+          "ricochet_spread_horizontal": 15,
+          "audio_crack_event": 1036030030,
+          "audio_ricochet_event": 0,
+          "audio_trail_event_start": 0,
+          "audio_trail_event_stop": 0,
+          "status_effect_volume_template": "ProjectileStatusEffectVolumeTemplate_None",
+          "effect_damage_type": "HitEffectDamageType_PiercingSmall",
+          "fire_template": "FireTemplate_None",
+          "inherit_velocity": 1,
+          "ignore_terminal_velocity": 1,
+          "remove_thruster_effect_instantly": 1,
+          "remove_trail_effect_instantly": 1,
+          "projectile_unit_auto_remove": 1,
+          "explosions_inherit_velocity": 1,
+          "project_decal": 0,
+          "global_audio": 0,
+          "audio_danger_zone": 0,
+          "hit_only_ground": 0,
+          "can_pass_through_shield": 0,
+          "allow_long_distance_travel": 0,
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
+        },
+        {
+          "type": "ProjectileType_Plasma_Punisher_Projectile",
+          "name_upper": 3783536724,
+          "name_cased": 4251523721,
+          "short_name": 4056765033,
+          "hud_icon": 15456004906982031577,
+          "calibre": 20,
+          "num_projectiles": 1,
+          "speed": 90,
+          "mass": 100,
+          "drag": 4,
+          "gravity_multiplier": 3,
+          "simulation_steps": 1,
+          "life_time": 0,
+          "life_time_randomness": 0,
+          "damage_info_type": "DamageInfoType_Projectile_Plasma_Bolt",
+          "penetration_slowdown": 0.349999994,
+          "particle_thruster_effect_path": 1871721291442495144,
+          "low_ammo_particle_thruster_effect_path": 0,
+          "particle_thruster_effect_length": 0.0165999997,
+          "particle_trail_effect_path": 0,
+          "dissipate_particle_effect_path": 15752976622604670964,
+          "disintegration_particle_effect_path": 11827791824759567762,
+          "hit_direction_hint_effect": 0,
+          "projectile_unit_path": 0,
+          "explosion_threshold_angle": 360,
+          "explosion_type_on_impact": "ExplosionType_Punisher_Plasma_Explosion",
+          "explosion_proximity": 0.5,
           "explosion_delay": 0,
           "explosion_type_expire": "ExplosionType_None",
           "arming_distance": 0,
@@ -12749,7 +13417,72 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
+        },
+        {
+          "type": "ProjectileType_Plasma_Explosion_Cone",
+          "name_upper": 3783536724,
+          "name_cased": 4251523721,
+          "short_name": 4056765033,
+          "hud_icon": 15456004906982031577,
+          "calibre": 20,
+          "num_projectiles": 1,
+          "speed": 45,
+          "mass": 100,
+          "drag": 3,
+          "gravity_multiplier": 1.5,
+          "simulation_steps": 1,
+          "life_time": 0.0299999993,
+          "life_time_randomness": 0,
+          "damage_info_type": "DamageInfoType_None",
+          "penetration_slowdown": 0.349999994,
+          "particle_thruster_effect_path": 1871721291442495144,
+          "low_ammo_particle_thruster_effect_path": 0,
+          "particle_thruster_effect_length": 0.0165999997,
+          "particle_trail_effect_path": 0,
+          "dissipate_particle_effect_path": 15752976622604670964,
+          "disintegration_particle_effect_path": 11827791824759567762,
+          "hit_direction_hint_effect": 0,
+          "projectile_unit_path": 0,
+          "explosion_threshold_angle": 80,
+          "explosion_type_on_impact": "ExplosionType_Plasma_Cone",
+          "explosion_proximity": 0,
+          "explosion_delay": 0,
+          "explosion_type_expire": "ExplosionType_Plasma_Cone",
+          "arming_distance": 0,
+          "decal_size": 0.100000001,
+          "surface_impact_type": "SurfaceImpactType_projectile_plasma_medium",
+          "ricochet_impact_type": "SurfaceImpactType_projectile_plasma_medium",
+          "max_ricochets": 0,
+          "ricochet_threshold_angle": 83,
+          "ricochet_threshold_speed": 60,
+          "ricochet_angle_loss": 0.75,
+          "ricochet_spread_vertical": 3,
+          "ricochet_spread_horizontal": 15,
+          "audio_crack_event": 4144223358,
+          "audio_ricochet_event": 0,
+          "audio_trail_event_start": 0,
+          "audio_trail_event_stop": 0,
+          "status_effect_volume_template": "ProjectileStatusEffectVolumeTemplate_None",
+          "effect_damage_type": "HitEffectDamageType_PiercingSmall",
+          "fire_template": "FireTemplate_None",
+          "inherit_velocity": 0,
+          "ignore_terminal_velocity": 1,
+          "remove_thruster_effect_instantly": 1,
+          "remove_trail_effect_instantly": 1,
+          "projectile_unit_auto_remove": 1,
+          "explosions_inherit_velocity": 1,
+          "project_decal": 0,
+          "global_audio": 0,
+          "audio_danger_zone": 0,
+          "hit_only_ground": 0,
+          "can_pass_through_shield": 0,
+          "allow_long_distance_travel": 0,
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Railgun",
@@ -12810,7 +13543,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Railgun_Stun",
@@ -12871,7 +13606,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Laser_Long",
@@ -12932,7 +13669,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_DamageNoFoliage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Laser_Pulse",
@@ -12993,7 +13732,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_DamageNoFoliage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_ContactMine",
@@ -13054,7 +13795,9 @@
           "hit_only_ground": 1,
           "can_pass_through_shield": 1,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_StratagemLauncher",
@@ -13115,7 +13858,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_FlamethrowerBAD",
@@ -13176,7 +13921,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_FlamethrowerBAD_MK2",
@@ -13237,7 +13984,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 1,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Nuke",
@@ -13298,7 +14047,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_World_Meteor",
@@ -13359,7 +14110,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_World_VolcanoStrike",
@@ -13420,7 +14173,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         },
         {
           "type": "ProjectileType_Spikeplant_Shrapnel",
@@ -13481,7 +14236,9 @@
           "hit_only_ground": 0,
           "can_pass_through_shield": 0,
           "allow_long_distance_travel": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "raycast_template": "RaycastTemplate_Damage",
+          "proximity_explosion_collision_filter": 960337176
         }
       ]
     }

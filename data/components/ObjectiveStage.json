@@ -9,6 +9,7 @@
     "use_uoi_position_as_objective_position" : { "type": "byte", "description": "[bool]If set it will set the objective position to the first found UOI. " },
     "allow_extraction" : { "type": "byte", "description": "[bool]If the objective is in this stage, then this objective is considered completed for calling in the extraction shuttle purposes" },
     "stratagem_drop" : { "type": "StratagemObjectiveDropRequirement", "default": "StratagemObjectiveDropRequirement_None", "description": "Requirement for stratagem to be called in for this objective stage" },
+    "stratagem_drop_from_linked_destructible" : { "type": "byte", "description": "[bool]If set, when calculating the distance to the objective, will use the distance to the linked destructible instead of the objective marker." },
     "max_stratagem_count" : { "type": "int", "default": 1, "description": "How many objective stratagems can be placed for this. -1 is infinite" },
     "stratagem_drop_max_distance" : { "type": "float", "default": 5, "description": "Max Distance a stratagem drop can be placed for it to be successful" },
     "track_uoi" : { "type": "byte", "description": "[bool]If the objective is in this stage, then the first unit of interest is tracked on the map" },

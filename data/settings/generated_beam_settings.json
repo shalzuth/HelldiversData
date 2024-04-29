@@ -37,6 +37,23 @@
           "effect_damage_type": "HitEffectDamageType_BeamSmall"
         },
         {
+          "type": "BeamType_MediumDrone",
+          "radius": 0,
+          "length": 1000,
+          "damage_info_type": "DamageInfoType_DPS_BeamMediumDrone",
+          "focal_shoulder_width": 0,
+          "decal_size": 0.150000006,
+          "surface_impact_type": "SurfaceImpactType_beam_laser_medium",
+          "beam_effect_path": 7605203663484224430,
+          "falloff_effect_path": 0,
+          "beam_unit_path": 0,
+          "audio_trail": 1860773244,
+          "audio_trail_stop": 810767780,
+          "raycast_template": "RaycastTemplate_Damage",
+          "overlap_beam_query": 2435390391,
+          "effect_damage_type": "HitEffectDamageType_BeamSmall"
+        },
+        {
           "type": "BeamType_Medium_Focused",
           "radius": 0,
           "length": 1000,

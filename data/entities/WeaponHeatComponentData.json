@@ -58,9 +58,9 @@
     "temp_gain_per_second": 0,
     "temp_gain_per_second_modifier": 100,
     "temp_loss_per_second": 8,
-    "temp_loss_per_second_overheated": 10,
+    "temp_loss_per_second_overheated": 7,
     "needs_reload_after_overheat": 0,
-    "overheat_duration": 10,
+    "overheat_duration": 15,
     "firing_charge": 100,
     "charge_gain_per_second": 33,
     "charge_loss_per_second": 500,
@@ -282,9 +282,9 @@
     "overheat_ability": "AbilityId_complex_weapon_heat_laser_pistol_overheat"
   },
   "9675404802175538082": {
-    "magazines": 3,
+    "magazines": 2,
     "magazines_refill": 6,
-    "magazines_max": 6,
+    "magazines_max": 3,
     "overheat_temperature": 100,
     "warning_temperature": 75,
     "emission_temperature": 70,
@@ -425,7 +425,7 @@
   "2877271129141764950": {
     "magazines": 3,
     "magazines_refill": 6,
-    "magazines_max": 6,
+    "magazines_max": 4,
     "overheat_temperature": 100,
     "warning_temperature": 85,
     "emission_temperature": 70,

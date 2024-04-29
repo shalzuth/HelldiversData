@@ -1,4 +1,116 @@
 {
+  "12300518439027380185": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "14354158653026475511": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "5938625030399109341": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "5084997687310749502": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "6041739005686103399": {
+    "distance_up": 4,
+    "distance_down": 2,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "11329506424240616277": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "3031503431338798614": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "6676641717166653626": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "1825817556220264183": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "767968035755763": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "4399458158766252490": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "5556372446766824087": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_MultiHitClimbable",
+    "remove_entity": 0
+  },
+  "4510702625533881224": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "2701456486977900736": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "12023841631339054706": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "12041129896721693842": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
   "11297499216687771913": {
     "distance_up": 1,
     "distance_down": 0.200000003,
@@ -6,14 +118,63 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "1577001701089971290": {
+  "6234346553392955601": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 1,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 1
   },
-  "12023841631339054706": {
+  "10371974906799355538": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "11389144440041661089": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "10861016308832836833": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "17756861745706792858": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "13142476912332493378": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "15809454270358060682": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "7587445649108074590": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15621795958426619957": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
@@ -27,56 +188,147 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "18198461672611034237": {
-    "distance_up": 16,
-    "distance_down": 16,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "16841371283351459334": {
+  "10828817397904429935": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "17875655752828743943": {
-    "distance_up": 1,
-    "distance_down": 0.400000006,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "4510702625533881224": {
+  "17587738009391187453": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 1,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 1
   },
-  "8883573249939290241": {
+  "10376328634656085665": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "15125779956101896786": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "3128706810926128882": {
+  "10339505652348491976": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "5268813631875709973": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "10514734670540770044": {
+  "5077454099412397096": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "15336140906172278556": {
+  "8783342891467425251": {
+    "distance_up": 0.800000012,
+    "distance_down": 5,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "1239378520908923324": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "9614788353289254415": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "13340847352459495240": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "11669807341511884260": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "12165351853986040244": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "518600486455451088": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "4251221953861716889": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15358116161893188517": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15855903412068188757": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15155335998927187595": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "12008441084326179745": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "3743261888606184850": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "16841371283351459334": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
@@ -90,35 +342,84 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "4459198455771523223": {
+  "8971696097026260232": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 1,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 1
   },
-  "552747719338665864": {
+  "4618830856548850870": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "14828710641940459992": {
+  "7057055776013546117": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "13707236614338800569": {
+  "17875655752828743943": {
+    "distance_up": 1,
+    "distance_down": 0.400000006,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "10514734670540770044": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "5938625030399109341": {
+  "14054387432745785364": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "2210598302234166538": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "1155202780614770422": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "10405460102960147340": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "11843619417684963016": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "4015747776278116983": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "9576485996670470682": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
@@ -146,700 +447,7 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "15125779956101896786": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "2210598302234166538": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "18129582262547983427": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "11669807341511884260": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "12013007335500498924": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "11398074038506794973": {
-    "distance_up": 5,
-    "distance_down": 5,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "2701456486977900736": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
   "5492393195882837684": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "767968035755763": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "12566139334605762628": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "1903375976943875074": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "15155335998927187595": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "15239773297738004195": {
-    "distance_up": 2,
-    "distance_down": 5,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "10405460102960147340": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "11843619417684963016": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "13340847352459495240": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "5077454099412397096": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "9414910092732904122": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "3626558530581732572": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "15529686099596640908": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "16919711124802745493": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "15356733335604944785": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "12562787704342269592": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "6927066342767148424": {
-    "distance_up": 1.39999998,
-    "distance_down": 0.100000001,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "9576485996670470682": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "3939129929398354246": {
-    "distance_up": 1.39999998,
-    "distance_down": 0.100000001,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "5268813631875709973": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "1024464436030047776": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "4399458158766252490": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "8785151313511435740": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "3583430772214091149": {
-    "distance_up": 4,
-    "distance_down": 2,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "10770873609175974470": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "4375091888770509304": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "1346028121179999955": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "850711056443892715": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "1239378520908923324": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "16121421951002036444": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "13575269880792024885": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "5084997687310749502": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "6041739005686103399": {
-    "distance_up": 4,
-    "distance_down": 2,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "5556372446766824087": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_MultiHitClimbable",
-    "remove_entity": 0
-  },
-  "4251221953861716889": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "14038927220542196401": {
-    "distance_up": 0.800000012,
-    "distance_down": 5,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "17672347716099392046": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "7587445649108074590": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "11389144440041661089": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "6674443306042095289": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "11353844921854370643": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "15621795958426619957": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "2190700087544369166": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "14354158653026475511": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "6234346553392955601": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "13037131039069521275": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "8261922003134896957": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "4015747776278116983": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "17943362722330235151": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "4469039597602705386": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "12706617161845284909": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "7719208875390099550": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "15659331049401757247": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "2186831762627068031": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "5650246641905721936": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "9513169167295339035": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "5903841343181520462": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "8783342891467425251": {
-    "distance_up": 0.800000012,
-    "distance_down": 5,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "8604848163181421628": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "8971696097026260232": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "17587738009391187453": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "15855903412068188757": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "10339505652348491976": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "15809454270358060682": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "10371974906799355538": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "4083821917710944045": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "3031503431338798614": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "10376328634656085665": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "3743261888606184850": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "13142476912332493378": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "9137331974793918131": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "9545949827108816555": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "7258218216136199873": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "4618830856548850870": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "5909160229139284606": {
-    "distance_up": 16,
-    "distance_down": 16,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "15701184648926402687": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "1909471264691872944": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "12300518439027380185": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "363124815175446673": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "6676641717166653626": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "7208293264043292125": {
-    "distance_up": 0,
-    "distance_down": 1.5,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "7057055776013546117": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "1403303179954968823": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "10861016308832836833": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "17756861745706792858": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "14054387432745785364": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "15358116161893188517": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "10828817397904429935": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "17921415124075533547": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "15691978653806246852": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "11329506424240616277": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 1
-  },
-  "1155202780614770422": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "12008441084326179745": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
@@ -853,31 +461,17 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "3517035000518974420": {
+  "8604848163181421628": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "1825817556220264183": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "9614788353289254415": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "12041129896721693842": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
+  "14038927220542196401": {
+    "distance_up": 0.800000012,
+    "distance_down": 5,
+    "kill_material_check": 1,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
@@ -888,9 +482,121 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "7196537832909981064": {
-    "distance_up": 4,
-    "distance_down": 2,
+  "5650246641905721936": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "2108432737919758797": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "4469039597602705386": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15659331049401757247": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "7208293264043292125": {
+    "distance_up": 0,
+    "distance_down": 1.5,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "552747719338665864": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "4083821917710944045": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "1024464436030047776": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "2190700087544369166": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15239773297738004195": {
+    "distance_up": 2,
+    "distance_down": 5,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "9137331974793918131": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "3517035000518974420": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "363124815175446673": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "2186831762627068031": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "12562787704342269592": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "1577001701089971290": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "10770873609175974470": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
     "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
@@ -902,7 +608,91 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "12165351853986040244": {
+  "8785151313511435740": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "13707236614338800569": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "17921415124075533547": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "16919711124802745493": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "4375091888770509304": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15336140906172278556": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "3583430772214091149": {
+    "distance_up": 4,
+    "distance_down": 2,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "11353844921854370643": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "12013007335500498924": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "17943362722330235151": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "1909471264691872944": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "3939129929398354246": {
+    "distance_up": 1.39999998,
+    "distance_down": 0.100000001,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "850711056443892715": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
@@ -916,7 +706,224 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "2108432737919758797": {
+  "18198461672611034237": {
+    "distance_up": 16,
+    "distance_down": 16,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15691978653806246852": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "1903375976943875074": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "5909160229139284606": {
+    "distance_up": 16,
+    "distance_down": 16,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "8261922003134896957": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "9513169167295339035": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "18129582262547983427": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "4459198455771523223": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "12566139334605762628": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15356733335604944785": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 1
+  },
+  "9414910092732904122": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "6674443306042095289": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "6927066342767148424": {
+    "distance_up": 1.39999998,
+    "distance_down": 0.100000001,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "3128706810926128882": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "13037131039069521275": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "11398074038506794973": {
+    "distance_up": 5,
+    "distance_down": 5,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "16121421951002036444": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15529686099596640908": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "12706617161845284909": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "9545949827108816555": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "3626558530581732572": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "17672347716099392046": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "14828710641940459992": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "8883573249939290241": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15701184648926402687": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "7719208875390099550": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "7196537832909981064": {
+    "distance_up": 4,
+    "distance_down": 2,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "7258218216136199873": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "1346028121179999955": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "5903841343181520462": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "13575269880792024885": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "1403303179954968823": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,

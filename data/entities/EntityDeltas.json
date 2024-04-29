@@ -164,7 +164,7 @@
     "chambered": 0
   },
   "5561857465385532946": {
-    "immediate_extraction": 1,
+    "immediate_extraction": 0,
     "map_size_override": 0.575
   },
   "6496346306736513044": {
@@ -8527,6 +8527,10 @@
     "ik_attach_setting": "WeaponCustomizationIKAttach_Underbarrel",
     "ik_attach_animation_event": 681247374
   },
+  "10432814623860229957": {
+    "material_override.material_path": 14756639088055349583,
+    "material_override.material_slot": 2120624488
+  },
   "14257721759557106506": {
     "patrol_spawn_duration_multiplier": 0.4,
     "immediate_extraction": 1
@@ -11148,25 +11152,9 @@
   },
   "13998813368191186925": {
     "magazine_capacity": 25,
-    "magazines": 4,
-    "magazines_max": 6,
-    "magazines_refill": 6,
-    "weapon_stat_modifiers[0].type": "WeaponStatModifierType_Add_Ergonomics",
-    "weapon_stat_modifiers[0].value": -5,
-    "weapon_stat_modifiers[1].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[1].value": 0,
-    "weapon_stat_modifiers[2].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[2].value": 0,
-    "weapon_stat_modifiers[3].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[3].value": 0,
-    "weapon_stat_modifiers[4].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[4].value": 0,
-    "weapon_stat_modifiers[5].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[5].value": 0,
-    "weapon_stat_modifiers[6].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[6].value": 0,
-    "weapon_stat_modifiers[7].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[7].value": 0,
+    "magazines": 6,
+    "magazines_max": 8,
+    "magazines_refill": 8,
     "magazine_path": 13998813368191186925,
     "magazine_adjusting_nodes[0]": 1391881483,
     "magazine_adjusting_nodes[1]": 2051726355,

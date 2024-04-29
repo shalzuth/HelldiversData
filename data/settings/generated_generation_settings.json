@@ -15,6 +15,9 @@
       "outside_playable_area_culling_screen_size_weight": 1,
       "horde_playable_distance": 1,
       "detailed_distance": 174,
+      "water_safe_height": 0.5,
+      "full_fade_height_variance": 2,
+      "full_fade_radius_factor": 1.79999995,
       "exploration_settings": {
         "distance_between_locations": 20,
         "fill_rate": 1,

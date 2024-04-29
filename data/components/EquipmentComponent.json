@@ -33,6 +33,6 @@
     "holster_unit" : { "type": "ulong", "description": "[unit]Path to the holster unit. This is an additional unit to spawn on the holster node that doesn't move with the equipment. Useful for sheaths etc. Note that since it's an additional unit it's more expensive than building the sheath into the parent unit, so only use when needed." },
     "hint_id" : { "type": "uint", "description": "[string]Hint ID to trigger when equipping this equipment" },
     "equipment_wwise_index" : { "type": "EquipmentWwiseIndex", "default": "EquipmentWwiseIndex_Carryable_FuelBarrel", "description": "the wwise item index for this equipment" },
-    "backpack_wwise_index" : { "type": "BackpackWwiseIndex", "default": "BackpackWwiseIndex_Chemicals", "description": "the wwise item index for this backpack if it is a backpack" },
+    "backpack_wwise_index" : { "type": "BackpackWwiseIndex", "default": "BackpackWwiseIndex_None", "description": "the wwise item index for this backpack if it is a backpack" },
     "use_backpack_filled_switch" : { "type": "byte", "description": "[bool]If yes set_switch would be called on audio source before pickup drop foley and impact sounds" }
 }}
