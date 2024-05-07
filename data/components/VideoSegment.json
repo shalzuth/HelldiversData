@@ -5,6 +5,7 @@
     "vo_event" : { "type": "uint" },
     "vo_event_stop" : { "type": "uint" },
     "random_vo_from_list" : { "type": "array", "subtype": "uint" },
+    "use_vo_system" : { "type": "byte" },
     "time" : { "type": "float", "default": -1 },
     "padding_after_vo" : { "type": "float", "default": 0 },
     "loop_until_vo_done" : { "type": "uint" },

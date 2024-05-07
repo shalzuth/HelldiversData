@@ -13388,7 +13388,7 @@
           "explosion_proximity": 0.5,
           "explosion_delay": 0,
           "explosion_type_expire": "ExplosionType_None",
-          "arming_distance": 0,
+          "arming_distance": 1,
           "decal_size": 0.100000001,
           "surface_impact_type": "SurfaceImpactType_projectile_plasma_medium",
           "ricochet_impact_type": "SurfaceImpactType_projectile_plasma_medium",

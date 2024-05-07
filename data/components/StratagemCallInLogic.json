@@ -2,5 +2,6 @@
     "use_objective_position" : { "type": "byte" },
     "objective_owner" : { "type": "byte" },
     "host_confirmation" : { "type": "byte" },
-    "host_confirm_unique_instance" : { "type": "byte" }
+    "host_confirm_unique_instance" : { "type": "byte" },
+    "host_confirm_objective_stratagem_usage" : { "type": "byte" }
 }}
