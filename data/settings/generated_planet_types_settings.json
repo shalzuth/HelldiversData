@@ -647,6 +647,34 @@
           ]
         },
         {
+          "type": 15034749943461627872,
+          "planet_settings": [
+            {
+              "unit_id": 16626987737384086392,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 16742106435333896601,
+              "billboard_material_id": 15197405240544120306,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.92156899,
+                "z": 0.600000024
+              },
+              "emissive_intensity": 45,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_sun"
+            }
+          ]
+        },
+        {
           "type": 6608886431199375815,
           "planet_settings": [
             {

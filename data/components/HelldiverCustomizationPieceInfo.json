@@ -10,5 +10,6 @@
     "cape_nac" : { "type": "ulong" },
     "decal_scalar_fields" : { "type": "ulong" },
     "base_data" : { "type": "ulong" },
-    "decal_sheet" : { "type": "ulong" }
+    "decal_sheet" : { "type": "ulong" },
+    "tone_variations" : { "type": "ulong" }
 }}

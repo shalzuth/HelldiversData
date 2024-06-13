@@ -1,14 +1,14 @@
 {
-  "18163938711866866090": {
+  "6453678319562593995": {
     "always_active": 0,
     "start_active": 1,
     "max_distance": 750,
-    "projection_node": 747556395,
+    "projection_node": 3489283874,
     "projection_node_mount_name": 0,
     "max_angle": 180,
-    "weapon_draw_anim": 0,
-    "weapon_holster_anim": 0,
-    "active_while_firing": 1,
+    "weapon_draw_anim": 2134229286,
+    "weapon_holster_anim": 2235895672,
+    "active_while_firing": 0,
     "laser_effect": 9179515513749639739,
     "laser_dot_effect": 1230259952302701429
   },
@@ -22,6 +22,19 @@
     "weapon_draw_anim": 0,
     "weapon_holster_anim": 0,
     "active_while_firing": 0,
+    "laser_effect": 9179515513749639739,
+    "laser_dot_effect": 1230259952302701429
+  },
+  "18163938711866866090": {
+    "always_active": 0,
+    "start_active": 1,
+    "max_distance": 750,
+    "projection_node": 747556395,
+    "projection_node_mount_name": 0,
+    "max_angle": 180,
+    "weapon_draw_anim": 0,
+    "weapon_holster_anim": 0,
+    "active_while_firing": 1,
     "laser_effect": 9179515513749639739,
     "laser_dot_effect": 1230259952302701429
   }

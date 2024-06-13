@@ -56,5 +56,6 @@
     "equipment_tags" : { "type": "array", "subtype": "uint" },
     "customizations" : { "type": "array", "subtype": "uint" },
     "allow_for_button_overlap" : { "type": "byte" },
-    "deploy_on_navmesh_only" : { "type": "byte" }
+    "deploy_on_navmesh_only" : { "type": "byte" },
+    "payload_unit_customization" : { "type": "UnitCustomizationCollectionType", "default": "UnitCustomizationCollectionType_Count" }
 }}

@@ -1,0 +1,96 @@
+{
+  "9839990240943553653": {
+    "velocity_min_drag": 4,
+    "velocity_max_drag": 12,
+    "buoyancy_spheres": [
+      {
+        "radius": 0.800000012,
+        "offset": {
+          "x": 0.5,
+          "y": 1.29999995,
+          "z": 1.10000002
+        },
+        "floatyness": 1.76665998,
+        "dragginess_min": 0.216659993,
+        "dragginess_max": 0.666660011
+      },
+      {
+        "radius": 0.800000012,
+        "offset": {
+          "x": -0.5,
+          "y": 1.29999995,
+          "z": 1.10000002
+        },
+        "floatyness": 1.76660001,
+        "dragginess_min": 0.216659993,
+        "dragginess_max": 0.666660011
+      },
+      {
+        "radius": 0.800000012,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        },
+        "floatyness": 1.76660001,
+        "dragginess_min": 0.216659993,
+        "dragginess_max": 0.666660011
+      },
+      {
+        "radius": 0.800000012,
+        "offset": {
+          "x": 0.5,
+          "y": -1.29999995,
+          "z": 1
+        },
+        "floatyness": 1.76660001,
+        "dragginess_min": 0.216659993,
+        "dragginess_max": 0.666660011
+      },
+      {
+        "radius": 0.800000012,
+        "offset": {
+          "x": -0.5,
+          "y": -1.29999995,
+          "z": 1
+        },
+        "floatyness": 1.76660001,
+        "dragginess_min": 0.216659993,
+        "dragginess_max": 0.666660011
+      },
+      {
+        "radius": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "floatyness": 0,
+        "dragginess_min": 0,
+        "dragginess_max": 0
+      },
+      {
+        "radius": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "floatyness": 0,
+        "dragginess_min": 0,
+        "dragginess_max": 0
+      },
+      {
+        "radius": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "floatyness": 0,
+        "dragginess_min": 0,
+        "dragginess_max": 0
+      }
+    ]
+  }
+}

@@ -81,8 +81,8 @@
   },
   "3397257356679758881": {
     "initial_delay": 0,
-    "num_bombs": 30,
-    "bomb_interval": 0.0599999987,
+    "num_bombs": 60,
+    "bomb_interval": 0.0450000018,
     "wander_offset_radius_min": 1,
     "wander_offset_radius_max": 2,
     "num_salvos": 4,
@@ -199,6 +199,46 @@
     ],
     "tag_avoidance_distance": 0
   },
+  "4400483397467331392": {
+    "initial_delay": 0,
+    "num_bombs": 1,
+    "bomb_interval": 5,
+    "wander_offset_radius_min": 1,
+    "wander_offset_radius_max": 0,
+    "num_salvos": 1,
+    "salvo_interval": 5,
+    "area_size": 5,
+    "wander_start_area_radius": 0,
+    "fire_height": 3000,
+    "firing_angle_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "fire_from_ship": 1,
+    "projectile_types": [
+      "ProjectileType_Orbital_illumination_shot",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None"
+    ],
+    "speed": 0,
+    "muzzle_flash": 7036949873247378259,
+    "start_delay": 0,
+    "walk_angle": 0,
+    "walk_offset_fraction": 0,
+    "destroyer_stratagem_fire": 3511619768,
+    "destroyer_stratagem_fire_stop": 948676210,
+    "tag_avoidances": [
+      "Tag_None",
+      "Tag_None"
+    ],
+    "tag_avoidance_distance": 0
+  },
   "14454233564159978284": {
     "initial_delay": 0,
     "num_bombs": 1,
@@ -279,46 +319,6 @@
     ],
     "tag_avoidance_distance": 16
   },
-  "4822214108367178297": {
-    "initial_delay": 0,
-    "num_bombs": 3,
-    "bomb_interval": 1.5,
-    "wander_offset_radius_min": 0,
-    "wander_offset_radius_max": 0,
-    "num_salvos": 2,
-    "salvo_interval": 3,
-    "area_size": 25,
-    "wander_start_area_radius": 0,
-    "fire_height": 3000,
-    "firing_angle_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "fire_from_ship": 0,
-    "projectile_types": [
-      "ProjectileType_Orbital_Cannon_380mm_HE",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None"
-    ],
-    "speed": 0,
-    "muzzle_flash": 7036949873247378259,
-    "start_delay": 10,
-    "walk_angle": 0,
-    "walk_offset_fraction": 0,
-    "destroyer_stratagem_fire": 3511619768,
-    "destroyer_stratagem_fire_stop": 948676210,
-    "tag_avoidances": [
-      "Tag_None",
-      "Tag_None"
-    ],
-    "tag_avoidance_distance": 0
-  },
   "8480614394778878677": {
     "initial_delay": 0,
     "num_bombs": 1,
@@ -349,6 +349,46 @@
     "speed": 0,
     "muzzle_flash": 7036949873247378259,
     "start_delay": 0,
+    "walk_angle": 0,
+    "walk_offset_fraction": 0,
+    "destroyer_stratagem_fire": 3511619768,
+    "destroyer_stratagem_fire_stop": 948676210,
+    "tag_avoidances": [
+      "Tag_None",
+      "Tag_None"
+    ],
+    "tag_avoidance_distance": 0
+  },
+  "4822214108367178297": {
+    "initial_delay": 0,
+    "num_bombs": 3,
+    "bomb_interval": 1.5,
+    "wander_offset_radius_min": 0,
+    "wander_offset_radius_max": 0,
+    "num_salvos": 2,
+    "salvo_interval": 3,
+    "area_size": 25,
+    "wander_start_area_radius": 0,
+    "fire_height": 3000,
+    "firing_angle_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "fire_from_ship": 0,
+    "projectile_types": [
+      "ProjectileType_Orbital_Cannon_380mm_HE",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None"
+    ],
+    "speed": 0,
+    "muzzle_flash": 7036949873247378259,
+    "start_delay": 10,
     "walk_angle": 0,
     "walk_offset_fraction": 0,
     "destroyer_stratagem_fire": 3511619768,
@@ -399,46 +439,6 @@
     ],
     "tag_avoidance_distance": 0
   },
-  "3259427501513118129": {
-    "initial_delay": 0,
-    "num_bombs": 3,
-    "bomb_interval": 0.75,
-    "wander_offset_radius_min": 0,
-    "wander_offset_radius_max": 0,
-    "num_salvos": 5,
-    "salvo_interval": 2.5,
-    "area_size": 27,
-    "wander_start_area_radius": 0,
-    "fire_height": 3000,
-    "firing_angle_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "fire_from_ship": 1,
-    "projectile_types": [
-      "ProjectileType_Orbital_Cannon_120mm_HE",
-      "ProjectileType_Orbital_Cannon_120mm_HE_Cheap",
-      "ProjectileType_Orbital_Cannon_120mm_HE_Cheap",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None"
-    ],
-    "speed": 0,
-    "muzzle_flash": 7036949873247378259,
-    "start_delay": 0,
-    "walk_angle": 0,
-    "walk_offset_fraction": 0,
-    "destroyer_stratagem_fire": 3511619768,
-    "destroyer_stratagem_fire_stop": 948676210,
-    "tag_avoidances": [
-      "Tag_None",
-      "Tag_None"
-    ],
-    "tag_avoidance_distance": 0
-  },
   "15741945895218221769": {
     "initial_delay": 0,
     "num_bombs": 1,
@@ -460,6 +460,46 @@
       "ProjectileType_Orbital_Smoke",
       "ProjectileType_None",
       "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None",
+      "ProjectileType_None"
+    ],
+    "speed": 0,
+    "muzzle_flash": 7036949873247378259,
+    "start_delay": 0,
+    "walk_angle": 0,
+    "walk_offset_fraction": 0,
+    "destroyer_stratagem_fire": 3511619768,
+    "destroyer_stratagem_fire_stop": 948676210,
+    "tag_avoidances": [
+      "Tag_None",
+      "Tag_None"
+    ],
+    "tag_avoidance_distance": 0
+  },
+  "3259427501513118129": {
+    "initial_delay": 0,
+    "num_bombs": 3,
+    "bomb_interval": 0.75,
+    "wander_offset_radius_min": 0,
+    "wander_offset_radius_max": 0,
+    "num_salvos": 5,
+    "salvo_interval": 2.5,
+    "area_size": 27,
+    "wander_start_area_radius": 0,
+    "fire_height": 3000,
+    "firing_angle_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "fire_from_ship": 1,
+    "projectile_types": [
+      "ProjectileType_Orbital_Cannon_120mm_HE",
+      "ProjectileType_Orbital_Cannon_120mm_HE_Cheap",
+      "ProjectileType_Orbital_Cannon_120mm_HE_Cheap",
       "ProjectileType_None",
       "ProjectileType_None",
       "ProjectileType_None",
@@ -538,46 +578,6 @@
     "fire_from_ship": 1,
     "projectile_types": [
       "ProjectileType_Orbital_Stunround",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None",
-      "ProjectileType_None"
-    ],
-    "speed": 0,
-    "muzzle_flash": 7036949873247378259,
-    "start_delay": 0,
-    "walk_angle": 0,
-    "walk_offset_fraction": 0,
-    "destroyer_stratagem_fire": 3511619768,
-    "destroyer_stratagem_fire_stop": 948676210,
-    "tag_avoidances": [
-      "Tag_None",
-      "Tag_None"
-    ],
-    "tag_avoidance_distance": 0
-  },
-  "10920505073297836649": {
-    "initial_delay": 3,
-    "num_bombs": 6,
-    "bomb_interval": 1.29999995,
-    "wander_offset_radius_min": 0,
-    "wander_offset_radius_max": 0,
-    "num_salvos": 1,
-    "salvo_interval": 2.5,
-    "area_size": 20,
-    "wander_start_area_radius": 0,
-    "fire_height": 600,
-    "firing_angle_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "fire_from_ship": 0,
-    "projectile_types": [
-      "ProjectileType_Illuminate_ShootingStar",
       "ProjectileType_None",
       "ProjectileType_None",
       "ProjectileType_None",

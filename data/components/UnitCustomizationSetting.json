@@ -1,0 +1,8 @@
+{ "UnitCustomizationSetting" : {
+    "debug_name" : { "type": "string" },
+    "id" : { "type": "uint" },
+    "add_path" : { "type": "ulong" },
+    "name" : { "type": "uint" },
+    "thumbnail" : { "type": "ulong" },
+    "ui_widget_colors" : { "type": "array", "subtype": "CApiVector3" }
+}}

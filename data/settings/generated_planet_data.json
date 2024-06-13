@@ -9,18 +9,18 @@
       "planet_layout_id": 1133539010,
       "debug_name": "planet_000",
       "region_lowland": {
-        "name": "region_grassland_lowland",
-        "id": 3943526913,
-        "type": "LevelGenerationRegion_region_grassland_lowland",
+        "name": "region_primordial_base",
+        "id": 3327384286,
+        "type": "LevelGenerationRegion_region_primordial_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_grassland_highland",
-        "id": 2711430787,
-        "type": "LevelGenerationRegion_region_grassland_highland",
+        "name": "region_primordial_base",
+        "id": 3327384286,
+        "type": "LevelGenerationRegion_region_primordial_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
@@ -28,12 +28,12 @@
       },
       "palette_group_lowland": {
         "palette": 12999053778243711598,
-        "asset_grading": 4935372685803615507,
-        "sky_settings_group": 3077809294586605682,
-        "day_grading": 17718504214247688773,
-        "night_grading": 14719553505684869918,
-        "sunset_grading": 6504000327483373655,
-        "weather_color_set": 1957965896,
+        "asset_grading": 6545277364798211805,
+        "sky_settings_group": 231126147772053843,
+        "day_grading": 10953264322138900820,
+        "night_grading": 17201304321028011462,
+        "sunset_grading": 462720968075969107,
+        "weather_color_set": 1046304993,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -121,12 +121,12 @@
       },
       "palette_group_highland": {
         "palette": 12999053778243711598,
-        "asset_grading": 4935372685803615507,
-        "sky_settings_group": 3077809294586605682,
-        "day_grading": 17718504214247688773,
-        "night_grading": 14719553505684869918,
-        "sunset_grading": 6504000327483373655,
-        "weather_color_set": 1957965896,
+        "asset_grading": 6545277364798211805,
+        "sky_settings_group": 231126147772053843,
+        "day_grading": 10953264322138900820,
+        "night_grading": 17201304321028011462,
+        "sunset_grading": 462720968075969107,
+        "weather_color_set": 1046304993,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -212,12 +212,12 @@
           }
         }
       },
-      "scenario_settings_lowland": 18223106366084300880,
-      "scenario_settings_highland": 12500768313179901174,
+      "scenario_settings_lowland": 17540756856481218770,
+      "scenario_settings_highland": 17540756856481218770,
       "gameplay_modifiers": [],
-      "planet_type": "PlanetType_grassland",
+      "planet_type": "PlanetType_primordial",
       "nature_location_tags": [],
-      "scatter_settings": 1648467210,
+      "scatter_settings": 3770696825,
       "mission_planet_unit": 2322133610652457407,
       "mission_planet_hologram_unit": 10600579624585958003,
       "mission_planet_unit_package": 17452603498051172572,
@@ -235,8 +235,8 @@
       "hologram_planet_material": 7815010684332015074,
       "planet_preview_image": 7007713637871885556,
       "resource_override_id": 0,
-      "water_entity": 15448087415804453674,
-      "shading_environment_entity": 14410076596726679657,
+      "water_entity": 13459592671902600388,
+      "shading_environment_entity": 7989844785865596997,
       "package_path": 1825257325323805160,
       "__subdata": {}
     }
@@ -2449,39 +2449,39 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_primordial_base",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 1748948844,
-      "planet_description_loc": 3494856217,
-      "planet_description_short_loc": 1609266965,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 24542409,
-      "planet_layout_id": 2317967701,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_010",
       "region_lowland": {
-        "name": "region_primordial_base",
-        "id": 3327384286,
-        "type": "LevelGenerationRegion_region_primordial_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_primordial_base",
-        "id": 3327384286,
-        "type": "LevelGenerationRegion_region_primordial_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "palette_group_lowland": {
-        "palette": 12999053778243711598,
-        "asset_grading": 6545277364798211805,
-        "sky_settings_group": 231126147772053843,
-        "day_grading": 10953264322138900820,
-        "night_grading": 17201304321028011462,
-        "sunset_grading": 462720968075969107,
-        "weather_color_set": 1046304993,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -2568,13 +2568,13 @@
         }
       },
       "palette_group_highland": {
-        "palette": 12999053778243711598,
-        "asset_grading": 6545277364798211805,
-        "sky_settings_group": 231126147772053843,
-        "day_grading": 10953264322138900820,
-        "night_grading": 17201304321028011462,
-        "sunset_grading": 462720968075969107,
-        "weather_color_set": 1046304993,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -2660,36 +2660,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 3969886560168353908,
-      "scenario_settings_highland": 3969886560168353908,
-      "gameplay_modifiers": [
-        7367839628474820840
-      ],
-      "planet_type": "PlanetType_primordial",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 3770696825,
-      "mission_planet_unit": 13187778022493021016,
-      "mission_planet_hologram_unit": 11614153421262048649,
-      "mission_planet_unit_package": 14725816838777544357,
-      "mission_planet_hologram_unit_package": 8027741467325055894,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        10402695917066434162,
-        2691692146254360379,
-        7821695218604731822
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2848078618,
-      "ambience_sound_id_stop": 2843759170,
-      "hologram_planet_material": 1213515031915065842,
-      "planet_preview_image": 14615401480442690726,
-      "resource_override_id": 532668673,
-      "water_entity": 13459592671902600388,
-      "shading_environment_entity": 7989844785865596997,
-      "package_path": 2602100947768644297,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -11015,39 +11011,39 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_arctic_glacier_coldrocky",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 2324026679,
-      "planet_description_loc": 1004277842,
-      "planet_description_short_loc": 1973308895,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 3498149620,
-      "planet_layout_id": 164549210,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_045",
       "region_lowland": {
-        "name": "region_arctic_glacier_coldrocky",
-        "id": 1989021042,
-        "type": "LevelGenerationRegion_region_arctic_glacier_coldrocky",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_arctic_glacier_coldrocky",
-        "id": 1989021042,
-        "type": "LevelGenerationRegion_region_arctic_glacier_coldrocky",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "palette_group_lowland": {
-        "palette": 8721134988434953429,
-        "asset_grading": 4611012287559970284,
-        "sky_settings_group": 2226652149551848021,
-        "day_grading": 13586071597337791386,
-        "night_grading": 13524414485108663972,
-        "sunset_grading": 4724620720777393913,
-        "weather_color_set": 638110234,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -11134,13 +11130,13 @@
         }
       },
       "palette_group_highland": {
-        "palette": 8721134988434953429,
-        "asset_grading": 4611012287559970284,
-        "sky_settings_group": 2226652149551848021,
-        "day_grading": 13586071597337791386,
-        "night_grading": 13524414485108663972,
-        "sunset_grading": 4724620720777393913,
-        "weather_color_set": 638110234,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -11226,35 +11222,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 9771760528182780652,
-      "scenario_settings_highland": 9771760528182780652,
-      "gameplay_modifiers": [
-        17158027899871433282
-      ],
-      "planet_type": "PlanetType_arctic",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 3601004775,
-      "mission_planet_unit": 8046141010739254446,
-      "mission_planet_hologram_unit": 15410614428089947530,
-      "mission_planet_unit_package": 13242509646417786894,
-      "mission_planet_hologram_unit_package": 13193516015419392590,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        9028876454187498690,
-        14556690324521519296
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2567015144,
-      "ambience_sound_id_stop": 1002004184,
-      "hologram_planet_material": 9731250435774388321,
-      "planet_preview_image": 11241480467026568187,
-      "resource_override_id": 4238797548,
-      "water_entity": 14299165709914025795,
-      "shading_environment_entity": 5077618472122534686,
-      "package_path": 13945182558946485076,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -11991,39 +11984,39 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_arctic_glacier_coldrocky",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 3115822437,
-      "planet_description_loc": 1004277842,
-      "planet_description_short_loc": 1973308895,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 283266581,
-      "planet_layout_id": 164549210,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_049",
       "region_lowland": {
-        "name": "region_arctic_glacier_coldrocky",
-        "id": 1989021042,
-        "type": "LevelGenerationRegion_region_arctic_glacier_coldrocky",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_arctic_glacier_coldrocky",
-        "id": 1989021042,
-        "type": "LevelGenerationRegion_region_arctic_glacier_coldrocky",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "palette_group_lowland": {
-        "palette": 8721134988434953429,
-        "asset_grading": 4611012287559970284,
-        "sky_settings_group": 2226652149551848021,
-        "day_grading": 13586071597337791386,
-        "night_grading": 13524414485108663972,
-        "sunset_grading": 4724620720777393913,
-        "weather_color_set": 638110234,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -12110,13 +12103,13 @@
         }
       },
       "palette_group_highland": {
-        "palette": 8721134988434953429,
-        "asset_grading": 4611012287559970284,
-        "sky_settings_group": 2226652149551848021,
-        "day_grading": 13586071597337791386,
-        "night_grading": 13524414485108663972,
-        "sunset_grading": 4724620720777393913,
-        "weather_color_set": 638110234,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -12202,35 +12195,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 9771760528182780652,
-      "scenario_settings_highland": 9771760528182780652,
-      "gameplay_modifiers": [
-        17158027899871433282
-      ],
-      "planet_type": "PlanetType_arctic",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 3601004775,
-      "mission_planet_unit": 8046141010739254446,
-      "mission_planet_hologram_unit": 15410614428089947530,
-      "mission_planet_unit_package": 13242509646417786894,
-      "mission_planet_hologram_unit_package": 13193516015419392590,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        9028876454187498690,
-        14556690324521519296
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2567015144,
-      "ambience_sound_id_stop": 1002004184,
-      "hologram_planet_material": 9731250435774388321,
-      "planet_preview_image": 11241480467026568187,
-      "resource_override_id": 4238797548,
-      "water_entity": 14299165709914025795,
-      "shading_environment_entity": 5077618472122534686,
-      "package_path": 13945182558946485076,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -12969,39 +12959,39 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_arctic_glacier_base",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 147228259,
-      "planet_description_loc": 3131923926,
-      "planet_description_short_loc": 48733086,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 4054534267,
-      "planet_layout_id": 2336540421,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_053",
       "region_lowland": {
-        "name": "region_arctic_glacier_base",
-        "id": 2624058165,
-        "type": "LevelGenerationRegion_region_arctic_glacier_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_arctic_glacier_base",
-        "id": 2624058165,
-        "type": "LevelGenerationRegion_region_arctic_glacier_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "palette_group_lowland": {
-        "palette": 8721134988434953429,
-        "asset_grading": 13769039955523153624,
-        "sky_settings_group": 13822529412242819905,
-        "day_grading": 1938738290243948388,
-        "night_grading": 15609318627740705496,
-        "sunset_grading": 9164097586857618829,
-        "weather_color_set": 1838271887,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -13088,13 +13078,13 @@
         }
       },
       "palette_group_highland": {
-        "palette": 8721134988434953429,
-        "asset_grading": 13769039955523153624,
-        "sky_settings_group": 13822529412242819905,
-        "day_grading": 1938738290243948388,
-        "night_grading": 15609318627740705496,
-        "sunset_grading": 9164097586857618829,
-        "weather_color_set": 1838271887,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -13180,36 +13170,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 5793662321275209509,
-      "scenario_settings_highland": 5793662321275209509,
-      "gameplay_modifiers": [
-        17158027899871433282,
-        15445992454365354016
-      ],
-      "planet_type": "PlanetType_arctic",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 1829843150,
-      "mission_planet_unit": 8046141010739254446,
-      "mission_planet_hologram_unit": 15410614428089947530,
-      "mission_planet_unit_package": 13242509646417786894,
-      "mission_planet_hologram_unit_package": 13193516015419392590,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        12727301275601137672,
-        18050450774742362348
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2567015147,
-      "ambience_sound_id_stop": 1002004184,
-      "hologram_planet_material": 1550077865298027848,
-      "planet_preview_image": 13416011926434255521,
-      "resource_override_id": 4282460712,
-      "water_entity": 8795067754892534935,
-      "shading_environment_entity": 1392931991983445195,
-      "package_path": 5905341208985627161,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -14928,39 +14914,39 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_arctic_glacier_base",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 4275167981,
-      "planet_description_loc": 3131923926,
-      "planet_description_short_loc": 48733086,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 608333459,
-      "planet_layout_id": 2336540421,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_061",
       "region_lowland": {
-        "name": "region_arctic_glacier_base",
-        "id": 2624058165,
-        "type": "LevelGenerationRegion_region_arctic_glacier_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_arctic_glacier_base",
-        "id": 2624058165,
-        "type": "LevelGenerationRegion_region_arctic_glacier_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "palette_group_lowland": {
-        "palette": 8721134988434953429,
-        "asset_grading": 13769039955523153624,
-        "sky_settings_group": 13822529412242819905,
-        "day_grading": 1938738290243948388,
-        "night_grading": 15609318627740705496,
-        "sunset_grading": 9164097586857618829,
-        "weather_color_set": 1838271887,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -15047,13 +15033,13 @@
         }
       },
       "palette_group_highland": {
-        "palette": 8721134988434953429,
-        "asset_grading": 13769039955523153624,
-        "sky_settings_group": 13822529412242819905,
-        "day_grading": 1938738290243948388,
-        "night_grading": 15609318627740705496,
-        "sunset_grading": 9164097586857618829,
-        "weather_color_set": 1838271887,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -15139,36 +15125,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 5793662321275209509,
-      "scenario_settings_highland": 5793662321275209509,
-      "gameplay_modifiers": [
-        17158027899871433282,
-        15445992454365354016
-      ],
-      "planet_type": "PlanetType_arctic",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 1829843150,
-      "mission_planet_unit": 8046141010739254446,
-      "mission_planet_hologram_unit": 15410614428089947530,
-      "mission_planet_unit_package": 13242509646417786894,
-      "mission_planet_hologram_unit_package": 13193516015419392590,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        12727301275601137672,
-        18050450774742362348
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2567015147,
-      "ambience_sound_id_stop": 1002004184,
-      "hologram_planet_material": 1550077865298027848,
-      "planet_preview_image": 13416011926434255521,
-      "resource_override_id": 4282460712,
-      "water_entity": 8795067754892534935,
-      "shading_environment_entity": 1392931991983445195,
-      "package_path": 5905341208985627161,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -25471,39 +25453,39 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_primordial_base",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 1846098026,
-      "planet_description_loc": 3494856217,
-      "planet_description_short_loc": 1609266965,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 3277504985,
-      "planet_layout_id": 2317967701,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_104",
       "region_lowland": {
-        "name": "region_primordial_base",
-        "id": 3327384286,
-        "type": "LevelGenerationRegion_region_primordial_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_primordial_base",
-        "id": 3327384286,
-        "type": "LevelGenerationRegion_region_primordial_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "palette_group_lowland": {
-        "palette": 12999053778243711598,
-        "asset_grading": 6545277364798211805,
-        "sky_settings_group": 231126147772053843,
-        "day_grading": 10953264322138900820,
-        "night_grading": 17201304321028011462,
-        "sunset_grading": 462720968075969107,
-        "weather_color_set": 1046304993,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -25590,13 +25572,13 @@
         }
       },
       "palette_group_highland": {
-        "palette": 12999053778243711598,
-        "asset_grading": 6545277364798211805,
-        "sky_settings_group": 231126147772053843,
-        "day_grading": 10953264322138900820,
-        "night_grading": 17201304321028011462,
-        "sunset_grading": 462720968075969107,
-        "weather_color_set": 1046304993,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -25682,36 +25664,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 3969886560168353908,
-      "scenario_settings_highland": 3969886560168353908,
-      "gameplay_modifiers": [
-        7367839628474820840
-      ],
-      "planet_type": "PlanetType_primordial",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 3770696825,
-      "mission_planet_unit": 13187778022493021016,
-      "mission_planet_hologram_unit": 11614153421262048649,
-      "mission_planet_unit_package": 14725816838777544357,
-      "mission_planet_hologram_unit_package": 8027741467325055894,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        10402695917066434162,
-        2691692146254360379,
-        7821695218604731822
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2848078618,
-      "ambience_sound_id_stop": 2843759170,
-      "hologram_planet_material": 1213515031915065842,
-      "planet_preview_image": 14615401480442690726,
-      "resource_override_id": 532668673,
-      "water_entity": 13459592671902600388,
-      "shading_environment_entity": 7989844785865596997,
-      "package_path": 2602100947768644297,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -31106,26 +31084,26 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_moor_arid",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 4212061343,
-      "planet_description_loc": 4271615407,
-      "planet_description_short_loc": 2563964820,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 3827303279,
-      "planet_layout_id": 3054623436,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_127",
       "region_lowland": {
-        "name": "region_moor_arid",
-        "id": 3653678290,
-        "type": "LevelGenerationRegion_region_moor_arid",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_moor_arid",
-        "id": 3653678290,
-        "type": "LevelGenerationRegion_region_moor_arid",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
@@ -31133,12 +31111,12 @@
       },
       "palette_group_lowland": {
         "palette": 17336107534660024198,
-        "asset_grading": 17681927154381425567,
-        "sky_settings_group": 6805131437001885490,
-        "day_grading": 9239711559579144952,
-        "night_grading": 896196763639716149,
-        "sunset_grading": 5484404733797831710,
-        "weather_color_set": 3450067110,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -31226,12 +31204,12 @@
       },
       "palette_group_highland": {
         "palette": 17336107534660024198,
-        "asset_grading": 17681927154381425567,
-        "sky_settings_group": 6805131437001885490,
-        "day_grading": 9239711559579144952,
-        "night_grading": 896196763639716149,
-        "sunset_grading": 5484404733797831710,
-        "weather_color_set": 3450067110,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -31317,36 +31295,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 8597679451065736178,
-      "scenario_settings_highland": 8597679451065736178,
-      "gameplay_modifiers": [
-        9189059319917937722,
-        8912550789086281002
-      ],
-      "planet_type": "PlanetType_moor",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 2052746691,
-      "mission_planet_unit": 10227255733354139374,
-      "mission_planet_hologram_unit": 4014521216836282228,
-      "mission_planet_unit_package": 1224875709728747326,
-      "mission_planet_hologram_unit_package": 2092478285721600037,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        16625241521564926252,
-        17286186298813517771
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 3062278748,
-      "ambience_sound_id_stop": 965507481,
-      "hologram_planet_material": 3601114529108966791,
-      "planet_preview_image": 12326116224398392910,
-      "resource_override_id": 2052746691,
-      "water_entity": 13179138192828902704,
-      "shading_environment_entity": 6023732437008839811,
-      "package_path": 14830115681684620537,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -36238,26 +36212,26 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_moor_arid",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 2028193710,
-      "planet_description_loc": 4271615407,
-      "planet_description_short_loc": 2563964820,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 4096667142,
-      "planet_layout_id": 3054623436,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_148",
       "region_lowland": {
-        "name": "region_moor_arid",
-        "id": 3653678290,
-        "type": "LevelGenerationRegion_region_moor_arid",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_moor_arid",
-        "id": 3653678290,
-        "type": "LevelGenerationRegion_region_moor_arid",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
@@ -36265,12 +36239,12 @@
       },
       "palette_group_lowland": {
         "palette": 17336107534660024198,
-        "asset_grading": 17681927154381425567,
-        "sky_settings_group": 6805131437001885490,
-        "day_grading": 9239711559579144952,
-        "night_grading": 896196763639716149,
-        "sunset_grading": 5484404733797831710,
-        "weather_color_set": 3450067110,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -36358,12 +36332,12 @@
       },
       "palette_group_highland": {
         "palette": 17336107534660024198,
-        "asset_grading": 17681927154381425567,
-        "sky_settings_group": 6805131437001885490,
-        "day_grading": 9239711559579144952,
-        "night_grading": 896196763639716149,
-        "sunset_grading": 5484404733797831710,
-        "weather_color_set": 3450067110,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -36449,36 +36423,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 8597679451065736178,
-      "scenario_settings_highland": 8597679451065736178,
-      "gameplay_modifiers": [
-        9189059319917937722,
-        8912550789086281002
-      ],
-      "planet_type": "PlanetType_moor",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 2052746691,
-      "mission_planet_unit": 10227255733354139374,
-      "mission_planet_hologram_unit": 4014521216836282228,
-      "mission_planet_unit_package": 1224875709728747326,
-      "mission_planet_hologram_unit_package": 2092478285721600037,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        16625241521564926252,
-        17286186298813517771
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 3062278748,
-      "ambience_sound_id_stop": 965507481,
-      "hologram_planet_material": 3601114529108966791,
-      "planet_preview_image": 12326116224398392910,
-      "resource_override_id": 2052746691,
-      "water_entity": 13179138192828902704,
-      "shading_environment_entity": 6023732437008839811,
-      "package_path": 14830115681684620537,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -37951,39 +37921,39 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_primordial_base",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 2418805493,
-      "planet_description_loc": 3494856217,
-      "planet_description_short_loc": 1609266965,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 1305211969,
-      "planet_layout_id": 2317967701,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_155",
       "region_lowland": {
-        "name": "region_primordial_base",
-        "id": 3327384286,
-        "type": "LevelGenerationRegion_region_primordial_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_primordial_base",
-        "id": 3327384286,
-        "type": "LevelGenerationRegion_region_primordial_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "palette_group_lowland": {
-        "palette": 12999053778243711598,
-        "asset_grading": 6545277364798211805,
-        "sky_settings_group": 231126147772053843,
-        "day_grading": 10953264322138900820,
-        "night_grading": 17201304321028011462,
-        "sunset_grading": 462720968075969107,
-        "weather_color_set": 1046304993,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -38070,13 +38040,13 @@
         }
       },
       "palette_group_highland": {
-        "palette": 12999053778243711598,
-        "asset_grading": 6545277364798211805,
-        "sky_settings_group": 231126147772053843,
-        "day_grading": 10953264322138900820,
-        "night_grading": 17201304321028011462,
-        "sunset_grading": 462720968075969107,
-        "weather_color_set": 1046304993,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -38162,36 +38132,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 3969886560168353908,
-      "scenario_settings_highland": 3969886560168353908,
-      "gameplay_modifiers": [
-        7367839628474820840
-      ],
-      "planet_type": "PlanetType_primordial",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 3770696825,
-      "mission_planet_unit": 13187778022493021016,
-      "mission_planet_hologram_unit": 11614153421262048649,
-      "mission_planet_unit_package": 14725816838777544357,
-      "mission_planet_hologram_unit_package": 8027741467325055894,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        10402695917066434162,
-        2691692146254360379,
-        7821695218604731822
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2848078618,
-      "ambience_sound_id_stop": 2843759170,
-      "hologram_planet_material": 1213515031915065842,
-      "planet_preview_image": 14615401480442690726,
-      "resource_override_id": 532668673,
-      "water_entity": 13459592671902600388,
-      "shading_environment_entity": 7989844785865596997,
-      "package_path": 2602100947768644297,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -41137,39 +41103,39 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_primordial_base",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 655206231,
-      "planet_description_loc": 3494856217,
-      "planet_description_short_loc": 1609266965,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 1978655685,
-      "planet_layout_id": 2317967701,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_168",
       "region_lowland": {
-        "name": "region_primordial_base",
-        "id": 3327384286,
-        "type": "LevelGenerationRegion_region_primordial_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_primordial_base",
-        "id": 3327384286,
-        "type": "LevelGenerationRegion_region_primordial_base",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "palette_group_lowland": {
-        "palette": 12999053778243711598,
-        "asset_grading": 6545277364798211805,
-        "sky_settings_group": 231126147772053843,
-        "day_grading": 10953264322138900820,
-        "night_grading": 17201304321028011462,
-        "sunset_grading": 462720968075969107,
-        "weather_color_set": 1046304993,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -41256,13 +41222,13 @@
         }
       },
       "palette_group_highland": {
-        "palette": 12999053778243711598,
-        "asset_grading": 6545277364798211805,
-        "sky_settings_group": 231126147772053843,
-        "day_grading": 10953264322138900820,
-        "night_grading": 17201304321028011462,
-        "sunset_grading": 462720968075969107,
-        "weather_color_set": 1046304993,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -41348,36 +41314,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 3969886560168353908,
-      "scenario_settings_highland": 3969886560168353908,
-      "gameplay_modifiers": [
-        7367839628474820840
-      ],
-      "planet_type": "PlanetType_primordial",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 3770696825,
-      "mission_planet_unit": 13187778022493021016,
-      "mission_planet_hologram_unit": 11614153421262048649,
-      "mission_planet_unit_package": 14725816838777544357,
-      "mission_planet_hologram_unit_package": 8027741467325055894,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        10402695917066434162,
-        2691692146254360379,
-        7821695218604731822
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2848078618,
-      "ambience_sound_id_stop": 2843759170,
-      "hologram_planet_material": 1213515031915065842,
-      "planet_preview_image": 14615401480442690726,
-      "resource_override_id": 532668673,
-      "water_entity": 13459592671902600388,
-      "shading_environment_entity": 7989844785865596997,
-      "package_path": 2602100947768644297,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -44072,26 +44034,26 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_moor_tundra",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 3955894400,
-      "planet_description_loc": 1511294332,
-      "planet_description_short_loc": 1618997323,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 2987517756,
-      "planet_layout_id": 3978489598,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_180",
       "region_lowland": {
-        "name": "region_moor_tundra",
-        "id": 1145693572,
-        "type": "LevelGenerationRegion_region_moor_tundra",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_moor_tundra",
-        "id": 1145693572,
-        "type": "LevelGenerationRegion_region_moor_tundra",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
@@ -44099,12 +44061,12 @@
       },
       "palette_group_lowland": {
         "palette": 17336107534660024198,
-        "asset_grading": 12424525065604039785,
-        "sky_settings_group": 9430822302395850472,
-        "day_grading": 13187636321907533215,
-        "night_grading": 17067520293128882802,
-        "sunset_grading": 11996597797084078229,
-        "weather_color_set": 584272944,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -44192,12 +44154,12 @@
       },
       "palette_group_highland": {
         "palette": 17336107534660024198,
-        "asset_grading": 12424525065604039785,
-        "sky_settings_group": 9430822302395850472,
-        "day_grading": 13187636321907533215,
-        "night_grading": 17067520293128882802,
-        "sunset_grading": 11996597797084078229,
-        "weather_color_set": 584272944,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -44283,34 +44245,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 13781888703496057065,
-      "scenario_settings_highland": 13781888703496057065,
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
       "gameplay_modifiers": [],
-      "planet_type": "PlanetType_moor",
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 3967891718,
-      "mission_planet_unit": 12172259653590365014,
-      "mission_planet_hologram_unit": 10578981810903151403,
-      "mission_planet_unit_package": 1093605750628308031,
-      "mission_planet_hologram_unit_package": 7916161136627725517,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        17658672166588072976,
-        13193255180914294770,
-        11160366392179934006
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 3062278749,
-      "ambience_sound_id_stop": 2843759170,
-      "hologram_planet_material": 1521441651498739397,
-      "planet_preview_image": 7029783308768802130,
-      "resource_override_id": 3967891718,
-      "water_entity": 3033463522747428752,
-      "shading_environment_entity": 6495725001385712712,
-      "package_path": 7133838681763449754,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -45790,39 +45750,39 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_desert_sandy_moon",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 3692813988,
-      "planet_description_loc": 3864025069,
-      "planet_description_short_loc": 3667742708,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 3957561985,
-      "planet_layout_id": 3054623436,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_187",
       "region_lowland": {
-        "name": "region_sandy_moon",
-        "id": 1123932419,
-        "type": "LevelGenerationRegion_region_sandy_moon",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_sandy_moon",
-        "id": 1123932419,
-        "type": "LevelGenerationRegion_region_sandy_moon",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "palette_group_lowland": {
-        "palette": 14739231384011355021,
-        "asset_grading": 15708650897891112184,
-        "sky_settings_group": 14130590797325105064,
-        "day_grading": 12046323032328446270,
-        "night_grading": 8021680896247127594,
-        "sunset_grading": 11622995214150038273,
-        "weather_color_set": 3822147543,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -45909,13 +45869,13 @@
         }
       },
       "palette_group_highland": {
-        "palette": 14739231384011355021,
-        "asset_grading": 15708650897891112184,
-        "sky_settings_group": 14130590797325105064,
-        "day_grading": 12046323032328446270,
-        "night_grading": 8021680896247127594,
-        "sunset_grading": 11622995214150038273,
-        "weather_color_set": 3822147543,
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -46001,37 +45961,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 10081253772588463834,
-      "scenario_settings_highland": 10081253772588463834,
-      "gameplay_modifiers": [
-        17158027899871433282,
-        4030485156009350934
-      ],
-      "planet_type": "PlanetType_sandy",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 3474495815,
-      "mission_planet_unit": 1954262239945034611,
-      "mission_planet_hologram_unit": 4701729542160277040,
-      "mission_planet_unit_package": 2263498283325960596,
-      "mission_planet_hologram_unit_package": 14253365695558403556,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        15900636156732095435,
-        3569599420095912705,
-        4317443101883134544
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 3039547914,
-      "ambience_sound_id_stop": 3058435252,
-      "hologram_planet_material": 8234706051205217920,
-      "planet_preview_image": 15255325004883863641,
-      "resource_override_id": 3474495815,
-      "water_entity": 6571230559497048164,
-      "shading_environment_entity": 18309861728786259162,
-      "package_path": 11932032024590147162,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -54117,26 +54072,26 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_primordial_blue",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 1382288454,
-      "planet_description_loc": 2987454492,
-      "planet_description_short_loc": 1064663086,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 1786720596,
-      "planet_layout_id": 1072966297,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_221",
       "region_lowland": {
-        "name": "region_primordial_blue",
-        "id": 1977766349,
-        "type": "LevelGenerationRegion_region_primordial_blue",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_primordial_blue",
-        "id": 1977766349,
-        "type": "LevelGenerationRegion_region_primordial_blue",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
@@ -54144,12 +54099,12 @@
       },
       "palette_group_lowland": {
         "palette": 17336107534660024198,
-        "asset_grading": 4152350924691793407,
-        "sky_settings_group": 10674665953627637390,
-        "day_grading": 14300918797376922356,
-        "night_grading": 18318404371361595595,
-        "sunset_grading": 11101563842542556689,
-        "weather_color_set": 1383762373,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -54237,12 +54192,12 @@
       },
       "palette_group_highland": {
         "palette": 17336107534660024198,
-        "asset_grading": 4152350924691793407,
-        "sky_settings_group": 10674665953627637390,
-        "day_grading": 14300918797376922356,
-        "night_grading": 18318404371361595595,
-        "sunset_grading": 11101563842542556689,
-        "weather_color_set": 1383762373,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -54328,35 +54283,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 1037070667774882468,
-      "scenario_settings_highland": 1037070667774882468,
-      "gameplay_modifiers": [
-        13716881457783327350
-      ],
-      "planet_type": "PlanetType_primordial",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 2550754961,
-      "mission_planet_unit": 13705445504747819737,
-      "mission_planet_hologram_unit": 3602064377260761609,
-      "mission_planet_unit_package": 7546655015491502956,
-      "mission_planet_hologram_unit_package": 1420830744042375597,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        9519667879573610206,
-        6099691842396476324
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2848078619,
-      "ambience_sound_id_stop": 2843759170,
-      "hologram_planet_material": 11850524601951988381,
-      "planet_preview_image": 1045609387570007771,
-      "resource_override_id": 2550754961,
-      "water_entity": 3203149939450643813,
-      "shading_environment_entity": 9972575535341897669,
-      "package_path": 17087985963811856742,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -56570,26 +56522,26 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_moor_base",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 996702475,
-      "planet_description_loc": 1394082721,
-      "planet_description_short_loc": 3959746381,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 3497354532,
-      "planet_layout_id": 2336540421,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_231",
       "region_lowland": {
-        "name": "region_moor_baseplanet",
-        "id": 1790151266,
-        "type": "LevelGenerationRegion_region_moor_baseplanet",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_moor_baseplanet",
-        "id": 1790151266,
-        "type": "LevelGenerationRegion_region_moor_baseplanet",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
@@ -56597,12 +56549,12 @@
       },
       "palette_group_lowland": {
         "palette": 17336107534660024198,
-        "asset_grading": 8405135347826767503,
-        "sky_settings_group": 17850413706602304639,
-        "day_grading": 10967950517625251825,
-        "night_grading": 1079506283277546168,
-        "sunset_grading": 11127439823390964213,
-        "weather_color_set": 1389686288,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -56690,12 +56642,12 @@
       },
       "palette_group_highland": {
         "palette": 17336107534660024198,
-        "asset_grading": 8405135347826767503,
-        "sky_settings_group": 17850413706602304639,
-        "day_grading": 10967950517625251825,
-        "night_grading": 1079506283277546168,
-        "sunset_grading": 11127439823390964213,
-        "weather_color_set": 1389686288,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -56781,32 +56733,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 13605708452101331461,
-      "scenario_settings_highland": 13605708452101331461,
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
       "gameplay_modifiers": [],
-      "planet_type": "PlanetType_moor",
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 566527558,
-      "mission_planet_unit": 11776933248905971134,
-      "mission_planet_hologram_unit": 3594927445030460035,
-      "mission_planet_unit_package": 2238423405805403631,
-      "mission_planet_hologram_unit_package": 12260972001733561781,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        6965690938680306050
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 3062278750,
-      "ambience_sound_id_stop": 2843759170,
-      "hologram_planet_material": 18437257830152034174,
-      "planet_preview_image": 4145956719950902713,
-      "resource_override_id": 2144948049,
-      "water_entity": 15319332575099057243,
-      "shading_environment_entity": 6526784686951637067,
-      "package_path": 3877764178610427037,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -58775,26 +58727,26 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_primordial_blue",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 122093803,
-      "planet_description_loc": 2987454492,
-      "planet_description_short_loc": 1064663086,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 1995098746,
-      "planet_layout_id": 1072966297,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_240",
       "region_lowland": {
-        "name": "region_primordial_blue",
-        "id": 1977766349,
-        "type": "LevelGenerationRegion_region_primordial_blue",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_primordial_blue",
-        "id": 1977766349,
-        "type": "LevelGenerationRegion_region_primordial_blue",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
@@ -58802,12 +58754,12 @@
       },
       "palette_group_lowland": {
         "palette": 17336107534660024198,
-        "asset_grading": 4152350924691793407,
-        "sky_settings_group": 10674665953627637390,
-        "day_grading": 14300918797376922356,
-        "night_grading": 18318404371361595595,
-        "sunset_grading": 11101563842542556689,
-        "weather_color_set": 1383762373,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -58895,12 +58847,12 @@
       },
       "palette_group_highland": {
         "palette": 17336107534660024198,
-        "asset_grading": 4152350924691793407,
-        "sky_settings_group": 10674665953627637390,
-        "day_grading": 14300918797376922356,
-        "night_grading": 18318404371361595595,
-        "sunset_grading": 11101563842542556689,
-        "weather_color_set": 1383762373,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -58986,35 +58938,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 1037070667774882468,
-      "scenario_settings_highland": 1037070667774882468,
-      "gameplay_modifiers": [
-        13716881457783327350
-      ],
-      "planet_type": "PlanetType_primordial",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 2550754961,
-      "mission_planet_unit": 13705445504747819737,
-      "mission_planet_hologram_unit": 3602064377260761609,
-      "mission_planet_unit_package": 7546655015491502956,
-      "mission_planet_hologram_unit_package": 1420830744042375597,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        9519667879573610206,
-        6099691842396476324
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2848078619,
-      "ambience_sound_id_stop": 2843759170,
-      "hologram_planet_material": 11850524601951988381,
-      "planet_preview_image": 1045609387570007771,
-      "resource_override_id": 2550754961,
-      "water_entity": 3203149939450643813,
-      "shading_environment_entity": 9972575535341897669,
-      "package_path": 17087985963811856742,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -64162,26 +64111,26 @@
   },
   {
     "LevelGenerationPlanetData": {
-      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_primordial_dead",
+      "inherits": "content/level_generation_settings/planet_settings/planet_setup/planet_forest_swamp_base",
       "planet_name_loc": 2901475147,
-      "planet_description_loc": 2267936639,
-      "planet_description_short_loc": 3731844963,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
       "planet_system_name_loc": 2603345569,
-      "planet_layout_id": 2317967701,
+      "planet_layout_id": 3463670213,
       "debug_name": "planet_262",
       "region_lowland": {
-        "name": "region_primordial_dead",
-        "id": 3509189020,
-        "type": "LevelGenerationRegion_region_primordial_dead",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_primordial_dead",
-        "id": 3509189020,
-        "type": "LevelGenerationRegion_region_primordial_dead",
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
@@ -64189,12 +64138,12 @@
       },
       "palette_group_lowland": {
         "palette": 17336107534660024198,
-        "asset_grading": 6078187986060878739,
-        "sky_settings_group": 8228508067578134058,
-        "day_grading": 12428733811415863438,
-        "night_grading": 11588941600402864638,
-        "sunset_grading": 17408488682077492590,
-        "weather_color_set": 1341206145,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -64282,12 +64231,12 @@
       },
       "palette_group_highland": {
         "palette": 17336107534660024198,
-        "asset_grading": 6078187986060878739,
-        "sky_settings_group": 8228508067578134058,
-        "day_grading": 12428733811415863438,
-        "night_grading": 11588941600402864638,
-        "sunset_grading": 17408488682077492590,
-        "weather_color_set": 1341206145,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -64373,36 +64322,32 @@
           }
         }
       },
-      "scenario_settings_lowland": 8273178215381681906,
-      "scenario_settings_highland": 8273178215381681906,
-      "gameplay_modifiers": [
-        13034425871421685749
-      ],
-      "planet_type": "PlanetType_primordial",
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
       "nature_location_tags": [],
-      "scatter_settings": 346388408,
-      "mission_planet_unit": 6603449889780783779,
-      "mission_planet_hologram_unit": 17456642885447623581,
-      "mission_planet_unit_package": 5718319823955330820,
-      "mission_planet_hologram_unit_package": 1260747549857809794,
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
       "solar_system_settings": 2701115343586731516,
       "solar_system_id_selection": [
-        13913607891483020932,
-        16105668627281096044,
-        11899567958880178424
+        15530869172286215058
       ],
       "sample_types": [
         "SampleType_Any",
         "SampleType_Any"
       ],
-      "ambience_sound_id_start": 2848078618,
-      "ambience_sound_id_stop": 2843759170,
-      "hologram_planet_material": 6660423621578211512,
-      "planet_preview_image": 8490223191373692776,
-      "resource_override_id": 346388408,
-      "water_entity": 10580015708200020901,
-      "shading_environment_entity": 12026102863571031522,
-      "package_path": 17059392898806015273,
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
       "__subdata": {}
     }
   },
@@ -98950,6 +98895,732 @@
   {
     "LevelGenerationPlanetData": {
       "inherits": "",
+      "planet_name_loc": 196805532,
+      "planet_description_loc": 1220458627,
+      "planet_description_short_loc": 3065692413,
+      "planet_system_name_loc": 2510182361,
+      "planet_layout_id": 3463670213,
+      "debug_name": "planet_forest_swamp_base",
+      "region_lowland": {
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
+        "settings": null,
+        "weight": 1,
+        "spread_factor": 1,
+        "origin_corner": 0
+      },
+      "region_highland": {
+        "name": "region_swamp_base",
+        "id": 1240915043,
+        "type": "LevelGenerationRegion_region_swamp_base",
+        "settings": null,
+        "weight": 1,
+        "spread_factor": 1,
+        "origin_corner": 0
+      },
+      "palette_group_lowland": {
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
+        "weather_color_set_internal": {
+          "id": 0,
+          "cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "vista_cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_effect_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_ground_fog_volume_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "near_ground_fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "zone_fog_tint": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_color_mult": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_intensity_mult": -1,
+          "zone_fog_main_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_secondary_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_bugs_color": {
+            "x": 0.230000004,
+            "y": 0.200000003,
+            "z": 0.0299999993
+          },
+          "zone_fog_bots_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        }
+      },
+      "palette_group_highland": {
+        "palette": 17336107534660024198,
+        "asset_grading": 16320150069005694229,
+        "sky_settings_group": 12318299889966046144,
+        "day_grading": 13066388114699948397,
+        "night_grading": 18092422474751168518,
+        "sunset_grading": 3464252016665882060,
+        "weather_color_set": 46552461,
+        "weather_color_set_internal": {
+          "id": 0,
+          "cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "vista_cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_effect_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_ground_fog_volume_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "near_ground_fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "zone_fog_tint": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_color_mult": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_intensity_mult": -1,
+          "zone_fog_main_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_secondary_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_bugs_color": {
+            "x": 0.230000004,
+            "y": 0.200000003,
+            "z": 0.0299999993
+          },
+          "zone_fog_bots_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        }
+      },
+      "scenario_settings_lowland": 6229295362523538907,
+      "scenario_settings_highland": 6229295362523538907,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
+      "nature_location_tags": [],
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 7281557855859804440,
+      "mission_planet_hologram_unit": 1947820610534792264,
+      "mission_planet_unit_package": 3451083208360765266,
+      "mission_planet_hologram_unit_package": 10998395206144696137,
+      "solar_system_settings": 2701115343586731516,
+      "solar_system_id_selection": [
+        15530869172286215058
+      ],
+      "sample_types": [
+        "SampleType_Any",
+        "SampleType_Any"
+      ],
+      "ambience_sound_id_start": 2624079482,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 7214883475708812469,
+      "resource_override_id": 366452893,
+      "water_entity": 17348335420272396549,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 8699629093699550351,
+      "__subdata": {}
+    }
+  },
+  {
+    "LevelGenerationPlanetData": {
+      "inherits": "",
+      "planet_name_loc": 3459012190,
+      "planet_description_loc": 2512271974,
+      "planet_description_short_loc": 2842398179,
+      "planet_system_name_loc": 127022710,
+      "planet_layout_id": 3463670213,
+      "debug_name": "planet_forest_swamp_variant_01",
+      "region_lowland": {
+        "name": "region_swamp_variant_01",
+        "id": 2176997539,
+        "type": "LevelGenerationRegion_region_swamp_variant_01",
+        "settings": null,
+        "weight": 1,
+        "spread_factor": 1,
+        "origin_corner": 0
+      },
+      "region_highland": {
+        "name": "region_swamp_variant_01",
+        "id": 2176997539,
+        "type": "LevelGenerationRegion_region_swamp_variant_01",
+        "settings": null,
+        "weight": 1,
+        "spread_factor": 1,
+        "origin_corner": 0
+      },
+      "palette_group_lowland": {
+        "palette": 17336107534660024198,
+        "asset_grading": 4820903862995824891,
+        "sky_settings_group": 7549940154514108994,
+        "day_grading": 11544962298458485032,
+        "night_grading": 1069675484599892613,
+        "sunset_grading": 2220028391596076253,
+        "weather_color_set": 618056438,
+        "weather_color_set_internal": {
+          "id": 0,
+          "cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "vista_cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_effect_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_ground_fog_volume_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "near_ground_fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "zone_fog_tint": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_color_mult": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_intensity_mult": -1,
+          "zone_fog_main_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_secondary_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_bugs_color": {
+            "x": 0.230000004,
+            "y": 0.200000003,
+            "z": 0.0299999993
+          },
+          "zone_fog_bots_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        }
+      },
+      "palette_group_highland": {
+        "palette": 17336107534660024198,
+        "asset_grading": 4820903862995824891,
+        "sky_settings_group": 7549940154514108994,
+        "day_grading": 11544962298458485032,
+        "night_grading": 1069675484599892613,
+        "sunset_grading": 2220028391596076253,
+        "weather_color_set": 618056438,
+        "weather_color_set_internal": {
+          "id": 0,
+          "cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "vista_cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_effect_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_ground_fog_volume_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "near_ground_fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "zone_fog_tint": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_color_mult": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_intensity_mult": -1,
+          "zone_fog_main_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_secondary_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_bugs_color": {
+            "x": 0.230000004,
+            "y": 0.200000003,
+            "z": 0.0299999993
+          },
+          "zone_fog_bots_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        }
+      },
+      "scenario_settings_lowland": 2329673779231097775,
+      "scenario_settings_highland": 2329673779231097775,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
+      "nature_location_tags": [],
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 13187778022493021016,
+      "mission_planet_hologram_unit": 11614153421262048649,
+      "mission_planet_unit_package": 14725816838777544357,
+      "mission_planet_hologram_unit_package": 8027741467325055894,
+      "solar_system_settings": 2701115343586731516,
+      "solar_system_id_selection": [
+        17229039079663667591
+      ],
+      "sample_types": [
+        "SampleType_Any",
+        "SampleType_Any"
+      ],
+      "ambience_sound_id_start": 2624079481,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 1989467426550644664,
+      "resource_override_id": 317911653,
+      "water_entity": 2326717886708551573,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 7599237393657391229,
+      "__subdata": {}
+    }
+  },
+  {
+    "LevelGenerationPlanetData": {
+      "inherits": "",
+      "planet_name_loc": 1001445792,
+      "planet_description_loc": 1061666818,
+      "planet_description_short_loc": 3111769780,
+      "planet_system_name_loc": 2067332525,
+      "planet_layout_id": 3463670213,
+      "debug_name": "planet_forest_swamp_variant_02",
+      "region_lowland": {
+        "name": "region_swamp_variant_02",
+        "id": 3583854056,
+        "type": "LevelGenerationRegion_region_swamp_variant_02",
+        "settings": null,
+        "weight": 1,
+        "spread_factor": 1,
+        "origin_corner": 0
+      },
+      "region_highland": {
+        "name": "region_swamp_variant_02",
+        "id": 3583854056,
+        "type": "LevelGenerationRegion_region_swamp_variant_02",
+        "settings": null,
+        "weight": 1,
+        "spread_factor": 1,
+        "origin_corner": 0
+      },
+      "palette_group_lowland": {
+        "palette": 17336107534660024198,
+        "asset_grading": 15995835599877409238,
+        "sky_settings_group": 3314679788924297477,
+        "day_grading": 15557978930661080863,
+        "night_grading": 4284600408537776558,
+        "sunset_grading": 8490437809760664835,
+        "weather_color_set": 3624841109,
+        "weather_color_set_internal": {
+          "id": 0,
+          "cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "vista_cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_effect_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_ground_fog_volume_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "near_ground_fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "zone_fog_tint": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_color_mult": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_intensity_mult": -1,
+          "zone_fog_main_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_secondary_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_bugs_color": {
+            "x": 0.230000004,
+            "y": 0.200000003,
+            "z": 0.0299999993
+          },
+          "zone_fog_bots_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        }
+      },
+      "palette_group_highland": {
+        "palette": 17336107534660024198,
+        "asset_grading": 15995835599877409238,
+        "sky_settings_group": 3314679788924297477,
+        "day_grading": 15557978930661080863,
+        "night_grading": 4284600408537776558,
+        "sunset_grading": 8490437809760664835,
+        "weather_color_set": 3624841109,
+        "weather_color_set_internal": {
+          "id": 0,
+          "cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "vista_cloud_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_effect_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_ground_fog_volume_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "near_ground_fog_color": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "zone_fog_tint": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_color_mult": {
+            "x": -1,
+            "y": -1,
+            "z": -1
+          },
+          "weather_sun_intensity_mult": -1,
+          "zone_fog_main_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_secondary_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "zone_fog_bugs_color": {
+            "x": 0.230000004,
+            "y": 0.200000003,
+            "z": 0.0299999993
+          },
+          "zone_fog_bots_color": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "ambient_diffuse_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "fog_ambient_ground_bounce_tint": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        }
+      },
+      "scenario_settings_lowland": 1216227759727496667,
+      "scenario_settings_highland": 1216227759727496667,
+      "gameplay_modifiers": [],
+      "planet_type": "PlanetType_swamp",
+      "nature_location_tags": [],
+      "scatter_settings": 3820877964,
+      "mission_planet_unit": 13187778022493021016,
+      "mission_planet_hologram_unit": 11614153421262048649,
+      "mission_planet_unit_package": 14725816838777544357,
+      "mission_planet_hologram_unit_package": 8027741467325055894,
+      "solar_system_settings": 2701115343586731516,
+      "solar_system_id_selection": [
+        17229039079663667591
+      ],
+      "sample_types": [
+        "SampleType_Any",
+        "SampleType_Any"
+      ],
+      "ambience_sound_id_start": 2624079480,
+      "ambience_sound_id_stop": 553194205,
+      "hologram_planet_material": 42647561409988608,
+      "planet_preview_image": 16771928838725565356,
+      "resource_override_id": 544953005,
+      "water_entity": 5176446252314882180,
+      "shading_environment_entity": 16771226510463293892,
+      "package_path": 16674646904107624252,
+      "__subdata": {}
+    }
+  },
+  {
+    "LevelGenerationPlanetData": {
+      "inherits": "",
       "planet_name_loc": 437720334,
       "planet_description_loc": 1339752595,
       "planet_description_short_loc": 1991944977,
@@ -98957,18 +99628,18 @@
       "planet_layout_id": 1133539010,
       "debug_name": "planet_homeworld_superearth",
       "region_lowland": {
-        "name": "region_grassland_lowland",
-        "id": 3943526913,
-        "type": "LevelGenerationRegion_region_grassland_lowland",
+        "name": "region_primordial_base",
+        "id": 3327384286,
+        "type": "LevelGenerationRegion_region_primordial_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
         "origin_corner": 0
       },
       "region_highland": {
-        "name": "region_grassland_highland",
-        "id": 2711430787,
-        "type": "LevelGenerationRegion_region_grassland_highland",
+        "name": "region_primordial_base",
+        "id": 3327384286,
+        "type": "LevelGenerationRegion_region_primordial_base",
         "settings": null,
         "weight": 1,
         "spread_factor": 1,
@@ -98976,12 +99647,12 @@
       },
       "palette_group_lowland": {
         "palette": 12999053778243711598,
-        "asset_grading": 4935372685803615507,
-        "sky_settings_group": 3077809294586605682,
-        "day_grading": 17718504214247688773,
-        "night_grading": 14719553505684869918,
-        "sunset_grading": 6504000327483373655,
-        "weather_color_set": 1957965896,
+        "asset_grading": 6545277364798211805,
+        "sky_settings_group": 231126147772053843,
+        "day_grading": 10953264322138900820,
+        "night_grading": 17201304321028011462,
+        "sunset_grading": 462720968075969107,
+        "weather_color_set": 1046304993,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -99069,12 +99740,12 @@
       },
       "palette_group_highland": {
         "palette": 12999053778243711598,
-        "asset_grading": 4935372685803615507,
-        "sky_settings_group": 3077809294586605682,
-        "day_grading": 17718504214247688773,
-        "night_grading": 14719553505684869918,
-        "sunset_grading": 6504000327483373655,
-        "weather_color_set": 1957965896,
+        "asset_grading": 6545277364798211805,
+        "sky_settings_group": 231126147772053843,
+        "day_grading": 10953264322138900820,
+        "night_grading": 17201304321028011462,
+        "sunset_grading": 462720968075969107,
+        "weather_color_set": 1046304993,
         "weather_color_set_internal": {
           "id": 0,
           "cloud_color": {
@@ -99160,12 +99831,12 @@
           }
         }
       },
-      "scenario_settings_lowland": 18223106366084300880,
-      "scenario_settings_highland": 12500768313179901174,
+      "scenario_settings_lowland": 17540756856481218770,
+      "scenario_settings_highland": 17540756856481218770,
       "gameplay_modifiers": [],
-      "planet_type": "PlanetType_grassland",
+      "planet_type": "PlanetType_primordial",
       "nature_location_tags": [],
-      "scatter_settings": 1648467210,
+      "scatter_settings": 3770696825,
       "mission_planet_unit": 2322133610652457407,
       "mission_planet_hologram_unit": 10600579624585958003,
       "mission_planet_unit_package": 17452603498051172572,
@@ -99183,8 +99854,8 @@
       "hologram_planet_material": 7815010684332015074,
       "planet_preview_image": 7007713637871885556,
       "resource_override_id": 0,
-      "water_entity": 15448087415804453674,
-      "shading_environment_entity": 14410076596726679657,
+      "water_entity": 13459592671902600388,
+      "shading_environment_entity": 7989844785865596997,
       "package_path": 1825257325323805160,
       "__subdata": {}
     }

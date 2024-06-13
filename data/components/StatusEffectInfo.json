@@ -21,5 +21,6 @@
     "unique_effect" : { "type": "byte" },
     "no_susceptibility_required" : { "type": "byte" },
     "audio_event_master_only" : { "type": "byte" },
-    "block_sprint" : { "type": "byte" }
+    "block_sprint" : { "type": "byte" },
+    "modified_stats_multipliers" : { "type": "array", "subtype": "ModifiableStatEntry" }
 }}

@@ -13,6 +13,8 @@
     "trigger_settings" : { "type": "WeaponTriggerSettings", "description": "Set trigger settings" },
     "hide_magazine_on_start" : { "type": "byte", "description": "[bool]Hides the magazine upon weapon spawn" },
     "magazine_adjusting_nodes" : { "type": "array", "subtype": "uint", "description": "[string]Do we have any magazine nodes that need to be autoadjusted based on rounds left?" },
+    "use_magazine_adjusting_nodes_in_main_unit" : { "type": "byte", "description": "[bool]Should Magazine adjusting nodes be applied in the main unit mesh?" },
+    "magazine_adjusting_ammo_reserve_pool" : { "type": "WeaponAmmoPoolType", "default": "WeaponAmmoPoolType_AmmoLeft", "description": "Which ammo pool should Magazine adjusting use?" },
     "magazine_adjusting_nodes_visible_chambering" : { "type": "byte", "description": "[bool]The very first node in the list will only be hidden if there isn't a chambered round" },
     "magazine_adjusting_animation" : { "type": "uint", "description": "[string]Animation to play on the magazine when adjusting the rounds (outside of the initial spawn)." },
     "magazine_adjusting_animation_variable" : { "type": "uint", "description": "[string]Animation variable to adjust with the rounds on the magazine." },

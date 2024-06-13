@@ -2495,264 +2495,6 @@
   },
   {
     "SkySettings": {
-      "id": 1034531738671372544,
-      "settings": [
-        {
-          "rayleigh_beta": {
-            "x": 5.5,
-            "y": 15,
-            "z": 25
-          },
-          "rayleigh_tint_hax_day": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "rayleigh_tint_hax_sunset": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "rayleigh_tint_hax_night": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_beta": 10,
-          "mie_tint_hax_day": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_tint_hax_sunset": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_tint_hax_night": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_height": 1200,
-          "atmosphere_phase": 0.75,
-          "atmosphere_saturation_day": 1,
-          "atmosphere_saturation_sunset": 1,
-          "atmosphere_saturation_night": 1,
-          "atmosphere_minimum_light": 0.100000001,
-          "fog_forwardscatter_phase": 0.699999988,
-          "fog_backscatter_phase": 0.100000001,
-          "fog_backscatter_lerp": 0.5,
-          "cloud_color_hax_day": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "cloud_color_hax_sunset": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "cloud_color_hax_night": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "material_wetness_day": 0.400000006,
-          "material_wetness_sunset": 0.5,
-          "material_wetness_night": 0.699999988,
-          "star_intensity": 1,
-          "in_space_star_intensity": 10,
-          "ambient_diffuse_intensity_day": 1,
-          "ambient_diffuse_intensity_sunset": 1,
-          "ambient_diffuse_intensity_night": 1,
-          "ambient_diffuse_ground_bounce_intensity_day": 1,
-          "ambient_diffuse_ground_bounce_intensity_sunset": 1,
-          "ambient_diffuse_ground_bounce_intensity_night": 1,
-          "fog_ambient_intensity_day": 1,
-          "fog_ambient_intensity_sunset": 1,
-          "fog_ambient_intensity_night": 1,
-          "fog_ambient_ground_bounce_intensity_day": 1,
-          "fog_ambient_ground_bounce_intensity_sunset": 1,
-          "fog_ambient_ground_bounce_intensity_night": 1
-        }
-      ]
-    }
-  },
-  {
-    "SkySettings": {
-      "id": 17750979171103138651,
-      "settings": [
-        {
-          "rayleigh_beta": {
-            "x": 5.5,
-            "y": 15,
-            "z": 25
-          },
-          "rayleigh_tint_hax_day": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "rayleigh_tint_hax_sunset": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "rayleigh_tint_hax_night": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_beta": 10,
-          "mie_tint_hax_day": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_tint_hax_sunset": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_tint_hax_night": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_height": 1200,
-          "atmosphere_phase": 0.75,
-          "atmosphere_saturation_day": 1,
-          "atmosphere_saturation_sunset": 1,
-          "atmosphere_saturation_night": 1,
-          "atmosphere_minimum_light": 0.100000001,
-          "fog_forwardscatter_phase": 0.699999988,
-          "fog_backscatter_phase": 0.100000001,
-          "fog_backscatter_lerp": 0.5,
-          "cloud_color_hax_day": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "cloud_color_hax_sunset": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "cloud_color_hax_night": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "material_wetness_day": 0.400000006,
-          "material_wetness_sunset": 0.5,
-          "material_wetness_night": 0.699999988,
-          "star_intensity": 1,
-          "in_space_star_intensity": 10,
-          "ambient_diffuse_intensity_day": 1,
-          "ambient_diffuse_intensity_sunset": 1,
-          "ambient_diffuse_intensity_night": 1,
-          "ambient_diffuse_ground_bounce_intensity_day": 1,
-          "ambient_diffuse_ground_bounce_intensity_sunset": 1,
-          "ambient_diffuse_ground_bounce_intensity_night": 1,
-          "fog_ambient_intensity_day": 1,
-          "fog_ambient_intensity_sunset": 1,
-          "fog_ambient_intensity_night": 1,
-          "fog_ambient_ground_bounce_intensity_day": 1,
-          "fog_ambient_ground_bounce_intensity_sunset": 1,
-          "fog_ambient_ground_bounce_intensity_night": 1
-        }
-      ]
-    }
-  },
-  {
-    "SkySettings": {
-      "id": 11003704990281820583,
-      "settings": [
-        {
-          "rayleigh_beta": {
-            "x": 5.5,
-            "y": 15,
-            "z": 25
-          },
-          "rayleigh_tint_hax_day": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "rayleigh_tint_hax_sunset": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "rayleigh_tint_hax_night": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_beta": 10,
-          "mie_tint_hax_day": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_tint_hax_sunset": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_tint_hax_night": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "mie_height": 1200,
-          "atmosphere_phase": 0.75,
-          "atmosphere_saturation_day": 0.100000001,
-          "atmosphere_saturation_sunset": 0.100000001,
-          "atmosphere_saturation_night": 0.100000001,
-          "atmosphere_minimum_light": 0.100000001,
-          "fog_forwardscatter_phase": 0.699999988,
-          "fog_backscatter_phase": 0.100000001,
-          "fog_backscatter_lerp": 0.5,
-          "cloud_color_hax_day": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "cloud_color_hax_sunset": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "cloud_color_hax_night": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "material_wetness_day": 0.400000006,
-          "material_wetness_sunset": 0.5,
-          "material_wetness_night": 0.699999988,
-          "star_intensity": 1,
-          "in_space_star_intensity": 10,
-          "ambient_diffuse_intensity_day": 1,
-          "ambient_diffuse_intensity_sunset": 1,
-          "ambient_diffuse_intensity_night": 1,
-          "ambient_diffuse_ground_bounce_intensity_day": 1,
-          "ambient_diffuse_ground_bounce_intensity_sunset": 1,
-          "ambient_diffuse_ground_bounce_intensity_night": 1,
-          "fog_ambient_intensity_day": 1,
-          "fog_ambient_intensity_sunset": 1,
-          "fog_ambient_intensity_night": 1,
-          "fog_ambient_ground_bounce_intensity_day": 1,
-          "fog_ambient_ground_bounce_intensity_sunset": 1,
-          "fog_ambient_ground_bounce_intensity_night": 1
-        }
-      ]
-    }
-  },
-  {
-    "SkySettings": {
       "id": 7945204321017832033,
       "settings": [
         {
@@ -3550,7 +3292,7 @@
             "y": 5.4000001,
             "z": 5.4000001
           },
-          "mie_beta": 16,
+          "mie_beta": 14,
           "mie_tint_hax_day": {
             "x": 1,
             "y": 1,
@@ -4454,6 +4196,350 @@
           "material_wetness_sunset": 0,
           "material_wetness_night": 0,
           "star_intensity": 50,
+          "in_space_star_intensity": 10,
+          "ambient_diffuse_intensity_day": 1,
+          "ambient_diffuse_intensity_sunset": 1,
+          "ambient_diffuse_intensity_night": 1,
+          "ambient_diffuse_ground_bounce_intensity_day": 1,
+          "ambient_diffuse_ground_bounce_intensity_sunset": 1,
+          "ambient_diffuse_ground_bounce_intensity_night": 1,
+          "fog_ambient_intensity_day": 1,
+          "fog_ambient_intensity_sunset": 1,
+          "fog_ambient_intensity_night": 1,
+          "fog_ambient_ground_bounce_intensity_day": 1,
+          "fog_ambient_ground_bounce_intensity_sunset": 1,
+          "fog_ambient_ground_bounce_intensity_night": 1
+        }
+      ]
+    }
+  },
+  {
+    "SkySettings": {
+      "id": 12318299889966046144,
+      "settings": [
+        {
+          "rayleigh_beta": {
+            "x": 6,
+            "y": 15,
+            "z": 29
+          },
+          "rayleigh_tint_hax_day": {
+            "x": 0.810000002,
+            "y": 0.529999971,
+            "z": 0.49000001
+          },
+          "rayleigh_tint_hax_sunset": {
+            "x": 1.10000002,
+            "y": 1.03999996,
+            "z": 0.980000019
+          },
+          "rayleigh_tint_hax_night": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_beta": 11,
+          "mie_tint_hax_day": {
+            "x": 1.39999998,
+            "y": 1.03999996,
+            "z": 1.04999995
+          },
+          "mie_tint_hax_sunset": {
+            "x": 0.629999995,
+            "y": 0.639999986,
+            "z": 0.50999999
+          },
+          "mie_tint_hax_night": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_height": 2000,
+          "atmosphere_phase": 0.75,
+          "atmosphere_saturation_day": 1.10000002,
+          "atmosphere_saturation_sunset": 1,
+          "atmosphere_saturation_night": 1,
+          "atmosphere_minimum_light": 0.100000001,
+          "fog_forwardscatter_phase": 0.699999988,
+          "fog_backscatter_phase": 0.100000001,
+          "fog_backscatter_lerp": 0.5,
+          "cloud_color_hax_day": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "cloud_color_hax_sunset": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "cloud_color_hax_night": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material_wetness_day": 0,
+          "material_wetness_sunset": 0,
+          "material_wetness_night": 0,
+          "star_intensity": 15,
+          "in_space_star_intensity": 10,
+          "ambient_diffuse_intensity_day": 1.10000002,
+          "ambient_diffuse_intensity_sunset": 1,
+          "ambient_diffuse_intensity_night": 1,
+          "ambient_diffuse_ground_bounce_intensity_day": 1.25,
+          "ambient_diffuse_ground_bounce_intensity_sunset": 1,
+          "ambient_diffuse_ground_bounce_intensity_night": 1,
+          "fog_ambient_intensity_day": 1,
+          "fog_ambient_intensity_sunset": 1,
+          "fog_ambient_intensity_night": 1,
+          "fog_ambient_ground_bounce_intensity_day": 1,
+          "fog_ambient_ground_bounce_intensity_sunset": 1,
+          "fog_ambient_ground_bounce_intensity_night": 1
+        }
+      ]
+    }
+  },
+  {
+    "SkySettings": {
+      "id": 11184866348617451703,
+      "settings": [
+        {
+          "rayleigh_beta": {
+            "x": 5.5,
+            "y": 15,
+            "z": 25
+          },
+          "rayleigh_tint_hax_day": {
+            "x": 1,
+            "y": 1.20000005,
+            "z": 2
+          },
+          "rayleigh_tint_hax_sunset": {
+            "x": 1,
+            "y": 1.20000005,
+            "z": 2
+          },
+          "rayleigh_tint_hax_night": {
+            "x": 1,
+            "y": 1.20000005,
+            "z": 2
+          },
+          "mie_beta": 21,
+          "mie_tint_hax_day": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_tint_hax_sunset": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_tint_hax_night": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_height": 1200,
+          "atmosphere_phase": 0.75,
+          "atmosphere_saturation_day": 0,
+          "atmosphere_saturation_sunset": 0,
+          "atmosphere_saturation_night": 0,
+          "atmosphere_minimum_light": 0.100000001,
+          "fog_forwardscatter_phase": 0.699999988,
+          "fog_backscatter_phase": 0.100000001,
+          "fog_backscatter_lerp": 0.5,
+          "cloud_color_hax_day": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "cloud_color_hax_sunset": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "cloud_color_hax_night": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material_wetness_day": 0,
+          "material_wetness_sunset": 0,
+          "material_wetness_night": 0,
+          "star_intensity": 1,
+          "in_space_star_intensity": 10,
+          "ambient_diffuse_intensity_day": 1,
+          "ambient_diffuse_intensity_sunset": 1,
+          "ambient_diffuse_intensity_night": 1,
+          "ambient_diffuse_ground_bounce_intensity_day": 1,
+          "ambient_diffuse_ground_bounce_intensity_sunset": 1,
+          "ambient_diffuse_ground_bounce_intensity_night": 1,
+          "fog_ambient_intensity_day": 1,
+          "fog_ambient_intensity_sunset": 1,
+          "fog_ambient_intensity_night": 1,
+          "fog_ambient_ground_bounce_intensity_day": 1,
+          "fog_ambient_ground_bounce_intensity_sunset": 1,
+          "fog_ambient_ground_bounce_intensity_night": 1
+        }
+      ]
+    }
+  },
+  {
+    "SkySettings": {
+      "id": 7549940154514108994,
+      "settings": [
+        {
+          "rayleigh_beta": {
+            "x": 5.5,
+            "y": 15,
+            "z": 25
+          },
+          "rayleigh_tint_hax_day": {
+            "x": 1,
+            "y": 1.20000005,
+            "z": 2
+          },
+          "rayleigh_tint_hax_sunset": {
+            "x": 1,
+            "y": 1.20000005,
+            "z": 2
+          },
+          "rayleigh_tint_hax_night": {
+            "x": 1,
+            "y": 1.20000005,
+            "z": 2
+          },
+          "mie_beta": 10,
+          "mie_tint_hax_day": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_tint_hax_sunset": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_tint_hax_night": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_height": 1200,
+          "atmosphere_phase": 0.75,
+          "atmosphere_saturation_day": 1,
+          "atmosphere_saturation_sunset": 1,
+          "atmosphere_saturation_night": 1,
+          "atmosphere_minimum_light": 0.100000001,
+          "fog_forwardscatter_phase": 0.699999988,
+          "fog_backscatter_phase": 0.100000001,
+          "fog_backscatter_lerp": 0.5,
+          "cloud_color_hax_day": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "cloud_color_hax_sunset": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "cloud_color_hax_night": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material_wetness_day": 0,
+          "material_wetness_sunset": 0,
+          "material_wetness_night": 0,
+          "star_intensity": 1,
+          "in_space_star_intensity": 10,
+          "ambient_diffuse_intensity_day": 1,
+          "ambient_diffuse_intensity_sunset": 1,
+          "ambient_diffuse_intensity_night": 1,
+          "ambient_diffuse_ground_bounce_intensity_day": 1,
+          "ambient_diffuse_ground_bounce_intensity_sunset": 1,
+          "ambient_diffuse_ground_bounce_intensity_night": 1,
+          "fog_ambient_intensity_day": 1,
+          "fog_ambient_intensity_sunset": 1,
+          "fog_ambient_intensity_night": 1,
+          "fog_ambient_ground_bounce_intensity_day": 1,
+          "fog_ambient_ground_bounce_intensity_sunset": 1,
+          "fog_ambient_ground_bounce_intensity_night": 1
+        }
+      ]
+    }
+  },
+  {
+    "SkySettings": {
+      "id": 3314679788924297477,
+      "settings": [
+        {
+          "rayleigh_beta": {
+            "x": 5.5,
+            "y": 15,
+            "z": 25
+          },
+          "rayleigh_tint_hax_day": {
+            "x": 1,
+            "y": 1.20000005,
+            "z": 2
+          },
+          "rayleigh_tint_hax_sunset": {
+            "x": 1,
+            "y": 1.20000005,
+            "z": 2
+          },
+          "rayleigh_tint_hax_night": {
+            "x": 1,
+            "y": 1.20000005,
+            "z": 2
+          },
+          "mie_beta": 10,
+          "mie_tint_hax_day": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_tint_hax_sunset": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_tint_hax_night": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "mie_height": 1200,
+          "atmosphere_phase": 0.75,
+          "atmosphere_saturation_day": 0.100000001,
+          "atmosphere_saturation_sunset": 0.100000001,
+          "atmosphere_saturation_night": 0.100000001,
+          "atmosphere_minimum_light": 0.100000001,
+          "fog_forwardscatter_phase": 0.699999988,
+          "fog_backscatter_phase": 0.100000001,
+          "fog_backscatter_lerp": 0.5,
+          "cloud_color_hax_day": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "cloud_color_hax_sunset": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "cloud_color_hax_night": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "material_wetness_day": 0,
+          "material_wetness_sunset": 0,
+          "material_wetness_night": 0,
+          "star_intensity": 1,
           "in_space_star_intensity": 10,
           "ambient_diffuse_intensity_day": 1,
           "ambient_diffuse_intensity_sunset": 1,

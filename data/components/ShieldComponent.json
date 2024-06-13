@@ -25,5 +25,7 @@
     "shield_activate_animation_event" : { "type": "uint", "default": 3470895594, "description": "[string]Animation event to play when the shield is activated." },
     "shield_deactivate_animation_event" : { "type": "uint", "default": 1922100775, "description": "[string]Animation event to play when the shield is deactivated." },
     "hit_effect_receiver_type" : { "type": "HitEffectReceiverType", "default": "HitEffectReceiverType_EnergyShield_Illuminate", "description": "The type of hit effect to play when the shield gets hit. If this is set to HitEffectReceiverType_Count, it will assume the hit effect of the HitEffectComponent." },
-    "block_melee_type" : { "type": "ShieldBlockMeleeType", "default": "ShieldBlockMeleeType_None", "description": "Determines how the shield should handle melee attacks." }
+    "block_melee_type" : { "type": "ShieldBlockMeleeType", "default": "ShieldBlockMeleeType_None", "description": "Determines how the shield should handle melee attacks." },
+    "inside_shield_opacity" : { "type": "float", "default": 0, "description": "Sets the max opacity for the shading env for the effect to tint the world when camera is inside a shield." },
+    "shield_color_type" : { "type": "ShieldColorFaction", "default": "ShieldColorFaction_None", "description": "Determines which shading env entity should be used when inside the shield." }
 }}

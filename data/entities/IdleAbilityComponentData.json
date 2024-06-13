@@ -1,5 +1,5 @@
 {
-  "2701456486977900736": {
+  "8883573249939290241": {
     "abilities": [
       {
         "ability": "AbilityId_cyborg_conscript_idle_chatter",
@@ -43,17 +43,17 @@
       }
     ]
   },
-  "7258218216136199873": {
+  "6927066342767148424": {
     "abilities": [
       {
-        "ability": "AbilityId_cyborg_conscript_idle_chatter",
-        "random_min_time": 20,
-        "random_max_time": 30
+        "ability": "AbilityId_bug_boomer_chatter",
+        "random_min_time": 3,
+        "random_max_time": 8
       },
       {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
+        "ability": "AbilityId_bug_boomer_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
       },
       {
         "ability": "AbilityId_Invalid",
@@ -87,7 +87,51 @@
       }
     ]
   },
-  "10861016308832836833": {
+  "11135777548304851724": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_scavenger_chatter",
+        "random_min_time": 4,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_scavenger_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "2190700087544369166": {
     "abilities": [
       {
         "ability": "AbilityId_cyborg_lieutenant_patrol_chatter",
@@ -131,139 +175,7 @@
       }
     ]
   },
-  "767968035755763": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_conscript_idle_chatter",
-        "random_min_time": 20,
-        "random_max_time": 30
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "13340847352459495240": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_soldier_banter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "5663271064929335883": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_warrior_idle_chatter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "8883573249939290241": {
+  "9614788353289254415": {
     "abilities": [
       {
         "ability": "AbilityId_cyborg_conscript_idle_chatter",
@@ -318,6 +230,710 @@
         "ability": "AbilityId_Invalid",
         "random_min_time": 0,
         "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "10371974906799355538": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_scavenger_chatter",
+        "random_min_time": 4,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_scavenger_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "16919711124802745493": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_warrior_idle_chatter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "3031503431338798614": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "12562787704342269592": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "4251221953861716889": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_charger_banter_walk",
+        "random_min_time": 3,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_charger_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "17756861745706792858": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_soldier_banter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "14731312854664874139": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_boomer_chatter",
+        "random_min_time": 3,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_boomer_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "12008441084326179745": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_soldier_banter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "15382378127438146468": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_soldier_banter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "12614471755071195045": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "15358116161893188517": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_warrior_idle_chatter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "13723659040410201638": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_soldier_banter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "16451308563134815530": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_lieutenant_patrol_chatter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "12706617161845284909": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "17672347716099392046": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_stalker_chatter",
+        "random_min_time": 2,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_bug_stalker_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "1909471264691872944": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_charger_banter_walk",
+        "random_min_time": 3,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_charger_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
       },
       {
         "ability": "AbilityId_Invalid",
@@ -439,17 +1055,17 @@
       }
     ]
   },
-  "1155202780614770422": {
+  "4618830856548850870": {
     "abilities": [
       {
-        "ability": "AbilityId_bug_warrior_idle_chatter",
-        "random_min_time": 6,
-        "random_max_time": 14
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
       },
       {
-        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
       },
       {
         "ability": "AbilityId_Invalid",
@@ -483,7 +1099,7 @@
       }
     ]
   },
-  "3939129929398354246": {
+  "14748816422034837943": {
     "abilities": [
       {
         "ability": "AbilityId_bug_boomer_chatter",
@@ -527,15 +1143,15 @@
       }
     ]
   },
-  "4251221953861716889": {
+  "13707236614338800569": {
     "abilities": [
       {
-        "ability": "AbilityId_bug_charger_banter_walk",
-        "random_min_time": 3,
-        "random_max_time": 8
+        "ability": "AbilityId_bug_warrior_idle_chatter",
+        "random_min_time": 6,
+        "random_max_time": 14
       },
       {
-        "ability": "AbilityId_bug_charger_idle_chatter_patrol_commander",
+        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
         "random_min_time": 3,
         "random_max_time": 4
       },
@@ -571,12 +1187,12 @@
       }
     ]
   },
-  "17921415124075533547": {
+  "9414910092732904122": {
     "abilities": [
       {
-        "ability": "AbilityId_cyborg_soldier_banter",
-        "random_min_time": 6,
-        "random_max_time": 14
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
       },
       {
         "ability": "AbilityId_Invalid",
@@ -615,7 +1231,51 @@
       }
     ]
   },
-  "11135777548304851724": {
+  "6676641717166653626": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_hunter_chatter",
+        "random_min_time": 4,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_hunter_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "8261922003134896957": {
     "abilities": [
       {
         "ability": "AbilityId_bug_scavenger_chatter",
@@ -626,50 +1286,6 @@
         "ability": "AbilityId_bug_scavenger_idle_chatter_patrol_commander",
         "random_min_time": 3,
         "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "18198461672611034237": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_soldier_banter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
       },
       {
         "ability": "AbilityId_Invalid",
@@ -747,17 +1363,17 @@
       }
     ]
   },
-  "1909471264691872944": {
+  "2701456486977900736": {
     "abilities": [
       {
-        "ability": "AbilityId_bug_charger_banter_walk",
-        "random_min_time": 3,
-        "random_max_time": 8
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
       },
       {
-        "ability": "AbilityId_bug_charger_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
       },
       {
         "ability": "AbilityId_Invalid",
@@ -791,7 +1407,95 @@
       }
     ]
   },
-  "12008441084326179745": {
+  "7258218216136199873": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "18129582262547983427": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "12566139334605762628": {
     "abilities": [
       {
         "ability": "AbilityId_cyborg_soldier_banter",
@@ -835,7 +1539,139 @@
       }
     ]
   },
-  "11669807341511884260": {
+  "3939129929398354246": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_boomer_chatter",
+        "random_min_time": 3,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_boomer_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "13340847352459495240": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_soldier_banter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "4399458158766252490": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_hunter_chatter",
+        "random_min_time": 4,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_hunter_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "5663271064929335883": {
     "abilities": [
       {
         "ability": "AbilityId_bug_warrior_idle_chatter",
@@ -844,6 +1680,182 @@
       },
       {
         "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "11555060082231454796": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_charger_banter_walk",
+        "random_min_time": 3,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_charger_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "2404044106251363533": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_conscript_idle_chatter_patrol_commander",
+        "random_min_time": 15.8889999,
+        "random_max_time": 15.8889999
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "5903841343181520462": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_scavenger_chatter",
+        "random_min_time": 4,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_scavenger_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "15125779956101896786": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_stalker_chatter",
+        "random_min_time": 2,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_bug_stalker_idle_chatter_patrol_commander",
         "random_min_time": 3,
         "random_max_time": 4
       },
@@ -923,138 +1935,6 @@
       }
     ]
   },
-  "4618830856548850870": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_conscript_idle_chatter",
-        "random_min_time": 20,
-        "random_max_time": 30
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "1403303179954968823": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_lieutenant_patrol_chatter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "6927066342767148424": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_boomer_chatter",
-        "random_min_time": 3,
-        "random_max_time": 8
-      },
-      {
-        "ability": "AbilityId_bug_boomer_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
   "12300518439027380185": {
     "abilities": [
       {
@@ -1099,7 +1979,315 @@
       }
     ]
   },
-  "13707236614338800569": {
+  "3626558530581732572": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_warrior_idle_chatter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "16121421951002036444": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_scavenger_chatter",
+        "random_min_time": 4,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_scavenger_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "11398074038506794973": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_strider_chatter",
+        "random_min_time": 4,
+        "random_max_time": 7
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "7208293264043292125": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_shrieker_banter",
+        "random_min_time": 4,
+        "random_max_time": 12
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "7719208875390099550": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_charger_banter_walk",
+        "random_min_time": 3,
+        "random_max_time": 8
+      },
+      {
+        "ability": "AbilityId_bug_charger_idle_chatter_patrol_commander",
+        "random_min_time": 3,
+        "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "3660840294738278623": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_lieutenant_patrol_chatter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "10861016308832836833": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_lieutenant_patrol_chatter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "11669807341511884260": {
     "abilities": [
       {
         "ability": "AbilityId_bug_warrior_idle_chatter",
@@ -1187,7 +2375,7 @@
       }
     ]
   },
-  "17756861745706792858": {
+  "17921415124075533547": {
     "abilities": [
       {
         "ability": "AbilityId_cyborg_soldier_banter",
@@ -1231,17 +2419,193 @@
       }
     ]
   },
-  "6676641717166653626": {
+  "10828817397904429935": {
     "abilities": [
       {
-        "ability": "AbilityId_bug_hunter_chatter",
-        "random_min_time": 4,
-        "random_max_time": 8
+        "ability": "AbilityId_cyborg_soldier_banter",
+        "random_min_time": 6,
+        "random_max_time": 14
       },
       {
-        "ability": "AbilityId_bug_hunter_idle_chatter_patrol_commander",
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "767968035755763": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "11841423120880866036": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_conscript_idle_chatter",
+        "random_min_time": 20,
+        "random_max_time": 30
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "1155202780614770422": {
+    "abilities": [
+      {
+        "ability": "AbilityId_bug_warrior_idle_chatter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
         "random_min_time": 3,
         "random_max_time": 4
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
+      }
+    ]
+  },
+  "1403303179954968823": {
+    "abilities": [
+      {
+        "ability": "AbilityId_cyborg_lieutenant_patrol_chatter",
+        "random_min_time": 6,
+        "random_max_time": 14
+      },
+      {
+        "ability": "AbilityId_Invalid",
+        "random_min_time": 0,
+        "random_max_time": 0
       },
       {
         "ability": "AbilityId_Invalid",
@@ -1363,56 +2727,12 @@
       }
     ]
   },
-  "7208293264043292125": {
+  "18198461672611034237": {
     "abilities": [
       {
-        "ability": "AbilityId_bug_shrieker_banter",
-        "random_min_time": 4,
-        "random_max_time": 12
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "11398074038506794973": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_strider_chatter",
-        "random_min_time": 4,
-        "random_max_time": 7
+        "ability": "AbilityId_cyborg_soldier_banter",
+        "random_min_time": 6,
+        "random_max_time": 14
       },
       {
         "ability": "AbilityId_Invalid",
@@ -1462,974 +2782,6 @@
         "ability": "AbilityId_Invalid",
         "random_min_time": 0,
         "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "9614788353289254415": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_conscript_idle_chatter",
-        "random_min_time": 20,
-        "random_max_time": 30
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "10371974906799355538": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_scavenger_chatter",
-        "random_min_time": 4,
-        "random_max_time": 8
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "18129582262547983427": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_conscript_idle_chatter",
-        "random_min_time": 20,
-        "random_max_time": 30
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "12562787704342269592": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_conscript_idle_chatter",
-        "random_min_time": 20,
-        "random_max_time": 30
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "16121421951002036444": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_scavenger_chatter",
-        "random_min_time": 4,
-        "random_max_time": 8
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "8261922003134896957": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_scavenger_chatter",
-        "random_min_time": 4,
-        "random_max_time": 8
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "12706617161845284909": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_conscript_idle_chatter",
-        "random_min_time": 20,
-        "random_max_time": 30
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "7719208875390099550": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_charger_banter_walk",
-        "random_min_time": 3,
-        "random_max_time": 8
-      },
-      {
-        "ability": "AbilityId_bug_charger_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "15125779956101896786": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_stalker_chatter",
-        "random_min_time": 2,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_bug_stalker_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "15358116161893188517": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_warrior_idle_chatter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "3031503431338798614": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_conscript_idle_chatter",
-        "random_min_time": 20,
-        "random_max_time": 30
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "14748816422034837943": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_boomer_chatter",
-        "random_min_time": 3,
-        "random_max_time": 8
-      },
-      {
-        "ability": "AbilityId_bug_boomer_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "9414910092732904122": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_conscript_idle_chatter",
-        "random_min_time": 20,
-        "random_max_time": 30
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "4399458158766252490": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_hunter_chatter",
-        "random_min_time": 4,
-        "random_max_time": 8
-      },
-      {
-        "ability": "AbilityId_bug_hunter_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "14731312854664874139": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_boomer_chatter",
-        "random_min_time": 3,
-        "random_max_time": 8
-      },
-      {
-        "ability": "AbilityId_bug_boomer_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "3626558530581732572": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_warrior_idle_chatter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "5903841343181520462": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_scavenger_chatter",
-        "random_min_time": 4,
-        "random_max_time": 8
-      },
-      {
-        "ability": "AbilityId_bug_scavenger_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "2190700087544369166": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_lieutenant_patrol_chatter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "17672347716099392046": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_stalker_chatter",
-        "random_min_time": 2,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_bug_stalker_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "10828817397904429935": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_soldier_banter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "12566139334605762628": {
-    "abilities": [
-      {
-        "ability": "AbilityId_cyborg_soldier_banter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      },
-      {
-        "ability": "AbilityId_Invalid",
-        "random_min_time": 0,
-        "random_max_time": 0
-      }
-    ]
-  },
-  "16919711124802745493": {
-    "abilities": [
-      {
-        "ability": "AbilityId_bug_warrior_idle_chatter",
-        "random_min_time": 6,
-        "random_max_time": 14
-      },
-      {
-        "ability": "AbilityId_bug_warrior_idle_chatter_patrol_commander",
-        "random_min_time": 3,
-        "random_max_time": 4
       },
       {
         "ability": "AbilityId_Invalid",

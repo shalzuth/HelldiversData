@@ -7,5 +7,6 @@
     "vehicle" : { "type": "ushort" },
     "fire" : { "type": "ushort" },
     "aerial" : { "type": "ushort" },
-    "turret" : { "type": "ushort" }
+    "turret" : { "type": "ushort" },
+    "straight_beacon" : { "type": "ushort" }
 }}

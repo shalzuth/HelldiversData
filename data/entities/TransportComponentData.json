@@ -1,18 +1,5 @@
 {
-  "16537609150891873250": {
-    "payload_spawn_delay": 0.5,
-    "payload_deploy_delay": 0.75,
-    "node": 2601604451,
-    "offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "spawn_animation_event": 1925457693,
-    "payload_removed_animation_event": 2235895672,
-    "decay_after_payload_removed": 1
-  },
-  "15341635186769797274": {
+  "15749354740743811640": {
     "payload_spawn_delay": 10,
     "payload_deploy_delay": 2,
     "node": 996959194,
@@ -25,31 +12,18 @@
     "payload_removed_animation_event": 0,
     "decay_after_payload_removed": 0
   },
-  "3306034378071258267": {
-    "payload_spawn_delay": 10,
+  "4571403555494335481": {
+    "payload_spawn_delay": 0,
     "payload_deploy_delay": 2,
-    "node": 2511938199,
+    "node": 3245600362,
     "offset": {
       "x": 0,
       "y": 0,
-      "z": 0
+      "z": -1
     },
     "spawn_animation_event": 1925457693,
     "payload_removed_animation_event": 0,
     "decay_after_payload_removed": 0
-  },
-  "6358746089464627494": {
-    "payload_spawn_delay": 0.5,
-    "payload_deploy_delay": 0.75,
-    "node": 2601604451,
-    "offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "spawn_animation_event": 1925457693,
-    "payload_removed_animation_event": 2235895672,
-    "decay_after_payload_removed": 1
   },
   "18151581020363463248": {
     "payload_spawn_delay": 0.5,
@@ -64,49 +38,10 @@
     "payload_removed_animation_event": 0,
     "decay_after_payload_removed": 1
   },
-  "15749354740743811640": {
+  "3306034378071258267": {
     "payload_spawn_delay": 10,
     "payload_deploy_delay": 2,
-    "node": 996959194,
-    "offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "spawn_animation_event": 1925457693,
-    "payload_removed_animation_event": 0,
-    "decay_after_payload_removed": 0
-  },
-  "17266439410956032073": {
-    "payload_spawn_delay": 0.5,
-    "payload_deploy_delay": 0.75,
-    "node": 2601604451,
-    "offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "spawn_animation_event": 1925457693,
-    "payload_removed_animation_event": 2235895672,
-    "decay_after_payload_removed": 1
-  },
-  "8484362704672433843": {
-    "payload_spawn_delay": 0,
-    "payload_deploy_delay": 2,
-    "node": 3245600362,
-    "offset": {
-      "x": 0,
-      "y": 0,
-      "z": -1
-    },
-    "spawn_animation_event": 1925457693,
-    "payload_removed_animation_event": 0,
-    "decay_after_payload_removed": 0
-  },
-  "12628840167151644876": {
-    "payload_spawn_delay": 10,
-    "payload_deploy_delay": 2,
-    "node": 996959194,
+    "node": 2511938199,
     "offset": {
       "x": 0,
       "y": 0,
@@ -129,18 +64,18 @@
     "payload_removed_animation_event": 2235895672,
     "decay_after_payload_removed": 1
   },
-  "4571403555494335481": {
-    "payload_spawn_delay": 0,
-    "payload_deploy_delay": 2,
-    "node": 3245600362,
+  "6358746089464627494": {
+    "payload_spawn_delay": 0.5,
+    "payload_deploy_delay": 0.75,
+    "node": 2601604451,
     "offset": {
       "x": 0,
       "y": 0,
-      "z": -1
+      "z": 0
     },
     "spawn_animation_event": 1925457693,
-    "payload_removed_animation_event": 0,
-    "decay_after_payload_removed": 0
+    "payload_removed_animation_event": 2235895672,
+    "decay_after_payload_removed": 1
   },
   "13866867232511754306": {
     "payload_spawn_delay": 5,
@@ -154,5 +89,83 @@
     "spawn_animation_event": 1208601321,
     "payload_removed_animation_event": 2235895672,
     "decay_after_payload_removed": 1
+  },
+  "8484362704672433843": {
+    "payload_spawn_delay": 0,
+    "payload_deploy_delay": 2,
+    "node": 3245600362,
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": -1
+    },
+    "spawn_animation_event": 1925457693,
+    "payload_removed_animation_event": 0,
+    "decay_after_payload_removed": 0
+  },
+  "15341635186769797274": {
+    "payload_spawn_delay": 10,
+    "payload_deploy_delay": 2,
+    "node": 996959194,
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "spawn_animation_event": 1925457693,
+    "payload_removed_animation_event": 0,
+    "decay_after_payload_removed": 0
+  },
+  "15062487539698939333": {
+    "payload_spawn_delay": 0,
+    "payload_deploy_delay": 2,
+    "node": 1931328133,
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": -4
+    },
+    "spawn_animation_event": 1925457693,
+    "payload_removed_animation_event": 0,
+    "decay_after_payload_removed": 0
+  },
+  "17266439410956032073": {
+    "payload_spawn_delay": 0.5,
+    "payload_deploy_delay": 0.75,
+    "node": 2601604451,
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "spawn_animation_event": 1925457693,
+    "payload_removed_animation_event": 2235895672,
+    "decay_after_payload_removed": 1
+  },
+  "16537609150891873250": {
+    "payload_spawn_delay": 0.5,
+    "payload_deploy_delay": 0.75,
+    "node": 2601604451,
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "spawn_animation_event": 1925457693,
+    "payload_removed_animation_event": 2235895672,
+    "decay_after_payload_removed": 1
+  },
+  "12628840167151644876": {
+    "payload_spawn_delay": 10,
+    "payload_deploy_delay": 2,
+    "node": 996959194,
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "spawn_animation_event": 1925457693,
+    "payload_removed_animation_event": 0,
+    "decay_after_payload_removed": 0
   }
 }

@@ -25,7 +25,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Bleed",
@@ -50,7 +51,8 @@
           "unique_effect": 1,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Deaf",
@@ -75,7 +77,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Confusion",
@@ -100,7 +103,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Hallucination",
@@ -125,7 +129,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Fire",
@@ -150,7 +155,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Slowed",
@@ -175,7 +181,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Rooted",
@@ -200,7 +207,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Clogged",
@@ -225,7 +233,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Acid_Splash",
@@ -233,8 +242,8 @@
           "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
           "shading_environment": 8598084098781638891,
           "shading_environment_fade_time": 0,
-          "strength": 0.5,
-          "duration": 3,
+          "strength": 0.300000012,
+          "duration": 4,
           "damage_info_type": "DamageInfoType_DPS_Acid_Splash",
           "particle_effect_path": 18412546917119523980,
           "script_event_start": 1034147453,
@@ -250,7 +259,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Acid_Stream",
@@ -275,7 +285,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Thermite",
@@ -300,7 +311,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Cyborg_Fire",
@@ -325,7 +337,34 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
+        },
+        {
+          "type": "StatusEffectType_Choked",
+          "debug_name": "Choked",
+          "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
+          "shading_environment": 0,
+          "shading_environment_fade_time": 0,
+          "strength": 50,
+          "duration": 3,
+          "damage_info_type": "DamageInfoType_None",
+          "particle_effect_path": 0,
+          "script_event_start": 0,
+          "script_event_stop": 0,
+          "wwise_state": "WwiseAudioState_None",
+          "audio_event_start": 0,
+          "audio_event_stop": 0,
+          "audio_event_enter": 0,
+          "audio_event_exit": 0,
+          "animation_event_start": 0,
+          "animation_event_stop": 0,
+          "difficult_terrain_amount": 0,
+          "unique_effect": 0,
+          "no_susceptibility_required": 1,
+          "audio_event_master_only": 0,
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Sand",
@@ -350,7 +389,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Mud",
@@ -375,7 +415,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Snow",
@@ -400,7 +441,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Submerged",
@@ -425,7 +467,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Thornbush",
@@ -450,7 +493,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Barbwire",
@@ -475,7 +519,8 @@
           "unique_effect": 1,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_BushSmall",
@@ -500,7 +545,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_BushLarge",
@@ -525,7 +571,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Pure_Damage",
@@ -550,23 +597,24 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
-          "type": "StatusEffectType_StimVisual",
-          "debug_name": "Stim Visual",
+          "type": "StatusEffectType_StimFx",
+          "debug_name": "Stim Fx",
           "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
           "shading_environment": 5603582344292459412,
-          "shading_environment_fade_time": 0.25,
+          "shading_environment_fade_time": 1.5,
           "strength": 2,
-          "duration": 1.5,
+          "duration": 4,
           "damage_info_type": "DamageInfoType_None",
-          "particle_effect_path": 0,
+          "particle_effect_path": 17782080687470053357,
           "script_event_start": 0,
           "script_event_stop": 0,
           "wwise_state": "WwiseAudioState_None",
-          "audio_event_start": 0,
-          "audio_event_stop": 0,
+          "audio_event_start": 2165801664,
+          "audio_event_stop": 3476244970,
           "audio_event_enter": 0,
           "audio_event_exit": 0,
           "animation_event_start": 0,
@@ -574,8 +622,9 @@
           "difficult_terrain_amount": 0,
           "unique_effect": 0,
           "no_susceptibility_required": 0,
-          "audio_event_master_only": 0,
-          "block_sprint": 0
+          "audio_event_master_only": 1,
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_StimStamina",
@@ -600,23 +649,24 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_StimHeal",
           "debug_name": "Stim Heal",
           "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
-          "shading_environment": 5603582344292459412,
+          "shading_environment": 0,
           "shading_environment_fade_time": 1.5,
           "strength": 2,
           "duration": 4,
           "damage_info_type": "DamageInfoType_None",
-          "particle_effect_path": 17782080687470053357,
+          "particle_effect_path": 0,
           "script_event_start": 0,
           "script_event_stop": 0,
           "wwise_state": "WwiseAudioState_None",
-          "audio_event_start": 2165801664,
-          "audio_event_stop": 3476244970,
+          "audio_event_start": 0,
+          "audio_event_stop": 0,
           "audio_event_enter": 0,
           "audio_event_exit": 0,
           "animation_event_start": 0,
@@ -624,8 +674,44 @@
           "difficult_terrain_amount": 0,
           "unique_effect": 0,
           "no_susceptibility_required": 0,
-          "audio_event_master_only": 1,
-          "block_sprint": 0
+          "audio_event_master_only": 0,
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
+        },
+        {
+          "type": "StatusEffectType_StimCombatDrugs",
+          "debug_name": "Stim Combat Drugs",
+          "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
+          "shading_environment": 1180975016771623504,
+          "shading_environment_fade_time": 3.5,
+          "strength": 1.10000002,
+          "duration": 10,
+          "damage_info_type": "DamageInfoType_None",
+          "particle_effect_path": 0,
+          "script_event_start": 0,
+          "script_event_stop": 0,
+          "wwise_state": "WwiseAudioState_None",
+          "audio_event_start": 3884513188,
+          "audio_event_stop": 1711319041,
+          "audio_event_enter": 0,
+          "audio_event_exit": 0,
+          "animation_event_start": 0,
+          "animation_event_stop": 0,
+          "difficult_terrain_amount": 0,
+          "unique_effect": 0,
+          "no_susceptibility_required": 0,
+          "audio_event_master_only": 0,
+          "block_sprint": 0,
+          "modified_stats_multipliers": [
+            {
+              "type": "ModifiableStatType_IncomingDamageScale",
+              "value": 0.899999976
+            },
+            {
+              "type": "ModifiableStatType_AimSwayModifier",
+              "value": 1.25
+            }
+          ]
         },
         {
           "type": "StatusEffectType_DownedStimHeal",
@@ -650,7 +736,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 1,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_DownedStimVisual",
@@ -675,7 +762,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_StimCooldown",
@@ -700,7 +788,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_BurningHeavy",
@@ -725,7 +814,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_RadiationLight",
@@ -750,7 +840,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_RadiationHeavy",
@@ -775,7 +866,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Electric",
@@ -800,16 +892,17 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Hidden",
           "debug_name": "Hidden",
           "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
-          "shading_environment": 0,
-          "shading_environment_fade_time": 0,
+          "shading_environment": 9361199048368281530,
+          "shading_environment_fade_time": 1,
           "strength": 0.899999976,
-          "duration": 0.400000006,
+          "duration": 0.5,
           "damage_info_type": "DamageInfoType_None",
           "particle_effect_path": 0,
           "script_event_start": 0,
@@ -825,7 +918,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_StunSmall",
@@ -850,7 +944,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_StunMedium",
@@ -875,7 +970,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_StunLarge",
@@ -900,7 +996,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_StunMassive",
@@ -925,7 +1022,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_StunIlluminate",
@@ -950,7 +1048,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Gas",
@@ -975,7 +1074,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Gas_MK2",
@@ -1000,7 +1100,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Inverted_Aim_Assist",
@@ -1025,7 +1126,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Flashlighted",
@@ -1050,7 +1152,8 @@
           "unique_effect": 1,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Smoke_Covered",
@@ -1075,7 +1178,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_BackpackChemicals",
@@ -1100,7 +1204,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_IntenseHeat",
@@ -1125,7 +1230,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_ExtremeCold",
@@ -1150,7 +1256,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Tremor",
@@ -1175,7 +1282,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 1
+          "block_sprint": 1,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Sandstorm",
@@ -1200,7 +1308,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_Snowstorm",
@@ -1225,7 +1334,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_AcidStorm",
@@ -1250,7 +1360,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         },
         {
           "type": "StatusEffectType_ThickFog",
@@ -1275,7 +1386,8 @@
           "unique_effect": 0,
           "no_susceptibility_required": 1,
           "audio_event_master_only": 0,
-          "block_sprint": 0
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
         }
       ]
     }

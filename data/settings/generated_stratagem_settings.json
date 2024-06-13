@@ -34,7 +34,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -74,7 +76,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 91175352,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -94,7 +97,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_BallisticShield",
@@ -128,7 +132,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -168,7 +174,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -188,7 +195,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EnergyShieldBackpack",
@@ -222,7 +230,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -262,7 +272,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -282,7 +293,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_JumppackBackpack",
@@ -315,7 +327,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -355,7 +369,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -375,7 +390,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_DroneMG",
@@ -409,7 +425,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -449,7 +467,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -471,7 +490,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Drone_Laser_Rifle",
@@ -505,7 +525,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -545,7 +567,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -567,7 +590,106 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_DisplacementBackpack",
+          "id": 2185045091,
+          "video_id": 0,
+          "debug_name": "BACKPACK. DISPLACEMENT BACKPACK",
+          "name_upper": 3940822269,
+          "name_cased": 2771179215,
+          "description": 1512212255,
+          "fluff": 3891203780,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Right",
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Right"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 5,
+          "spawn_radius": 0,
+          "beacon_linger_time": 0,
+          "cooldown_duration_success": 480,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 0,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            5511920513804679707,
+            8356509974227907605
+          ],
+          "package": 7563356045910757224,
+          "icon": 6911116042761455587,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Supply",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 1430173413,
+          "callout_vo": 3240192197,
+          "off_cooldown_vo": 0,
+          "matching_support_weapon": 0,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 0,
+            "hellpod": 1,
+            "explosive": 0,
+            "backpack": 1,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0
+          },
+          "spottable_vo_line": 72834100,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -605,7 +727,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 1,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -649,7 +773,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 308137367,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -680,7 +805,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_HealthPackRack",
@@ -712,7 +838,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -752,7 +880,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 3990781768,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -772,7 +901,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -796,7 +926,7 @@
             "StratagemButtonDirection_Right",
             "StratagemButtonDirection_Right"
           ],
-          "uses": 3,
+          "uses": 4,
           "spawn_time": 0,
           "spawn_radius": 0,
           "beacon_linger_time": 0,
@@ -809,7 +939,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -848,7 +980,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 1442186316,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -871,7 +1004,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EagleBomb",
@@ -904,7 +1038,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -943,7 +1079,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 1512505365,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -967,7 +1104,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EagleRocket",
@@ -999,7 +1137,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1038,7 +1178,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 1816922518,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1062,7 +1203,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EagleAirstrike",
@@ -1094,7 +1236,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1133,7 +1277,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 1572417151,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1156,7 +1301,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EagleAirstrikeNapalm",
@@ -1188,7 +1334,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1227,7 +1375,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 1442186316,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1250,7 +1399,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EagleAirstrikeSmoke",
@@ -1282,7 +1432,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1321,7 +1473,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 1572417151,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1344,7 +1497,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EagleClusterbombs",
@@ -1377,7 +1531,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1416,7 +1572,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 1442186316,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1439,7 +1596,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EagleRearm",
@@ -1472,7 +1630,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1509,7 +1669,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_EagleCAS",
@@ -1529,7 +1690,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EagleMissile",
@@ -1561,7 +1723,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1600,7 +1764,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 610745673,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1624,7 +1789,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EagleStrafe",
@@ -1655,7 +1821,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1694,7 +1862,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 1,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 3137888600,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1714,7 +1883,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -1722,6 +1892,236 @@
   {
     "StratagemSettings": {
       "items": [
+        {
+          "type": "StratagemType_Cover",
+          "id": 3838322268,
+          "video_id": 3467237390,
+          "debug_name": "EMPLACEMENTS. DEFENSE WALL LMG",
+          "name_upper": 1219584954,
+          "name_cased": 3324857446,
+          "description": 1113723435,
+          "fluff": 3364734793,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Right",
+            "StratagemButtonDirection_Right"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 3,
+          "spawn_radius": 0,
+          "beacon_linger_time": 0,
+          "cooldown_duration_success": 120,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 0,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            5593839514190174445,
+            8356509974227907605
+          ],
+          "package": 14283212294023314830,
+          "icon": 8419303563398523616,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Defensive",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 2516223412,
+          "callout_vo": 3315511509,
+          "off_cooldown_vo": 0,
+          "matching_support_weapon": 0,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 0,
+            "hellpod": 1,
+            "explosive": 0,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0
+          },
+          "spottable_vo_line": 1990805680,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            {
+              "x": 2.54999995,
+              "y": 2.54999995,
+              "z": 0.449999988
+            },
+            {
+              "x": 2.54999995,
+              "y": -2.54999995,
+              "z": 0.300000012
+            }
+          ],
+          "hellpod_additional_rotation_in_tau": [
+            0,
+            0.25,
+            0.75
+          ],
+          "equipment_tags": [],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_Cover_Grenade_Launcher",
+          "id": 2480128092,
+          "video_id": 1106391991,
+          "debug_name": "EMPLACEMENTS. DEFENSE WALL GRENADE LAUNCHER",
+          "name_upper": 1044194585,
+          "name_cased": 3625143144,
+          "description": 189153727,
+          "fluff": 2358941007,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Right",
+            "StratagemButtonDirection_Up"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 3,
+          "spawn_radius": 0,
+          "beacon_linger_time": 0,
+          "cooldown_duration_success": 120,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 0,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            901379433810974099,
+            8356509974227907605
+          ],
+          "package": 11335195794455521186,
+          "icon": 8419303563398523616,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Defensive",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 2516223412,
+          "callout_vo": 3315511509,
+          "off_cooldown_vo": 0,
+          "matching_support_weapon": 0,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 0,
+            "hellpod": 1,
+            "explosive": 0,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0
+          },
+          "spottable_vo_line": 1990805680,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            {
+              "x": 2.54999995,
+              "y": 2.54999995,
+              "z": 0.449999988
+            },
+            {
+              "x": 2.54999995,
+              "y": -2.54999995,
+              "z": 0.300000012
+            }
+          ],
+          "hellpod_additional_rotation_in_tau": [
+            0,
+            0.25,
+            0.75
+          ],
+          "equipment_tags": [],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
         {
           "type": "StratagemType_EnergyShield",
           "id": 2281932031,
@@ -1754,7 +2154,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1794,7 +2196,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 451144368,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1814,7 +2217,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_TurretManned",
@@ -1848,7 +2252,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1888,7 +2294,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 451144368,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1910,7 +2317,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_MineDeployer",
@@ -1942,7 +2350,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -1982,7 +2392,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2872231517,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2002,7 +2413,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_MineDeployer_IncendiaryMines",
@@ -2034,7 +2446,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -2074,7 +2488,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2872231517,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2094,7 +2509,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_MineDeployer_AntiTank",
@@ -2126,7 +2542,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -2166,7 +2584,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2872231517,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2189,7 +2608,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_TurretTesla",
@@ -2223,7 +2643,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -2263,7 +2685,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 1
+            "turret": 1,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2807717770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2285,7 +2708,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -2325,7 +2749,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -2364,7 +2790,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2384,7 +2811,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -2425,7 +2853,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -2465,7 +2895,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2485,7 +2916,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_CyborgCarryData",
@@ -2520,7 +2952,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_CyborgCarryData",
           "mission_specific": 1,
@@ -2560,7 +2994,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2580,7 +3015,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_CarryData",
@@ -2613,7 +3049,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_CarryData",
           "mission_specific": 1,
@@ -2653,7 +3091,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2673,7 +3112,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_DrillingCharge",
@@ -2705,7 +3145,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -2744,7 +3186,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2764,7 +3207,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Extract",
@@ -2798,7 +3242,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -2837,7 +3283,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2857,7 +3304,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_DropoffHellbomb",
@@ -2893,7 +3341,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_Hellbomb",
           "mission_specific": 1,
@@ -2933,7 +3383,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2295699548,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2953,7 +3404,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_DropoffBugPlug",
@@ -2977,7 +3429,7 @@
           "uses": 4294967295,
           "spawn_time": 0,
           "spawn_radius": 0,
-          "beacon_linger_time": 6,
+          "beacon_linger_time": 8,
           "cooldown_duration_success": 120,
           "cooldown_duration_fail": 0,
           "origin_type": "StratagemOriginType_ShipGeneric",
@@ -2987,7 +3439,9 @@
             "objective_owner": 1,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_Drill",
           "mission_specific": 1,
@@ -3027,7 +3481,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 1
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3047,7 +3502,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_DropoffCargoContainer",
@@ -3081,7 +3537,9 @@
             "objective_owner": 1,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_CargoContainer",
           "mission_specific": 1,
@@ -3121,7 +3579,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3141,7 +3600,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_SpireSterilizer",
@@ -3176,7 +3636,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -3216,7 +3678,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3236,7 +3699,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_RaiseFlag",
@@ -3268,7 +3732,9 @@
             "objective_owner": 1,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_RaiseFlag",
           "mission_specific": 1,
@@ -3308,7 +3774,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3328,7 +3795,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_BugThumper",
@@ -3362,7 +3830,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_BugThumper",
           "mission_specific": 1,
@@ -3402,7 +3872,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3422,7 +3893,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_ProspectingDrill",
@@ -3456,7 +3928,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_ProspectingDrill",
           "mission_specific": 1,
@@ -3496,7 +3970,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3516,7 +3991,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_SeismicProbe",
@@ -3550,7 +4026,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_SeismicProbe",
           "mission_specific": 1,
@@ -3590,7 +4068,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3610,7 +4089,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Prospector",
@@ -3646,7 +4126,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_BugScanner",
           "mission_specific": 1,
@@ -3686,7 +4168,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3706,7 +4189,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Scrambler",
@@ -3743,7 +4227,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -3783,7 +4269,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3803,7 +4290,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_ExtractionBeacon",
@@ -3838,7 +4326,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -3878,7 +4368,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3898,7 +4389,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_ImmediateExtractionBeacon",
@@ -3934,7 +4426,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -3974,7 +4468,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3994,7 +4489,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_EmergencyExtractionBeacon",
@@ -4029,7 +4525,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -4069,7 +4567,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4089,7 +4588,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_ReinforcementBeacon",
@@ -4122,7 +4622,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -4161,7 +4663,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4181,7 +4684,103 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_OrbitalIlluminationFlare",
+          "id": 1695682779,
+          "video_id": 0,
+          "debug_name": "MISSIONS. ORBITAL ILLUMINATION FLARE",
+          "name_upper": 1071932953,
+          "name_cased": 1365642266,
+          "description": 1401993058,
+          "fluff": 1973278401,
+          "loading_loc": 1914518290,
+          "category": "StratagemCategoryType_OrbitalFireSupport",
+          "button_combination": [
+            "StratagemButtonDirection_Right",
+            "StratagemButtonDirection_Right",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Left"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 0,
+          "spawn_radius": 0,
+          "beacon_linger_time": 30,
+          "cooldown_duration_success": 30,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 1,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 0,
+          "triggers_war": 1,
+          "cooldown_type": "StratagemCooldownType_SharedTeam",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            4400483397467331392
+          ],
+          "package": 0,
+          "icon": 12134030289556044490,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Defensive",
+          "cost": 0,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 1345383356,
+          "callout_vo": 1437180770,
+          "off_cooldown_vo": 0,
+          "matching_support_weapon": 0,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 0,
+            "hellpod": 0,
+            "explosive": 0,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0
+          },
+          "spottable_vo_line": 2310216130,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_SOSBeacon",
@@ -4213,7 +4812,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -4253,7 +4854,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4273,7 +4875,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_UploadDiscovery",
@@ -4306,7 +4909,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -4343,7 +4948,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 0,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4363,7 +4969,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Nuke",
@@ -4398,7 +5005,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -4437,7 +5046,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4457,7 +5067,105 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_CarpetBomb",
+          "id": 905054095,
+          "video_id": 0,
+          "debug_name": "MISSIONS CLAN STATION. Carpet Bombing Run",
+          "name_upper": 1265258834,
+          "name_cased": 1679090488,
+          "description": 692079485,
+          "fluff": 0,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_CloseAirSupport",
+          "button_combination": [
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Right",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Right",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Right"
+          ],
+          "uses": 1,
+          "spawn_time": 0,
+          "spawn_radius": 0,
+          "beacon_linger_time": 0,
+          "cooldown_duration_success": 900,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ClanStation",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 0,
+          "triggers_war": 1,
+          "cooldown_type": "StratagemCooldownType_SharedClan",
+          "widget_info_type": "StratagemInfoType_Status",
+          "payload": [
+            7839526042706341062
+          ],
+          "package": 0,
+          "icon": 9947685947500592065,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Offensive",
+          "cost": 5,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 1,
+          "beacon_color": "StratagemBeaconColor_Red",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 0,
+          "callout_vo": 633809080,
+          "off_cooldown_vo": 0,
+          "matching_support_weapon": 0,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 0,
+            "hellpod": 0,
+            "explosive": 0,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0
+          },
+          "spottable_vo_line": 1512505365,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_RemoteExplosives",
@@ -4493,7 +5201,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -4533,7 +5243,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4553,7 +5264,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_JammedPinata",
@@ -4585,7 +5297,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -4625,7 +5339,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4645,7 +5360,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_SEAF_Gun",
@@ -4677,7 +5393,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 0,
+            "available_after_mission_end": 1
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -4714,7 +5432,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 3345105453,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4734,7 +5453,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_DarkFluidBackpack",
@@ -4768,7 +5488,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 1
+            "host_confirm_objective_stratagem_usage": 1,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_DarkFluidBackpack",
           "mission_specific": 1,
@@ -4808,7 +5530,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4828,7 +5551,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_TCS03Thumper",
@@ -4862,7 +5586,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 1,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_TCS03Thumper",
           "mission_specific": 1,
@@ -4902,7 +5628,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4922,7 +5649,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -4947,10 +5675,10 @@
             "StratagemButtonDirection_Up"
           ],
           "uses": 4294967295,
-          "spawn_time": 4,
+          "spawn_time": 2,
           "spawn_radius": 0,
           "beacon_linger_time": 0,
-          "cooldown_duration_success": 100,
+          "cooldown_duration_success": 90,
           "cooldown_duration_fail": 0,
           "origin_type": "StratagemOriginType_ShipSpecific",
           "call_in_type": "StratagemCallInType_Throw",
@@ -4959,7 +5687,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -4998,7 +5728,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 3345105453,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5022,7 +5753,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalShot",
@@ -5044,7 +5776,7 @@
           "spawn_time": 2,
           "spawn_radius": 0,
           "beacon_linger_time": 0,
-          "cooldown_duration_success": 120,
+          "cooldown_duration_success": 100,
           "cooldown_duration_fail": 0,
           "origin_type": "StratagemOriginType_ShipSpecific",
           "call_in_type": "StratagemCallInType_Throw",
@@ -5053,7 +5785,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5092,7 +5826,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 3345105453,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5116,7 +5851,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalStun",
@@ -5148,7 +5884,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5187,7 +5925,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5210,7 +5949,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalStrike",
@@ -5244,7 +5984,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5283,7 +6025,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5307,7 +6050,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalGas",
@@ -5339,7 +6083,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5378,7 +6124,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5402,7 +6149,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalBarrage",
@@ -5437,7 +6185,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5476,7 +6226,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2587559793,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5499,7 +6250,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalLaser",
@@ -5532,7 +6284,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5571,7 +6325,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 162237989,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5595,7 +6350,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalRailcannon",
@@ -5628,7 +6384,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5667,7 +6425,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 162237989,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5692,7 +6451,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalWalkingBarrage",
@@ -5726,7 +6486,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5765,7 +6527,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 3714581889,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5788,7 +6551,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalGatlingBarrage",
@@ -5812,7 +6576,7 @@
           "spawn_time": 2,
           "spawn_radius": 0,
           "beacon_linger_time": 0,
-          "cooldown_duration_success": 80,
+          "cooldown_duration_success": 70,
           "cooldown_duration_fail": 0,
           "origin_type": "StratagemOriginType_ShipSpecific",
           "call_in_type": "StratagemCallInType_Throw",
@@ -5821,7 +6585,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5860,7 +6626,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 3714581889,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5883,7 +6650,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_OrbitalSmoke",
@@ -5915,7 +6683,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -5954,7 +6724,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5977,7 +6748,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -6015,7 +6787,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6055,7 +6829,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 3841304722,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6075,7 +6850,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_HealthPackRack_PresidentReward",
@@ -6107,7 +6883,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6147,7 +6925,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 3990781768,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6167,7 +6946,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_DropoffCombatWalker_PresidentReward",
@@ -6202,7 +6982,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6242,7 +7024,8 @@
             "vehicle": 1,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2377291446,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6262,7 +7045,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_MedicBackpack_PresidentReward",
@@ -6295,7 +7079,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6335,7 +7121,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6355,7 +7142,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_JumppackBackpack_PresidentReward",
@@ -6388,7 +7176,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6428,7 +7218,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6448,7 +7239,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_TurretRocket_PresidentReward",
@@ -6481,7 +7273,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6521,7 +7315,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2807717770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6541,7 +7336,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Machinegun_PresidentReward",
@@ -6574,7 +7370,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6614,7 +7412,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6634,7 +7433,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -6674,7 +7474,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6714,7 +7516,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6741,7 +7544,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_GrenadeLauncher",
@@ -6774,7 +7578,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6814,7 +7620,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6837,7 +7644,109 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_GrenadeLauncher_Incediary",
+          "id": 3156190417,
+          "video_id": 0,
+          "debug_name": "TEAM WEAPONS. GRENADE LAUNCHER INCENDIARY",
+          "name_upper": 241188105,
+          "name_cased": 1314942699,
+          "description": 37273414,
+          "fluff": 131835210,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Up"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 3,
+          "spawn_radius": 0,
+          "beacon_linger_time": 4,
+          "cooldown_duration_success": 480,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 1,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            14021583492882214763,
+            8356509974227907605
+          ],
+          "package": 15294556684565817890,
+          "icon": 4907084576666004619,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Supply",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 213621228,
+          "callout_vo": 1267079926,
+          "off_cooldown_vo": 0,
+          "matching_support_weapon": 3343676429,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 1,
+            "hellpod": 1,
+            "explosive": 1,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0
+          },
+          "spottable_vo_line": 85101770,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [
+            119576005,
+            3329277728,
+            463816514
+          ],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Machinegun",
@@ -6870,7 +7779,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -6910,7 +7821,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6933,7 +7845,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_LightMachinegun",
@@ -6967,7 +7880,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7007,7 +7922,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7027,7 +7943,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Railgun",
@@ -7061,7 +7978,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7101,7 +8020,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7125,7 +8045,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Recoilless",
@@ -7158,7 +8079,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7198,7 +8121,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7223,7 +8147,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_LaserCannon",
@@ -7256,7 +8181,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7296,7 +8223,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7322,7 +8250,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_LaserPulseCannon",
@@ -7355,7 +8284,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7395,7 +8326,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7420,7 +8352,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Sniper",
@@ -7453,7 +8386,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7493,7 +8428,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7517,7 +8453,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_LATOneshot",
@@ -7550,7 +8487,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7590,7 +8529,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7615,7 +8555,110 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_LaserGuidedMissileLauncher",
+          "id": 2232989803,
+          "video_id": 2720887372,
+          "debug_name": "TEAM WEAPONS. COMMANDO",
+          "name_upper": 103056538,
+          "name_cased": 2008789512,
+          "description": 865908403,
+          "fluff": 1726320937,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Right"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 3,
+          "spawn_radius": 0,
+          "beacon_linger_time": 4,
+          "cooldown_duration_success": 120,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 1,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            11594114104552493871,
+            8356509974227907605
+          ],
+          "package": 0,
+          "icon": 2798151356733997767,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Supply",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 213621228,
+          "callout_vo": 1267079926,
+          "off_cooldown_vo": 0,
+          "matching_support_weapon": 2232989803,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 1,
+            "hellpod": 1,
+            "explosive": 1,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0
+          },
+          "spottable_vo_line": 85101770,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [
+            119576005,
+            362702031,
+            2901461855,
+            4104165606
+          ],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Flamethrower",
@@ -7648,7 +8691,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7688,7 +8733,8 @@
             "vehicle": 0,
             "fire": 1,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7712,7 +8758,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Heavy_Mg",
@@ -7745,7 +8792,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7785,7 +8834,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7809,7 +8859,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Air_Burst_Rocket_Launcher",
@@ -7842,7 +8893,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7882,7 +8935,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7907,7 +8961,108 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_MiniMissile",
+          "id": 2194525688,
+          "video_id": 0,
+          "debug_name": "TEAM WEAPONS. MINI MISSILE SILO",
+          "name_upper": 999321846,
+          "name_cased": 568371220,
+          "description": 2579238661,
+          "fluff": 4078122433,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Right",
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Down"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 3,
+          "spawn_radius": 0,
+          "beacon_linger_time": 4,
+          "cooldown_duration_success": 180,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 0,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            16003672528522815935,
+            18151581020363463248
+          ],
+          "package": 2974539473235412527,
+          "icon": 5789554738187393439,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Supply",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 213621228,
+          "callout_vo": 4156772129,
+          "off_cooldown_vo": 0,
+          "matching_support_weapon": 4188961799,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 1,
+            "hellpod": 1,
+            "explosive": 0,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0
+          },
+          "spottable_vo_line": 85101770,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [
+            2901461855,
+            3591930318
+          ],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_FafMissileLauncher",
@@ -7940,7 +9095,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -7980,7 +9137,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8004,7 +9162,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_ArcThrower",
@@ -8038,7 +9197,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8078,7 +9239,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8103,7 +9265,109 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_Stinger",
+          "id": 2341239029,
+          "video_id": 0,
+          "debug_name": "TEAM WEAPONS. STINGER",
+          "name_upper": 1881325850,
+          "name_cased": 3924705555,
+          "description": 1021342965,
+          "fluff": 2789136713,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Up"
+          ],
+          "uses": 5,
+          "spawn_time": 3,
+          "spawn_radius": 0,
+          "beacon_linger_time": 4,
+          "cooldown_duration_success": 30,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 0,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            8624532664058541278,
+            8356509974227907605
+          ],
+          "package": 15659611722597148380,
+          "icon": 8371132894868384101,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Supply",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 213621228,
+          "callout_vo": 1267079926,
+          "off_cooldown_vo": 0,
+          "matching_support_weapon": 2341239029,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 1,
+            "hellpod": 1,
+            "explosive": 1,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0
+          },
+          "spottable_vo_line": 85101770,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [
+            4104165606,
+            2079436940,
+            2901461855
+          ],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -8141,7 +9405,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8181,7 +9447,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 1
+            "turret": 1,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8203,7 +9470,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_TurretMachinegunGPMG",
@@ -8227,7 +9495,7 @@
           "spawn_time": 3,
           "spawn_radius": 0,
           "beacon_linger_time": 0,
-          "cooldown_duration_success": 180,
+          "cooldown_duration_success": 120,
           "cooldown_duration_fail": 0,
           "origin_type": "StratagemOriginType_ShipSpecific",
           "call_in_type": "StratagemCallInType_Throw",
@@ -8236,7 +9504,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8276,7 +9546,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 1
+            "turret": 1,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8299,7 +9570,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_TurretMortar",
@@ -8332,7 +9604,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8372,7 +9646,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 1
+            "turret": 1,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8396,7 +9671,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_TurretMortar_Staticfield",
@@ -8429,7 +9705,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8469,7 +9747,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 1
+            "turret": 1,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8492,7 +9771,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_TurretRocket",
@@ -8525,7 +9805,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8565,7 +9847,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 1
+            "turret": 1,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8589,7 +9872,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_TurretAutocannon",
@@ -8623,7 +9907,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8663,7 +9949,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 1
+            "turret": 1,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8687,7 +9974,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 1
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -8726,7 +10014,9 @@
             "objective_owner": 0,
             "host_confirmation": 1,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8766,7 +10056,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8786,7 +10077,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         },
         {
           "type": "StratagemType_Tutorial_Extract",
@@ -8820,7 +10112,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8861,7 +10155,8 @@
             "vehicle": 0,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8881,7 +10176,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 1,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
         }
       ]
     }
@@ -8922,7 +10218,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -8962,7 +10260,8 @@
             "vehicle": 1,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2377291446,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8984,7 +10283,8 @@
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_CombatWalker"
         },
         {
           "type": "StratagemType_DropoffCombatWalker_Autocannon",
@@ -9019,7 +10319,9 @@
             "objective_owner": 0,
             "host_confirmation": 0,
             "host_confirm_unique_instance": 0,
-            "host_confirm_objective_stratagem_usage": 0
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
           },
           "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
           "mission_specific": 1,
@@ -9059,7 +10361,8 @@
             "vehicle": 1,
             "fire": 0,
             "aerial": 0,
-            "turret": 0
+            "turret": 0,
+            "straight_beacon": 0
           },
           "spottable_vo_line": 2377291446,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9079,7 +10382,8 @@
           "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
-          "deploy_on_navmesh_only": 0
+          "deploy_on_navmesh_only": 0,
+          "payload_unit_customization": "UnitCustomizationCollectionType_CombatWalkerEmancipator"
         }
       ]
     }

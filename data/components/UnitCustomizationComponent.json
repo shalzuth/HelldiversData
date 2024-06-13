@@ -1,0 +1,4 @@
+{ "UnitCustomizationComponent" : {
+    "materials_textures_overrides" : { "type": "array", "subtype": "UnitCustomizationMaterialOverrides", "description": "All material slots textures overrides" },
+    "mounted_weapon_texture_overrides" : { "type": "array", "subtype": "UnitCustomizationMaterialOverrides", "description": "Mounted weapon material slots textures overrides" }
+}}

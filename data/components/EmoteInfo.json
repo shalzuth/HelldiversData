@@ -2,6 +2,7 @@
     "id" : { "type": "uint", "description": "[string]The id for this emote." },
     "dlc_id" : { "type": "uint", "default": 1288385068, "description": "[string]The id to the backend, if it exists" },
     "ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play for this emote." },
+    "cancel_ability" : { "type": "AbilityId", "default": "AbilityId_emote_generic_cancel", "description": "The ability to play for this emote when its cancelled." },
     "preview_anim_event" : { "type": "uint", "description": "[string]The animation event to play for preview." },
     "cancel_sync_anim_event" : { "type": "uint", "description": "[string]The animation event to play when cancelled." },
     "cancel_vo" : { "type": "uint", "description": "[string]VO to play when cancelled." },

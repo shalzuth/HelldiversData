@@ -2,5 +2,7 @@
     "distance" : { "type": "float", "default": 1.5, "description": "Distance from root of enemy to lerp the entity to." },
     "z_angle" : { "type": "float", "default": 0, "description": "Rotate the entity this angle around Z to align with enemy. 0 is facing same direction, 180 is facing towards enemy." },
     "instigator_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability that the instigator runs on response of an interaction" },
-    "receiver_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability that the receiver runs on response of an interaction" }
+    "receiver_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability that the receiver runs on response of an interaction" },
+    "instigator_exit_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability that the instigator runs when exiting the synced ability" },
+    "receiver_exit_ability_id" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability that the receiver runs when exiting the synced ability" }
 }}

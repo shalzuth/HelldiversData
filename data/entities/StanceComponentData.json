@@ -1,4 +1,352 @@
 {
+  "7655267415106750589": {
+    "stand": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1.10000002
+      },
+      "animation_event_enter": 1700377298,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1683744592
+    },
+    "crouch": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 0.600000024,
+        "y": 0.649999976
+      },
+      "animation_event_enter": 3059040427,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1629232052
+    },
+    "prone": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1
+      },
+      "animation_event_enter": 0,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 0
+    }
+  },
+  "3508555955240290181": {
+    "stand": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1.10000002
+      },
+      "animation_event_enter": 1700377298,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1683744592
+    },
+    "crouch": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 0.600000024,
+        "y": 0.649999976
+      },
+      "animation_event_enter": 3059040427,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1629232052
+    },
+    "prone": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1
+      },
+      "animation_event_enter": 0,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 0
+    }
+  },
+  "9549082741251590168": {
+    "stand": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1.10000002
+      },
+      "animation_event_enter": 1700377298,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1683744592
+    },
+    "crouch": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 0.600000024,
+        "y": 0.649999976
+      },
+      "animation_event_enter": 3059040427,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1629232052
+    },
+    "prone": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1
+      },
+      "animation_event_enter": 0,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 0
+    }
+  },
   "1024464436030047776": {
     "stand": {
       "sway_move_modifier_scoped": {
@@ -110,6 +458,354 @@
         "y": 0.449999988
       },
       "animation_event_enter": 330215787,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 0
+    }
+  },
+  "16653674489725268507": {
+    "stand": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1.10000002
+      },
+      "animation_event_enter": 1700377298,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1683744592
+    },
+    "crouch": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 0.600000024,
+        "y": 0.649999976
+      },
+      "animation_event_enter": 3059040427,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1629232052
+    },
+    "prone": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1
+      },
+      "animation_event_enter": 0,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 0
+    }
+  },
+  "5250245939082938461": {
+    "stand": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1.10000002
+      },
+      "animation_event_enter": 1700377298,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1683744592
+    },
+    "crouch": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 0.600000024,
+        "y": 0.649999976
+      },
+      "animation_event_enter": 3059040427,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1629232052
+    },
+    "prone": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1
+      },
+      "animation_event_enter": 0,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 0
+    }
+  },
+  "7512712492736498702": {
+    "stand": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1.10000002
+      },
+      "animation_event_enter": 1700377298,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1683744592
+    },
+    "crouch": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 0.600000024,
+        "y": 0.649999976
+      },
+      "animation_event_enter": 3059040427,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1629232052
+    },
+    "prone": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1
+      },
+      "animation_event_enter": 0,
       "animation_event_exit": 0,
       "mover_name": 0,
       "collider_name": 0
@@ -231,6 +927,354 @@
       "collider_name": 0
     }
   },
+  "8806287475843878476": {
+    "stand": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1.10000002
+      },
+      "animation_event_enter": 1700377298,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1683744592
+    },
+    "crouch": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 0.600000024,
+        "y": 0.649999976
+      },
+      "animation_event_enter": 3059040427,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1629232052
+    },
+    "prone": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1
+      },
+      "animation_event_enter": 0,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 0
+    }
+  },
+  "11457796999526261852": {
+    "stand": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1.10000002
+      },
+      "animation_event_enter": 1700377298,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1683744592
+    },
+    "crouch": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 0.600000024,
+        "y": 0.649999976
+      },
+      "animation_event_enter": 3059040427,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1629232052
+    },
+    "prone": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1
+      },
+      "animation_event_enter": 0,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 0
+    }
+  },
+  "152751642744350684": {
+    "stand": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1.10000002
+      },
+      "animation_event_enter": 1700377298,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1683744592
+    },
+    "crouch": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 0.600000024,
+        "y": 0.649999976
+      },
+      "animation_event_enter": 3059040427,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 1629232052
+    },
+    "prone": {
+      "sway_move_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "sway_move_frequency_scoped": {
+        "x": 1,
+        "y": 1.5
+      },
+      "sway_move_frequency_thirdperson": {
+        "x": 1,
+        "y": 1.5
+      },
+      "recoil_modifier_scoped": {
+        "x": 1,
+        "y": 1
+      },
+      "recoil_modifier_thirdperson": {
+        "x": 1,
+        "y": 1
+      },
+      "noise": {
+        "x": 1,
+        "y": 1
+      },
+      "visibility": {
+        "x": 1,
+        "y": 1
+      },
+      "animation_event_enter": 0,
+      "animation_event_exit": 0,
+      "mover_name": 0,
+      "collider_name": 0
+    }
+  },
   "5556372446766824087": {
     "stand": {
       "sway_move_modifier_scoped": {
@@ -250,8 +1294,8 @@
         "y": 12
       },
       "recoil_modifier_scoped": {
-        "x": 1,
-        "y": 1
+        "x": 0.899999976,
+        "y": 1.10000002
       },
       "recoil_modifier_thirdperson": {
         "x": 1,
@@ -288,11 +1332,11 @@
         "y": 12
       },
       "recoil_modifier_scoped": {
-        "x": 0.75,
-        "y": 1.25
+        "x": 0.600000024,
+        "y": 0.899999976
       },
       "recoil_modifier_thirdperson": {
-        "x": 0.5,
+        "x": 0.600000024,
         "y": 1
       },
       "noise": {
@@ -326,12 +1370,12 @@
         "y": 3
       },
       "recoil_modifier_scoped": {
-        "x": 0.5,
-        "y": 0.5
+        "x": 0.400000006,
+        "y": 0.400000006
       },
       "recoil_modifier_thirdperson": {
-        "x": 0.5,
-        "y": 0.5
+        "x": 0.400000006,
+        "y": 0.400000006
       },
       "noise": {
         "x": 0,

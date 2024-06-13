@@ -5,6 +5,7 @@
     "throw_distance_min" : { "type": "float", "default": 4, "description": "Minimum throw distance." },
     "throw_distance_max" : { "type": "float", "default": 20, "description": "Maximum throw distance." },
     "use_angular_velocity" : { "type": "byte", "description": "[bool]Use angular velocity." },
+    "angular_velocity_in_motion_space" : { "type": "byte", "description": "[bool]Angular velocity is aligned with motion instead of unit transform" },
     "custom_angular_velocity_min" : { "type": "CApiVector3", "description": "Angular velocity applied when thrown to make this be thrown in a particular way. Set all to 0 to disable." },
     "custom_angular_velocity_max" : { "type": "CApiVector3", "description": "Angular velocity applied when thrown to make this be thrown in a particular way. Set all to 0 to disable." },
     "vo_release" : { "type": "uint", "description": "[string]VO to play when thrown by a helldiver." },
@@ -16,6 +17,8 @@
     "thrower_velocity_deadzone" : { "type": "float", "default": 1, "description": "Velocity above which thrower must be moving to affect throwable power." },
     "sticky" : { "type": "byte", "description": "[bool]If set, the explosive will stick to the first thing it hits." },
     "sticky_delay" : { "type": "float", "default": 0, "description": "The time from arming until it sticks to things." },
+    "fixed_stick_angle" : { "type": "byte", "description": "[bool]If set, the throwable will stick at a fixed angle every time." },
+    "adjust_stick_position" : { "type": "byte", "description": "[bool]If set, the throwables stick position is adjusted to the hit position." },
     "is_impact_trigger" : { "type": "byte", "description": "[bool]If the throwable is cancelled it should drop to the ground instead of being removed." },
     "ignore_thrower_impact_trigger" : { "type": "byte", "description": "[bool]Should we ignore impact triggers from the thrower?" },
     "drop_on_cancelled" : { "type": "byte", "description": "[bool]If the throwable is cancelled it should drop to the ground instead of being removed." },
@@ -23,5 +26,14 @@
     "start_amount" : { "type": "uint", "default": 4, "description": "Number of Throwables To Spawn With." },
     "max_amount" : { "type": "uint", "default": 4, "description": "Maximum carry capacity of this throwables type." },
     "refill_amount" : { "type": "uint", "default": 2, "description": "Number of Throwables To reill (up to max_amount) when grabbing ammo." },
-    "on_thrown_audio_event" : { "type": "uint", "description": "[wwise]An audio event that is played on the throwable when thrown." }
+    "on_thrown_audio_event" : { "type": "uint", "description": "[wwise]An audio event that is played on the throwable when thrown." },
+    "on_stick_audio_event" : { "type": "uint", "description": "[wwise]An audio event that is played on the throwable when it sticks to a surface." },
+    "on_deflect_audio_event" : { "type": "uint", "description": "[wwise]An audio event that is played on the throwable when it doesn't stick to a surface and instead deflects." },
+    "thrown_trail_effect" : { "type": "EffectSetting", "description": "Particle effect to play when this entity is spawned and stop playing it when this entity stops moving." },
+    "destroy_thrown_trail_effect_on_attach" : { "type": "byte", "description": "[bool]Should we destroy the Thrown Trail Effect when attaching?." },
+    "on_stick_damage_type" : { "type": "DamageInfoType", "default": "DamageInfoType_None", "description": "Damage type to be used on stick." },
+    "on_stick_hit_effect_damage_type" : { "type": "HitEffectDamageType", "default": "HitEffectDamageType_PiercingSmall", "description": "Hit Effect Damage type to be used on stick." },
+    "on_stick_surface_impact_type" : { "type": "SurfaceImpactType", "default": "SurfaceImpactType_slashing_metal_small", "description": "Surface Impact Type to be used on stick." },
+    "on_stick_damage_loc_name" : { "type": "uint", "default": 3301478587, "description": "[string]On stick damage loc name." },
+    "max_spawned_amount" : { "type": "int", "description": "max number of throwables spawned at the same time for each owner. -1 means no limit." }
 }}

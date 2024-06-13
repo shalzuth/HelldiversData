@@ -22,12 +22,12 @@
   },
   "8912550789086281002": {
     "spawn_timer_min": {
-      "x": 215,
-      "y": 215
+      "x": 200,
+      "y": 200
     },
     "spawn_timer_max": {
-      "x": 750,
-      "y": 750
+      "x": 720,
+      "y": 720
     },
     "spawned_entity": 3312206059057944298,
     "random_offset_distance_range": {
@@ -47,34 +47,34 @@
       "y": 7
     },
     "spawn_timer_max": {
-      "x": 14,
-      "y": 14
+      "x": 13,
+      "y": 13
     },
     "spawned_entity": 14005216303325302728,
     "random_offset_distance_range": {
-      "x": 60,
-      "y": 200
+      "x": 45,
+      "y": 130
     },
     "scale_rate_on_objective_completion": 0,
     "spawn_on_origin": 0,
     "spawn_on_navmesh": 1,
     "paused_while_spawned": 0,
     "start_active": 0,
-    "avoid_objective_location_distance": 8
+    "avoid_objective_location_distance": 20
   },
   "10412515891379368875": {
     "spawn_timer_min": {
-      "x": 145,
-      "y": 145
+      "x": 135,
+      "y": 135
     },
     "spawn_timer_max": {
-      "x": 725,
-      "y": 725
+      "x": 715,
+      "y": 715
     },
     "spawned_entity": 8850657780063593973,
     "random_offset_distance_range": {
       "x": 0,
-      "y": 30
+      "y": 100
     },
     "scale_rate_on_objective_completion": 0,
     "spawn_on_origin": 0,

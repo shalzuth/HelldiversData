@@ -1,0 +1,6 @@
+{ "UnitCustomizationMaterialOverrides" : {
+    "material_id" : { "type": "uint", "description": "[string]The material id to apply these texture overrides" },
+    "texture_path" : { "type": "ulong", "description": "[texture]The path to the texture to assign to the slot material_lut." },
+    "pattern_texture_path" : { "type": "ulong", "description": "[texture]The path to the texture to assign to the slot pattern_lut." },
+    "pattern_mask_array_path" : { "type": "ulong", "description": "[texture]The path to the texture to assign to the slot pattern_masks_array." }
+}}

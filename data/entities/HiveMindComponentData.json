@@ -44,24 +44,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -122,9 +122,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -273,8 +273,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "9796372134785992837": {
     "faction": "FactionType_None",
@@ -321,24 +320,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -399,9 +398,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -550,8 +549,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "2678554217936754689": {
     "faction": "FactionType_Illuminate",
@@ -598,24 +596,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -827,8 +825,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "9037877505857081793": {
     "faction": "FactionType_Illuminate",
@@ -875,24 +872,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -1104,8 +1101,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "15310831283362138511": {
     "faction": "FactionType_Bugs",
@@ -1152,24 +1148,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -1230,9 +1226,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -1381,8 +1377,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "4577499252883928066": {
     "faction": "FactionType_Illuminate",
@@ -1429,24 +1424,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -1658,8 +1653,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "11214776831578948095": {
     "faction": "FactionType_Cyborg",
@@ -1706,24 +1700,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -1784,9 +1778,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -1935,8 +1929,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "4971254005476332729": {
     "faction": "FactionType_Bugs",
@@ -1983,24 +1976,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -2061,9 +2054,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -2212,8 +2205,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "15734220103569014877": {
     "faction": "FactionType_Illuminate",
@@ -2260,24 +2252,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -2489,8 +2481,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "3686600486986266946": {
     "faction": "FactionType_Cyborg",
@@ -2537,24 +2528,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -2615,9 +2606,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -2766,8 +2757,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "16173737029892384591": {
     "faction": "FactionType_Cyborg",
@@ -2814,24 +2804,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -2892,9 +2882,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -3043,8 +3033,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "12768986400783294623": {
     "faction": "FactionType_Cyborg",
@@ -3091,24 +3080,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -3169,9 +3158,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -3320,8 +3309,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "92346607788498241": {
     "faction": "FactionType_Cyborg",
@@ -3368,24 +3356,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -3446,9 +3434,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -3597,8 +3585,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "1035582494342310493": {
     "faction": "FactionType_Bugs",
@@ -3645,24 +3632,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -3723,9 +3710,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -3874,8 +3861,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "9562546443765914919": {
     "faction": "FactionType_Bugs",
@@ -3922,24 +3908,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -4000,9 +3986,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -4151,8 +4137,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "4119787788098417919": {
     "faction": "FactionType_Illuminate",
@@ -4199,24 +4184,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -4428,8 +4413,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "12993421683837798712": {
     "faction": "FactionType_Illuminate",
@@ -4476,24 +4460,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -4705,8 +4689,7 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   },
   "5808153078233765273": {
     "faction": "FactionType_Bugs",
@@ -4753,24 +4736,24 @@
       "influence_settings": {
         "encounter_points_modifier": {
           "min_max": {
-            "x": 0.800000012,
+            "x": 0.850000024,
             "y": 1.20000005
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "encounter_cooldown_rate_modifier": {
           "min_max": {
             "x": 1.5,
             "y": 1
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.800000012,
-            "y": 1.25
+            "x": 0.850000024,
+            "y": 1.29999995
           },
-          "falloff_distance": 100
+          "falloff_distance": 125
         }
       },
       "encounter_points_modifier": {
@@ -4831,9 +4814,9 @@
         ],
         "player_count_multipliers": [
           1,
-          1,
-          1,
-          1
+          1.25,
+          1.45000005,
+          1.60000002
         ],
         "extraction_available_multiplier": 3.5
       },
@@ -4982,7 +4965,6 @@
         "extraction_available_multiplier": 1
       }
     },
-    "mission_time_start_paused": 0,
-    "wild_encounters_enabled": 1
+    "mission_time_start_paused": 0
   }
 }

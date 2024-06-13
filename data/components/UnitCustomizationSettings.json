@@ -1,0 +1,10 @@
+{ "UnitCustomizationSettings" : {
+    "parent_collection_type" : { "type": "UnitCustomizationCollectionType", "default": "UnitCustomizationCollectionType_Count" },
+    "collection_type" : { "type": "UnitCustomizationCollectionType" },
+    "collection_type_object_name" : { "type": "uint" },
+    "collection_type_skin_name" : { "type": "uint" },
+    "collection_category_type" : { "type": "UnitCustomizationCollectionCategoryType", "default": "UnitCustomizationCollectionCategoryType_Count" },
+    "skins" : { "type": "array", "subtype": "UnitCustomizationSetting" },
+    "showroom_offset" : { "type": "CApiVector3" },
+    "showroom_rotation" : { "type": "CApiVector3" }
+}}

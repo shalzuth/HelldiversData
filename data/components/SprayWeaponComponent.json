@@ -1,7 +1,7 @@
 { "SprayWeaponComponent" : {
     "warmup_time" : { "type": "float", "default": 0, "description": "The time between starting to fire a cold weapon and the spray." },
     "cooldown_time" : { "type": "float", "default": 0, "description": "The time between stopping fire until the weapon is considered cold again (and re-firing is not instant)." },
-    "use_firenode_pose" : { "type": "byte", "description": "[bool]If set, we fire the projectile in the firenode's direction, not towards the aim target. This is generally not desired due to accumulated errors in animation chains, but is needed for warning flares (situations where we want to play an ability and fire but not change target)." },
+    "firenode_pose_limit" : { "type": "float", "default": 180, "description": "The amount of degrees the aim position is allowed to differ from the firenode pose before we limit it. If zero, we fire the projectile in the firenode's direction, not towards the aim target. This should generally not be zero due to accumulated errors in animation chains, but is needed for situations where we want to play an ability and fire but not change target (such as warning flares)." },
     "audio_node" : { "type": "uint", "description": "[string]Node we play warmup, fire, and cooldown audio from." },
     "spray_capsule_radius" : { "type": "float", "default": 0, "description": "If greater than 0, it's uses physics overlap test instead of relying on the projectiles hitting. Experimental!" },
     "warmup" : { "type": "SprayWeaponStateInfo", "description": "Settings for warmup state." },

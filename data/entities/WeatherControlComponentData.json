@@ -52,10 +52,10 @@
     "on_deactivate_script_event": 0
   },
   "3312206059057944298": {
-    "previous_weather_out_time": 30,
-    "target_weather_in_time": 30,
-    "target_weather_active_hold_time": 180,
-    "target_weather_out_time": 90,
+    "previous_weather_out_time": 25,
+    "target_weather_in_time": 35,
+    "target_weather_active_hold_time": 190,
+    "target_weather_out_time": 120,
     "weather_catch_up_time": 30,
     "gameplay_effect_activation_point": 0.600000024,
     "remove_entity_on_completion": 1,

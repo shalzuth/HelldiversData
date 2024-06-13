@@ -2,7 +2,7 @@
   "4878198249831276603": {
     "warmup_time": 0.699999988,
     "cooldown_time": 15,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 1803865503,
     "spray_capsule_radius": 0,
     "warmup": {
@@ -57,9 +57,9 @@
   "8039414067817307766": {
     "warmup_time": 0,
     "cooldown_time": 0.0500000007,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 989301601,
-    "spray_capsule_radius": 0.800000012,
+    "spray_capsule_radius": 1,
     "warmup": {
       "shake": {
         "world_shake_effect": 0,
@@ -112,7 +112,7 @@
   "16204610837508709347": {
     "warmup_time": 0.699999988,
     "cooldown_time": 15,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 1803865503,
     "spray_capsule_radius": 0,
     "warmup": {
@@ -167,7 +167,7 @@
   "12548565706891777268": {
     "warmup_time": 0.699999988,
     "cooldown_time": 15,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 1803865503,
     "spray_capsule_radius": 0,
     "warmup": {
@@ -222,7 +222,7 @@
   "17488789745215357128": {
     "warmup_time": 1,
     "cooldown_time": 1,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 747556395,
     "spray_capsule_radius": 0.5,
     "warmup": {
@@ -277,7 +277,7 @@
   "17636297115750610289": {
     "warmup_time": 1,
     "cooldown_time": 1,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 747556395,
     "spray_capsule_radius": 0.25,
     "warmup": {
@@ -332,9 +332,9 @@
   "11398074038506794973": {
     "warmup_time": 0,
     "cooldown_time": 0.0500000007,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 989301601,
-    "spray_capsule_radius": 0,
+    "spray_capsule_radius": 1.10000002,
     "warmup": {
       "shake": {
         "world_shake_effect": 0,
@@ -387,7 +387,7 @@
   "7778022558452062755": {
     "warmup_time": 0.699999988,
     "cooldown_time": 15,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 1803865503,
     "spray_capsule_radius": 0,
     "warmup": {
@@ -442,9 +442,9 @@
   "5953193886108619556": {
     "warmup_time": 0,
     "cooldown_time": 0.0500000007,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 989301601,
-    "spray_capsule_radius": 0.800000012,
+    "spray_capsule_radius": 1,
     "warmup": {
       "shake": {
         "world_shake_effect": 0,
@@ -497,7 +497,7 @@
   "4155583896232633279": {
     "warmup_time": 0.699999988,
     "cooldown_time": 15,
-    "use_firenode_pose": 1,
+    "firenode_pose_limit": 0,
     "audio_node": 1803865503,
     "spray_capsule_radius": 0,
     "warmup": {

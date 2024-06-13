@@ -1,4 +1,106 @@
 {
+  "12164217308285983839": {
+    "ammo_infos": {
+      "primary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "primary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      "secondary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "secondary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    },
+    "ammo_types": {
+      "primary_projectile_type": "ProjectileType_Cannon_20mm_APHET",
+      "alternate_projectile_type": "ProjectileType_None"
+    },
+    "magazine_capacity": {
+      "x": 10,
+      "y": 0
+    },
+    "ammo_capacity": 0,
+    "ammo_refill": 0,
+    "ammo": 0,
+    "reload_amount": 5,
+    "reload_thresholds": {
+      "x": 6,
+      "y": 0
+    },
+    "chambered": 1,
+    "magazine_switch_audio": 0,
+    "magazine_0_weapon_anim": 0,
+    "magazine_0_wielder_anim": 0,
+    "magazine_1_weapon_anim": 0,
+    "magazine_1_wielder_anim": 0,
+    "magazine_anim_variable": 0
+  },
+  "4749824949454633632": {
+    "ammo_infos": {
+      "primary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "primary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      "secondary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "secondary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    },
+    "ammo_types": {
+      "primary_projectile_type": "ProjectileType_Shotgun_10g_buc",
+      "alternate_projectile_type": "ProjectileType_Shotgun_10g_buc"
+    },
+    "magazine_capacity": {
+      "x": 8,
+      "y": 8
+    },
+    "ammo_capacity": 60,
+    "ammo_refill": 60,
+    "ammo": 32,
+    "reload_amount": 1,
+    "reload_thresholds": {
+      "x": 0,
+      "y": 0
+    },
+    "chambered": 1,
+    "magazine_switch_audio": 2751498770,
+    "magazine_0_weapon_anim": 2386575183,
+    "magazine_0_wielder_anim": 3334969633,
+    "magazine_1_weapon_anim": 2144827903,
+    "magazine_1_wielder_anim": 1204198336,
+    "magazine_anim_variable": 1258484571
+  },
   "10177381595962512386": {
     "ammo_infos": {
       "primary_recoil_modifiers": {
@@ -101,7 +203,7 @@
     "magazine_1_wielder_anim": 0,
     "magazine_anim_variable": 0
   },
-  "13601459612566041022": {
+  "3109983482551492476": {
     "ammo_infos": {
       "primary_recoil_modifiers": {
         "horizontal_multiplier": 1,
@@ -130,72 +232,21 @@
     },
     "ammo_types": {
       "primary_projectile_type": "ProjectileType_Shotgun_10g_buc",
-      "alternate_projectile_type": "ProjectileType_Shotgun_10g_buc"
+      "alternate_projectile_type": "ProjectileType_None"
     },
     "magazine_capacity": {
-      "x": 8,
-      "y": 8
+      "x": 3,
+      "y": 0
     },
-    "ammo_capacity": 60,
-    "ammo_refill": 60,
-    "ammo": 32,
+    "ammo_capacity": 30,
+    "ammo_refill": 30,
+    "ammo": 30,
     "reload_amount": 1,
     "reload_thresholds": {
       "x": 0,
       "y": 0
     },
-    "chambered": 1,
-    "magazine_switch_audio": 2751498770,
-    "magazine_0_weapon_anim": 2386575183,
-    "magazine_0_wielder_anim": 3334969633,
-    "magazine_1_weapon_anim": 2144827903,
-    "magazine_1_wielder_anim": 1204198336,
-    "magazine_anim_variable": 1258484571
-  },
-  "12164217308285983839": {
-    "ammo_infos": {
-      "primary_recoil_modifiers": {
-        "horizontal_multiplier": 1,
-        "vertical_multiplier": 1,
-        "drift_horizontal_multiplier": 1,
-        "drift_vertical_multiplier": 1,
-        "climb_horizontal_multiplier": 1,
-        "climb_vertical_multiplier": 1
-      },
-      "primary_spread_modifiers": {
-        "horizontal": 1,
-        "vertical": 1
-      },
-      "secondary_recoil_modifiers": {
-        "horizontal_multiplier": 1,
-        "vertical_multiplier": 1,
-        "drift_horizontal_multiplier": 1,
-        "drift_vertical_multiplier": 1,
-        "climb_horizontal_multiplier": 1,
-        "climb_vertical_multiplier": 1
-      },
-      "secondary_spread_modifiers": {
-        "horizontal": 1,
-        "vertical": 1
-      }
-    },
-    "ammo_types": {
-      "primary_projectile_type": "ProjectileType_Cannon_20mm_APHET",
-      "alternate_projectile_type": "ProjectileType_None"
-    },
-    "magazine_capacity": {
-      "x": 10,
-      "y": 0
-    },
-    "ammo_capacity": 0,
-    "ammo_refill": 0,
-    "ammo": 0,
-    "reload_amount": 5,
-    "reload_thresholds": {
-      "x": 6,
-      "y": 0
-    },
-    "chambered": 1,
+    "chambered": 0,
     "magazine_switch_audio": 0,
     "magazine_0_weapon_anim": 0,
     "magazine_0_wielder_anim": 0,
@@ -254,7 +305,7 @@
     "magazine_1_wielder_anim": 1204198336,
     "magazine_anim_variable": 1258484571
   },
-  "4749824949454633632": {
+  "13601459612566041022": {
     "ammo_infos": {
       "primary_recoil_modifiers": {
         "horizontal_multiplier": 1,

@@ -1,0 +1,4 @@
+{ "ModifiableStatEntry" : {
+    "type" : { "type": "ModifiableStatType", "default": "ModifiableStatType_None" },
+    "value" : { "type": "float", "default": 1 }
+}}

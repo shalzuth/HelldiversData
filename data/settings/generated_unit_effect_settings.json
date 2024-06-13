@@ -8463,13 +8463,28 @@
           "randomized_effect": []
         },
         {
-          "unit_resource": 1254953472719525391,
+          "unit_resource": 14323576615614050899,
           "destroy_option": "UnitEffectOrphanStrategy_Stop",
           "effects": [],
           "sounds": [
             {
-              "sound_id": 3109485856,
-              "node_id": 4005868427
+              "sound_id": 3398907057,
+              "node_id": 1746312647
+            }
+          ],
+          "node_scales": [],
+          "despawn_sounds": [],
+          "destroy_sounds": [],
+          "randomized_effect": []
+        },
+        {
+          "unit_resource": 5286455549880049179,
+          "destroy_option": "UnitEffectOrphanStrategy_Stop",
+          "effects": [],
+          "sounds": [
+            {
+              "sound_id": 3398907057,
+              "node_id": 1746312647
             }
           ],
           "node_scales": [],

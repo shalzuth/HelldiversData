@@ -9,5 +9,6 @@
     "growth_speed" : { "type": "float" },
     "height" : { "type": "float" },
     "falloff" : { "type": "float" },
-    "dustiness" : { "type": "float" }
+    "dustiness" : { "type": "float" },
+    "texture_override" : { "type": "ulong", "description": "[string]" }
 }}

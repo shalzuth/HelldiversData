@@ -4,6 +4,7 @@
     "infinite_ammo" : { "type": "byte", "description": "[bool]True if this projectile weapon can never run out of ammo." },
     "rpc_synced_fire_events" : { "type": "byte", "description": "[bool]ONLY USE FOR SINGLE-FIRE/SLOW FIRING WEAPONS. Primarily useful for sniper rifles, explosive one-shots etc. that need the firing event to be highly accurately synced!" },
     "fire_single_audio_event" : { "type": "uint", "description": "[wwise]The audio event to trigger when doing single-fire (if we don't have looping sounds)." },
+    "fire_all_barrel_audio_event" : { "type": "uint", "description": "[wwise]The audio event to trigger when FireMode_AllBarrel is triggered." },
     "fire_fail_audio_event" : { "type": "uint", "description": "[wwise]The audio event to trigger when the arc fails to hit anything on the first shot." },
     "haptics_fire_single_audio_event" : { "type": "uint", "description": "[wwise]The audio event to trigger when doing single-fire (if we don't have looping sounds)." },
     "fire_source_node" : { "type": "uint", "description": "[string]The node to play the firing audio events at." },

@@ -3,5 +3,7 @@
     "objective_owner" : { "type": "byte" },
     "host_confirmation" : { "type": "byte" },
     "host_confirm_unique_instance" : { "type": "byte" },
-    "host_confirm_objective_stratagem_usage" : { "type": "byte" }
+    "host_confirm_objective_stratagem_usage" : { "type": "byte" },
+    "blocked_by_stratagem_blocker" : { "type": "byte" },
+    "available_after_mission_end" : { "type": "byte" }
 }}
