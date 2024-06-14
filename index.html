@@ -69,12 +69,20 @@
                     var data = [];
                     Object.keys(o).forEach(g=>{
                         var val = o[g];
-                        if (val != null && typeof(o) != 'object' && o[g] === parseInt(o[g], 10)){
+                        if (val != null && typeof(o) != 'object'){
                             var translation = tryTranslate(o[g]);
                             if (translation != undefined)
                                 val += ' (' + tryTranslate(o[g]) + ')';
-                            //if (jsonData[dataDir + '/entities/EntityComponentMap.json'][o[g]] != null)
-                            //    val += ' ';
+                            if (jsonData[dataDir + '/entities/EntityComponentMap.json'][o] != null){
+                                var obj = jsonData[dataDir + '/entities/EncyclopediaEntryComponentData.json'][o];
+                                var tempVal = o;
+                                if (obj != null){
+                                    var id = obj.loc_name > 0 ? obj.loc_name : obj.loc_name_upper > 0 ? obj.loc_name_upper : obj.loc_name_plural > 0 ? obj.loc_name_plural : 0;
+                                    var objName = tryTranslate(id);
+                                    if (objName != null) tempVal += ' (' + objName + ')';
+                                }
+                                val = '<a href="/?id=' + o + '">' + tempVal + "</a>";
+                            }
                         }
                         if (jsonData[dataDir + '/enums/ComponentType.json'].ComponentType.includes(val)){
                             val = '<a href=/?component=' + val + '>' + val + '</a>'
@@ -95,11 +103,21 @@
                     });
                     return '<div>' + tb[0].outerHTML + '</div>';
                 }
-                if (o != null && o === parseInt(o, 10)){
+                //if (o != null && o === parseInt(o, 10)){
                     var translation = tryTranslate(o);
                     if (translation != undefined)
                         return o + ' (' + tryTranslate(o) + ')';
-                }
+                    if (jsonData[dataDir + '/entities/EntityComponentMap.json'][o] != null){
+                        var obj = jsonData[dataDir + '/entities/EncyclopediaEntryComponentData.json'][o];
+                        var val = o;
+                        if (obj != null){
+                            var id = obj['loc_name'] > 0 ? obj.loc_name : obj.loc_name_upper > 0 ? obj.loc_name_upper : obj.loc_name_plural > 0 ? obj.loc_name_plural : 0;
+                            var objName = tryTranslate(id);
+                            if (objName != null) val += ' (' + objName + ')';
+                        }
+                        return '<a href="/?id=' + o + '">' + val + "</a>";
+                    }
+                //}
                 return o;
             }
             loadJSONs([
@@ -129,7 +147,6 @@
                             function dependencyName(o){
                                 return '<a href="/?component=' + o.replace('/data/entities/','').replace('.json','') + '">' + o.replace('/data/entities/','').replace('ComponentData.json','') + '</a>';
                             }
-                            console.log(jsonData[dataDir + '/entities/EntityDeltas.json'])
                             var table = $('#table').bootstrapTable({
                                 data: data,
                                 search: true,
@@ -171,6 +188,38 @@
                             });
                         });
                     }
+                } else if (params.id != null){
+                    var data = [];
+                    var namedEntries = jsonData[dataDir + '/entities/EncyclopediaEntryComponentData.json'];
+                    var componentOffset = components.indexOf('VisibilityComponent');
+                    data.push({obj:params.id});
+                    function linkAndTranslate(o){
+                        var obj = namedEntries[o];
+                        if (obj != null) {
+                            var id = obj.loc_name > 0 ? obj.loc_name : obj.loc_name_upper > 0 ? obj.loc_name_upper : obj.loc_name_plural > 0 ? obj.loc_name_plural : 0;
+                            return jsonData[dataDir + '/translations/English.json'][id];
+                        }
+                        return o;
+                    }
+                    function componentList(o){
+                        return objectView(componentMap[o].map(c=>
+                            '<a href="/?id=' + o + '&component=' + components[c + componentOffset].replace('Component','') + '">' + components[c + componentOffset].replace('Component','') + '</a>'
+                           // components[o + 359].replace('Component','')
+                        ));
+                    }
+                    var table = $('#table').bootstrapTable({
+                        data: data,
+                        search: true,
+                        sortable: true,
+                        sortReset: true,
+                        pagination: true,
+                        pageSize: 10,
+                        visibleSearch: true,
+                        columns: [
+                            { field: 'obj', title: 'Object', sortable: true, formatter: linkAndTranslate },
+                            { field: 'obj', title: 'Components', sortable: true, formatter: componentList },
+                        ]
+                    });
                 } else if (params.enum != null){
                     var dependencies = [dataDir + '/enums/' + params.enum + '.json'];
                     loadJSONs(dependencies).then(t=>{
@@ -258,9 +307,9 @@
                         var dependencies = [dataDir + '/settings/' + params.settings + '.json'];
                         loadJSONs(dependencies).then(t=>{
                             var data = [];
-                            var settingType = Object.keys(jsonData[dependencies[0]][0])[0];
                             if (params.settings == 'generated_damage_settings') jsonData[dataDir + '/settings/' + params.settings + '.json'].splice(0, 1);
                             if (params.settings == 'generated_status_effect_settings') jsonData[dataDir + '/settings/' + params.settings + '.json'].splice(1, 1);
+                            var settingType = Object.keys(jsonData[dependencies[0]][0])[0];
                             if (params.settings == 'generated_stratagem_settings'){
                                 var fullItems = [];
                                 for(var i = 0; i < jsonData[dependencies[0]].length; i++){
@@ -269,7 +318,6 @@
                                     }
                                 }
                                 jsonData[dataDir + '/settings/' + params.settings + '.json'] = [{StratagemSettings:{items:fullItems}}];
-                                console.log(jsonData[dataDir + '/settings/' + params.settings + '.json']);
                             }
                             if (params.settings == 'generated_weapon_customization_settings'){
                                 var fullItems = [];
@@ -279,7 +327,6 @@
                                     }
                                 }
                                 jsonData[dataDir + '/settings/' + params.settings + '.json'] = [{WeaponCustomizationSettings:{items:fullItems}}];
-                                console.log(jsonData[dataDir + '/settings/' + params.settings + '.json']);
                             }
                             if (params.index == null){
                                 var keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a == 'name');
@@ -287,7 +334,6 @@
                                 if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a.includes('name'));
                                 if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a.includes('type'));
                                 if (jsonData[dependencies[0]].length > 1){
-                                    console.log(jsonData[dependencies[0]]);
                                     for(var i = 0; i < jsonData[dependencies[0]].length; i++){
                                         data.push({data:{index:i,data:jsonData[dependencies[0]][i][settingType][keyName]}});
                                     }
