@@ -1,21 +1,4 @@
 {
-  "15986416455258940649": {
-    "always_active": 0,
-    "use_target_node": 0,
-    "target_node": 3167719909,
-    "priority": 0,
-    "owner_priority": 100,
-    "lock_on_target_time": 2,
-    "lost_target_time": 1,
-    "lock_lost_target_time": 1,
-    "requires_target_lock": 0,
-    "target_lock_dot": 0.949999988,
-    "target_crosshair_scale": 1.75,
-    "tracking_loop_start": 0,
-    "tracking_loop_stop": 0,
-    "locked_loop_start": 0,
-    "locked_loop_stop": 0
-  },
   "6453678319562593995": {
     "always_active": 0,
     "use_target_node": 0,
@@ -33,23 +16,6 @@
     "locked_loop_start": 0,
     "locked_loop_stop": 0
   },
-  "18353518081541416628": {
-    "always_active": 0,
-    "use_target_node": 0,
-    "target_node": 3167719909,
-    "priority": 0,
-    "owner_priority": 100,
-    "lock_on_target_time": 2,
-    "lost_target_time": 3,
-    "lock_lost_target_time": 1,
-    "requires_target_lock": 1,
-    "target_lock_dot": 0.949999988,
-    "target_crosshair_scale": 1.75,
-    "tracking_loop_start": 181282296,
-    "tracking_loop_stop": 874117892,
-    "locked_loop_start": 2921758347,
-    "locked_loop_stop": 3480129577
-  },
   "2714034314705433838": {
     "always_active": 0,
     "use_target_node": 0,
@@ -66,5 +32,22 @@
     "tracking_loop_stop": 874117892,
     "locked_loop_start": 2921758347,
     "locked_loop_stop": 3480129577
+  },
+  "15986416455258940649": {
+    "always_active": 0,
+    "use_target_node": 0,
+    "target_node": 3167719909,
+    "priority": 0,
+    "owner_priority": 100,
+    "lock_on_target_time": 2,
+    "lost_target_time": 1,
+    "lock_lost_target_time": 1,
+    "requires_target_lock": 0,
+    "target_lock_dot": 0.949999988,
+    "target_crosshair_scale": 1.75,
+    "tracking_loop_start": 0,
+    "tracking_loop_stop": 0,
+    "locked_loop_start": 0,
+    "locked_loop_stop": 0
   }
 }

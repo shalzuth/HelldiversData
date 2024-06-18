@@ -1,5 +1,1709 @@
 {
-  "6624453650490018537": {
+  "12218137513893139416": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_Weapon",
+        "aim_info_name": 215974160,
+        "pitch_var": 4238039248,
+        "yaw_var": 161490677,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -89,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 4098057313,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Self",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 551832871,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -89,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 215974160,
+        "pitch_var": 1637967016,
+        "yaw_var": 785500773,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -44,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 215974160,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -44,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 0.75,
+        "parent_node": 551832871,
+        "pivot_node": 4098057313,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 15,
+    "hotbox_size_yaw": 15,
+    "hotbox_pitch_speed": 57,
+    "hotbox_yaw_speed": 57,
+    "hotbox_acceleration": 10
+  },
+  "12209482505501190673": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_Weapon",
+        "aim_info_name": 215974160,
+        "pitch_var": 4238039248,
+        "yaw_var": 161490677,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -44,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 4098057313,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Self",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 551832871,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -89,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 215974160,
+        "pitch_var": 1637967016,
+        "yaw_var": 785500773,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -44,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 215974160,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -44,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 1.5,
+        "parent_node": 551832871,
+        "pivot_node": 4098057313,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 15,
+    "hotbox_size_yaw": 15,
+    "hotbox_pitch_speed": 114,
+    "hotbox_yaw_speed": 114,
+    "hotbox_acceleration": 20
+  },
+  "18002332014700027641": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 1776213437,
+        "pitch_var": 4238039248,
+        "yaw_var": 161490677,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": 90,
+          "pitch_limit_max": -90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 1776213437,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -25,
+          "pitch_limit_max": 25,
+          "yaw_limit_min": -25,
+          "yaw_limit_max": 25,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 1,
+        "parent_node": 2601604451,
+        "pivot_node": 161490677,
+        "unit_type": "MultiTargetUnitType_Wielder"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 0,
+    "hotbox_size_yaw": 0,
+    "hotbox_pitch_speed": 0,
+    "hotbox_yaw_speed": 0,
+    "hotbox_acceleration": 60
+  },
+  "8783342891467425251": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_Weapon",
+        "aim_info_name": 1035033667,
+        "pitch_var": 551832871,
+        "yaw_var": 701615645,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -180,
+          "pitch_limit_max": 180,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Weapon",
+        "aim_info_name": 2884967578,
+        "pitch_var": 701615645,
+        "yaw_var": 551832871,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": 90,
+          "pitch_limit_max": -90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 1035033667,
+        "weapon_index": 1,
+        "limits": {
+          "pitch_limit_min": -5,
+          "pitch_limit_max": 2.5,
+          "yaw_limit_min": -12,
+          "yaw_limit_max": 65,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 1,
+        "parent_node": 3167719909,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 2884967578,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -15,
+          "yaw_limit_max": 15,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 1,
+        "parent_node": 580976079,
+        "pivot_node": 551832871,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 0,
+    "hotbox_size_yaw": 0,
+    "hotbox_pitch_speed": 0,
+    "hotbox_yaw_speed": 0,
+    "hotbox_acceleration": 60
+  },
+  "114072341195801864": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 1776213437,
+        "pitch_var": 4238039248,
+        "yaw_var": 161490677,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": 90,
+          "pitch_limit_max": -90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 1776213437,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -25,
+          "pitch_limit_max": 25,
+          "yaw_limit_min": -25,
+          "yaw_limit_max": 25,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 1,
+        "parent_node": 2601604451,
+        "pivot_node": 161490677,
+        "unit_type": "MultiTargetUnitType_Wielder"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 0,
+    "hotbox_size_yaw": 0,
+    "hotbox_pitch_speed": 0,
+    "hotbox_yaw_speed": 0,
+    "hotbox_acceleration": 60
+  },
+  "3177983950714174823": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_Weapon",
+        "aim_info_name": 215974160,
+        "pitch_var": 4238039248,
+        "yaw_var": 161490677,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -89,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 0,
+          "yaw_deadzone": 0
+        },
+        "normalized": 1,
+        "pivot_node": 4238039248,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Self",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -44,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 215974160,
+        "pitch_var": 1637967016,
+        "yaw_var": 785500773,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -44,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -90,
+          "yaw_limit_max": 90,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 3997043311,
+        "rotation_stop_event": 3010249856
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 215974160,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -44,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -110,
+          "yaw_limit_max": 110,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 1,
+        "parent_node": 3167719909,
+        "pivot_node": 4238039248,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 15,
+    "hotbox_size_yaw": 15,
+    "hotbox_pitch_speed": 50,
+    "hotbox_yaw_speed": 100,
+    "hotbox_acceleration": 50
+  },
+  "13357795631455978434": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_AttachableParent",
+        "aim_info_name": 600573527,
+        "pitch_var": 0,
+        "yaw_var": 4014372161,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_AttachableParent",
+        "aim_info_name": 600573527,
+        "pitch_var": 1970964119,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 600573527,
+        "pitch_var": 1637967016,
+        "yaw_var": 785500773,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 600573527,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 3873195654,
+        "pivot_node": 3873195654,
+        "unit_type": "MultiTargetUnitType_AttachableParent"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 0,
+    "hotbox_size_yaw": 0,
+    "hotbox_pitch_speed": 0,
+    "hotbox_yaw_speed": 0,
+    "hotbox_acceleration": 60
+  },
+  "11601043503813400874": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 1776213437,
+        "pitch_var": 4238039248,
+        "yaw_var": 161490677,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": 90,
+          "pitch_limit_max": -90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 1776213437,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -25,
+          "pitch_limit_max": 25,
+          "yaw_limit_min": -25,
+          "yaw_limit_max": 25,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 1,
+        "parent_node": 2601604451,
+        "pivot_node": 161490677,
+        "unit_type": "MultiTargetUnitType_Wielder"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 0,
+    "hotbox_size_yaw": 0,
+    "hotbox_pitch_speed": 0,
+    "hotbox_yaw_speed": 0,
+    "hotbox_acceleration": 60
+  },
+  "8743388434472300512": {
     "variable_sets": [
       {
         "unit_type": "MultiTargetUnitType_Wielder",
@@ -425,2562 +2129,6 @@
     "hotbox_yaw_speed": 114,
     "hotbox_acceleration": 20
   },
-  "901379433810974099": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Self",
-        "aim_info_name": 600573527,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -80,
-          "yaw_limit_max": 80,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 3248978641,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 600573527,
-        "pitch_var": 1637967016,
-        "yaw_var": 785500773,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -80,
-          "yaw_limit_max": 80,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 3248978641,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 600573527,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -80,
-          "yaw_limit_max": 80,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 2.5,
-        "parent_node": 3248978641,
-        "pivot_node": 3248978641,
-        "unit_type": "MultiTargetUnitType_Self"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
-  "17870518574608098412": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 1776213437,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": 90,
-          "pitch_limit_max": -90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 1776213437,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -25,
-          "pitch_limit_max": 25,
-          "yaw_limit_min": -25,
-          "yaw_limit_max": 25,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 1,
-        "parent_node": 2601604451,
-        "pivot_node": 161490677,
-        "unit_type": "MultiTargetUnitType_Wielder"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
-  "2139899069241334240": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 1776213437,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": 90,
-          "pitch_limit_max": -90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 1776213437,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -25,
-          "pitch_limit_max": 25,
-          "yaw_limit_min": -25,
-          "yaw_limit_max": 25,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 1,
-        "parent_node": 2601604451,
-        "pivot_node": 161490677,
-        "unit_type": "MultiTargetUnitType_Wielder"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
-  "114072341195801864": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 1776213437,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": 90,
-          "pitch_limit_max": -90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 1776213437,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -25,
-          "pitch_limit_max": 25,
-          "yaw_limit_min": -25,
-          "yaw_limit_max": 25,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 1,
-        "parent_node": 2601604451,
-        "pivot_node": 161490677,
-        "unit_type": "MultiTargetUnitType_Wielder"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
-  "14038927220542196401": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Weapon",
-        "aim_info_name": 1035033667,
-        "pitch_var": 701615645,
-        "yaw_var": 551832871,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": 180,
-          "pitch_limit_max": -180,
-          "yaw_limit_min": -90,
-          "yaw_limit_max": 90,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Weapon",
-        "aim_info_name": 2884967578,
-        "pitch_var": 701615645,
-        "yaw_var": 551832871,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": 180,
-          "pitch_limit_max": -180,
-          "yaw_limit_min": -90,
-          "yaw_limit_max": 90,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 1035033667,
-        "weapon_index": 1,
-        "limits": {
-          "pitch_limit_min": -20,
-          "pitch_limit_max": 20,
-          "yaw_limit_min": -12,
-          "yaw_limit_max": 45,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 1,
-        "parent_node": 2601604451,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 2884967578,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -20,
-          "pitch_limit_max": 20,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 15,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 1,
-        "parent_node": 2601604451,
-        "pivot_node": 551832871,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
-  "3003496806383724538": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Self",
-        "aim_info_name": 600573527,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -80,
-          "yaw_limit_max": 80,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 3248978641,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 600573527,
-        "pitch_var": 1637967016,
-        "yaw_var": 785500773,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -80,
-          "yaw_limit_max": 80,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 3248978641,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 600573527,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -80,
-          "yaw_limit_max": 80,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 2.5,
-        "parent_node": 3248978641,
-        "pivot_node": 3248978641,
-        "unit_type": "MultiTargetUnitType_Self"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
-  "16204610837508709347": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Weapon",
-        "aim_info_name": 215974160,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 4098057313,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Self",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 551832871,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 215974160,
-        "pitch_var": 1637967016,
-        "yaw_var": 785500773,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 215974160,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 0.75,
-        "parent_node": 551832871,
-        "pivot_node": 4098057313,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 15,
-    "hotbox_size_yaw": 15,
-    "hotbox_pitch_speed": 57,
-    "hotbox_yaw_speed": 57,
-    "hotbox_acceleration": 10
-  },
-  "15365965494753326077": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_AttachableParent",
-        "aim_info_name": 600573527,
-        "pitch_var": 0,
-        "yaw_var": 1407765987,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0.5,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_AttachableParent",
-        "aim_info_name": 600573527,
-        "pitch_var": 3024077627,
-        "yaw_var": 0,
-        "neutral_pitch": 0.5,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 600573527,
-        "pitch_var": 1637967016,
-        "yaw_var": 785500773,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 600573527,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 1838239842,
-        "pivot_node": 1838239842,
-        "unit_type": "MultiTargetUnitType_AttachableParent"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
-  "11601043503813400874": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 1776213437,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": 90,
-          "pitch_limit_max": -90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 1776213437,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -25,
-          "pitch_limit_max": 25,
-          "yaw_limit_min": -25,
-          "yaw_limit_max": 25,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 1,
-        "parent_node": 2601604451,
-        "pivot_node": 161490677,
-        "unit_type": "MultiTargetUnitType_Wielder"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
-  "13357795631455978434": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_AttachableParent",
-        "aim_info_name": 600573527,
-        "pitch_var": 0,
-        "yaw_var": 4014372161,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_AttachableParent",
-        "aim_info_name": 600573527,
-        "pitch_var": 1970964119,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 600573527,
-        "pitch_var": 1637967016,
-        "yaw_var": 785500773,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 600573527,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 3873195654,
-        "pivot_node": 3873195654,
-        "unit_type": "MultiTargetUnitType_AttachableParent"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
-  "12218137513893139416": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Weapon",
-        "aim_info_name": 215974160,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -89,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 4098057313,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Self",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 551832871,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -89,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 215974160,
-        "pitch_var": 1637967016,
-        "yaw_var": 785500773,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -44,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 215974160,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -44,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 0.75,
-        "parent_node": 551832871,
-        "pivot_node": 4098057313,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 15,
-    "hotbox_size_yaw": 15,
-    "hotbox_pitch_speed": 57,
-    "hotbox_yaw_speed": 57,
-    "hotbox_acceleration": 10
-  },
-  "5593839514190174445": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Self",
-        "aim_info_name": 600573527,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -80,
-          "yaw_limit_max": 80,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 3248978641,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 600573527,
-        "pitch_var": 1637967016,
-        "yaw_var": 785500773,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -80,
-          "yaw_limit_max": 80,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 3248978641,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 600573527,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -80,
-          "yaw_limit_max": 80,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 2.5,
-        "parent_node": 3248978641,
-        "pivot_node": 3248978641,
-        "unit_type": "MultiTargetUnitType_Self"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 0,
-    "hotbox_size_yaw": 0,
-    "hotbox_pitch_speed": 0,
-    "hotbox_yaw_speed": 0,
-    "hotbox_acceleration": 60
-  },
   "16974551944278808389": {
     "variable_sets": [
       {
@@ -3194,7 +2342,7 @@
     "hotbox_yaw_speed": 57,
     "hotbox_acceleration": 10
   },
-  "8743388434472300512": {
+  "2139899069241334240": {
     "variable_sets": [
       {
         "unit_type": "MultiTargetUnitType_Wielder",
@@ -3620,249 +2768,13 @@
     "hotbox_yaw_speed": 1,
     "hotbox_acceleration": 10
   },
-  "1837707428311856638": {
+  "6624453650490018537": {
     "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Weapon",
-        "aim_info_name": 215974160,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 4098057313,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Self",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 551832871,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
       {
         "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 215974160,
-        "pitch_var": 1637967016,
-        "yaw_var": 785500773,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      }
-    ],
-    "aim_info": [
-      {
-        "name": 215974160,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -45,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": 0.75,
-        "parent_node": 551832871,
-        "pivot_node": 4098057313,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      },
-      {
-        "name": 0,
-        "weapon_index": 0,
-        "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "aim_speed": -1,
-        "parent_node": 0,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
-      }
-    ],
-    "hotbox_size_pitch": 15,
-    "hotbox_size_yaw": 15,
-    "hotbox_pitch_speed": 57,
-    "hotbox_yaw_speed": 57,
-    "hotbox_acceleration": 10
-  },
-  "8783342891467425251": {
-    "variable_sets": [
-      {
-        "unit_type": "MultiTargetUnitType_Weapon",
-        "aim_info_name": 1035033667,
-        "pitch_var": 551832871,
-        "yaw_var": 701615645,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -180,
-          "pitch_limit_max": 180,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Weapon",
-        "aim_info_name": 2884967578,
-        "pitch_var": 701615645,
-        "yaw_var": 551832871,
+        "aim_info_name": 1776213437,
+        "pitch_var": 4238039248,
+        "yaw_var": 161490677,
         "neutral_pitch": 0,
         "neutral_yaw": 0,
         "neutral_speed": 10,
@@ -3972,39 +2884,62 @@
         "pivot_node": 0,
         "rotation_start_event": 0,
         "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
       }
     ],
     "aim_info": [
       {
-        "name": 1035033667,
-        "weapon_index": 1,
+        "name": 1776213437,
+        "weapon_index": 0,
         "limits": {
-          "pitch_limit_min": -5,
-          "pitch_limit_max": 2.5,
-          "yaw_limit_min": -12,
-          "yaw_limit_max": 65,
+          "pitch_limit_min": -25,
+          "pitch_limit_max": 25,
+          "yaw_limit_min": -25,
+          "yaw_limit_max": 25,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
         "aim_speed": 1,
-        "parent_node": 3167719909,
-        "pivot_node": 0,
-        "unit_type": "MultiTargetUnitType_Weapon"
+        "parent_node": 2601604451,
+        "pivot_node": 161490677,
+        "unit_type": "MultiTargetUnitType_Wielder"
       },
       {
-        "name": 2884967578,
+        "name": 0,
         "weapon_index": 0,
         "limits": {
           "pitch_limit_min": -90,
           "pitch_limit_max": 90,
-          "yaw_limit_min": -15,
-          "yaw_limit_max": 15,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
-        "aim_speed": 1,
-        "parent_node": 580976079,
-        "pivot_node": 551832871,
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
         "unit_type": "MultiTargetUnitType_Weapon"
       },
       {
@@ -4046,11 +2981,11 @@
     "hotbox_yaw_speed": 0,
     "hotbox_acceleration": 60
   },
-  "12209482505501190673": {
+  "3003496806383724538": {
     "variable_sets": [
       {
-        "unit_type": "MultiTargetUnitType_Weapon",
-        "aim_info_name": 215974160,
+        "unit_type": "MultiTargetUnitType_Self",
+        "aim_info_name": 600573527,
         "pitch_var": 4238039248,
         "yaw_var": 161490677,
         "neutral_pitch": 0,
@@ -4059,44 +2994,21 @@
         "aim_constraint": 0,
         "aim_constraint_distance": 10,
         "limits": {
-          "pitch_limit_min": -44,
+          "pitch_limit_min": -45,
           "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
+          "yaw_limit_min": -80,
+          "yaw_limit_max": 80,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
         "normalized": 1,
-        "pivot_node": 4098057313,
-        "rotation_start_event": 0,
-        "rotation_stop_event": 0
-      },
-      {
-        "unit_type": "MultiTargetUnitType_Self",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 551832871,
-        "neutral_pitch": 0,
-        "neutral_yaw": 0,
-        "neutral_speed": 10,
-        "aim_constraint": 0,
-        "aim_constraint_distance": 10,
-        "limits": {
-          "pitch_limit_min": -89,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
-          "pitch_deadzone": 45,
-          "yaw_deadzone": 45
-        },
-        "normalized": 1,
-        "pivot_node": 0,
+        "pivot_node": 3248978641,
         "rotation_start_event": 0,
         "rotation_stop_event": 0
       },
       {
         "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 215974160,
+        "aim_info_name": 600573527,
         "pitch_var": 1637967016,
         "yaw_var": 785500773,
         "neutral_pitch": 0,
@@ -4105,10 +3017,33 @@
         "aim_constraint": 0,
         "aim_constraint_distance": 10,
         "limits": {
-          "pitch_limit_min": -44,
+          "pitch_limit_min": -45,
           "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
+          "yaw_limit_min": -80,
+          "yaw_limit_max": 80,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 3248978641,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
@@ -4189,20 +3124,20 @@
     ],
     "aim_info": [
       {
-        "name": 215974160,
+        "name": 600573527,
         "weapon_index": 0,
         "limits": {
-          "pitch_limit_min": -44,
+          "pitch_limit_min": -45,
           "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
+          "yaw_limit_min": -80,
+          "yaw_limit_max": 80,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
-        "aim_speed": 1.5,
-        "parent_node": 551832871,
-        "pivot_node": 4098057313,
-        "unit_type": "MultiTargetUnitType_Weapon"
+        "aim_speed": 2.5,
+        "parent_node": 3248978641,
+        "pivot_node": 3248978641,
+        "unit_type": "MultiTargetUnitType_Self"
       },
       {
         "name": 0,
@@ -4253,17 +3188,17 @@
         "unit_type": "MultiTargetUnitType_Weapon"
       }
     ],
-    "hotbox_size_pitch": 15,
-    "hotbox_size_yaw": 15,
-    "hotbox_pitch_speed": 114,
-    "hotbox_yaw_speed": 114,
-    "hotbox_acceleration": 20
+    "hotbox_size_pitch": 0,
+    "hotbox_size_yaw": 0,
+    "hotbox_pitch_speed": 0,
+    "hotbox_yaw_speed": 0,
+    "hotbox_acceleration": 60
   },
-  "3177983950714174823": {
+  "17870518574608098412": {
     "variable_sets": [
       {
-        "unit_type": "MultiTargetUnitType_Weapon",
-        "aim_info_name": 215974160,
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 1776213437,
         "pitch_var": 4238039248,
         "yaw_var": 161490677,
         "neutral_pitch": 0,
@@ -4272,20 +3207,20 @@
         "aim_constraint": 0,
         "aim_constraint_distance": 10,
         "limits": {
-          "pitch_limit_min": -89,
-          "pitch_limit_max": 90,
+          "pitch_limit_min": 90,
+          "pitch_limit_max": -90,
           "yaw_limit_min": -180,
           "yaw_limit_max": 180,
-          "pitch_deadzone": 0,
-          "yaw_deadzone": 0
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
         },
         "normalized": 1,
-        "pivot_node": 4238039248,
+        "pivot_node": 0,
         "rotation_start_event": 0,
         "rotation_stop_event": 0
       },
       {
-        "unit_type": "MultiTargetUnitType_Self",
+        "unit_type": "MultiTargetUnitType_None",
         "aim_info_name": 0,
         "pitch_var": 0,
         "yaw_var": 0,
@@ -4295,10 +3230,10 @@
         "aim_constraint": 0,
         "aim_constraint_distance": 10,
         "limits": {
-          "pitch_limit_min": -44,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -45,
-          "yaw_limit_max": 45,
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
@@ -4308,27 +3243,27 @@
         "rotation_stop_event": 0
       },
       {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 215974160,
-        "pitch_var": 1637967016,
-        "yaw_var": 785500773,
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
         "neutral_pitch": 0,
         "neutral_yaw": 0,
         "neutral_speed": 10,
         "aim_constraint": 0,
         "aim_constraint_distance": 10,
         "limits": {
-          "pitch_limit_min": -44,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -90,
-          "yaw_limit_max": 90,
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
         "normalized": 1,
         "pivot_node": 0,
-        "rotation_start_event": 3997043311,
-        "rotation_stop_event": 3010249856
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
       },
       {
         "unit_type": "MultiTargetUnitType_None",
@@ -4402,20 +3337,20 @@
     ],
     "aim_info": [
       {
-        "name": 215974160,
+        "name": 1776213437,
         "weapon_index": 0,
         "limits": {
-          "pitch_limit_min": -44,
-          "pitch_limit_max": 45,
-          "yaw_limit_min": -110,
-          "yaw_limit_max": 110,
+          "pitch_limit_min": -25,
+          "pitch_limit_max": 25,
+          "yaw_limit_min": -25,
+          "yaw_limit_max": 25,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
         "aim_speed": 1,
-        "parent_node": 3167719909,
-        "pivot_node": 4238039248,
-        "unit_type": "MultiTargetUnitType_Weapon"
+        "parent_node": 2601604451,
+        "pivot_node": 161490677,
+        "unit_type": "MultiTargetUnitType_Wielder"
       },
       {
         "name": 0,
@@ -4466,11 +3401,11 @@
         "unit_type": "MultiTargetUnitType_Weapon"
       }
     ],
-    "hotbox_size_pitch": 15,
-    "hotbox_size_yaw": 15,
-    "hotbox_pitch_speed": 50,
-    "hotbox_yaw_speed": 100,
-    "hotbox_acceleration": 50
+    "hotbox_size_pitch": 0,
+    "hotbox_size_yaw": 0,
+    "hotbox_pitch_speed": 0,
+    "hotbox_yaw_speed": 0,
+    "hotbox_acceleration": 60
   },
   "2616888780303759269": {
     "variable_sets": [
@@ -4685,23 +3620,23 @@
     "hotbox_yaw_speed": 57,
     "hotbox_acceleration": 10
   },
-  "18002332014700027641": {
+  "14038927220542196401": {
     "variable_sets": [
       {
-        "unit_type": "MultiTargetUnitType_Wielder",
-        "aim_info_name": 1776213437,
-        "pitch_var": 4238039248,
-        "yaw_var": 161490677,
+        "unit_type": "MultiTargetUnitType_Weapon",
+        "aim_info_name": 1035033667,
+        "pitch_var": 701615645,
+        "yaw_var": 551832871,
         "neutral_pitch": 0,
         "neutral_yaw": 0,
         "neutral_speed": 10,
         "aim_constraint": 0,
         "aim_constraint_distance": 10,
         "limits": {
-          "pitch_limit_min": 90,
-          "pitch_limit_max": -90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
+          "pitch_limit_min": 180,
+          "pitch_limit_max": -180,
+          "yaw_limit_min": -90,
+          "yaw_limit_max": 90,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
@@ -4711,20 +3646,20 @@
         "rotation_stop_event": 0
       },
       {
-        "unit_type": "MultiTargetUnitType_None",
-        "aim_info_name": 0,
-        "pitch_var": 0,
-        "yaw_var": 0,
+        "unit_type": "MultiTargetUnitType_Weapon",
+        "aim_info_name": 2884967578,
+        "pitch_var": 701615645,
+        "yaw_var": 551832871,
         "neutral_pitch": 0,
         "neutral_yaw": 0,
         "neutral_speed": 10,
         "aim_constraint": 0,
         "aim_constraint_distance": 10,
         "limits": {
-          "pitch_limit_min": -90,
-          "pitch_limit_max": 90,
-          "yaw_limit_min": -180,
-          "yaw_limit_max": 180,
+          "pitch_limit_min": 180,
+          "pitch_limit_max": -180,
+          "yaw_limit_min": -90,
+          "yaw_limit_max": 90,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
@@ -4828,20 +3763,233 @@
     ],
     "aim_info": [
       {
-        "name": 1776213437,
-        "weapon_index": 0,
+        "name": 1035033667,
+        "weapon_index": 1,
         "limits": {
-          "pitch_limit_min": -25,
-          "pitch_limit_max": 25,
-          "yaw_limit_min": -25,
-          "yaw_limit_max": 25,
+          "pitch_limit_min": -20,
+          "pitch_limit_max": 20,
+          "yaw_limit_min": -12,
+          "yaw_limit_max": 45,
           "pitch_deadzone": 45,
           "yaw_deadzone": 45
         },
         "aim_speed": 1,
         "parent_node": 2601604451,
-        "pivot_node": 161490677,
-        "unit_type": "MultiTargetUnitType_Wielder"
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 2884967578,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -20,
+          "pitch_limit_max": 20,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 15,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 1,
+        "parent_node": 2601604451,
+        "pivot_node": 551832871,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 0,
+    "hotbox_size_yaw": 0,
+    "hotbox_pitch_speed": 0,
+    "hotbox_yaw_speed": 0,
+    "hotbox_acceleration": 60
+  },
+  "15365965494753326077": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_AttachableParent",
+        "aim_info_name": 600573527,
+        "pitch_var": 0,
+        "yaw_var": 1407765987,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0.5,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_AttachableParent",
+        "aim_info_name": 600573527,
+        "pitch_var": 3024077627,
+        "yaw_var": 0,
+        "neutral_pitch": 0.5,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 600573527,
+        "pitch_var": 1637967016,
+        "yaw_var": 785500773,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 600573527,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 1838239842,
+        "pivot_node": 1838239842,
+        "unit_type": "MultiTargetUnitType_AttachableParent"
       },
       {
         "name": 0,
@@ -4897,5 +4045,431 @@
     "hotbox_pitch_speed": 0,
     "hotbox_yaw_speed": 0,
     "hotbox_acceleration": 60
+  },
+  "16204610837508709347": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_Weapon",
+        "aim_info_name": 215974160,
+        "pitch_var": 4238039248,
+        "yaw_var": 161490677,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -45,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 4098057313,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Self",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 551832871,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 215974160,
+        "pitch_var": 1637967016,
+        "yaw_var": 785500773,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -45,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 215974160,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -45,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 0.75,
+        "parent_node": 551832871,
+        "pivot_node": 4098057313,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 15,
+    "hotbox_size_yaw": 15,
+    "hotbox_pitch_speed": 57,
+    "hotbox_yaw_speed": 57,
+    "hotbox_acceleration": 10
+  },
+  "1837707428311856638": {
+    "variable_sets": [
+      {
+        "unit_type": "MultiTargetUnitType_Weapon",
+        "aim_info_name": 215974160,
+        "pitch_var": 4238039248,
+        "yaw_var": 161490677,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -45,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 4098057313,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Self",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 551832871,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_Wielder",
+        "aim_info_name": 215974160,
+        "pitch_var": 1637967016,
+        "yaw_var": 785500773,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -45,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      },
+      {
+        "unit_type": "MultiTargetUnitType_None",
+        "aim_info_name": 0,
+        "pitch_var": 0,
+        "yaw_var": 0,
+        "neutral_pitch": 0,
+        "neutral_yaw": 0,
+        "neutral_speed": 10,
+        "aim_constraint": 0,
+        "aim_constraint_distance": 10,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "normalized": 1,
+        "pivot_node": 0,
+        "rotation_start_event": 0,
+        "rotation_stop_event": 0
+      }
+    ],
+    "aim_info": [
+      {
+        "name": 215974160,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -45,
+          "pitch_limit_max": 45,
+          "yaw_limit_min": -45,
+          "yaw_limit_max": 45,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": 0.75,
+        "parent_node": 551832871,
+        "pivot_node": 4098057313,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      },
+      {
+        "name": 0,
+        "weapon_index": 0,
+        "limits": {
+          "pitch_limit_min": -90,
+          "pitch_limit_max": 90,
+          "yaw_limit_min": -180,
+          "yaw_limit_max": 180,
+          "pitch_deadzone": 45,
+          "yaw_deadzone": 45
+        },
+        "aim_speed": -1,
+        "parent_node": 0,
+        "pivot_node": 0,
+        "unit_type": "MultiTargetUnitType_Weapon"
+      }
+    ],
+    "hotbox_size_pitch": 15,
+    "hotbox_size_yaw": 15,
+    "hotbox_pitch_speed": 57,
+    "hotbox_yaw_speed": 57,
+    "hotbox_acceleration": 10
   }
 }

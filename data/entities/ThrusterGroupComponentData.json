@@ -115,1631 +115,7 @@
     "crash_torque": 0.899999976,
     "dead_thruster_impulse_multiplier": 50
   },
-  "9549471542381152327": {
-    "thruster_infos": [
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "17238162226885792459": {
-    "thruster_infos": [
-      {
-        "node": 977873299,
-        "actor_name": 0,
-        "angle_animation_variable": 560528945,
-        "damageable_zone_name": 117060413,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 1335572750,
-        "actor_name": 0,
-        "angle_animation_variable": 1387780767,
-        "damageable_zone_name": 2060162759,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 2577932337,
-        "actor_name": 0,
-        "angle_animation_variable": 2308094625,
-        "damageable_zone_name": 2534289224,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "8484362704672433843": {
-    "thruster_infos": [
-      {
-        "node": 1550431881,
-        "actor_name": 0,
-        "angle_animation_variable": 560528945,
-        "damageable_zone_name": 117060413,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 2258874588,
-        "actor_name": 0,
-        "angle_animation_variable": 1387780767,
-        "damageable_zone_name": 2060162759,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 3912939126,
-        "actor_name": 0,
-        "angle_animation_variable": 2308094625,
-        "damageable_zone_name": 2534289224,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "15821153730695962661": {
-    "thruster_infos": [
-      {
-        "node": 4155685610,
-        "actor_name": 3266277929,
-        "angle_animation_variable": 3621307745,
-        "damageable_zone_name": 1870204888,
-        "on_destroyed_event": 3506125755,
-        "on_destroyed_stop_particle_references": [
-          1870204888,
-          253761867,
-          2712610595,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          3391135827,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 53677199,
-        "actor_name": 3522251208,
-        "angle_animation_variable": 1709872385,
-        "damageable_zone_name": 4161836466,
-        "on_destroyed_event": 515001892,
-        "on_destroyed_stop_particle_references": [
-          4161836466,
-          1931852077,
-          397363320,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          2240695329,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 3701919631,
-        "actor_name": 4203169733,
-        "angle_animation_variable": 3608081614,
-        "damageable_zone_name": 2219062526,
-        "on_destroyed_event": 415879881,
-        "on_destroyed_stop_particle_references": [
-          2219062526,
-          2113942952,
-          1501612266,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          2938954579,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 2265096205,
-        "actor_name": 3501479895,
-        "angle_animation_variable": 2242364290,
-        "damageable_zone_name": 178206771,
-        "on_destroyed_event": 3354676364,
-        "on_destroyed_stop_particle_references": [
-          178206771,
-          2591033499,
-          2597016325,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          2538359318,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 1476369693,
-    "thrust_stopped_sound": 2440144491,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 100
-  },
-  "12230089266536517899": {
-    "thruster_infos": [
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "4571403555494335481": {
-    "thruster_infos": [
-      {
-        "node": 1550431881,
-        "actor_name": 0,
-        "angle_animation_variable": 560528945,
-        "damageable_zone_name": 117060413,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 2258874588,
-        "actor_name": 0,
-        "angle_animation_variable": 1387780767,
-        "damageable_zone_name": 2060162759,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 3912939126,
-        "actor_name": 0,
-        "angle_animation_variable": 2308094625,
-        "damageable_zone_name": 2534289224,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "15062487539698939333": {
-    "thruster_infos": [
-      {
-        "node": 1550431881,
-        "actor_name": 0,
-        "angle_animation_variable": 560528945,
-        "damageable_zone_name": 117060413,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 2258874588,
-        "actor_name": 0,
-        "angle_animation_variable": 1387780767,
-        "damageable_zone_name": 2060162759,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 3912939126,
-        "actor_name": 0,
-        "angle_animation_variable": 2308094625,
-        "damageable_zone_name": 2534289224,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "1799248273936363875": {
-    "thruster_infos": [
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "2895453262415111841": {
-    "thruster_infos": [
-      {
-        "node": 2951870433,
-        "actor_name": 2951870433,
-        "angle_animation_variable": 3621307745,
-        "damageable_zone_name": 1870204888,
-        "on_destroyed_event": 3506125755,
-        "on_destroyed_stop_particle_references": [
-          3585621233,
-          37845777,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          3257841456,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 2,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1.5
-      },
-      {
-        "node": 320415978,
-        "actor_name": 320415978,
-        "angle_animation_variable": 1709872385,
-        "damageable_zone_name": 4161836466,
-        "on_destroyed_event": 515001892,
-        "on_destroyed_stop_particle_references": [
-          4285285536,
-          695463561,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          4008638875,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 2,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1.5
-      },
-      {
-        "node": 3416840595,
-        "actor_name": 3416840595,
-        "angle_animation_variable": 2242364290,
-        "damageable_zone_name": 3340310731,
-        "on_destroyed_event": 4060604432,
-        "on_destroyed_stop_particle_references": [
-          2241395780,
-          892259241,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          813086039,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 2,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 0.200000003
-      },
-      {
-        "node": 2426282355,
-        "actor_name": 2426282355,
-        "angle_animation_variable": 3608081614,
-        "damageable_zone_name": 587421572,
-        "on_destroyed_event": 4060604432,
-        "on_destroyed_stop_particle_references": [
-          3072754240,
-          3465851910,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          3599904516,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 2,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 0.200000003
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 609113699,
-    "thrust_stopped_sound": 3617556927,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.200000003,
-    "dead_thruster_impulse_multiplier": 30
-  },
-  "9788122224441672733": {
-    "thruster_infos": [
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "10958708641660631096": {
-    "thruster_infos": [
-      {
-        "node": 4155685610,
-        "actor_name": 3266277929,
-        "angle_animation_variable": 3621307745,
-        "damageable_zone_name": 1870204888,
-        "on_destroyed_event": 3506125755,
-        "on_destroyed_stop_particle_references": [
-          1870204888,
-          253761867,
-          2712610595,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          3391135827,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 53677199,
-        "actor_name": 3522251208,
-        "angle_animation_variable": 1709872385,
-        "damageable_zone_name": 4161836466,
-        "on_destroyed_event": 515001892,
-        "on_destroyed_stop_particle_references": [
-          4161836466,
-          1931852077,
-          397363320,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          2240695329,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 3701919631,
-        "actor_name": 4203169733,
-        "angle_animation_variable": 3608081614,
-        "damageable_zone_name": 2219062526,
-        "on_destroyed_event": 415879881,
-        "on_destroyed_stop_particle_references": [
-          2219062526,
-          2113942952,
-          1501612266,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          2938954579,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 2265096205,
-        "actor_name": 3501479895,
-        "angle_animation_variable": 2242364290,
-        "damageable_zone_name": 178206771,
-        "on_destroyed_event": 3354676364,
-        "on_destroyed_stop_particle_references": [
-          178206771,
-          2591033499,
-          2597016325,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          2538359318,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 1476369693,
-    "thrust_stopped_sound": 2440144491,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 100
-  },
-  "4577685471418352301": {
-    "thruster_infos": [
-      {
-        "node": 977873299,
-        "actor_name": 0,
-        "angle_animation_variable": 560528945,
-        "damageable_zone_name": 117060413,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 1335572750,
-        "actor_name": 0,
-        "angle_animation_variable": 1387780767,
-        "damageable_zone_name": 2060162759,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 2577932337,
-        "actor_name": 0,
-        "angle_animation_variable": 2308094625,
-        "damageable_zone_name": 2534289224,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "16983968416304026806": {
-    "thruster_infos": [
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "8867451643782573472": {
-    "thruster_infos": [
-      {
-        "node": 977873299,
-        "actor_name": 0,
-        "angle_animation_variable": 560528945,
-        "damageable_zone_name": 117060413,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 1335572750,
-        "actor_name": 0,
-        "angle_animation_variable": 1387780767,
-        "damageable_zone_name": 2060162759,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 2577932337,
-        "actor_name": 0,
-        "angle_animation_variable": 2308094625,
-        "damageable_zone_name": 2534289224,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      },
-      {
-        "node": 0,
-        "actor_name": 0,
-        "angle_animation_variable": 0,
-        "damageable_zone_name": 0,
-        "on_destroyed_event": 0,
-        "on_destroyed_stop_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "on_destroyed_play_particle_references": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "should_play_particles_on_kill_all": 0,
-        "forward_angle_scale": 1,
-        "destroyed_thruster_power": 0.5,
-        "destroyed_thruster_min_power": 0.200000003,
-        "destroyed_thruster_power_decrease": 0.100000001,
-        "dead_thruster_power": 1
-      }
-    ],
-    "force_to_wanted_direction_magnitude": 0,
-    "force_to_wanted_forward_magnitude": 1,
-    "rotation_started_sound": 0,
-    "rotation_stopped_sound": 0,
-    "thrust_started_sound": 0,
-    "thrust_stopped_sound": 0,
-    "crashing_started_sound": 0,
-    "crashing_stopped_sound": 0,
-    "acceleration": 10,
-    "deceleration": 10,
-    "crash_torque": 0.899999976,
-    "dead_thruster_impulse_multiplier": 50
-  },
-  "14105421989938913075": {
+  "7991269532753869101": {
     "thruster_infos": [
       {
         "node": 0,
@@ -1971,7 +347,819 @@
     "crash_torque": 0.899999976,
     "dead_thruster_impulse_multiplier": 50
   },
-  "7991269532753869101": {
+  "15821153730695962661": {
+    "thruster_infos": [
+      {
+        "node": 4155685610,
+        "actor_name": 3266277929,
+        "angle_animation_variable": 3621307745,
+        "damageable_zone_name": 1870204888,
+        "on_destroyed_event": 3506125755,
+        "on_destroyed_stop_particle_references": [
+          1870204888,
+          253761867,
+          2712610595,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          3391135827,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 53677199,
+        "actor_name": 3522251208,
+        "angle_animation_variable": 1709872385,
+        "damageable_zone_name": 4161836466,
+        "on_destroyed_event": 515001892,
+        "on_destroyed_stop_particle_references": [
+          4161836466,
+          1931852077,
+          397363320,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          2240695329,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 3701919631,
+        "actor_name": 4203169733,
+        "angle_animation_variable": 3608081614,
+        "damageable_zone_name": 2219062526,
+        "on_destroyed_event": 415879881,
+        "on_destroyed_stop_particle_references": [
+          2219062526,
+          2113942952,
+          1501612266,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          2938954579,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 2265096205,
+        "actor_name": 3501479895,
+        "angle_animation_variable": 2242364290,
+        "damageable_zone_name": 178206771,
+        "on_destroyed_event": 3354676364,
+        "on_destroyed_stop_particle_references": [
+          178206771,
+          2591033499,
+          2597016325,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          2538359318,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 1476369693,
+    "thrust_stopped_sound": 2440144491,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 100
+  },
+  "16983968416304026806": {
+    "thruster_infos": [
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 0,
+    "thrust_stopped_sound": 0,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 50
+  },
+  "2895453262415111841": {
+    "thruster_infos": [
+      {
+        "node": 2951870433,
+        "actor_name": 2951870433,
+        "angle_animation_variable": 3621307745,
+        "damageable_zone_name": 1870204888,
+        "on_destroyed_event": 3506125755,
+        "on_destroyed_stop_particle_references": [
+          3585621233,
+          37845777,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          3257841456,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 2,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1.5
+      },
+      {
+        "node": 320415978,
+        "actor_name": 320415978,
+        "angle_animation_variable": 1709872385,
+        "damageable_zone_name": 4161836466,
+        "on_destroyed_event": 515001892,
+        "on_destroyed_stop_particle_references": [
+          4285285536,
+          695463561,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          4008638875,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 2,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1.5
+      },
+      {
+        "node": 3416840595,
+        "actor_name": 3416840595,
+        "angle_animation_variable": 2242364290,
+        "damageable_zone_name": 3340310731,
+        "on_destroyed_event": 4060604432,
+        "on_destroyed_stop_particle_references": [
+          2241395780,
+          892259241,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          813086039,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 2,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 0.200000003
+      },
+      {
+        "node": 2426282355,
+        "actor_name": 2426282355,
+        "angle_animation_variable": 3608081614,
+        "damageable_zone_name": 587421572,
+        "on_destroyed_event": 4060604432,
+        "on_destroyed_stop_particle_references": [
+          3072754240,
+          3465851910,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          3599904516,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 2,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 0.200000003
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 609113699,
+    "thrust_stopped_sound": 3617556927,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.200000003,
+    "dead_thruster_impulse_multiplier": 30
+  },
+  "4571403555494335481": {
+    "thruster_infos": [
+      {
+        "node": 1550431881,
+        "actor_name": 0,
+        "angle_animation_variable": 560528945,
+        "damageable_zone_name": 117060413,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 2258874588,
+        "actor_name": 0,
+        "angle_animation_variable": 1387780767,
+        "damageable_zone_name": 2060162759,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 3912939126,
+        "actor_name": 0,
+        "angle_animation_variable": 2308094625,
+        "damageable_zone_name": 2534289224,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 0,
+    "thrust_stopped_sound": 0,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 50
+  },
+  "4577685471418352301": {
+    "thruster_infos": [
+      {
+        "node": 977873299,
+        "actor_name": 0,
+        "angle_animation_variable": 560528945,
+        "damageable_zone_name": 117060413,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 1335572750,
+        "actor_name": 0,
+        "angle_animation_variable": 1387780767,
+        "damageable_zone_name": 2060162759,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 2577932337,
+        "actor_name": 0,
+        "angle_animation_variable": 2308094625,
+        "damageable_zone_name": 2534289224,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 0,
+    "thrust_stopped_sound": 0,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 50
+  },
+  "8867451643782573472": {
+    "thruster_infos": [
+      {
+        "node": 977873299,
+        "actor_name": 0,
+        "angle_animation_variable": 560528945,
+        "damageable_zone_name": 117060413,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 1335572750,
+        "actor_name": 0,
+        "angle_animation_variable": 1387780767,
+        "damageable_zone_name": 2060162759,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 2577932337,
+        "actor_name": 0,
+        "angle_animation_variable": 2308094625,
+        "damageable_zone_name": 2534289224,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 0,
+    "thrust_stopped_sound": 0,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 50
+  },
+  "8484362704672433843": {
+    "thruster_infos": [
+      {
+        "node": 1550431881,
+        "actor_name": 0,
+        "angle_animation_variable": 560528945,
+        "damageable_zone_name": 117060413,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 2258874588,
+        "actor_name": 0,
+        "angle_animation_variable": 1387780767,
+        "damageable_zone_name": 2060162759,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 3912939126,
+        "actor_name": 0,
+        "angle_animation_variable": 2308094625,
+        "damageable_zone_name": 2534289224,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 0,
+    "thrust_stopped_sound": 0,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 50
+  },
+  "12230089266536517899": {
     "thruster_infos": [
       {
         "node": 0,
@@ -2203,7 +1391,7 @@
     "crash_torque": 0.899999976,
     "dead_thruster_impulse_multiplier": 50
   },
-  "1892395315508858535": {
+  "14105421989938913075": {
     "thruster_infos": [
       {
         "node": 0,
@@ -2319,7 +1507,587 @@
     "crash_torque": 0.899999976,
     "dead_thruster_impulse_multiplier": 50
   },
+  "17238162226885792459": {
+    "thruster_infos": [
+      {
+        "node": 977873299,
+        "actor_name": 0,
+        "angle_animation_variable": 560528945,
+        "damageable_zone_name": 117060413,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 1335572750,
+        "actor_name": 0,
+        "angle_animation_variable": 1387780767,
+        "damageable_zone_name": 2060162759,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 2577932337,
+        "actor_name": 0,
+        "angle_animation_variable": 2308094625,
+        "damageable_zone_name": 2534289224,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 0,
+    "thrust_stopped_sound": 0,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 50
+  },
   "5941497820588716999": {
+    "thruster_infos": [
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 0,
+    "thrust_stopped_sound": 0,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 50
+  },
+  "15062487539698939333": {
+    "thruster_infos": [
+      {
+        "node": 1550431881,
+        "actor_name": 0,
+        "angle_animation_variable": 560528945,
+        "damageable_zone_name": 117060413,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 2258874588,
+        "actor_name": 0,
+        "angle_animation_variable": 1387780767,
+        "damageable_zone_name": 2060162759,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 3912939126,
+        "actor_name": 0,
+        "angle_animation_variable": 2308094625,
+        "damageable_zone_name": 2534289224,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 0,
+    "thrust_stopped_sound": 0,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 50
+  },
+  "10958708641660631096": {
+    "thruster_infos": [
+      {
+        "node": 4155685610,
+        "actor_name": 3266277929,
+        "angle_animation_variable": 3621307745,
+        "damageable_zone_name": 1870204888,
+        "on_destroyed_event": 3506125755,
+        "on_destroyed_stop_particle_references": [
+          1870204888,
+          253761867,
+          2712610595,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          3391135827,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 53677199,
+        "actor_name": 3522251208,
+        "angle_animation_variable": 1709872385,
+        "damageable_zone_name": 4161836466,
+        "on_destroyed_event": 515001892,
+        "on_destroyed_stop_particle_references": [
+          4161836466,
+          1931852077,
+          397363320,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          2240695329,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 3701919631,
+        "actor_name": 4203169733,
+        "angle_animation_variable": 3608081614,
+        "damageable_zone_name": 2219062526,
+        "on_destroyed_event": 415879881,
+        "on_destroyed_stop_particle_references": [
+          2219062526,
+          2113942952,
+          1501612266,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          2938954579,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 2265096205,
+        "actor_name": 3501479895,
+        "angle_animation_variable": 2242364290,
+        "damageable_zone_name": 178206771,
+        "on_destroyed_event": 3354676364,
+        "on_destroyed_stop_particle_references": [
+          178206771,
+          2591033499,
+          2597016325,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          2538359318,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 1476369693,
+    "thrust_stopped_sound": 2440144491,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 100
+  },
+  "9788122224441672733": {
+    "thruster_infos": [
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      },
+      {
+        "node": 0,
+        "actor_name": 0,
+        "angle_animation_variable": 0,
+        "damageable_zone_name": 0,
+        "on_destroyed_event": 0,
+        "on_destroyed_stop_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "on_destroyed_play_particle_references": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "should_play_particles_on_kill_all": 0,
+        "forward_angle_scale": 1,
+        "destroyed_thruster_power": 0.5,
+        "destroyed_thruster_min_power": 0.200000003,
+        "destroyed_thruster_power_decrease": 0.100000001,
+        "dead_thruster_power": 1
+      }
+    ],
+    "force_to_wanted_direction_magnitude": 0,
+    "force_to_wanted_forward_magnitude": 1,
+    "rotation_started_sound": 0,
+    "rotation_stopped_sound": 0,
+    "thrust_started_sound": 0,
+    "thrust_stopped_sound": 0,
+    "crashing_started_sound": 0,
+    "crashing_stopped_sound": 0,
+    "acceleration": 10,
+    "deceleration": 10,
+    "crash_torque": 0.899999976,
+    "dead_thruster_impulse_multiplier": 50
+  },
+  "1892395315508858535": {
     "thruster_infos": [
       {
         "node": 0,

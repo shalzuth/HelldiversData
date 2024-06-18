@@ -11,5 +11,6 @@
     "parent_detach_anim" : { "type": "uint", "description": "[string]Animation to play on the parent when detaching." },
     "affect_scale" : { "type": "byte", "description": "[bool]This should only be applied to main entities that will attach to something in the world, like hellpods." },
     "ignore_weapon_damage_for_parent" : { "type": "byte", "description": "[bool]This variable will decide if we should be able to damage our parent with our weapons." },
-    "inherit_angular_momentum" : { "type": "byte", "description": "[bool]Should this attachable inherit angular momentum?" }
+    "inherit_angular_momentum" : { "type": "byte", "description": "[bool]Should this attachable inherit angular momentum?" },
+    "reattach_when_corpsed" : { "type": "byte", "description": "[bool]If true we will reattach when an entity swaps to be a corpse." }
 }}

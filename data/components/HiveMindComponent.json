@@ -10,5 +10,6 @@
     "encounter_enemy_cap_multiplier" : { "type": "float", "default": 1, "description": "Multiplier for the difficulty settings enemy cap." },
     "patrol_spawn_duration_multiplier" : { "type": "float", "default": 1, "description": "Patrol spawn duration multiplier" },
     "mission_difficulty_settings" : { "type": "MissionDifficultySettings", "description": "How does mission difficulty scale?" },
-    "mission_time_start_paused" : { "type": "byte", "description": "[bool]if set, mission time will start paused waiting for a call to explicitly start it." }
+    "mission_time_start_paused" : { "type": "byte", "description": "[bool]if set, mission time will start paused waiting for a call to explicitly start it." },
+    "wild_encounters_enabled" : { "type": "byte", "description": "[bool]If set, wild encounters are enabled." }
 }}

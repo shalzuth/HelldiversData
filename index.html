@@ -334,8 +334,14 @@
                                 if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a.includes('name'));
                                 if (keyName == null) keyName = Object.keys(jsonData[dependencies[0]][0][settingType]).find(a=>a.includes('type'));
                                 if (jsonData[dependencies[0]].length > 1){
-                                    for(var i = 0; i < jsonData[dependencies[0]].length; i++){
-                                        data.push({data:{index:i,data:jsonData[dependencies[0]][i][settingType][keyName]}});
+                                    if (params.settings == 'generated_planet_data'){
+                                        for(var i = 0; i < jsonData[dependencies[0]].length; i++){
+                                            data.push({data:{index:i,data:{name:jsonData[dependencies[0]][i][settingType]['planet_name_loc'],desc:jsonData[dependencies[0]][i][settingType]['planet_description_loc']}}});
+                                        }
+                                    } else {
+                                        for(var i = 0; i < jsonData[dependencies[0]].length; i++){
+                                            data.push({data:{index:i,data:jsonData[dependencies[0]][i][settingType][keyName]}});
+                                        }
                                     }
                                 } else {
                                     var subKeyName = Object.keys(jsonData[dependencies[0]][0][settingType])[0];

@@ -1,18 +1,18 @@
 {
-  "9291384900638350902": {
-    "manual_clearing": 0,
+  "3358853937828503136": {
+    "manual_clearing": 1,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_jet_rifle",
+    "ability": "AbilityId_complex_reload_railgun",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_ReloadNormal",
         "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 1250482543
+        "animation_event_wielder": 4277405657
       },
       {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3859454790
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -25,14 +25,47 @@
         "animation_event_wielder": 0
       }
     ],
-    "duration": 3.0999999,
+    "duration": 1.25,
     "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
+    "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "4416184955867381998": {
+  "5050852199397921576": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_assault_shotgun",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3131383770
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 2911961409
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2.5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "7778022558452062755": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_complex_reload_pdw",
@@ -65,205 +98,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "15369542005276747891": {
-    "manual_clearing": 0,
-    "reload_allow_move": 0,
-    "ability": "AbilityId_complex_reload_laser_cannon",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3354962054
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 3012833820,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "5910727434981086692": {
-    "manual_clearing": 1,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_double_barrel",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 920544490
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3212958677
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2.5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "11756121139324203897": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_pdw",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2.5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "4111341420364086640": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "424716889947522210": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_standard_pistol",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2410182996
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadNormalOneHand",
-        "animation_event_weapon": 2693623607,
-        "animation_event_wielder": 1339085872
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 2433367859
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFastOneHand",
-        "animation_event_weapon": 3092961425,
-        "animation_event_wielder": 2967725657
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "10177381595962512386": {
-    "manual_clearing": 1,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_revolver",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 111594672
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3463378776
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFastOneHand",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 220745608
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadNormalOneHand",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3272688548
-      }
-    ],
-    "duration": 2.79999995,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "5953193886108619556": {
+  "11035656831144141243": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -329,43 +164,10 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "14942687850090605537": {
+  "16910079541664006285": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_assault_rifle",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 674072876
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 4111592605
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 3,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3371451580584923919": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_nicks_debug_gun",
+    "ability": "AbilityId_complex_reload_standard_pistol",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_None",
@@ -395,7 +197,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "5050852199397921576": {
+  "7323248696802770694": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_complex_reload_assault_shotgun",
@@ -428,7 +230,73 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "14685780296579739413": {
+  "2401215835282261016": {
+    "manual_clearing": 0,
+    "reload_allow_move": 0,
+    "ability": "AbilityId_complex_reload_heavy_machinegun",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 732297490
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 453919511
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 5.5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "3199457897835937068": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_laser_rifle",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 627502649
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 3,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 3012833820,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 410435262,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "3907162354404645355": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -455,6 +323,105 @@
       }
     ],
     "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "10589153337282573789": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_sniper_rifle",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3492743890
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 720483837
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 3,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "3177983950714174823": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "13918995818598980231": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_assault_shotgun",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3595649300
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3689099543
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2.5,
     "has_shared_deposit": 0,
     "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
@@ -494,20 +461,20 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "133122695844997115": {
+  "8192757692405735881": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_assault_rifle",
+    "ability": "AbilityId_Invalid",
     "reload_anim_events": [
       {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 674072876
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
       },
       {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 4111592605
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -522,15 +489,180 @@
     ],
     "duration": 0,
     "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
+    "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "16910079541664006285": {
+  "4272070332797734129": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_standard_pistol",
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "10177381595962512386": {
+    "manual_clearing": 1,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_revolver",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 111594672
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3463378776
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFastOneHand",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 220745608
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadNormalOneHand",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3272688548
+      }
+    ],
+    "duration": 2.79999995,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "8039414067817307766": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "1585898554922009358": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "9528799688439966563": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "3371451580584923919": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_nicks_debug_gun",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_None",
@@ -560,7 +692,40 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "16995860793330061350": {
+  "14772015414747343144": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_frv_mg",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 732297490
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 453919511
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "10355039786464021751": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -626,20 +791,20 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "14772015414747343144": {
+  "17196401230144941076": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_frv_mg",
+    "ability": "AbilityId_complex_reload_plasma_rifle",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_ReloadNormal",
         "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 732297490
+        "animation_event_wielder": 980762406
       },
       {
         "type": "WeaponReloadEventType_ReloadFast",
         "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 453919511
+        "animation_event_wielder": 423726988
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -652,7 +817,205 @@
         "animation_event_wielder": 0
       }
     ],
-    "duration": 5,
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "11756121139324203897": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_pdw",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2.5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "8536986223483970266": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "133122695844997115": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_assault_rifle",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 674072876
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 4111592605
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "14780545738251228467": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "10660805200074987205": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_assault_shotgun",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3131383770
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 2911961409
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2.5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "9965870354970800749": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
     "has_shared_deposit": 0,
     "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
@@ -692,11 +1055,21 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "2047310211000472840": {
+  "4885016034561106550": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
+    "ability": "AbilityId_complex_reload_assault_rifle",
     "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 674072876
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 4111592605
+      },
       {
         "type": "WeaponReloadEventType_None",
         "animation_event_weapon": 0,
@@ -706,6 +1079,62 @@
         "type": "WeaponReloadEventType_None",
         "animation_event_weapon": 0,
         "animation_event_wielder": 0
+      }
+    ],
+    "duration": 3,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "12164217308285983839": {
+    "manual_clearing": 0,
+    "reload_allow_move": 0,
+    "ability": "AbilityId_complex_reload_autocannon",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 1665102196
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 4011031735
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 4,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 77027882
+  },
+  "11732808277634566119": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_laser_pistol",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 457876305
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadNormalOneHand",
+        "animation_event_weapon": 2693623607,
+        "animation_event_wielder": 3779135685
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -720,15 +1149,15 @@
     ],
     "duration": 0,
     "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
+    "reload_vo_normal": 3012833820,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "14427145521595639927": {
+  "15219556623070951071": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
+    "ability": "AbilityId_avatar_reload_mount",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_None",
@@ -751,7 +1180,106 @@
         "animation_event_wielder": 0
       }
     ],
-    "duration": 0,
+    "duration": 4,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "11616925890035912226": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_pdw",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2.5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "13601459612566041022": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_pump_shotgun",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 2964262725
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 806276847
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "4416184955867381998": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_pdw",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2.5,
     "has_shared_deposit": 0,
     "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
@@ -791,7 +1319,502 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "11035656831144141243": {
+  "614861366208420748": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "14685780296579739413": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "10320682320039145374": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "11493422068836852751": {
+    "manual_clearing": 0,
+    "reload_allow_move": 0,
+    "ability": "AbilityId_complex_reload_recoilless",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 192558934,
+        "animation_event_wielder": 3143957689
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 6,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 77027882
+  },
+  "8864800879179811976": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_laser_pistol",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 457876305
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadNormalOneHand",
+        "animation_event_weapon": 2693623607,
+        "animation_event_wielder": 3779135685
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 3012833820,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "10768610637301609307": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_smg_defender",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 2209500644
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 2994365933
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadNormalOneHand",
+        "animation_event_weapon": 2693623607,
+        "animation_event_wielder": 163196552
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFastOneHand",
+        "animation_event_weapon": 3092961425,
+        "animation_event_wielder": 3404239283
+      }
+    ],
+    "duration": 3,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "12279528435724053588": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_plasma_pistol",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 2418738544
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadNormalOneHand",
+        "animation_event_weapon": 2693623607,
+        "animation_event_wielder": 3613805189
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "11613148414962332127": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "6826025955225526457": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_assault_shotgun",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3595649300
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3689099543
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 3,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "602390376167162446": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_frv_mg",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 732297490
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 453919511
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "211331680192206384": {
+    "manual_clearing": 1,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_grenade_launcher",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 2994549969
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 1528081293
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 3.5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "5244756512985933074": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "2753976566055493778": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_pdw",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2.5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "10845250369047350884": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_assault_rifle",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 674072876
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 4111592605
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "14783244423755879381": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "16120089938690525143": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -857,139 +1880,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "281046277510948131": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_marksman_rifle_vigilance",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2407866810
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 1053281710
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "4885016034561106550": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_assault_rifle",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 674072876
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 4111592605
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 3,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "9927421484392399367": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_sniper_rifle",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3492743890
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 720483837
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 3,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "1030663026357860236": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_mount_lmg_stalwart",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 1095271193,
-        "animation_event_wielder": 3493148345
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1425655740,
-        "animation_event_wielder": 3043535806
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "535319041333920260": {
+  "9468080011357415026": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -1022,7 +1913,403 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "6707034374626068020": {
+  "10892987900330561893": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "1279722939363854678": {
+    "manual_clearing": 0,
+    "reload_allow_move": 0,
+    "ability": "AbilityId_complex_reload_machinegun",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 636358871
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 2242140767
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "17623191861664038783": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_crossbow_greyfax",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 27100363
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "578623101395158887": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_pdwpepper",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3393018772
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3838898533
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadNormalOneHand",
+        "animation_event_weapon": 2693623607,
+        "animation_event_wielder": 2780792887
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFastOneHand",
+        "animation_event_weapon": 3092961425,
+        "animation_event_wielder": 501053387
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "17636297115750610289": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "1573296579562737333": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_mount_lmg_stalwart",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 1095271193,
+        "animation_event_wielder": 3493148345
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1425655740,
+        "animation_event_wielder": 3043535806
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "5725374950499373869": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_pump_shotgun",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 2964262725
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 806276847
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "2714034314705433838": {
+    "manual_clearing": 0,
+    "reload_allow_move": 0,
+    "ability": "AbilityId_complex_reload_faf_missile_launcher",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 1609220197
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 77027882
+  },
+  "5892418254001999486": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "13283381034644230080": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "17488789745215357128": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "4878198249831276603": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_flamethrower",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3121495917
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3127798396
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 1498603616,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "14427145521595639927": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -1088,20 +2375,20 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "11922818763705725842": {
-    "manual_clearing": 1,
+  "12984499893943104780": {
+    "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_grenade_launcher",
+    "ability": "AbilityId_complex_reload_lmg_stalwart",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_ReloadNormal",
         "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2994549969
+        "animation_event_wielder": 1198747177
       },
       {
         "type": "WeaponReloadEventType_ReloadFast",
         "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 1528081293
+        "animation_event_wielder": 3954206461
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -1115,79 +2402,46 @@
       }
     ],
     "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 1633909022,
+    "has_shared_deposit": 1,
+    "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 77027882,
+    "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "12100643055971655455": {
+  "3852172782311805734": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_patriot",
+    "ability": "AbilityId_complex_reload_automatic_pistol",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_ReloadNormal",
         "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2828543470
+        "animation_event_wielder": 250832434
       },
       {
         "type": "WeaponReloadEventType_ReloadFast",
         "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 2582244793
+        "animation_event_wielder": 1329010472
       },
       {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
+        "type": "WeaponReloadEventType_ReloadNormalOneHand",
+        "animation_event_weapon": 2693623607,
+        "animation_event_wielder": 3549821113
       },
       {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
+        "type": "WeaponReloadEventType_ReloadFastOneHand",
+        "animation_event_weapon": 3092961425,
+        "animation_event_wielder": 2835677733
       }
     ],
-    "duration": 2.5,
+    "duration": 1.79999995,
     "has_shared_deposit": 0,
     "reload_vo_normal": 2391970168,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "12587270281642273949": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "9468080011357415026": {
+  "2047310211000472840": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -1253,6 +2507,732 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
+  "13357795631455978434": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_lmg_stalwart",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 1198747177
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3954206461
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 1,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "4749824949454633632": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_pump_shotgun",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 2964262725
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 806276847
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "6912088101323449320": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_battle_rifle",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3295264040
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 488173946
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 3,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "12587270281642273949": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "9291384900638350902": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_jet_rifle",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 1250482543
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3859454790
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 3.0999999,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "4155583896232633279": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_flamethrower",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3121495917
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3127798396
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 1498603616,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "12008625947668001407": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_lmg_stalwart",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 1198747177
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3954206461
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "5575761375102281771": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "7672538193198738711": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "4111341420364086640": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "2114795373903595840": {
+    "manual_clearing": 1,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_grenade_launcher",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 2423852008,
+        "animation_event_wielder": 1616823131
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 405864691,
+        "animation_event_wielder": 1507654898
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 3.5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "1374362502002005721": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "9675404802175538082": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_laser_rifle_long",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 2810952482
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 3012833820,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "15369542005276747891": {
+    "manual_clearing": 0,
+    "reload_allow_move": 0,
+    "ability": "AbilityId_complex_reload_laser_cannon",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 3354962054
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 3012833820,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "535319041333920260": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "3641453212932526628": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "5953193886108619556": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "6707034374626068020": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "13164006426448262783": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_jet_rifle_phoenix",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 68202331,
+        "animation_event_wielder": 347748916
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 2058228374,
+        "animation_event_wielder": 1447219887
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "281046277510948131": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_marksman_rifle_vigilance",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 2407866810
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 1053281710
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2391970168,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "5910727434981086692": {
+    "manual_clearing": 1,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_double_barrel",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 920544490
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3212958677
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 2.5,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "12383542358383909066": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
   "11654668915819557853": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
@@ -1286,7 +3266,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "11613148414962332127": {
+  "11062825334817279592": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -1319,20 +3299,20 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "8864800879179811976": {
+  "14942687850090605537": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_laser_pistol",
+    "ability": "AbilityId_complex_reload_assault_rifle",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_ReloadNormal",
         "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 457876305
+        "animation_event_wielder": 674072876
       },
       {
-        "type": "WeaponReloadEventType_ReloadNormalOneHand",
-        "animation_event_weapon": 2693623607,
-        "animation_event_wielder": 3779135685
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 4111592605
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -1345,14 +3325,14 @@
         "animation_event_wielder": 0
       }
     ],
-    "duration": 0,
+    "duration": 3,
     "has_shared_deposit": 0,
-    "reload_vo_normal": 3012833820,
+    "reload_vo_normal": 2391970168,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "16120089938690525143": {
+  "3041174345526908898": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -1418,48 +3398,15 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "13357795631455978434": {
+  "7546486305997975964": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_lmg_stalwart",
+    "ability": "AbilityId_Invalid",
     "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 1198747177
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3954206461
-      },
       {
         "type": "WeaponReloadEventType_None",
         "animation_event_weapon": 0,
         "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 1,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "11493422068836852751": {
-    "manual_clearing": 0,
-    "reload_allow_move": 0,
-    "ability": "AbilityId_complex_reload_recoilless",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 192558934,
-        "animation_event_wielder": 3143957689
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -1482,50 +3429,17 @@
     "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 77027882
-  },
-  "17196401230144941076": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_plasma_rifle",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 980762406
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 423726988
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "9675404802175538082": {
+  "12218137513893139416": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_laser_rifle_long",
+    "ability": "AbilityId_Invalid",
     "reload_anim_events": [
       {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2810952482
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -1545,106 +3459,7 @@
     ],
     "duration": 0,
     "has_shared_deposit": 0,
-    "reload_vo_normal": 3012833820,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "15365965494753326077": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_lmg_stalwart",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 1198747177
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3954206461
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 1,
     "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "4878198249831276603": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_flamethrower",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3121495917
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3127798396
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 1498603616,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "4155583896232633279": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_flamethrower",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3121495917
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3127798396
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 1498603616,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
@@ -1715,105 +3530,6 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "211331680192206384": {
-    "manual_clearing": 1,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_grenade_launcher",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2994549969
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 1528081293
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 3.5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "2714034314705433838": {
-    "manual_clearing": 0,
-    "reload_allow_move": 0,
-    "ability": "AbilityId_complex_reload_faf_missile_launcher",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 1609220197
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 77027882
-  },
-  "5725374950499373869": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_pump_shotgun",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2964262725
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 806276847
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
   "421324886246020354": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
@@ -1847,1109 +3563,20 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "578623101395158887": {
+  "3109983482551492476": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_pdwpepper",
+    "ability": "AbilityId_complex_reload_triple_barrel_shotgun",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_ReloadNormal",
         "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3393018772
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3838898533
+        "animation_event_wielder": 731514166
       },
       {
         "type": "WeaponReloadEventType_ReloadNormalOneHand",
         "animation_event_weapon": 2693623607,
-        "animation_event_wielder": 2780792887
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFastOneHand",
-        "animation_event_weapon": 3092961425,
-        "animation_event_wielder": 501053387
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "10845250369047350884": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_assault_rifle",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 674072876
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 4111592605
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "9528799688439966563": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "8536986223483970266": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "18400802241877839954": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "13918995818598980231": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_assault_shotgun",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3595649300
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3689099543
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2.5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "10768610637301609307": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_smg_defender",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2209500644
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 2994365933
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadNormalOneHand",
-        "animation_event_weapon": 2693623607,
-        "animation_event_wielder": 163196552
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFastOneHand",
-        "animation_event_weapon": 3092961425,
-        "animation_event_wielder": 3404239283
-      }
-    ],
-    "duration": 3,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3852172782311805734": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_automatic_pistol",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 250832434
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 1329010472
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadNormalOneHand",
-        "animation_event_weapon": 2693623607,
-        "animation_event_wielder": 3549821113
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFastOneHand",
-        "animation_event_weapon": 3092961425,
-        "animation_event_wielder": 2835677733
-      }
-    ],
-    "duration": 1.79999995,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "14783244423755879381": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "10320682320039145374": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "13164006426448262783": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_jet_rifle_phoenix",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 68202331,
-        "animation_event_wielder": 347748916
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 2058228374,
-        "animation_event_wielder": 1447219887
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3641453212932526628": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "14780545738251228467": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3358853937828503136": {
-    "manual_clearing": 1,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_railgun",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 4277405657
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 1.25,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "5575761375102281771": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3101227300789072443": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "5892418254001999486": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "10892987900330561893": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "15219556623070951071": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_avatar_reload_mount",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 4,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "13028718365019299975": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "11047871594297831536": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "7546486305997975964": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "5244756512985933074": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "13171605573572653383": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_avatar_reload_mount",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 3,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "1573296579562737333": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_mount_lmg_stalwart",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 1095271193,
-        "animation_event_wielder": 3493148345
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1425655740,
-        "animation_event_wielder": 3043535806
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "6826025955225526457": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_assault_shotgun",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3595649300
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3689099543
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 3,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "11732808277634566119": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_laser_pistol",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 457876305
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadNormalOneHand",
-        "animation_event_weapon": 2693623607,
-        "animation_event_wielder": 3779135685
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 3012833820,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "6318095193127658106": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3239012324354685117": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "11616925890035912226": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_pdw",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2.5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "12383542358383909066": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "12008625947668001407": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_lmg_stalwart",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 1198747177
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3954206461
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3177983950714174823": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "10355039786464021751": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
+        "animation_event_wielder": 3460807812
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -3002,7 +3629,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "12218137513893139416": {
+  "6318095193127658106": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -3031,237 +3658,6 @@
     "duration": 0,
     "has_shared_deposit": 0,
     "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "2877271129141764950": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_laser_rifle",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 627502649
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 3,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 3012833820,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "4272070332797734129": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "4228803675738017635": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "4749824949454633632": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_pump_shotgun",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2964262725
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 806276847
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "6582409209889722787": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "7778022558452062755": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_pdw",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2.5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "12279528435724053588": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_plasma_pistol",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2418738544
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadNormalOneHand",
-        "animation_event_weapon": 2693623607,
-        "animation_event_wielder": 3613805189
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
@@ -3299,86 +3695,20 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "1279722939363854678": {
+  "12100643055971655455": {
     "manual_clearing": 0,
-    "reload_allow_move": 0,
-    "ability": "AbilityId_complex_reload_machinegun",
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_patriot",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_ReloadNormal",
         "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 636358871
+        "animation_event_wielder": 2828543470
       },
       {
         "type": "WeaponReloadEventType_ReloadFast",
         "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 2242140767
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "11062825334817279592": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "10660805200074987205": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_assault_shotgun",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3131383770
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 2911961409
+        "animation_event_wielder": 2582244793
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -3393,157 +3723,25 @@
     ],
     "duration": 2.5,
     "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
+    "reload_vo_normal": 2391970168,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "614861366208420748": {
+  "9927421484392399367": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "5289274991058480552": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3109983482551492476": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_triple_barrel_shotgun",
+    "ability": "AbilityId_complex_reload_sniper_rifle",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_ReloadNormal",
         "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 731514166
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadNormalOneHand",
-        "animation_event_weapon": 2693623607,
-        "animation_event_wielder": 3460807812
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3041174345526908898": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "6912088101323449320": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_battle_rifle",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3295264040
+        "animation_event_wielder": 3492743890
       },
       {
         "type": "WeaponReloadEventType_ReloadFast",
         "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 488173946
+        "animation_event_wielder": 720483837
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -3563,20 +3761,20 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "602390376167162446": {
+  "3101227300789072443": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_frv_mg",
+    "ability": "AbilityId_Invalid",
     "reload_anim_events": [
       {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 732297490
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
       },
       {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 453919511
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -3589,8 +3787,74 @@
         "animation_event_wielder": 0
       }
     ],
-    "duration": 5,
+    "duration": 0,
     "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "1030663026357860236": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_mount_lmg_stalwart",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 1095271193,
+        "animation_event_wielder": 3493148345
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1425655740,
+        "animation_event_wielder": 3043535806
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "15365965494753326077": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_lmg_stalwart",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 1198747177
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 3954206461
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 1,
     "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
@@ -3629,20 +3893,20 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 77027882
   },
-  "2114795373903595840": {
-    "manual_clearing": 1,
+  "13171605573572653383": {
+    "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_grenade_launcher",
+    "ability": "AbilityId_avatar_reload_mount",
     "reload_anim_events": [
       {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 2423852008,
-        "animation_event_wielder": 1616823131
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
       },
       {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 405864691,
-        "animation_event_wielder": 1507654898
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -3655,80 +3919,14 @@
         "animation_event_wielder": 0
       }
     ],
-    "duration": 3.5,
+    "duration": 3,
     "has_shared_deposit": 0,
     "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "7323248696802770694": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_assault_shotgun",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3131383770
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 2911961409
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2.5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "12984499893943104780": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_lmg_stalwart",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 1198747177
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 3954206461
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 1,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "7767754898735718469": {
+  "11047871594297831536": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -3794,7 +3992,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "17636297115750610289": {
+  "5289274991058480552": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -3821,171 +4019,6 @@
       }
     ],
     "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "10589153337282573789": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_sniper_rifle",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 3492743890
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 720483837
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 3,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2391970168,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3199457897835937068": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_laser_rifle",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 627502649
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 3,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 3012833820,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 410435262,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "9965870354970800749": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "3907162354404645355": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "2753976566055493778": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_pdw",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2.5,
     "has_shared_deposit": 0,
     "reload_vo_normal": 2501033797,
     "reload_vo_lastmag": 1547933619,
@@ -4025,7 +4058,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "17488789745215357128": {
+  "16995860793330061350": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -4058,7 +4091,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "13283381034644230080": {
+  "7767754898735718469": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -4091,48 +4124,15 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "8192757692405735881": {
+  "2877271129141764950": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
-    "ability": "AbilityId_Invalid",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 0,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "17623191861664038783": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_crossbow_greyfax",
+    "ability": "AbilityId_complex_reload_laser_rifle",
     "reload_anim_events": [
       {
         "type": "WeaponReloadEventType_ReloadNormal",
         "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 27100363
+        "animation_event_wielder": 627502649
       },
       {
         "type": "WeaponReloadEventType_None",
@@ -4148,6 +4148,39 @@
         "type": "WeaponReloadEventType_None",
         "animation_event_weapon": 0,
         "animation_event_wielder": 0
+      }
+    ],
+    "duration": 3,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 3012833820,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "424716889947522210": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_complex_reload_standard_pistol",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_ReloadNormal",
+        "animation_event_weapon": 4053794325,
+        "animation_event_wielder": 2410182996
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadNormalOneHand",
+        "animation_event_weapon": 2693623607,
+        "animation_event_wielder": 1339085872
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFast",
+        "animation_event_weapon": 1740839499,
+        "animation_event_wielder": 2433367859
+      },
+      {
+        "type": "WeaponReloadEventType_ReloadFastOneHand",
+        "animation_event_weapon": 3092961425,
+        "animation_event_wielder": 2967725657
       }
     ],
     "duration": 0,
@@ -4157,7 +4190,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "8039414067817307766": {
+  "18400802241877839954": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -4190,40 +4223,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "2401215835282261016": {
-    "manual_clearing": 0,
-    "reload_allow_move": 0,
-    "ability": "AbilityId_complex_reload_heavy_machinegun",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 732297490
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 453919511
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 5.5,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "1585898554922009358": {
+  "4228803675738017635": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -4256,73 +4256,7 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "13601459612566041022": {
-    "manual_clearing": 0,
-    "reload_allow_move": 1,
-    "ability": "AbilityId_complex_reload_pump_shotgun",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 2964262725
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 806276847
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 2,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 0
-  },
-  "12164217308285983839": {
-    "manual_clearing": 0,
-    "reload_allow_move": 0,
-    "ability": "AbilityId_complex_reload_autocannon",
-    "reload_anim_events": [
-      {
-        "type": "WeaponReloadEventType_ReloadNormal",
-        "animation_event_weapon": 4053794325,
-        "animation_event_wielder": 1665102196
-      },
-      {
-        "type": "WeaponReloadEventType_ReloadFast",
-        "animation_event_weapon": 1740839499,
-        "animation_event_wielder": 4011031735
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      },
-      {
-        "type": "WeaponReloadEventType_None",
-        "animation_event_weapon": 0,
-        "animation_event_wielder": 0
-      }
-    ],
-    "duration": 4,
-    "has_shared_deposit": 0,
-    "reload_vo_normal": 2501033797,
-    "reload_vo_lastmag": 1547933619,
-    "reload_vo_nomags": 3044503528,
-    "reload_vo_nomags_no_backpack": 77027882
-  },
-  "7672538193198738711": {
+  "6582409209889722787": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
@@ -4355,7 +4289,40 @@
     "reload_vo_nomags": 3044503528,
     "reload_vo_nomags_no_backpack": 0
   },
-  "1374362502002005721": {
+  "3239012324354685117": {
+    "manual_clearing": 0,
+    "reload_allow_move": 1,
+    "ability": "AbilityId_Invalid",
+    "reload_anim_events": [
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      },
+      {
+        "type": "WeaponReloadEventType_None",
+        "animation_event_weapon": 0,
+        "animation_event_wielder": 0
+      }
+    ],
+    "duration": 0,
+    "has_shared_deposit": 0,
+    "reload_vo_normal": 2501033797,
+    "reload_vo_lastmag": 1547933619,
+    "reload_vo_nomags": 3044503528,
+    "reload_vo_nomags_no_backpack": 0
+  },
+  "13028718365019299975": {
     "manual_clearing": 0,
     "reload_allow_move": 1,
     "ability": "AbilityId_Invalid",
