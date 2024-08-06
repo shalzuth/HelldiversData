@@ -25,19 +25,6 @@
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
-  "3508555955240290181": {
-    "distance": 40,
-    "peripheral_distance": 1,
-    "back_distance": 1,
-    "angle_horizontal": 20,
-    "angle_vertical": 20,
-    "sight_node": 938412064,
-    "use_sight_node_for_direction": 0,
-    "vision_raycast_template": "RaycastTemplate_Vision",
-    "eye_type": "EyeType_Humanoid",
-    "ignore_inside_foliage_distance": 8,
-    "inside_foliage_distance": 0.5
-  },
   "7057055776013546117": {
     "distance": 8,
     "peripheral_distance": 1,
@@ -64,19 +51,6 @@
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
-  "17875655752828743943": {
-    "distance": 55,
-    "peripheral_distance": 1,
-    "back_distance": 1,
-    "angle_horizontal": 20,
-    "angle_vertical": 20,
-    "sight_node": 493843884,
-    "use_sight_node_for_direction": 1,
-    "vision_raycast_template": "RaycastTemplate_Vision",
-    "eye_type": "EyeType_Humanoid",
-    "ignore_inside_foliage_distance": 8,
-    "inside_foliage_distance": 0.5
-  },
   "4960479884336891143": {
     "distance": 8,
     "peripheral_distance": 1,
@@ -87,6 +61,19 @@
     "use_sight_node_for_direction": 0,
     "vision_raycast_template": "RaycastTemplate_Player",
     "eye_type": "EyeType_Cone",
+    "ignore_inside_foliage_distance": 8,
+    "inside_foliage_distance": 0.5
+  },
+  "17875655752828743943": {
+    "distance": 55,
+    "peripheral_distance": 1,
+    "back_distance": 1,
+    "angle_horizontal": 20,
+    "angle_vertical": 20,
+    "sight_node": 493843884,
+    "use_sight_node_for_direction": 1,
+    "vision_raycast_template": "RaycastTemplate_Vision",
+    "eye_type": "EyeType_Humanoid",
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
@@ -337,6 +324,19 @@
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
+  "14278331370456096813": {
+    "distance": 50,
+    "peripheral_distance": 1,
+    "back_distance": 1,
+    "angle_horizontal": 20,
+    "angle_vertical": 20,
+    "sight_node": 1073000524,
+    "use_sight_node_for_direction": 1,
+    "vision_raycast_template": "RaycastTemplate_Vision",
+    "eye_type": "EyeType_Humanoid",
+    "ignore_inside_foliage_distance": 8,
+    "inside_foliage_distance": 0.5
+  },
   "12706617161845284909": {
     "distance": 50,
     "peripheral_distance": 1,
@@ -422,6 +422,19 @@
     "angle_horizontal": 360,
     "angle_vertical": 360,
     "sight_node": 1176554573,
+    "use_sight_node_for_direction": 0,
+    "vision_raycast_template": "RaycastTemplate_Vision",
+    "eye_type": "EyeType_Humanoid",
+    "ignore_inside_foliage_distance": 8,
+    "inside_foliage_distance": 0.5
+  },
+  "15922730753540746811": {
+    "distance": 40,
+    "peripheral_distance": 1,
+    "back_distance": 1,
+    "angle_horizontal": 20,
+    "angle_vertical": 20,
+    "sight_node": 2540511347,
     "use_sight_node_for_direction": 0,
     "vision_raycast_template": "RaycastTemplate_Vision",
     "eye_type": "EyeType_Humanoid",
@@ -610,19 +623,6 @@
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
-  "11457796999526261852": {
-    "distance": 40,
-    "peripheral_distance": 1,
-    "back_distance": 1,
-    "angle_horizontal": 20,
-    "angle_vertical": 20,
-    "sight_node": 938412064,
-    "use_sight_node_for_direction": 0,
-    "vision_raycast_template": "RaycastTemplate_Vision",
-    "eye_type": "EyeType_Humanoid",
-    "ignore_inside_foliage_distance": 8,
-    "inside_foliage_distance": 0.5
-  },
   "152751642744350684": {
     "distance": 40,
     "peripheral_distance": 1,
@@ -656,6 +656,19 @@
     "angle_horizontal": 20,
     "angle_vertical": 20,
     "sight_node": 2540511347,
+    "use_sight_node_for_direction": 0,
+    "vision_raycast_template": "RaycastTemplate_Vision",
+    "eye_type": "EyeType_Humanoid",
+    "ignore_inside_foliage_distance": 8,
+    "inside_foliage_distance": 0.5
+  },
+  "12873251592757102566": {
+    "distance": 40,
+    "peripheral_distance": 1,
+    "back_distance": 1,
+    "angle_horizontal": 20,
+    "angle_vertical": 20,
+    "sight_node": 1788163852,
     "use_sight_node_for_direction": 0,
     "vision_raycast_template": "RaycastTemplate_Vision",
     "eye_type": "EyeType_Humanoid",
@@ -818,19 +831,6 @@
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
-  "7655267415106750589": {
-    "distance": 40,
-    "peripheral_distance": 1,
-    "back_distance": 1,
-    "angle_horizontal": 20,
-    "angle_vertical": 20,
-    "sight_node": 938412064,
-    "use_sight_node_for_direction": 0,
-    "vision_raycast_template": "RaycastTemplate_Vision",
-    "eye_type": "EyeType_Humanoid",
-    "ignore_inside_foliage_distance": 8,
-    "inside_foliage_distance": 0.5
-  },
   "18198461672611034237": {
     "distance": 50,
     "peripheral_distance": 1,
@@ -910,7 +910,7 @@
     "inside_foliage_distance": 0.5
   },
   "7196537832909981064": {
-    "distance": 40,
+    "distance": 60,
     "peripheral_distance": 1,
     "back_distance": 1,
     "angle_horizontal": 20,
@@ -1026,19 +1026,6 @@
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
-  "9549082741251590168": {
-    "distance": 40,
-    "peripheral_distance": 1,
-    "back_distance": 1,
-    "angle_horizontal": 20,
-    "angle_vertical": 20,
-    "sight_node": 938412064,
-    "use_sight_node_for_direction": 0,
-    "vision_raycast_template": "RaycastTemplate_Vision",
-    "eye_type": "EyeType_Humanoid",
-    "ignore_inside_foliage_distance": 8,
-    "inside_foliage_distance": 0.5
-  },
   "17756861745706792858": {
     "distance": 50,
     "peripheral_distance": 1,
@@ -1047,19 +1034,6 @@
     "angle_vertical": 20,
     "sight_node": 1073000524,
     "use_sight_node_for_direction": 1,
-    "vision_raycast_template": "RaycastTemplate_Vision",
-    "eye_type": "EyeType_Humanoid",
-    "ignore_inside_foliage_distance": 8,
-    "inside_foliage_distance": 0.5
-  },
-  "16653674489725268507": {
-    "distance": 40,
-    "peripheral_distance": 1,
-    "back_distance": 1,
-    "angle_horizontal": 20,
-    "angle_vertical": 20,
-    "sight_node": 938412064,
-    "use_sight_node_for_direction": 0,
     "vision_raycast_template": "RaycastTemplate_Vision",
     "eye_type": "EyeType_Humanoid",
     "ignore_inside_foliage_distance": 8,
@@ -1176,6 +1150,19 @@
     "angle_horizontal": 20,
     "angle_vertical": 20,
     "sight_node": 1073000524,
+    "use_sight_node_for_direction": 1,
+    "vision_raycast_template": "RaycastTemplate_Vision",
+    "eye_type": "EyeType_Humanoid",
+    "ignore_inside_foliage_distance": 8,
+    "inside_foliage_distance": 0.5
+  },
+  "10409770290790592053": {
+    "distance": 55,
+    "peripheral_distance": 1,
+    "back_distance": 1,
+    "angle_horizontal": 20,
+    "angle_vertical": 20,
+    "sight_node": 493843884,
     "use_sight_node_for_direction": 1,
     "vision_raycast_template": "RaycastTemplate_Vision",
     "eye_type": "EyeType_Humanoid",
@@ -1299,6 +1286,19 @@
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
+  "7435299642389799754": {
+    "distance": 40,
+    "peripheral_distance": 1,
+    "back_distance": 1,
+    "angle_horizontal": 20,
+    "angle_vertical": 20,
+    "sight_node": 3789292000,
+    "use_sight_node_for_direction": 0,
+    "vision_raycast_template": "RaycastTemplate_Vision",
+    "eye_type": "EyeType_Humanoid",
+    "ignore_inside_foliage_distance": 8,
+    "inside_foliage_distance": 0.5
+  },
   "6699176282901212749": {
     "distance": 40,
     "peripheral_distance": 1,
@@ -1397,6 +1397,19 @@
     "angle_horizontal": 20,
     "angle_vertical": 20,
     "sight_node": 2354409673,
+    "use_sight_node_for_direction": 0,
+    "vision_raycast_template": "RaycastTemplate_Vision",
+    "eye_type": "EyeType_Humanoid",
+    "ignore_inside_foliage_distance": 8,
+    "inside_foliage_distance": 0.5
+  },
+  "17842374123104475103": {
+    "distance": 40,
+    "peripheral_distance": 1,
+    "back_distance": 1,
+    "angle_horizontal": 20,
+    "angle_vertical": 20,
+    "sight_node": 1788163852,
     "use_sight_node_for_direction": 0,
     "vision_raycast_template": "RaycastTemplate_Vision",
     "eye_type": "EyeType_Humanoid",
@@ -1937,12 +1950,12 @@
     "inside_foliage_distance": 0.5
   },
   "6707034374626068020": {
-    "distance": 120,
+    "distance": 70,
     "peripheral_distance": 1,
     "back_distance": 1,
-    "angle_horizontal": 20,
-    "angle_vertical": 40,
-    "sight_node": 4238039248,
+    "angle_horizontal": 45,
+    "angle_vertical": 60,
+    "sight_node": 161490677,
     "use_sight_node_for_direction": 1,
     "vision_raycast_template": "RaycastTemplate_Vision",
     "eye_type": "EyeType_Cone",
@@ -2144,14 +2157,14 @@
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
-  "17238162226885792459": {
-    "distance": 200,
+  "6116178405309884875": {
+    "distance": 40,
     "peripheral_distance": 1,
-    "back_distance": -1,
+    "back_distance": 1,
     "angle_horizontal": 20,
     "angle_vertical": 20,
-    "sight_node": 3712572270,
-    "use_sight_node_for_direction": 0,
+    "sight_node": 1073000524,
+    "use_sight_node_for_direction": 1,
     "vision_raycast_template": "RaycastTemplate_Vision",
     "eye_type": "EyeType_Humanoid",
     "ignore_inside_foliage_distance": 8,
@@ -2170,13 +2183,13 @@
     "ignore_inside_foliage_distance": 8,
     "inside_foliage_distance": 0.5
   },
-  "8806287475843878476": {
-    "distance": 40,
+  "17238162226885792459": {
+    "distance": 200,
     "peripheral_distance": 1,
-    "back_distance": 1,
+    "back_distance": -1,
     "angle_horizontal": 20,
     "angle_vertical": 20,
-    "sight_node": 938412064,
+    "sight_node": 3712572270,
     "use_sight_node_for_direction": 0,
     "vision_raycast_template": "RaycastTemplate_Vision",
     "eye_type": "EyeType_Humanoid",
@@ -2294,19 +2307,6 @@
     "angle_horizontal": 180,
     "angle_vertical": 180,
     "sight_node": 517206036,
-    "use_sight_node_for_direction": 0,
-    "vision_raycast_template": "RaycastTemplate_Vision",
-    "eye_type": "EyeType_Humanoid",
-    "ignore_inside_foliage_distance": 8,
-    "inside_foliage_distance": 0.5
-  },
-  "5250245939082938461": {
-    "distance": 40,
-    "peripheral_distance": 1,
-    "back_distance": 1,
-    "angle_horizontal": 20,
-    "angle_vertical": 20,
-    "sight_node": 938412064,
     "use_sight_node_for_direction": 0,
     "vision_raycast_template": "RaycastTemplate_Vision",
     "eye_type": "EyeType_Humanoid",

@@ -1,14 +1,712 @@
 {
-  "13034425871421685749": {
-    "start_active": 1,
+  "1353568197974522460": {
+    "start_active": 0,
     "infos": [
       {
         "shape": "StatusEffectVolumeType_Sphere",
         "effect_settings": {
-          "type": "StatusEffectTemplateType_ThickFog",
+          "type": "StatusEffectTemplateType_Protected",
           "effects": [
             {
-              "type": "StatusEffectType_ThickFog",
+              "type": "StatusEffectType_Protected",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 41183413,
+        "inner_parameters": {
+          "x": 1.29999995,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 1.29999995,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "17083241647592728848": {
+    "start_active": 0,
+    "infos": [
+      {
+        "shape": "StatusEffectVolumeType_Sphere",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_Protected",
+          "effects": [
+            {
+              "type": "StatusEffectType_Protected",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 1053800011,
+        "inner_parameters": {
+          "x": 7.75,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 7.75,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "shape": "StatusEffectVolumeType_None",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_None",
+          "effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        "enemies_only": 0,
+        "actors": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "node": 0,
+        "inner_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "outer_parameters": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "16930826278911679558": {
+    "start_active": 0,
+    "infos": [
+      {
+        "shape": "StatusEffectVolumeType_Sphere",
+        "effect_settings": {
+          "type": "StatusEffectTemplateType_AcidStorm",
+          "effects": [
+            {
+              "type": "StatusEffectType_AcidStorm",
               "value_per_second": 1
             },
             {
@@ -1046,16 +1744,16 @@
       }
     ]
   },
-  "16930826278911679558": {
-    "start_active": 0,
+  "13034425871421685749": {
+    "start_active": 1,
     "infos": [
       {
         "shape": "StatusEffectVolumeType_Sphere",
         "effect_settings": {
-          "type": "StatusEffectTemplateType_AcidStorm",
+          "type": "StatusEffectTemplateType_ThickFog",
           "effects": [
             {
-              "type": "StatusEffectType_AcidStorm",
+              "type": "StatusEffectType_ThickFog",
               "value_per_second": 1
             },
             {

@@ -203,18 +203,6 @@
       0
     ]
   },
-  "11732808277634566119": {
-    "id": 3544248320,
-    "type": "LoadoutItemType_SidearmWeapon",
-    "dlc_pack_id": 0,
-    "equipment_tags": [
-      4044730534,
-      2170674031,
-      3746778495,
-      3746778495,
-      0
-    ]
-  },
   "9291384900638350902": {
     "id": 2121387072,
     "type": "LoadoutItemType_PrimaryWeapon",
@@ -354,7 +342,7 @@
     "equipment_tags": [
       3085090887,
       1325312028,
-      0,
+      4044730534,
       0,
       0
     ]
@@ -366,6 +354,18 @@
     "equipment_tags": [
       300892437,
       0,
+      0,
+      0,
+      0
+    ]
+  },
+  "5742363029208942635": {
+    "id": 4108040377,
+    "type": "LoadoutItemType_PrimaryWeapon",
+    "dlc_pack_id": 0,
+    "equipment_tags": [
+      3085090887,
+      2097258772,
       0,
       0,
       0
@@ -532,8 +532,8 @@
     "type": "LoadoutItemType_PrimaryWeapon",
     "dlc_pack_id": 0,
     "equipment_tags": [
+      3085090887,
       1325312028,
-      0,
       0,
       0,
       0
@@ -557,18 +557,6 @@
     "dlc_pack_id": 0,
     "equipment_tags": [
       2623638484,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  "10589153337282573789": {
-    "id": 1442420750,
-    "type": "LoadoutItemType_SupportWeapon",
-    "dlc_pack_id": 0,
-    "equipment_tags": [
-      0,
       0,
       0,
       0,
@@ -662,18 +650,6 @@
   "518600486455451088": {
     "id": 0,
     "type": "LoadoutItemType_Backpack",
-    "dlc_pack_id": 0,
-    "equipment_tags": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  "294590291936179579": {
-    "id": 1255689962,
-    "type": "LoadoutItemType_ThrowableWeapon",
     "dlc_pack_id": 0,
     "equipment_tags": [
       0,
@@ -839,6 +815,18 @@
       0
     ]
   },
+  "4580928717960105129": {
+    "id": 2340232366,
+    "type": "LoadoutItemType_SidearmWeapon",
+    "dlc_pack_id": 0,
+    "equipment_tags": [
+      3085090887,
+      2097258772,
+      4044730534,
+      0,
+      0
+    ]
+  },
   "12164217308285983839": {
     "id": 875551083,
     "type": "LoadoutItemType_SupportWeapon",
@@ -875,18 +863,6 @@
       0
     ]
   },
-  "6889076721164976792": {
-    "id": 1028872423,
-    "type": "LoadoutItemType_Backpack",
-    "dlc_pack_id": 0,
-    "equipment_tags": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
   "9675404802175538082": {
     "id": 1794436168,
     "type": "LoadoutItemType_PrimaryWeapon",
@@ -894,6 +870,18 @@
     "equipment_tags": [
       300892437,
       3746778495,
+      0,
+      0,
+      0
+    ]
+  },
+  "6889076721164976792": {
+    "id": 1028872423,
+    "type": "LoadoutItemType_Backpack",
+    "dlc_pack_id": 0,
+    "equipment_tags": [
+      0,
+      0,
       0,
       0,
       0
@@ -1103,6 +1091,18 @@
       0
     ]
   },
+  "15214248472323070124": {
+    "id": 1321109120,
+    "type": "LoadoutItemType_PrimaryWeapon",
+    "dlc_pack_id": 0,
+    "equipment_tags": [
+      300892437,
+      1501540430,
+      2783978577,
+      0,
+      0
+    ]
+  },
   "1030663026357860236": {
     "id": 14345846,
     "type": "LoadoutItemType_SupportWeapon",
@@ -1216,7 +1216,7 @@
     "type": "LoadoutItemType_PrimaryWeapon",
     "dlc_pack_id": 0,
     "equipment_tags": [
-      0,
+      3085090887,
       0,
       0,
       0,

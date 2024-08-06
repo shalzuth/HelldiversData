@@ -245,7 +245,7 @@
           "strength": 0.300000012,
           "duration": 4,
           "damage_info_type": "DamageInfoType_DPS_Acid_Splash",
-          "particle_effect_path": 18412546917119523980,
+          "particle_effect_path": 15732881546721521284,
           "script_event_start": 1034147453,
           "script_event_stop": 1033575834,
           "wwise_state": "WwiseAudioState_None",
@@ -271,7 +271,7 @@
           "strength": 1,
           "duration": 0.5,
           "damage_info_type": "DamageInfoType_DPS_Acid_Stream",
-          "particle_effect_path": 18412546917119523980,
+          "particle_effect_path": 15732881546721521284,
           "script_event_start": 1034147453,
           "script_event_stop": 1033575834,
           "wwise_state": "WwiseAudioState_None",
@@ -706,10 +706,6 @@
             {
               "type": "ModifiableStatType_IncomingDamageScale",
               "value": 0.899999976
-            },
-            {
-              "type": "ModifiableStatType_AimSwayModifier",
-              "value": 1.25
             }
           ]
         },
@@ -1341,24 +1337,24 @@
           "type": "StatusEffectType_AcidStorm",
           "debug_name": "Acid Storm",
           "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
-          "shading_environment": 0,
-          "shading_environment_fade_time": 0,
+          "shading_environment": 10861811315091487133,
+          "shading_environment_fade_time": 1.5,
           "strength": 1,
           "duration": 1,
-          "damage_info_type": "DamageInfoType_DPS_AcidStorm",
-          "particle_effect_path": 18412546917119523980,
+          "damage_info_type": "DamageInfoType_None",
+          "particle_effect_path": 0,
           "script_event_start": 0,
           "script_event_stop": 0,
           "wwise_state": "WwiseAudioState_None",
-          "audio_event_start": 3206757652,
-          "audio_event_stop": 1404037441,
+          "audio_event_start": 0,
+          "audio_event_stop": 0,
           "audio_event_enter": 0,
           "audio_event_exit": 0,
           "animation_event_start": 0,
           "animation_event_stop": 0,
-          "difficult_terrain_amount": 1,
+          "difficult_terrain_amount": 0,
           "unique_effect": 0,
-          "no_susceptibility_required": 1,
+          "no_susceptibility_required": 0,
           "audio_event_master_only": 0,
           "block_sprint": 0,
           "modified_stats_multipliers": []
@@ -1370,6 +1366,58 @@
           "shading_environment": 0,
           "shading_environment_fade_time": 0,
           "strength": 0.400000006,
+          "duration": 1,
+          "damage_info_type": "DamageInfoType_None",
+          "particle_effect_path": 0,
+          "script_event_start": 0,
+          "script_event_stop": 0,
+          "wwise_state": "WwiseAudioState_None",
+          "audio_event_start": 0,
+          "audio_event_stop": 0,
+          "audio_event_enter": 0,
+          "audio_event_exit": 0,
+          "animation_event_start": 0,
+          "animation_event_stop": 0,
+          "difficult_terrain_amount": 0,
+          "unique_effect": 0,
+          "no_susceptibility_required": 1,
+          "audio_event_master_only": 0,
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
+        },
+        {
+          "type": "StatusEffectType_Protected",
+          "debug_name": "Protected",
+          "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
+          "shading_environment": 0,
+          "shading_environment_fade_time": 0,
+          "strength": 1,
+          "duration": 1,
+          "damage_info_type": "DamageInfoType_None",
+          "particle_effect_path": 0,
+          "script_event_start": 0,
+          "script_event_stop": 0,
+          "wwise_state": "WwiseAudioState_None",
+          "audio_event_start": 0,
+          "audio_event_stop": 0,
+          "audio_event_enter": 0,
+          "audio_event_exit": 0,
+          "animation_event_start": 0,
+          "animation_event_stop": 0,
+          "difficult_terrain_amount": 0,
+          "unique_effect": 0,
+          "no_susceptibility_required": 1,
+          "audio_event_master_only": 0,
+          "block_sprint": 0,
+          "modified_stats_multipliers": []
+        },
+        {
+          "type": "StatusEffectType_DustDevil",
+          "debug_name": "Protected",
+          "shader_variable_preset": "StatusEffectShaderVariablePreset_None",
+          "shading_environment": 0,
+          "shading_environment_fade_time": 0,
+          "strength": 1,
           "duration": 1,
           "damage_info_type": "DamageInfoType_None",
           "particle_effect_path": 0,
@@ -1906,6 +1954,50 @@
           "effects": [
             {
               "type": "StatusEffectType_ThickFog",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        {
+          "type": "StatusEffectTemplateType_Protected",
+          "effects": [
+            {
+              "type": "StatusEffectType_Protected",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value_per_second": 1
+            }
+          ],
+          "needs_to_hit_valid_actor": 0
+        },
+        {
+          "type": "StatusEffectTemplateType_DustDevil",
+          "effects": [
+            {
+              "type": "StatusEffectType_DustDevil",
               "value_per_second": 1
             },
             {

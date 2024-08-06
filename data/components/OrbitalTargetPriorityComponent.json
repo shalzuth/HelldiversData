@@ -1,0 +1,3 @@
+{ "OrbitalTargetPriorityComponent" : {
+    "multiplier" : { "type": "float", "default": 1, "description": "A multiplier for orbital targeting scores." }
+}}

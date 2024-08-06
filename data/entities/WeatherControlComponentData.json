@@ -1,17 +1,4 @@
 {
-  "6196760958746040749": {
-    "previous_weather_out_time": 15,
-    "target_weather_in_time": 15,
-    "target_weather_active_hold_time": 30,
-    "target_weather_out_time": 15,
-    "weather_catch_up_time": 30,
-    "gameplay_effect_activation_point": 0.600000024,
-    "remove_entity_on_completion": 1,
-    "start_active": 1,
-    "weather_name": 4002753097,
-    "on_activate_script_event": 0,
-    "on_deactivate_script_event": 0
-  },
   "15543627206611261570": {
     "previous_weather_out_time": 30,
     "target_weather_in_time": 30,
@@ -38,13 +25,39 @@
     "on_activate_script_event": 0,
     "on_deactivate_script_event": 0
   },
+  "780403294432782447": {
+    "previous_weather_out_time": 25,
+    "target_weather_in_time": 35,
+    "target_weather_active_hold_time": 150,
+    "target_weather_out_time": 60,
+    "weather_catch_up_time": 30,
+    "gameplay_effect_activation_point": 0.600000024,
+    "remove_entity_on_completion": 1,
+    "start_active": 1,
+    "weather_name": 1310870936,
+    "on_activate_script_event": 0,
+    "on_deactivate_script_event": 0
+  },
+  "6196760958746040749": {
+    "previous_weather_out_time": 15,
+    "target_weather_in_time": 15,
+    "target_weather_active_hold_time": 30,
+    "target_weather_out_time": 15,
+    "weather_catch_up_time": 30,
+    "gameplay_effect_activation_point": 0.600000024,
+    "remove_entity_on_completion": 1,
+    "start_active": 1,
+    "weather_name": 4002753097,
+    "on_activate_script_event": 0,
+    "on_deactivate_script_event": 0
+  },
   "16930826278911679558": {
     "previous_weather_out_time": 30,
     "target_weather_in_time": 30,
-    "target_weather_active_hold_time": 95,
-    "target_weather_out_time": 15,
+    "target_weather_active_hold_time": 90,
+    "target_weather_out_time": 30,
     "weather_catch_up_time": 45,
-    "gameplay_effect_activation_point": 0.5,
+    "gameplay_effect_activation_point": 0.600000024,
     "remove_entity_on_completion": 1,
     "start_active": 1,
     "weather_name": 2072796801,

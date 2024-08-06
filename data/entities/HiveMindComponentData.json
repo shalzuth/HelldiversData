@@ -1720,10 +1720,10 @@
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.850000024,
-            "y": 1.29999995
+            "x": 0.800000012,
+            "y": 1.20000005
           },
-          "falloff_distance": 125
+          "falloff_distance": 100
         }
       },
       "encounter_points_modifier": {
@@ -2551,10 +2551,10 @@
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.850000024,
-            "y": 1.29999995
+            "x": 0.800000012,
+            "y": 1.20000005
           },
-          "falloff_distance": 125
+          "falloff_distance": 100
         }
       },
       "encounter_points_modifier": {
@@ -2828,10 +2828,10 @@
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.850000024,
-            "y": 1.29999995
+            "x": 0.800000012,
+            "y": 1.20000005
           },
-          "falloff_distance": 125
+          "falloff_distance": 100
         }
       },
       "encounter_points_modifier": {
@@ -3382,10 +3382,10 @@
         },
         "patrol_spawn_cooldown_rate_modifier": {
           "min_max": {
-            "x": 0.850000024,
-            "y": 1.29999995
+            "x": 0.800000012,
+            "y": 1.20000005
           },
-          "falloff_distance": 125
+          "falloff_distance": 100
         }
       },
       "encounter_points_modifier": {

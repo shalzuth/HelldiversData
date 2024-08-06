@@ -1,0 +1,9 @@
+{ "SpawnLinkComponent" : {
+    "is_spawner" : { "type": "byte", "description": "[bool]Is this entity spawning other entities with spawn links?." },
+    "max_product_count" : { "type": "uint", "description": "If is spawner, how many entities can be spawned?." },
+    "product_notify_on_spawned" : { "type": "uint", "description": "[string]Notify to send to linked spawner when this entity spawns" },
+    "product_notify_on_dead" : { "type": "uint", "description": "[string]Notify to send to linked spawner when this entity dies" },
+    "product_notify_on_removed" : { "type": "uint", "description": "[string]Notify to send to linked spawner when this entity is removed" },
+    "spawner_notify_on_dead" : { "type": "uint", "description": "[string]Notify to send to linked products when this entity dies" },
+    "spawner_notify_on_removed" : { "type": "uint", "description": "[string]Notify to send to linked products when this entity is removed" }
+}}

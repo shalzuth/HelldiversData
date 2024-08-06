@@ -697,8 +697,8 @@
           "day_weather_settings": 4246556173604407926,
           "night_weather_settings": 7289502601709040156,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 100,
-          "fade_out_time": 50,
+          "time_fully_active": 0,
+          "fade_out_time": 0,
           "is_override_weather": 0
         },
         {
@@ -861,12 +861,12 @@
           "is_override_weather": 0
         },
         {
-          "name": 3737925420,
+          "name": 1310870936,
           "day_weather_settings": 16620360510503920631,
           "night_weather_settings": 13616619866012830711,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 200,
-          "fade_out_time": 100,
+          "time_fully_active": 10,
+          "fade_out_time": 10,
           "is_override_weather": 1
         },
         {
@@ -1239,15 +1239,33 @@
   },
   {
     "ScenarioSettings": {
-      "id": 2329673779231097775,
+      "id": 5558962102901077401,
       "settings": [
         {
-          "name": 3440516939,
-          "day_weather_settings": 17664413163876490328,
+          "name": 2761109686,
+          "day_weather_settings": 12642494504806630211,
           "night_weather_settings": 0,
           "weather_settings_from_scenario": 0,
-          "time_fully_active": 700,
+          "time_fully_active": 0,
+          "fade_out_time": 0,
+          "is_override_weather": 0
+        },
+        {
+          "name": 60792642,
+          "day_weather_settings": 9552581613000382781,
+          "night_weather_settings": 6314060208619732991,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 760,
           "fade_out_time": 100,
+          "is_override_weather": 0
+        },
+        {
+          "name": 2057118515,
+          "day_weather_settings": 11495601772246916033,
+          "night_weather_settings": 678380197555303614,
+          "weather_settings_from_scenario": 0,
+          "time_fully_active": 420,
+          "fade_out_time": 60,
           "is_override_weather": 0
         }
       ]

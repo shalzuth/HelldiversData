@@ -11,6 +11,7 @@
     "projectile_type" : { "type": "ProjectileType", "default": "ProjectileType_None", "description": "If not set to None, this weapon will use projectiles." },
     "damage_info_type" : { "type": "DamageInfoType", "default": "DamageInfoType_None", "description": "If not set to None (and projectiles are None), this will use collision events." },
     "effect_type" : { "type": "HitEffectDamageType", "default": "HitEffectDamageType_None", "description": "When using collision events, this dictates what kind of damage effect to play on hits." },
+    "particle_collision_trigger_mines" : { "type": "byte", "description": "[bool]Set to true if particle collision should trigger mines." },
     "last_drop_owner_vo_event" : { "type": "uint", "default": 2645484469, "description": "[string]VO event to play on the owner of the wepaon when the last bullet has been fired." },
     "dry_fire_audio_event" : { "type": "uint", "description": "[string]A sound event to play when the ammo is 0 and the player is trying to shoot." }
 }}

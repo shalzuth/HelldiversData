@@ -3,5 +3,6 @@
     "exit_animation_event" : { "type": "uint", "description": "[string]The animation event to play when leaving this range." },
     "min_speed" : { "type": "float", "default": 1, "description": "Min speed required to enter this range." },
     "focused" : { "type": "byte", "description": "[bool]Focused locomotion means that the character can focus in on a position while moving towards another position, meaning it can strafe." },
-    "linear_rotation_override_frames" : { "type": "float", "default": -1, "description": "The duration in frames that we linearly blend rotation so that we can counter animate to cover up the unit rotation in speed range transitions. A value of -1 means no rotation override, 0 is instant and any number above that is the rotation duration in frames." }
+    "linear_rotation_override_frames" : { "type": "float", "default": -1, "description": "The duration in frames that we linearly blend rotation so that we can counter animate to cover up the unit rotation in speed range transitions. A value of -1 means no rotation override, 0 is instant and any number above that is the rotation duration in frames." },
+    "cancel_turning" : { "type": "byte", "description": "[bool]If Enabled, speed ranges will cancel turns that are in progress." }
 }}

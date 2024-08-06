@@ -5,5 +5,7 @@
     "half_width" : { "type": "float", "default": 1, "description": "Distance from which an enemy can attack you from the side." },
     "half_forward_size" : { "type": "float", "default": 1, "description": "Distance from which an enemy can attack you from the front or back." },
     "priority" : { "type": "float", "default": 1, "description": "Used when selecting target" },
+    "spawn_influence_radius" : { "type": "float", "default": 3, "description": "Radius of influence of this entity used when spawning other entities nearby. Prevents spawning unit on top of each other" },
+    "spawn_influence" : { "type": "float", "default": 1, "description": "How strong the influence of this entity is around the influence radius when spawning other entities nearby. Prevents spawning unit on top of each other" },
     "complex_targeting_nodes" : { "type": "array", "subtype": "uint", "description": "[string]Multiple nodes specified for larger targets, such as vehicles" }
 }}

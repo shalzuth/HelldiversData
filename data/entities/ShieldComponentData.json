@@ -28,7 +28,8 @@
     "hit_effect_receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
     "block_melee_type": "ShieldBlockMeleeType_ProtectAll",
     "inside_shield_opacity": 0,
-    "shield_color_type": "ShieldColorFaction_None"
+    "shield_color_type": "ShieldColorFaction_None",
+    "linked_to_status_effect_volume": 1
   },
   "17083241647592728848": {
     "radius": 8,
@@ -59,6 +60,7 @@
     "hit_effect_receiver_type": "HitEffectReceiverType_EnergyShield_SE",
     "block_melee_type": "ShieldBlockMeleeType_None",
     "inside_shield_opacity": 0.649999976,
-    "shield_color_type": "ShieldColorFaction_Helldivers_Orange"
+    "shield_color_type": "ShieldColorFaction_Helldivers_Orange",
+    "linked_to_status_effect_volume": 1
   }
 }

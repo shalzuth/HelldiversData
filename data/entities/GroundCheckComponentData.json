@@ -111,20 +111,6 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "9549082741251590168": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "7655267415106750589": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
   "12614471755071195045": {
     "distance_up": 1,
     "distance_down": 0.200000003,
@@ -223,13 +209,6 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "5250245939082938461": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
   "10861016308832836833": {
     "distance_up": 1,
     "distance_down": 0.200000003,
@@ -301,6 +280,13 @@
     "remove_entity": 0
   },
   "6676641717166653626": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "6116178405309884875": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
@@ -405,6 +391,13 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 1
   },
+  "10409770290790592053": {
+    "distance_up": 1,
+    "distance_down": 0.400000006,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
   "15239773297738004195": {
     "distance_up": 2,
     "distance_down": 5,
@@ -461,6 +454,13 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 1
   },
+  "17842374123104475103": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
   "15621795958426619957": {
     "distance_up": 1,
     "distance_down": 0.200000003,
@@ -472,13 +472,6 @@
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 1,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "16653674489725268507": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
@@ -574,13 +567,6 @@
     "remove_entity": 0
   },
   "1903375976943875074": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
-  "11457796999526261852": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
@@ -755,13 +741,6 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "3508555955240290181": {
-    "distance_up": 1,
-    "distance_down": 0.200000003,
-    "kill_material_check": 0,
-    "raycast_template": "RaycastTemplate_GroundAll",
-    "remove_entity": 0
-  },
   "4459198455771523223": {
     "distance_up": 1,
     "distance_down": 0.200000003,
@@ -808,6 +787,13 @@
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "15922730753540746811": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
@@ -867,6 +853,13 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
+  "12873251592757102566": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
   "5903841343181520462": {
     "distance_up": 1,
     "distance_down": 0.200000003,
@@ -892,6 +885,13 @@
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,
+    "raycast_template": "RaycastTemplate_GroundAll",
+    "remove_entity": 0
+  },
+  "7435299642389799754": {
+    "distance_up": 1,
+    "distance_down": 0.200000003,
+    "kill_material_check": 1,
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
@@ -944,7 +944,7 @@
     "raycast_template": "RaycastTemplate_GroundAll",
     "remove_entity": 0
   },
-  "8806287475843878476": {
+  "14278331370456096813": {
     "distance_up": 1,
     "distance_down": 0.200000003,
     "kill_material_check": 0,

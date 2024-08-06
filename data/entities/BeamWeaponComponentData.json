@@ -36,43 +36,6 @@
     "on_fire_started_wielder_anim_event": 2631304082,
     "on_fire_stopped_wielder_anim_event": 489713550
   },
-  "2877271129141764950": {
-    "beam_type": "BeamType_Medium",
-    "beam_prisms": {
-      "light_beam_type": "BeamType_None",
-      "light_heat_generation_mul": 1,
-      "heavy_beam_type": "BeamType_None",
-      "heavy_heat_generation_mul": 1
-    },
-    "scope_responsiveness": 10,
-    "scope_crosshair": {
-      "x": 0,
-      "y": 0
-    },
-    "focal_distances": {
-      "x": 50,
-      "y": 100,
-      "z": 200
-    },
-    "firenode_pose_limit": 180,
-    "use_midi_event_system": 0,
-    "midi_timing_randomisation": {
-      "x": 0,
-      "y": 0
-    },
-    "midi_stop_delay": 0,
-    "fire_loop_start_audio_event": 3708388414,
-    "fire_loop_stop_audio_event": 409737216,
-    "fire_single_audio_event": 0,
-    "fire_all_barrel_audio_event": 0,
-    "muzzle_flash": 11385957211273278469,
-    "noise_timer": 0.25,
-    "fire_source_node": 2601604451,
-    "dry_fire_audio_event": 1972314068,
-    "dry_fire_repeat_audio_event": 619824322,
-    "on_fire_started_wielder_anim_event": 1694094985,
-    "on_fire_stopped_wielder_anim_event": 1786122532
-  },
   "3641453212932526628": {
     "beam_type": "BeamType_TripodEye",
     "beam_prisms": {
@@ -110,8 +73,8 @@
     "on_fire_started_wielder_anim_event": 0,
     "on_fire_stopped_wielder_anim_event": 0
   },
-  "614861366208420748": {
-    "beam_type": "BeamType_BotTorch",
+  "2877271129141764950": {
+    "beam_type": "BeamType_Medium",
     "beam_prisms": {
       "light_beam_type": "BeamType_None",
       "light_heat_generation_mul": 1,
@@ -128,24 +91,24 @@
       "y": 100,
       "z": 200
     },
-    "firenode_pose_limit": 0,
+    "firenode_pose_limit": 180,
     "use_midi_event_system": 0,
     "midi_timing_randomisation": {
       "x": 0,
       "y": 0
     },
     "midi_stop_delay": 0,
-    "fire_loop_start_audio_event": 1337735903,
-    "fire_loop_stop_audio_event": 828944125,
+    "fire_loop_start_audio_event": 3708388414,
+    "fire_loop_stop_audio_event": 409737216,
     "fire_single_audio_event": 0,
     "fire_all_barrel_audio_event": 0,
-    "muzzle_flash": 2610715712599480522,
+    "muzzle_flash": 11385957211273278469,
     "noise_timer": 0.25,
     "fire_source_node": 2601604451,
-    "dry_fire_audio_event": 0,
-    "dry_fire_repeat_audio_event": 0,
-    "on_fire_started_wielder_anim_event": 0,
-    "on_fire_stopped_wielder_anim_event": 0
+    "dry_fire_audio_event": 1972314068,
+    "dry_fire_repeat_audio_event": 619824322,
+    "on_fire_started_wielder_anim_event": 1694094985,
+    "on_fire_stopped_wielder_anim_event": 1786122532
   },
   "8864800879179811976": {
     "beam_type": "BeamType_Small",
@@ -258,8 +221,8 @@
     "on_fire_started_wielder_anim_event": 0,
     "on_fire_stopped_wielder_anim_event": 0
   },
-  "11732808277634566119": {
-    "beam_type": "BeamType_Small",
+  "614861366208420748": {
+    "beam_type": "BeamType_BotTorch",
     "beam_prisms": {
       "light_beam_type": "BeamType_None",
       "light_heat_generation_mul": 1,
@@ -276,24 +239,24 @@
       "y": 100,
       "z": 200
     },
-    "firenode_pose_limit": 180,
+    "firenode_pose_limit": 0,
     "use_midi_event_system": 0,
     "midi_timing_randomisation": {
       "x": 0,
       "y": 0
     },
     "midi_stop_delay": 0,
-    "fire_loop_start_audio_event": 1573814625,
-    "fire_loop_stop_audio_event": 3935454263,
+    "fire_loop_start_audio_event": 1337735903,
+    "fire_loop_stop_audio_event": 828944125,
     "fire_single_audio_event": 0,
     "fire_all_barrel_audio_event": 0,
-    "muzzle_flash": 2200167325228221039,
+    "muzzle_flash": 2610715712599480522,
     "noise_timer": 0.25,
     "fire_source_node": 2601604451,
-    "dry_fire_audio_event": 779413565,
-    "dry_fire_repeat_audio_event": 4027796040,
-    "on_fire_started_wielder_anim_event": 182456922,
-    "on_fire_stopped_wielder_anim_event": 2458244727
+    "dry_fire_audio_event": 0,
+    "dry_fire_repeat_audio_event": 0,
+    "on_fire_started_wielder_anim_event": 0,
+    "on_fire_stopped_wielder_anim_event": 0
   },
   "1837707428311856638": {
     "beam_type": "BeamType_Large",

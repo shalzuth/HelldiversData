@@ -1,31 +1,7 @@
 {
-  "8510235247971412780": {
-    "points_override": 0,
-    "points_multiplier": 1.5,
-    "race": "RaceType_Cyborg",
-    "npc_type": "NpcType_None"
-  },
-  "12499178662335403806": {
-    "points_override": 0,
-    "points_multiplier": 0.5,
-    "race": "RaceType_Bugs",
-    "npc_type": "NpcType_None"
-  },
-  "12603428453016072583": {
-    "points_override": 120,
-    "points_multiplier": 1,
-    "race": "RaceType_SuperEarth",
-    "npc_type": "NpcType_Civilian"
-  },
   "16603656238085595960": {
     "points_override": 0,
     "points_multiplier": 0.75,
-    "race": "RaceType_Illuminate",
-    "npc_type": "NpcType_None"
-  },
-  "5606642810579565433": {
-    "points_override": 0,
-    "points_multiplier": 1,
     "race": "RaceType_Illuminate",
     "npc_type": "NpcType_None"
   },
@@ -35,11 +11,29 @@
     "race": "RaceType_Cyborg",
     "npc_type": "NpcType_None"
   },
-  "13256504665046020310": {
-    "points_override": 120,
-    "points_multiplier": 1,
-    "race": "RaceType_SuperEarth",
-    "npc_type": "NpcType_Rebel"
+  "12499178662335403806": {
+    "points_override": 0,
+    "points_multiplier": 0.5,
+    "race": "RaceType_Bugs",
+    "npc_type": "NpcType_None"
+  },
+  "14357373657801768047": {
+    "points_override": 0,
+    "points_multiplier": 2,
+    "race": "RaceType_Cyborg",
+    "npc_type": "NpcType_None"
+  },
+  "7516392615311532008": {
+    "points_override": 0,
+    "points_multiplier": 2,
+    "race": "RaceType_Cyborg",
+    "npc_type": "NpcType_None"
+  },
+  "17701660320712954733": {
+    "points_override": 0,
+    "points_multiplier": 1.5,
+    "race": "RaceType_Illuminate",
+    "npc_type": "NpcType_None"
   },
   "15077078732328769815": {
     "points_override": 0,
@@ -47,9 +41,15 @@
     "race": "RaceType_Cyborg",
     "npc_type": "NpcType_None"
   },
-  "2826271079403656274": {
+  "13342336668382427736": {
     "points_override": 0,
-    "points_multiplier": 1.5,
+    "points_multiplier": 0.5,
+    "race": "RaceType_Illuminate",
+    "npc_type": "NpcType_None"
+  },
+  "14272783677463290298": {
+    "points_override": 0,
+    "points_multiplier": 0.75,
     "race": "RaceType_Bugs",
     "npc_type": "NpcType_None"
   },
@@ -59,9 +59,27 @@
     "race": "RaceType_Cyborg",
     "npc_type": "NpcType_None"
   },
-  "14969368728000495631": {
+  "14991717541593849540": {
     "points_override": 0,
+    "points_multiplier": 2,
+    "race": "RaceType_Bugs",
+    "npc_type": "NpcType_None"
+  },
+  "8510235247971412780": {
+    "points_override": 0,
+    "points_multiplier": 1.5,
+    "race": "RaceType_Cyborg",
+    "npc_type": "NpcType_None"
+  },
+  "12603428453016072583": {
+    "points_override": 120,
     "points_multiplier": 1,
+    "race": "RaceType_SuperEarth",
+    "npc_type": "NpcType_Civilian"
+  },
+  "18263821409445622784": {
+    "points_override": 0,
+    "points_multiplier": 2,
     "race": "RaceType_Bugs",
     "npc_type": "NpcType_None"
   },
@@ -71,9 +89,21 @@
     "race": "RaceType_Illuminate",
     "npc_type": "NpcType_None"
   },
-  "13342336668382427736": {
+  "13256504665046020310": {
+    "points_override": 120,
+    "points_multiplier": 1,
+    "race": "RaceType_SuperEarth",
+    "npc_type": "NpcType_Rebel"
+  },
+  "14969368728000495631": {
     "points_override": 0,
-    "points_multiplier": 0.5,
+    "points_multiplier": 1,
+    "race": "RaceType_Bugs",
+    "npc_type": "NpcType_None"
+  },
+  "5606642810579565433": {
+    "points_override": 0,
+    "points_multiplier": 1,
     "race": "RaceType_Illuminate",
     "npc_type": "NpcType_None"
   },
@@ -83,27 +113,9 @@
     "race": "RaceType_SuperEarth",
     "npc_type": "NpcType_Seaf"
   },
-  "17701660320712954733": {
+  "2826271079403656274": {
     "points_override": 0,
     "points_multiplier": 1.5,
-    "race": "RaceType_Illuminate",
-    "npc_type": "NpcType_None"
-  },
-  "7516392615311532008": {
-    "points_override": 0,
-    "points_multiplier": 2,
-    "race": "RaceType_Cyborg",
-    "npc_type": "NpcType_None"
-  },
-  "18263821409445622784": {
-    "points_override": 0,
-    "points_multiplier": 2,
-    "race": "RaceType_Bugs",
-    "npc_type": "NpcType_None"
-  },
-  "14272783677463290298": {
-    "points_override": 0,
-    "points_multiplier": 0.75,
     "race": "RaceType_Bugs",
     "npc_type": "NpcType_None"
   }

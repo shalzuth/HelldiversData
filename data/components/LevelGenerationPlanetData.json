@@ -30,5 +30,6 @@
     "resource_override_id" : { "type": "uint" },
     "water_entity" : { "type": "ulong" },
     "shading_environment_entity" : { "type": "ulong" },
+    "aurora_borealis_entity" : { "type": "ulong" },
     "package_path" : { "type": "ulong" }
 }}

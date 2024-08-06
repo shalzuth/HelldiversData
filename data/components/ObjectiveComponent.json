@@ -5,7 +5,7 @@
     "stratagem_glow_after_first_use" : { "type": "byte", "description": "[bool]If set, the stratagem will glow anytime it is available, otherwise that will be disabled after the first use." },
     "control_stratagem_uses" : { "type": "byte", "description": "[bool]If set, this objective will control the stratagem uses for the stratagem." },
     "area_of_interest_min_radius" : { "type": "float", "default": 15, "description": "If the area of interest is shown, specify the minimum radius of the circle to be shown using a larger radius means that the players will potentially have to search a wider area." },
-    "hidden_search_radius" : { "type": "float", "default": 150, "description": "Radius the objective is hidden under on the map if hidden" },
+    "hidden_search_radius" : { "type": "float", "default": 125, "description": "Radius the objective is hidden under on the map if hidden" },
     "hide_on_insertion_map" : { "type": "byte", "description": "[bool]Should the objective icon be hidden on the insertion (drop selection) map?" },
     "stages" : { "type": "array", "subtype": "ObjectiveStage", "description": "List of stages." },
     "errors" : { "type": "array", "subtype": "ObjectiveError", "description": "List of errors." },

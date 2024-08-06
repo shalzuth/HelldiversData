@@ -1,48 +1,60 @@
 {
-  "17875655752828743943": {
-    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKER",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "6927066342767148424": {
-    "wound_lut": "WOUND_LUT_BUG_BOOMER",
-    "min_radius": 0.400000006,
-    "max_radius": 2,
-    "max_damage": 1000
-  },
-  "7196537832909981064": {
-    "wound_lut": "WOUND_LUT_BOT_TANK",
-    "min_radius": 0.300000012,
-    "max_radius": 2.20000005,
-    "max_damage": 1000
-  },
-  "11135777548304851724": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "3583430772214091149": {
-    "wound_lut": "WOUND_LUT_BOT_TANK",
-    "min_radius": 0.300000012,
-    "max_radius": 2.20000005,
-    "max_damage": 1000
-  },
-  "2190700087544369166": {
-    "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 1000
-  },
   "10371974906799355538": {
     "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
     "min_radius": 0.300000012,
     "max_radius": 1.5,
     "max_damage": 500
   },
-  "11254808043522658834": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
+  "767968035755763": {
+    "wound_lut": "WOUND_LUT_BOT_CONSCRIPTTIER2",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "12566139334605762628": {
+    "wound_lut": "WOUND_LUT_BOT_SOLDIER",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
+    "max_damage": 1000
+  },
+  "14748816422034837943": {
+    "wound_lut": "WOUND_LUT_BUG_BOOMER",
+    "min_radius": 0.400000006,
+    "max_radius": 2,
+    "max_damage": 1000
+  },
+  "17875655752828743943": {
+    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKER",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "17756861745706792858": {
+    "wound_lut": "WOUND_LUT_BOT_SOLDIERROCKET",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
+    "max_damage": 1000
+  },
+  "11398074038506794973": {
+    "wound_lut": "WOUND_LUT_BUG_STRIDER",
+    "min_radius": 1.39999998,
+    "max_radius": 3.5,
+    "max_damage": 1000
+  },
+  "8261922003134896957": {
+    "wound_lut": "WOUND_LUT_BUG_SCAVENGER_SPIT",
+    "min_radius": 0.300000012,
+    "max_radius": 1.5,
+    "max_damage": 500
+  },
+  "15261976812381254942": {
+    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKERHALFCOVER",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "7258218216136199873": {
+    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
     "min_radius": 0.100000001,
     "max_radius": 0.5,
     "max_damage": 1000
@@ -53,8 +65,26 @@
     "max_radius": 3,
     "max_damage": 400
   },
-  "3031503431338798614": {
+  "4618830856548850870": {
     "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "10355039786464021751": {
+    "wound_lut": "WOUND_LUT_BOT_TANKTURRETCANNON",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "12300518439027380185": {
+    "wound_lut": "WOUND_LUT_BUG_SCAVENGER_PRED",
+    "min_radius": 0.300000012,
+    "max_radius": 1.5,
+    "max_damage": 500
+  },
+  "7102889756698093945": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
     "min_radius": 0.100000001,
     "max_radius": 0.5,
     "max_damage": 1000
@@ -65,40 +95,40 @@
     "max_radius": 3.5,
     "max_damage": 1000
   },
-  "17756861745706792858": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERROCKET",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
+  "5663271064929335883": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
+    "min_radius": 0.800000012,
+    "max_radius": 3,
+    "max_damage": 400
   },
-  "14731312854664874139": {
-    "wound_lut": "WOUND_LUT_BUG_BOOMER",
-    "min_radius": 0.400000006,
-    "max_radius": 2,
-    "max_damage": 1000
+  "17672347716099392046": {
+    "wound_lut": "WOUND_LUT_BUG_STALKER",
+    "min_radius": 0.600000024,
+    "max_radius": 2.5,
+    "max_damage": 500
   },
-  "14286719829563111324": {
-    "wound_lut": "WOUND_LUT_BOT_TANK",
-    "min_radius": 0.300000012,
-    "max_radius": 2.20000005,
-    "max_damage": 1000
-  },
-  "12008441084326179745": {
-    "wound_lut": "WOUND_LUT_BOT_BERSERKER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "15382378127438146468": {
-    "wound_lut": "WOUND_LUT_BOT_BERSERKER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "15358116161893188517": {
+  "17842374123104475103": {
     "wound_lut": "WOUND_LUT_BUG_WARRIOR_BIG",
     "min_radius": 0.800000012,
     "max_radius": 3,
+    "max_damage": 400
+  },
+  "10861016308832836833": {
+    "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
+    "min_radius": 0.300000012,
+    "max_radius": 1.5,
+    "max_damage": 1000
+  },
+  "11254808043522658834": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "11669807341511884260": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR_TIER2",
+    "min_radius": 0.300000012,
+    "max_radius": 1.5,
     "max_damage": 400
   },
   "13723659040410201638": {
@@ -107,8 +137,32 @@
     "max_radius": 0.600000024,
     "max_damage": 1000
   },
-  "5289274991058480552": {
-    "wound_lut": "WOUND_LUT_BOT_TANKTURRETAUTOCANNON",
+  "14278331370456096813": {
+    "wound_lut": "WOUND_LUT_BOT_SOLDIER",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
+    "max_damage": 1000
+  },
+  "15659331049401757247": {
+    "wound_lut": "WOUND_LUT_BUG_HUNTER",
+    "min_radius": 0.800000012,
+    "max_radius": 2.5999999,
+    "max_damage": 500
+  },
+  "1909471264691872944": {
+    "wound_lut": "WOUND_LUT_BUG_CHARGER",
+    "min_radius": 0.800000012,
+    "max_radius": 3.5,
+    "max_damage": 1000
+  },
+  "12008441084326179745": {
+    "wound_lut": "WOUND_LUT_BOT_BERSERKER",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
+    "max_damage": 1000
+  },
+  "3031503431338798614": {
+    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
     "min_radius": 0.100000001,
     "max_radius": 0.5,
     "max_damage": 1000
@@ -119,40 +173,46 @@
     "max_radius": 0.5,
     "max_damage": 1000
   },
-  "16451308563134815530": {
-    "wound_lut": "WOUND_LUT_BOT_LIEUTENANTASSAULT",
-    "min_radius": 0.100000001,
-    "max_radius": 1.5,
-    "max_damage": 1000
-  },
   "17970022205926771882": {
     "wound_lut": "WOUND_LUT_BOT_SOLDIERSHIELD",
     "min_radius": 0.100000001,
     "max_radius": 0.5,
     "max_damage": 1000
   },
-  "17672347716099392046": {
-    "wound_lut": "WOUND_LUT_BUG_STALKER",
-    "min_radius": 0.600000024,
-    "max_radius": 2.5,
-    "max_damage": 500
-  },
-  "1909471264691872944": {
-    "wound_lut": "WOUND_LUT_BUG_CHARGER",
-    "min_radius": 0.800000012,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
-  "4618830856548850870": {
-    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
+  "7435299642389799754": {
+    "wound_lut": "WOUND_LUT_BUG_IMPALER_TENTACLE",
     "min_radius": 0.100000001,
     "max_radius": 0.5,
     "max_damage": 1000
   },
-  "14748816422034837943": {
-    "wound_lut": "WOUND_LUT_BUG_BOOMER",
-    "min_radius": 0.400000006,
-    "max_radius": 2,
+  "10514734670540770044": {
+    "wound_lut": "WOUND_LUT_BOT_SOLDIERMG",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
+    "max_damage": 1000
+  },
+  "10828817397904429935": {
+    "wound_lut": "WOUND_LUT_BOT_SOLDIERROCKET",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
+    "max_damage": 1000
+  },
+  "14327550505011799649": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "9839990240943553653": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "6041739005686103399": {
+    "wound_lut": "WOUND_LUT_BOT_TANK",
+    "min_radius": 0.300000012,
+    "max_radius": 2.20000005,
     "max_damage": 1000
   },
   "13707236614338800569": {
@@ -167,127 +227,19 @@
     "max_radius": 2.5999999,
     "max_damage": 500
   },
-  "8261922003134896957": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER_SPIT",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "15659331049401757247": {
-    "wound_lut": "WOUND_LUT_BUG_HUNTER",
-    "min_radius": 0.800000012,
-    "max_radius": 2.5999999,
-    "max_damage": 500
-  },
-  "7258218216136199873": {
-    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "18129582262547983427": {
-    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "12566139334605762628": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIER",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "3939129929398354246": {
-    "wound_lut": "WOUND_LUT_BUG_BOOMER",
-    "min_radius": 0.400000006,
-    "max_radius": 2,
-    "max_damage": 1000
-  },
-  "13340847352459495240": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERMG",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "4399458158766252490": {
-    "wound_lut": "WOUND_LUT_BUG_HUNTER",
-    "min_radius": 0.800000012,
-    "max_radius": 2.5999999,
-    "max_damage": 500
-  },
-  "5663271064929335883": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "11555060082231454796": {
-    "wound_lut": "WOUND_LUT_BUG_BULL",
-    "min_radius": 0.800000012,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
   "5903841343181520462": {
     "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
     "min_radius": 0.300000012,
     "max_radius": 1.5,
     "max_damage": 500
   },
-  "15125779956101896786": {
-    "wound_lut": "WOUND_LUT_BUG_STALKER",
-    "min_radius": 0.600000024,
-    "max_radius": 2.5,
-    "max_damage": 500
-  },
-  "12300518439027380185": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER_PRED",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "3626558530581732572": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "16121421951002036444": {
-    "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 500
-  },
-  "11398074038506794973": {
-    "wound_lut": "WOUND_LUT_BUG_STRIDER",
-    "min_radius": 1.39999998,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
-  "7208293264043292125": {
-    "wound_lut": "WOUND_LUT_BUG_SHRIEKER",
-    "min_radius": 0.800000012,
-    "max_radius": 2.5,
-    "max_damage": 500
-  },
-  "7719208875390099550": {
-    "wound_lut": "WOUND_LUT_BUG_CHARGER",
-    "min_radius": 0.800000012,
-    "max_radius": 3.5,
-    "max_damage": 1000
-  },
-  "3660840294738278623": {
+  "2190700087544369166": {
     "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
     "min_radius": 0.300000012,
     "max_radius": 1.5,
     "max_damage": 1000
   },
-  "14327550505011799649": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "10861016308832836833": {
+  "3660840294738278623": {
     "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
     "min_radius": 0.300000012,
     "max_radius": 1.5,
@@ -299,16 +251,172 @@
     "max_radius": 1,
     "max_damage": 1000
   },
-  "11669807341511884260": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR_TIER2",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 400
+  "6927066342767148424": {
+    "wound_lut": "WOUND_LUT_BUG_BOOMER",
+    "min_radius": 0.400000006,
+    "max_radius": 2,
+    "max_damage": 1000
   },
-  "6041739005686103399": {
+  "7196537832909981064": {
     "wound_lut": "WOUND_LUT_BOT_TANK",
     "min_radius": 0.300000012,
     "max_radius": 2.20000005,
+    "max_damage": 1000
+  },
+  "16451308563134815530": {
+    "wound_lut": "WOUND_LUT_BOT_LIEUTENANTASSAULT",
+    "min_radius": 0.100000001,
+    "max_radius": 1.5,
+    "max_damage": 1000
+  },
+  "6116178405309884875": {
+    "wound_lut": "WOUND_LUT_BOT_BERSERKER",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
+    "max_damage": 1000
+  },
+  "3626558530581732572": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
+    "min_radius": 0.800000012,
+    "max_radius": 3,
+    "max_damage": 400
+  },
+  "11135777548304851724": {
+    "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
+    "min_radius": 0.300000012,
+    "max_radius": 1.5,
+    "max_damage": 500
+  },
+  "14286719829563111324": {
+    "wound_lut": "WOUND_LUT_BOT_TANK",
+    "min_radius": 0.300000012,
+    "max_radius": 2.20000005,
+    "max_damage": 1000
+  },
+  "16121421951002036444": {
+    "wound_lut": "WOUND_LUT_BUG_SCAVENGER",
+    "min_radius": 0.300000012,
+    "max_radius": 1.5,
+    "max_damage": 500
+  },
+  "11555060082231454796": {
+    "wound_lut": "WOUND_LUT_BUG_BULL",
+    "min_radius": 0.800000012,
+    "max_radius": 3.5,
+    "max_damage": 1000
+  },
+  "7719208875390099550": {
+    "wound_lut": "WOUND_LUT_BUG_CHARGER",
+    "min_radius": 0.800000012,
+    "max_radius": 3.5,
+    "max_damage": 1000
+  },
+  "17149918388466130800": {
+    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKERHALFCOVER",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "15382378127438146468": {
+    "wound_lut": "WOUND_LUT_BOT_BERSERKER",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
+    "max_damage": 1000
+  },
+  "12873251592757102566": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
+    "min_radius": 0.800000012,
+    "max_radius": 3,
+    "max_damage": 400
+  },
+  "1403303179954968823": {
+    "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
+    "min_radius": 0.300000012,
+    "max_radius": 1.5,
+    "max_damage": 1000
+  },
+  "4399458158766252490": {
+    "wound_lut": "WOUND_LUT_BUG_HUNTER",
+    "min_radius": 0.800000012,
+    "max_radius": 2.5999999,
+    "max_damage": 500
+  },
+  "15922730753540746811": {
+    "wound_lut": "WOUND_LUT_BUG_IMPALER",
+    "min_radius": 1.39999998,
+    "max_radius": 3.5,
+    "max_damage": 1000
+  },
+  "3583430772214091149": {
+    "wound_lut": "WOUND_LUT_BOT_TANK",
+    "min_radius": 0.300000012,
+    "max_radius": 2.20000005,
+    "max_damage": 1000
+  },
+  "1155202780614770422": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
+    "min_radius": 0.800000012,
+    "max_radius": 3,
+    "max_damage": 400
+  },
+  "3939129929398354246": {
+    "wound_lut": "WOUND_LUT_BUG_BOOMER",
+    "min_radius": 0.400000006,
+    "max_radius": 2,
+    "max_damage": 1000
+  },
+  "5289274991058480552": {
+    "wound_lut": "WOUND_LUT_BOT_TANKTURRETAUTOCANNON",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "14731312854664874139": {
+    "wound_lut": "WOUND_LUT_BUG_BOOMER",
+    "min_radius": 0.400000006,
+    "max_radius": 2,
+    "max_damage": 1000
+  },
+  "7208293264043292125": {
+    "wound_lut": "WOUND_LUT_BUG_SHRIEKER",
+    "min_radius": 0.800000012,
+    "max_radius": 2.5,
+    "max_damage": 500
+  },
+  "18198461672611034237": {
+    "wound_lut": "WOUND_LUT_BOT_SOLDIER",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
+    "max_damage": 1000
+  },
+  "15125779956101896786": {
+    "wound_lut": "WOUND_LUT_BUG_STALKER",
+    "min_radius": 0.600000024,
+    "max_radius": 2.5,
+    "max_damage": 500
+  },
+  "18129582262547983427": {
+    "wound_lut": "WOUND_LUT_BOT_CONSCRIPT",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "10409770290790592053": {
+    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKER",
+    "min_radius": 0.100000001,
+    "max_radius": 0.5,
+    "max_damage": 1000
+  },
+  "15358116161893188517": {
+    "wound_lut": "WOUND_LUT_BUG_WARRIOR_BIG",
+    "min_radius": 0.800000012,
+    "max_radius": 3,
+    "max_damage": 400
+  },
+  "13340847352459495240": {
+    "wound_lut": "WOUND_LUT_BOT_SOLDIERMG",
+    "min_radius": 0.150000006,
+    "max_radius": 0.600000024,
     "max_damage": 1000
   },
   "4469039597602705386": {
@@ -319,66 +427,6 @@
   },
   "17921415124075533547": {
     "wound_lut": "WOUND_LUT_BOT_SOLDIERMG",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "10828817397904429935": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERROCKET",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "17149918388466130800": {
-    "wound_lut": "WOUND_LUT_BOT_SCOUTWALKERHALFCOVER",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "767968035755763": {
-    "wound_lut": "WOUND_LUT_BOT_CONSCRIPTTIER2",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "9839990240943553653": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "1155202780614770422": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.800000012,
-    "max_radius": 3,
-    "max_damage": 400
-  },
-  "10355039786464021751": {
-    "wound_lut": "WOUND_LUT_BOT_TANKTURRETCANNON",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "1403303179954968823": {
-    "wound_lut": "WOUND_LUT_BOT_LIEUTENANT",
-    "min_radius": 0.300000012,
-    "max_radius": 1.5,
-    "max_damage": 1000
-  },
-  "7102889756698093945": {
-    "wound_lut": "WOUND_LUT_BUG_WARRIOR",
-    "min_radius": 0.100000001,
-    "max_radius": 0.5,
-    "max_damage": 1000
-  },
-  "10514734670540770044": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIERMG",
-    "min_radius": 0.150000006,
-    "max_radius": 0.600000024,
-    "max_damage": 1000
-  },
-  "18198461672611034237": {
-    "wound_lut": "WOUND_LUT_BOT_SOLDIER",
     "min_radius": 0.150000006,
     "max_radius": 0.600000024,
     "max_damage": 1000

@@ -1,36 +1,36 @@
 {
-  "4878198249831276603": {
-    "warmup_time": 0.699999988,
-    "cooldown_time": 15,
+  "17488789745215357128": {
+    "warmup_time": 1,
+    "cooldown_time": 1,
     "firenode_pose_limit": 0,
-    "audio_node": 1803865503,
-    "spray_capsule_radius": 0,
+    "audio_node": 747556395,
+    "spray_capsule_radius": 0.5,
     "warmup": {
       "shake": {
-        "world_shake_effect": 14900141230239011239,
+        "world_shake_effect": 0,
         "local_shake_effect": 0,
         "fpv_shake_effect": 0,
         "inner_radius": 2,
         "outer_radius": 5
       },
-      "muzzle_effect": 10048255496969202164,
+      "muzzle_effect": 18178481158602349376,
       "callout_event_start": 0,
-      "audio_event_start": 3550831508,
+      "audio_event_start": 0,
       "audio_event_stop": 0,
       "wind_template": "WindEffectTemplate_LargeWeaponFire"
     },
     "firing": {
       "shake": {
-        "world_shake_effect": 1587683755141136233,
+        "world_shake_effect": 0,
         "local_shake_effect": 0,
         "fpv_shake_effect": 0,
         "inner_radius": 2,
         "outer_radius": 5
       },
-      "muzzle_effect": 11696612951655659479,
-      "callout_event_start": 418315309,
-      "audio_event_start": 1881104745,
-      "audio_event_stop": 548193405,
+      "muzzle_effect": 13461756045271898035,
+      "callout_event_start": 0,
+      "audio_event_start": 0,
+      "audio_event_stop": 0,
       "wind_template": "WindEffectTemplate_LargeWeaponFire"
     },
     "cooldown": {
@@ -43,69 +43,15 @@
       },
       "muzzle_effect": 829875543123227408,
       "callout_event_start": 0,
-      "audio_event_start": 2308490114,
-      "audio_event_stop": 155984213,
+      "audio_event_start": 0,
+      "audio_event_stop": 0,
       "wind_template": "WindEffectTemplate_None"
     },
     "ammo_cost": 1,
-    "projectile_type": "ProjectileType_None",
-    "damage_info_type": "DamageInfoType_Projectile_Flamethrower",
-    "effect_type": "HitEffectDamageType_PiercingMedium",
-    "last_drop_owner_vo_event": 3956223216,
-    "dry_fire_audio_event": 0
-  },
-  "8039414067817307766": {
-    "warmup_time": 0,
-    "cooldown_time": 0.0500000007,
-    "firenode_pose_limit": 0,
-    "audio_node": 989301601,
-    "spray_capsule_radius": 1,
-    "warmup": {
-      "shake": {
-        "world_shake_effect": 0,
-        "local_shake_effect": 0,
-        "fpv_shake_effect": 0,
-        "inner_radius": 2,
-        "outer_radius": 5
-      },
-      "muzzle_effect": 0,
-      "callout_event_start": 0,
-      "audio_event_start": 0,
-      "audio_event_stop": 0,
-      "wind_template": "WindEffectTemplate_None"
-    },
-    "firing": {
-      "shake": {
-        "world_shake_effect": 0,
-        "local_shake_effect": 0,
-        "fpv_shake_effect": 0,
-        "inner_radius": 2,
-        "outer_radius": 5
-      },
-      "muzzle_effect": 6181568566424688250,
-      "callout_event_start": 0,
-      "audio_event_start": 0,
-      "audio_event_stop": 0,
-      "wind_template": "WindEffectTemplate_None"
-    },
-    "cooldown": {
-      "shake": {
-        "world_shake_effect": 0,
-        "local_shake_effect": 0,
-        "fpv_shake_effect": 0,
-        "inner_radius": 2,
-        "outer_radius": 5
-      },
-      "muzzle_effect": 0,
-      "callout_event_start": 0,
-      "audio_event_start": 0,
-      "audio_event_stop": 0,
-      "wind_template": "WindEffectTemplate_None"
-    },
-    "ammo_cost": 0,
-    "projectile_type": "ProjectileType_Boomer_AcidStream",
+    "projectile_type": "ProjectileType_Cyborg_Flamethrower_Heavy",
     "damage_info_type": "DamageInfoType_None",
     "effect_type": "HitEffectDamageType_None",
+    "particle_collision_trigger_mines": 0,
     "last_drop_owner_vo_event": 2645484469,
     "dry_fire_audio_event": 0
   },
@@ -161,10 +107,67 @@
     "projectile_type": "ProjectileType_FlamethrowerBAD",
     "damage_info_type": "DamageInfoType_None",
     "effect_type": "HitEffectDamageType_None",
+    "particle_collision_trigger_mines": 1,
     "last_drop_owner_vo_event": 2645484469,
     "dry_fire_audio_event": 0
   },
-  "12548565706891777268": {
+  "4878198249831276603": {
+    "warmup_time": 0.699999988,
+    "cooldown_time": 15,
+    "firenode_pose_limit": 0,
+    "audio_node": 1803865503,
+    "spray_capsule_radius": 0,
+    "warmup": {
+      "shake": {
+        "world_shake_effect": 14900141230239011239,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 10048255496969202164,
+      "callout_event_start": 0,
+      "audio_event_start": 3550831508,
+      "audio_event_stop": 0,
+      "wind_template": "WindEffectTemplate_LargeWeaponFire"
+    },
+    "firing": {
+      "shake": {
+        "world_shake_effect": 1587683755141136233,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 11696612951655659479,
+      "callout_event_start": 418315309,
+      "audio_event_start": 1881104745,
+      "audio_event_stop": 548193405,
+      "wind_template": "WindEffectTemplate_LargeWeaponFire"
+    },
+    "cooldown": {
+      "shake": {
+        "world_shake_effect": 0,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 829875543123227408,
+      "callout_event_start": 0,
+      "audio_event_start": 2308490114,
+      "audio_event_stop": 155984213,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "ammo_cost": 1,
+    "projectile_type": "ProjectileType_None",
+    "damage_info_type": "DamageInfoType_Projectile_Flamethrower",
+    "effect_type": "HitEffectDamageType_PiercingMedium",
+    "particle_collision_trigger_mines": 0,
+    "last_drop_owner_vo_event": 3956223216,
+    "dry_fire_audio_event": 0
+  },
+  "7778022558452062755": {
     "warmup_time": 0.699999988,
     "cooldown_time": 15,
     "firenode_pose_limit": 0,
@@ -216,15 +219,16 @@
     "projectile_type": "ProjectileType_FlamethrowerBAD",
     "damage_info_type": "DamageInfoType_None",
     "effect_type": "HitEffectDamageType_None",
+    "particle_collision_trigger_mines": 1,
     "last_drop_owner_vo_event": 2645484469,
     "dry_fire_audio_event": 0
   },
-  "17488789745215357128": {
-    "warmup_time": 1,
-    "cooldown_time": 1,
+  "8039414067817307766": {
+    "warmup_time": 0,
+    "cooldown_time": 0.0500000007,
     "firenode_pose_limit": 0,
-    "audio_node": 747556395,
-    "spray_capsule_radius": 0.5,
+    "audio_node": 989301601,
+    "spray_capsule_radius": 1,
     "warmup": {
       "shake": {
         "world_shake_effect": 0,
@@ -233,11 +237,11 @@
         "inner_radius": 2,
         "outer_radius": 5
       },
-      "muzzle_effect": 18178481158602349376,
+      "muzzle_effect": 0,
       "callout_event_start": 0,
       "audio_event_start": 0,
       "audio_event_stop": 0,
-      "wind_template": "WindEffectTemplate_LargeWeaponFire"
+      "wind_template": "WindEffectTemplate_None"
     },
     "firing": {
       "shake": {
@@ -247,11 +251,67 @@
         "inner_radius": 2,
         "outer_radius": 5
       },
-      "muzzle_effect": 13461756045271898035,
+      "muzzle_effect": 6181568566424688250,
       "callout_event_start": 0,
       "audio_event_start": 0,
       "audio_event_stop": 0,
-      "wind_template": "WindEffectTemplate_LargeWeaponFire"
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "cooldown": {
+      "shake": {
+        "world_shake_effect": 0,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 0,
+      "callout_event_start": 0,
+      "audio_event_start": 0,
+      "audio_event_stop": 0,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "ammo_cost": 0,
+    "projectile_type": "ProjectileType_Boomer_AcidStream",
+    "damage_info_type": "DamageInfoType_None",
+    "effect_type": "HitEffectDamageType_None",
+    "particle_collision_trigger_mines": 0,
+    "last_drop_owner_vo_event": 2645484469,
+    "dry_fire_audio_event": 0
+  },
+  "4155583896232633279": {
+    "warmup_time": 0.699999988,
+    "cooldown_time": 10,
+    "firenode_pose_limit": 0,
+    "audio_node": 1803865503,
+    "spray_capsule_radius": 0,
+    "warmup": {
+      "shake": {
+        "world_shake_effect": 14900141230239011239,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 10048255496969202164,
+      "callout_event_start": 0,
+      "audio_event_start": 3550831508,
+      "audio_event_stop": 0,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "firing": {
+      "shake": {
+        "world_shake_effect": 1587683755141136233,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 11696612951655659479,
+      "callout_event_start": 418315309,
+      "audio_event_start": 1881104745,
+      "audio_event_stop": 548193405,
+      "wind_template": "WindEffectTemplate_None"
     },
     "cooldown": {
       "shake": {
@@ -263,14 +323,183 @@
       },
       "muzzle_effect": 829875543123227408,
       "callout_event_start": 0,
+      "audio_event_start": 2308490114,
+      "audio_event_stop": 155984213,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "ammo_cost": 1,
+    "projectile_type": "ProjectileType_None",
+    "damage_info_type": "DamageInfoType_Projectile_Flamethrower",
+    "effect_type": "HitEffectDamageType_PiercingMedium",
+    "particle_collision_trigger_mines": 1,
+    "last_drop_owner_vo_event": 3956223216,
+    "dry_fire_audio_event": 2439407863
+  },
+  "4580928717960105129": {
+    "warmup_time": 0.699999988,
+    "cooldown_time": 10,
+    "firenode_pose_limit": 0,
+    "audio_node": 1803865503,
+    "spray_capsule_radius": 0,
+    "warmup": {
+      "shake": {
+        "world_shake_effect": 14900141230239011239,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 10048255496969202164,
+      "callout_event_start": 0,
+      "audio_event_start": 2146488441,
+      "audio_event_stop": 0,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "firing": {
+      "shake": {
+        "world_shake_effect": 1587683755141136233,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 11696612951655659479,
+      "callout_event_start": 418315309,
+      "audio_event_start": 3757506625,
+      "audio_event_stop": 1665050303,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "cooldown": {
+      "shake": {
+        "world_shake_effect": 0,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 829875543123227408,
+      "callout_event_start": 0,
+      "audio_event_start": 3879498819,
+      "audio_event_stop": 3968902089,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "ammo_cost": 1,
+    "projectile_type": "ProjectileType_None",
+    "damage_info_type": "DamageInfoType_Projectile_Flamethrower_FlamerPistol",
+    "effect_type": "HitEffectDamageType_PiercingMedium",
+    "particle_collision_trigger_mines": 1,
+    "last_drop_owner_vo_event": 3956223216,
+    "dry_fire_audio_event": 2439407863
+  },
+  "5742363029208942635": {
+    "warmup_time": 0.699999988,
+    "cooldown_time": 10,
+    "firenode_pose_limit": 0,
+    "audio_node": 1803865503,
+    "spray_capsule_radius": 0,
+    "warmup": {
+      "shake": {
+        "world_shake_effect": 14900141230239011239,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 10048255496969202164,
+      "callout_event_start": 0,
+      "audio_event_start": 1017214271,
+      "audio_event_stop": 0,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "firing": {
+      "shake": {
+        "world_shake_effect": 1587683755141136233,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 13991562456240544718,
+      "callout_event_start": 418315309,
+      "audio_event_start": 2970598254,
+      "audio_event_stop": 2413843637,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "cooldown": {
+      "shake": {
+        "world_shake_effect": 0,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 829875543123227408,
+      "callout_event_start": 0,
+      "audio_event_start": 2121069226,
+      "audio_event_stop": 2964381256,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "ammo_cost": 1,
+    "projectile_type": "ProjectileType_None",
+    "damage_info_type": "DamageInfoType_Projectile_Flamethrower_Ripley",
+    "effect_type": "HitEffectDamageType_PiercingMedium",
+    "particle_collision_trigger_mines": 1,
+    "last_drop_owner_vo_event": 3956223216,
+    "dry_fire_audio_event": 2439407863
+  },
+  "11398074038506794973": {
+    "warmup_time": 0,
+    "cooldown_time": 0.0500000007,
+    "firenode_pose_limit": 0,
+    "audio_node": 989301601,
+    "spray_capsule_radius": 1.10000002,
+    "warmup": {
+      "shake": {
+        "world_shake_effect": 0,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 0,
+      "callout_event_start": 0,
       "audio_event_start": 0,
       "audio_event_stop": 0,
       "wind_template": "WindEffectTemplate_None"
     },
-    "ammo_cost": 1,
-    "projectile_type": "ProjectileType_Cyborg_Flamethrower_Heavy",
+    "firing": {
+      "shake": {
+        "world_shake_effect": 0,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 6181568566424688250,
+      "callout_event_start": 0,
+      "audio_event_start": 0,
+      "audio_event_stop": 0,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "cooldown": {
+      "shake": {
+        "world_shake_effect": 0,
+        "local_shake_effect": 0,
+        "fpv_shake_effect": 0,
+        "inner_radius": 2,
+        "outer_radius": 5
+      },
+      "muzzle_effect": 0,
+      "callout_event_start": 0,
+      "audio_event_start": 0,
+      "audio_event_stop": 0,
+      "wind_template": "WindEffectTemplate_None"
+    },
+    "ammo_cost": 0,
+    "projectile_type": "ProjectileType_Strider_AcidStream",
     "damage_info_type": "DamageInfoType_None",
     "effect_type": "HitEffectDamageType_None",
+    "particle_collision_trigger_mines": 0,
     "last_drop_owner_vo_event": 2645484469,
     "dry_fire_audio_event": 0
   },
@@ -326,65 +555,11 @@
     "projectile_type": "ProjectileType_Cyborg_Flamethrower_Heavy",
     "damage_info_type": "DamageInfoType_None",
     "effect_type": "HitEffectDamageType_None",
+    "particle_collision_trigger_mines": 0,
     "last_drop_owner_vo_event": 2645484469,
     "dry_fire_audio_event": 0
   },
-  "11398074038506794973": {
-    "warmup_time": 0,
-    "cooldown_time": 0.0500000007,
-    "firenode_pose_limit": 0,
-    "audio_node": 989301601,
-    "spray_capsule_radius": 1.10000002,
-    "warmup": {
-      "shake": {
-        "world_shake_effect": 0,
-        "local_shake_effect": 0,
-        "fpv_shake_effect": 0,
-        "inner_radius": 2,
-        "outer_radius": 5
-      },
-      "muzzle_effect": 0,
-      "callout_event_start": 0,
-      "audio_event_start": 0,
-      "audio_event_stop": 0,
-      "wind_template": "WindEffectTemplate_None"
-    },
-    "firing": {
-      "shake": {
-        "world_shake_effect": 0,
-        "local_shake_effect": 0,
-        "fpv_shake_effect": 0,
-        "inner_radius": 2,
-        "outer_radius": 5
-      },
-      "muzzle_effect": 6181568566424688250,
-      "callout_event_start": 0,
-      "audio_event_start": 0,
-      "audio_event_stop": 0,
-      "wind_template": "WindEffectTemplate_None"
-    },
-    "cooldown": {
-      "shake": {
-        "world_shake_effect": 0,
-        "local_shake_effect": 0,
-        "fpv_shake_effect": 0,
-        "inner_radius": 2,
-        "outer_radius": 5
-      },
-      "muzzle_effect": 0,
-      "callout_event_start": 0,
-      "audio_event_start": 0,
-      "audio_event_stop": 0,
-      "wind_template": "WindEffectTemplate_None"
-    },
-    "ammo_cost": 0,
-    "projectile_type": "ProjectileType_Strider_AcidStream",
-    "damage_info_type": "DamageInfoType_None",
-    "effect_type": "HitEffectDamageType_None",
-    "last_drop_owner_vo_event": 2645484469,
-    "dry_fire_audio_event": 0
-  },
-  "7778022558452062755": {
+  "12548565706891777268": {
     "warmup_time": 0.699999988,
     "cooldown_time": 15,
     "firenode_pose_limit": 0,
@@ -436,6 +611,7 @@
     "projectile_type": "ProjectileType_FlamethrowerBAD",
     "damage_info_type": "DamageInfoType_None",
     "effect_type": "HitEffectDamageType_None",
+    "particle_collision_trigger_mines": 1,
     "last_drop_owner_vo_event": 2645484469,
     "dry_fire_audio_event": 0
   },
@@ -491,62 +667,8 @@
     "projectile_type": "ProjectileType_Boomer_Nurser_AcidStream",
     "damage_info_type": "DamageInfoType_None",
     "effect_type": "HitEffectDamageType_None",
+    "particle_collision_trigger_mines": 0,
     "last_drop_owner_vo_event": 2645484469,
     "dry_fire_audio_event": 0
-  },
-  "4155583896232633279": {
-    "warmup_time": 0.699999988,
-    "cooldown_time": 15,
-    "firenode_pose_limit": 0,
-    "audio_node": 1803865503,
-    "spray_capsule_radius": 0,
-    "warmup": {
-      "shake": {
-        "world_shake_effect": 14900141230239011239,
-        "local_shake_effect": 0,
-        "fpv_shake_effect": 0,
-        "inner_radius": 2,
-        "outer_radius": 5
-      },
-      "muzzle_effect": 10048255496969202164,
-      "callout_event_start": 0,
-      "audio_event_start": 3550831508,
-      "audio_event_stop": 0,
-      "wind_template": "WindEffectTemplate_None"
-    },
-    "firing": {
-      "shake": {
-        "world_shake_effect": 1587683755141136233,
-        "local_shake_effect": 0,
-        "fpv_shake_effect": 0,
-        "inner_radius": 2,
-        "outer_radius": 5
-      },
-      "muzzle_effect": 11696612951655659479,
-      "callout_event_start": 418315309,
-      "audio_event_start": 1881104745,
-      "audio_event_stop": 548193405,
-      "wind_template": "WindEffectTemplate_None"
-    },
-    "cooldown": {
-      "shake": {
-        "world_shake_effect": 0,
-        "local_shake_effect": 0,
-        "fpv_shake_effect": 0,
-        "inner_radius": 2,
-        "outer_radius": 5
-      },
-      "muzzle_effect": 829875543123227408,
-      "callout_event_start": 0,
-      "audio_event_start": 2308490114,
-      "audio_event_stop": 155984213,
-      "wind_template": "WindEffectTemplate_None"
-    },
-    "ammo_cost": 1,
-    "projectile_type": "ProjectileType_None",
-    "damage_info_type": "DamageInfoType_Projectile_Flamethrower",
-    "effect_type": "HitEffectDamageType_PiercingMedium",
-    "last_drop_owner_vo_event": 3956223216,
-    "dry_fire_audio_event": 2439407863
   }
 }

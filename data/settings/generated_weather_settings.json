@@ -22072,8 +22072,8 @@
       "banter_event_type": "BanterEventType_None",
       "ambient_diffuse_intensity": 1,
       "ambient_diffuse_ground_bounce_intensity": 1,
-      "ambience_audio_start_id": 2022149071,
-      "ambience_audio_stop_id": 2692508600,
+      "ambience_audio_start_id": 2912870730,
+      "ambience_audio_stop_id": 1391496309,
       "zone_fog_tint": {
         "x": -1,
         "y": -1,
@@ -22330,8 +22330,8 @@
       "banter_event_type": "BanterEventType_None",
       "ambient_diffuse_intensity": 1,
       "ambient_diffuse_ground_bounce_intensity": 1,
-      "ambience_audio_start_id": 2022149071,
-      "ambience_audio_stop_id": 2692508600,
+      "ambience_audio_start_id": 2912870730,
+      "ambience_audio_stop_id": 1391496309,
       "zone_fog_tint": {
         "x": -1,
         "y": -1,
@@ -25284,7 +25284,7 @@
       "vista_cloud_height_variance1": 1,
       "vista_cloud_height_variance2": 0.75,
       "day_aurora_intensity": 0,
-      "night_aurora_intensity": 1,
+      "night_aurora_intensity": 0,
       "camera_effects": [
         {
           "rotation_type": "RotationType_None",
@@ -37038,7 +37038,7 @@
   },
   {
     "WeatherSettings": {
-      "id": 17664413163876490328,
+      "id": 12642494504806630211,
       "inherits": "",
       "init": 0,
       "weather_type": "WeatherType_Clear",
@@ -37077,7 +37077,7 @@
       "high_alt_shadow_intensity": 0.5,
       "high_alt_cloud_shadow_total_distance": 300,
       "high_alt_cloud_sharpness": 0,
-      "fog_density": 2,
+      "fog_density": 0.300000012,
       "fog_color": {
         "x": -1,
         "y": -1,
@@ -37104,7 +37104,7 @@
         "y": -1,
         "z": -1
       },
-      "weather_ground_fog_volume_density": 2,
+      "weather_ground_fog_volume_density": 0.200000003,
       "weather_ground_fog_volume_height": 40,
       "weather_ground_fog_volume_falloff": 0.100000001,
       "weather_ground_fog_volume_albedo_lerp": 0.800000012,
@@ -37116,7 +37116,7 @@
       },
       "near_ground_fog_height": 3,
       "near_ground_fog_curve": 2,
-      "near_ground_fog_density": 0.200000003,
+      "near_ground_fog_density": 0.100000001,
       "near_ground_fog_noise_amount": 0.600000024,
       "weather_effect_amount": 0,
       "weather_effect_billboard_size": 12,
@@ -37200,6 +37200,1000 @@
       "banter_event_type": "BanterEventType_None",
       "ambient_diffuse_intensity": 3,
       "ambient_diffuse_ground_bounce_intensity": 3,
+      "ambience_audio_start_id": 0,
+      "ambience_audio_stop_id": 0,
+      "zone_fog_tint": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sight_range": -1,
+      "weather_color_set_internal": {
+        "id": 0,
+        "cloud_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "vista_cloud_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "fog_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_effect_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_ground_fog_volume_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "near_ground_fog_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "zone_fog_tint": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_sun_color_mult": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_sun_intensity_mult": -1,
+        "zone_fog_main_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "zone_fog_secondary_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "zone_fog_bugs_color": {
+          "x": 0.230000004,
+          "y": 0.200000003,
+          "z": 0.0299999993
+        },
+        "zone_fog_bots_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "ambient_diffuse_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "ambient_diffuse_ground_bounce_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "fog_ambient_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "fog_ambient_ground_bounce_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    }
+  },
+  {
+    "WeatherSettings": {
+      "id": 11495601772246916033,
+      "inherits": "content/level_generation_settings/planet_forest_swamp/weather_settings/planet_forest_swamp_haunted_overcast",
+      "init": 0,
+      "weather_type": "WeatherType_Clear",
+      "environment_effect_tag": "EnvironmentalEffectType_None",
+      "wind_speed_min": 6,
+      "wind_speed_max": 7,
+      "cloud_weather_map": 14255992160694764162,
+      "cloud_opacity": 0.899999976,
+      "cloud_coverage": 0.720000029,
+      "cloud_beer": 25,
+      "cloud_altitude": 600,
+      "cloud_height_mult": 1,
+      "cloud_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "cloud_speed": 20,
+      "cloud_lock_pos": {
+        "x": -1,
+        "y": -1
+      },
+      "cloud_shadow_density": 0.400000006,
+      "cloud_shadow_density_offset": -0.100000001,
+      "cloud_shadow_opacity": 1,
+      "sunset_cloud_shadow_density": 0.0500000007,
+      "sunset_cloud_shadow_opacity": 0.699999988,
+      "high_altitude_weather_map": 5036902956365474657,
+      "high_alt_cloud_coverage": 1.25,
+      "high_altitude_clouds": 16035834942800661664,
+      "high_altitude_cloud_speed": 70,
+      "high_altitude_wind_direction": {
+        "x": 1,
+        "y": 0
+      },
+      "high_alt_shadow_intensity": 0.5,
+      "high_alt_cloud_shadow_total_distance": 300,
+      "high_alt_cloud_sharpness": 0.899999976,
+      "fog_density": 2.4000001,
+      "fog_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "fog_dustiness": 0.200000003,
+      "fog_noise_amount": 0.800000012,
+      "fog_height_midpoint": 100,
+      "fog_height_falloff": 1,
+      "fog_shadow_intensity": 0,
+      "fog_ambient_intensity": 1,
+      "fog_ambient_ground_bounce_intensity": 1,
+      "fog_light_ambient_intensity": 0,
+      "fog_emissive_color": {
+        "x": 0.899999976,
+        "y": 0.800000012,
+        "z": 0.800000012
+      },
+      "fog_emissive_intensity": 0.00999999978,
+      "fog_light_intensity_multiplier": 1,
+      "weather_color_set": 2539875090,
+      "weather_ground_fog_volume_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_ground_fog_volume_density": 1.75,
+      "weather_ground_fog_volume_height": 40,
+      "weather_ground_fog_volume_falloff": 0.100000001,
+      "weather_ground_fog_volume_albedo_lerp": 0.800000012,
+      "weather_ground_fog_volume_dustiness": 0.5,
+      "near_ground_fog_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "near_ground_fog_height": 1,
+      "near_ground_fog_curve": 2,
+      "near_ground_fog_density": 3.25,
+      "near_ground_fog_noise_amount": 0.5,
+      "weather_effect_amount": 512,
+      "weather_effect_billboard_size": 10,
+      "weather_effect_billboard_opacity": 0.0199999996,
+      "weather_effect_dustiness": 0.100000001,
+      "weather_effect_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sun_color_mult": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sun_intensity_mult": 0.800000012,
+      "weather_wetness": 0,
+      "heathaze_amount": 0,
+      "vista_cloud_amount": 0,
+      "vista_cloud_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "vista_cloud_size0": 2000,
+      "vista_cloud_size1": 1000,
+      "vista_cloud_size2": 4000,
+      "vista_cloud_spawn_height0": -200,
+      "vista_cloud_spawn_height1": -200,
+      "vista_cloud_spawn_height2": -200,
+      "vista_cloud_height_variance0": 0.5,
+      "vista_cloud_height_variance1": 1,
+      "vista_cloud_height_variance2": 0.75,
+      "day_aurora_intensity": 0,
+      "night_aurora_intensity": 0,
+      "camera_effects": [
+        {
+          "rotation_type": "RotationType_FollowWindFalling",
+          "effect_type": "EffectType_Wet",
+          "overrides_effect_types": [],
+          "start_at_wind_speed": 0,
+          "stop_at_wind_speed": 1000,
+          "start_at_night_amount": 0,
+          "stop_at_night_amount": 1,
+          "start_at_sunset_amount": 0,
+          "stop_at_sunset_amount": 1,
+          "camera_effect_id": 1109901670818369546,
+          "overridden_response_effect_id": 0
+        }
+      ],
+      "distant_weather_effects": [
+        {
+          "effect_id": 11876089073980576206,
+          "audio_id": 960777203
+        },
+        {
+          "effect_id": 5470152483969542527,
+          "audio_id": 960777203
+        },
+        {
+          "effect_id": 15652821655035143098,
+          "audio_id": 960777203
+        },
+        {
+          "effect_id": 7758029414596714675,
+          "audio_id": 960777203
+        },
+        {
+          "effect_id": 1981733770283322480,
+          "audio_id": 960777203
+        }
+      ],
+      "distant_weather_effects_frequency": 0.200000003,
+      "distant_weather_effects_distance_range": {
+        "x": 420,
+        "y": 666
+      },
+      "distant_weather_effects_color": {
+        "x": 0.901961029,
+        "y": 0.945097983,
+        "z": 1
+      },
+      "distant_weather_effects_color_intensity": 20,
+      "distant_weather_effects_fade_in_out": {
+        "x": 0.0399999991,
+        "y": 0.319999993
+      },
+      "distant_weather_effects_fade_in_delay": 0.0599999987,
+      "banter_event_type": "BanterEventType_None",
+      "ambient_diffuse_intensity": 1.60000002,
+      "ambient_diffuse_ground_bounce_intensity": 1.60000002,
+      "ambience_audio_start_id": 0,
+      "ambience_audio_stop_id": 0,
+      "zone_fog_tint": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sight_range": -1,
+      "weather_color_set_internal": {
+        "id": 0,
+        "cloud_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "vista_cloud_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "fog_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_effect_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_ground_fog_volume_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "near_ground_fog_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "zone_fog_tint": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_sun_color_mult": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_sun_intensity_mult": -1,
+        "zone_fog_main_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "zone_fog_secondary_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "zone_fog_bugs_color": {
+          "x": 0.230000004,
+          "y": 0.200000003,
+          "z": 0.0299999993
+        },
+        "zone_fog_bots_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "ambient_diffuse_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "ambient_diffuse_ground_bounce_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "fog_ambient_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "fog_ambient_ground_bounce_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    }
+  },
+  {
+    "WeatherSettings": {
+      "id": 678380197555303614,
+      "inherits": "content/level_generation_settings/planet_forest_swamp/weather_settings/planet_forest_swamp_haunted_lightning_storm",
+      "init": 0,
+      "weather_type": "WeatherType_Clear",
+      "environment_effect_tag": "EnvironmentalEffectType_None",
+      "wind_speed_min": 6,
+      "wind_speed_max": 7,
+      "cloud_weather_map": 14255992160694764162,
+      "cloud_opacity": 0.899999976,
+      "cloud_coverage": 0.720000029,
+      "cloud_beer": 25,
+      "cloud_altitude": 600,
+      "cloud_height_mult": 1,
+      "cloud_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "cloud_speed": 20,
+      "cloud_lock_pos": {
+        "x": -1,
+        "y": -1
+      },
+      "cloud_shadow_density": 0.100000001,
+      "cloud_shadow_density_offset": -0.100000001,
+      "cloud_shadow_opacity": 0.899999976,
+      "sunset_cloud_shadow_density": 0.0500000007,
+      "sunset_cloud_shadow_opacity": 0.699999988,
+      "high_altitude_weather_map": 5036902956365474657,
+      "high_alt_cloud_coverage": 1.25,
+      "high_altitude_clouds": 16035834942800661664,
+      "high_altitude_cloud_speed": 70,
+      "high_altitude_wind_direction": {
+        "x": 1,
+        "y": 0
+      },
+      "high_alt_shadow_intensity": 0.5,
+      "high_alt_cloud_shadow_total_distance": 300,
+      "high_alt_cloud_sharpness": 0.899999976,
+      "fog_density": 3.75,
+      "fog_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "fog_dustiness": 0.200000003,
+      "fog_noise_amount": 0.800000012,
+      "fog_height_midpoint": 100,
+      "fog_height_falloff": 1,
+      "fog_shadow_intensity": 0.0299999993,
+      "fog_ambient_intensity": 1,
+      "fog_ambient_ground_bounce_intensity": 1,
+      "fog_light_ambient_intensity": 0,
+      "fog_emissive_color": {
+        "x": 0.899999976,
+        "y": 0.800000012,
+        "z": 0.800000012
+      },
+      "fog_emissive_intensity": 0.00999999978,
+      "fog_light_intensity_multiplier": 1,
+      "weather_color_set": 215770384,
+      "weather_ground_fog_volume_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_ground_fog_volume_density": 1.45000005,
+      "weather_ground_fog_volume_height": 25,
+      "weather_ground_fog_volume_falloff": 1,
+      "weather_ground_fog_volume_albedo_lerp": 0.800000012,
+      "weather_ground_fog_volume_dustiness": 0.5,
+      "near_ground_fog_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "near_ground_fog_height": 1.75,
+      "near_ground_fog_curve": 2,
+      "near_ground_fog_density": 2.1500001,
+      "near_ground_fog_noise_amount": 0.5,
+      "weather_effect_amount": 512,
+      "weather_effect_billboard_size": 10,
+      "weather_effect_billboard_opacity": 0.0199999996,
+      "weather_effect_dustiness": 0.100000001,
+      "weather_effect_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sun_color_mult": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sun_intensity_mult": 0.800000012,
+      "weather_wetness": 0,
+      "heathaze_amount": 0,
+      "vista_cloud_amount": 0,
+      "vista_cloud_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "vista_cloud_size0": 2000,
+      "vista_cloud_size1": 1000,
+      "vista_cloud_size2": 4000,
+      "vista_cloud_spawn_height0": -200,
+      "vista_cloud_spawn_height1": -200,
+      "vista_cloud_spawn_height2": -200,
+      "vista_cloud_height_variance0": 0.5,
+      "vista_cloud_height_variance1": 1,
+      "vista_cloud_height_variance2": 0.75,
+      "day_aurora_intensity": 0,
+      "night_aurora_intensity": 0,
+      "camera_effects": [
+        {
+          "rotation_type": "RotationType_FollowWindFalling",
+          "effect_type": "EffectType_Wet",
+          "overrides_effect_types": [],
+          "start_at_wind_speed": 0,
+          "stop_at_wind_speed": 1000,
+          "start_at_night_amount": 0,
+          "stop_at_night_amount": 1,
+          "start_at_sunset_amount": 0,
+          "stop_at_sunset_amount": 1,
+          "camera_effect_id": 1109901670818369546,
+          "overridden_response_effect_id": 0
+        }
+      ],
+      "distant_weather_effects": [
+        {
+          "effect_id": 11876089073980576206,
+          "audio_id": 960777203
+        },
+        {
+          "effect_id": 5470152483969542527,
+          "audio_id": 960777203
+        },
+        {
+          "effect_id": 15652821655035143098,
+          "audio_id": 960777203
+        },
+        {
+          "effect_id": 7758029414596714675,
+          "audio_id": 960777203
+        },
+        {
+          "effect_id": 1981733770283322480,
+          "audio_id": 960777203
+        }
+      ],
+      "distant_weather_effects_frequency": 0.200000003,
+      "distant_weather_effects_distance_range": {
+        "x": 420,
+        "y": 666
+      },
+      "distant_weather_effects_color": {
+        "x": 0.901961029,
+        "y": 0.945097983,
+        "z": 1
+      },
+      "distant_weather_effects_color_intensity": 10,
+      "distant_weather_effects_fade_in_out": {
+        "x": 0.0399999991,
+        "y": 0.319999993
+      },
+      "distant_weather_effects_fade_in_delay": 0.0599999987,
+      "banter_event_type": "BanterEventType_None",
+      "ambient_diffuse_intensity": 1.60000002,
+      "ambient_diffuse_ground_bounce_intensity": 1.60000002,
+      "ambience_audio_start_id": 0,
+      "ambience_audio_stop_id": 0,
+      "zone_fog_tint": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sight_range": -1,
+      "weather_color_set_internal": {
+        "id": 0,
+        "cloud_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "vista_cloud_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "fog_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_effect_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_ground_fog_volume_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "near_ground_fog_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "zone_fog_tint": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_sun_color_mult": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_sun_intensity_mult": -1,
+        "zone_fog_main_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "zone_fog_secondary_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "zone_fog_bugs_color": {
+          "x": 0.230000004,
+          "y": 0.200000003,
+          "z": 0.0299999993
+        },
+        "zone_fog_bots_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "ambient_diffuse_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "ambient_diffuse_ground_bounce_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "fog_ambient_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "fog_ambient_ground_bounce_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    }
+  },
+  {
+    "WeatherSettings": {
+      "id": 9552581613000382781,
+      "inherits": "",
+      "init": 0,
+      "weather_type": "WeatherType_Clear",
+      "environment_effect_tag": "EnvironmentalEffectType_None",
+      "wind_speed_min": 1,
+      "wind_speed_max": 2,
+      "cloud_weather_map": 14255992160694764162,
+      "cloud_opacity": 0.899999976,
+      "cloud_coverage": 0.649999976,
+      "cloud_beer": 25,
+      "cloud_altitude": 600,
+      "cloud_height_mult": 1,
+      "cloud_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "cloud_speed": 10,
+      "cloud_lock_pos": {
+        "x": -1,
+        "y": -1
+      },
+      "cloud_shadow_density": 0.400000006,
+      "cloud_shadow_density_offset": -0.100000001,
+      "cloud_shadow_opacity": 1,
+      "sunset_cloud_shadow_density": 0.0500000007,
+      "sunset_cloud_shadow_opacity": 0.699999988,
+      "high_altitude_weather_map": 5036902956365474657,
+      "high_alt_cloud_coverage": 1.25,
+      "high_altitude_clouds": 16035834942800661664,
+      "high_altitude_cloud_speed": 70,
+      "high_altitude_wind_direction": {
+        "x": 1,
+        "y": 0
+      },
+      "high_alt_shadow_intensity": 0.5,
+      "high_alt_cloud_shadow_total_distance": 300,
+      "high_alt_cloud_sharpness": 0.899999976,
+      "fog_density": 2.75,
+      "fog_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "fog_dustiness": 0.200000003,
+      "fog_noise_amount": 0.800000012,
+      "fog_height_midpoint": 100,
+      "fog_height_falloff": 1,
+      "fog_shadow_intensity": 0.0199999996,
+      "fog_ambient_intensity": 1,
+      "fog_ambient_ground_bounce_intensity": 1,
+      "fog_light_ambient_intensity": 0,
+      "fog_emissive_color": {
+        "x": 0.899999976,
+        "y": 0.800000012,
+        "z": 0.800000012
+      },
+      "fog_emissive_intensity": 0.00999999978,
+      "fog_light_intensity_multiplier": 1,
+      "weather_color_set": 2539875090,
+      "weather_ground_fog_volume_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_ground_fog_volume_density": 2,
+      "weather_ground_fog_volume_height": 40,
+      "weather_ground_fog_volume_falloff": 0.100000001,
+      "weather_ground_fog_volume_albedo_lerp": 0.800000012,
+      "weather_ground_fog_volume_dustiness": 0.5,
+      "near_ground_fog_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "near_ground_fog_height": 1.25,
+      "near_ground_fog_curve": 2,
+      "near_ground_fog_density": 4,
+      "near_ground_fog_noise_amount": 0.5,
+      "weather_effect_amount": 0,
+      "weather_effect_billboard_size": 12,
+      "weather_effect_billboard_opacity": 0,
+      "weather_effect_dustiness": 0,
+      "weather_effect_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sun_color_mult": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sun_intensity_mult": 0.800000012,
+      "weather_wetness": 0,
+      "heathaze_amount": 0,
+      "vista_cloud_amount": 0,
+      "vista_cloud_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "vista_cloud_size0": 2000,
+      "vista_cloud_size1": 1000,
+      "vista_cloud_size2": 4000,
+      "vista_cloud_spawn_height0": -200,
+      "vista_cloud_spawn_height1": -200,
+      "vista_cloud_spawn_height2": -200,
+      "vista_cloud_height_variance0": 0.5,
+      "vista_cloud_height_variance1": 1,
+      "vista_cloud_height_variance2": 0.75,
+      "day_aurora_intensity": 0,
+      "night_aurora_intensity": 0,
+      "camera_effects": [],
+      "distant_weather_effects": [],
+      "distant_weather_effects_frequency": 0,
+      "distant_weather_effects_distance_range": {
+        "x": 700,
+        "y": 3000
+      },
+      "distant_weather_effects_color": {
+        "x": 0.100000001,
+        "y": 0.600000024,
+        "z": 0.899999976
+      },
+      "distant_weather_effects_color_intensity": 10.1999998,
+      "distant_weather_effects_fade_in_out": {
+        "x": 0.0659999996,
+        "y": 0.25
+      },
+      "distant_weather_effects_fade_in_delay": 0,
+      "banter_event_type": "BanterEventType_None",
+      "ambient_diffuse_intensity": 1.60000002,
+      "ambient_diffuse_ground_bounce_intensity": 1.60000002,
+      "ambience_audio_start_id": 0,
+      "ambience_audio_stop_id": 0,
+      "zone_fog_tint": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sight_range": -1,
+      "weather_color_set_internal": {
+        "id": 0,
+        "cloud_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "vista_cloud_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "fog_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_effect_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_ground_fog_volume_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "near_ground_fog_color": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "zone_fog_tint": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_sun_color_mult": {
+          "x": -1,
+          "y": -1,
+          "z": -1
+        },
+        "weather_sun_intensity_mult": -1,
+        "zone_fog_main_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "zone_fog_secondary_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "zone_fog_bugs_color": {
+          "x": 0.230000004,
+          "y": 0.200000003,
+          "z": 0.0299999993
+        },
+        "zone_fog_bots_color": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "ambient_diffuse_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "ambient_diffuse_ground_bounce_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "fog_ambient_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "fog_ambient_ground_bounce_tint": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    }
+  },
+  {
+    "WeatherSettings": {
+      "id": 6314060208619732991,
+      "inherits": "content/level_generation_settings/planet_forest_swamp/weather_settings/planet_forest_swamp_haunted_overcast",
+      "init": 0,
+      "weather_type": "WeatherType_Clear",
+      "environment_effect_tag": "EnvironmentalEffectType_None",
+      "wind_speed_min": 1,
+      "wind_speed_max": 2,
+      "cloud_weather_map": 14255992160694764162,
+      "cloud_opacity": 0.899999976,
+      "cloud_coverage": 0.649999976,
+      "cloud_beer": 25,
+      "cloud_altitude": 600,
+      "cloud_height_mult": 1,
+      "cloud_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "cloud_speed": 10,
+      "cloud_lock_pos": {
+        "x": -1,
+        "y": -1
+      },
+      "cloud_shadow_density": 0.100000001,
+      "cloud_shadow_density_offset": -0.100000001,
+      "cloud_shadow_opacity": 0.899999976,
+      "sunset_cloud_shadow_density": 0.0500000007,
+      "sunset_cloud_shadow_opacity": 0.699999988,
+      "high_altitude_weather_map": 5036902956365474657,
+      "high_alt_cloud_coverage": 1.25,
+      "high_altitude_clouds": 16035834942800661664,
+      "high_altitude_cloud_speed": 70,
+      "high_altitude_wind_direction": {
+        "x": 1,
+        "y": 0
+      },
+      "high_alt_shadow_intensity": 0.5,
+      "high_alt_cloud_shadow_total_distance": 300,
+      "high_alt_cloud_sharpness": 0.899999976,
+      "fog_density": 4,
+      "fog_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "fog_dustiness": 0.200000003,
+      "fog_noise_amount": 0.800000012,
+      "fog_height_midpoint": 100,
+      "fog_height_falloff": 1,
+      "fog_shadow_intensity": 0.0299999993,
+      "fog_ambient_intensity": 1,
+      "fog_ambient_ground_bounce_intensity": 1,
+      "fog_light_ambient_intensity": 0,
+      "fog_emissive_color": {
+        "x": 0.899999976,
+        "y": 0.800000012,
+        "z": 0.800000012
+      },
+      "fog_emissive_intensity": 0.00999999978,
+      "fog_light_intensity_multiplier": 1,
+      "weather_color_set": 215770384,
+      "weather_ground_fog_volume_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_ground_fog_volume_density": 1.45000005,
+      "weather_ground_fog_volume_height": 25,
+      "weather_ground_fog_volume_falloff": 1,
+      "weather_ground_fog_volume_albedo_lerp": 0.800000012,
+      "weather_ground_fog_volume_dustiness": 0.5,
+      "near_ground_fog_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "near_ground_fog_height": 1.75,
+      "near_ground_fog_curve": 2,
+      "near_ground_fog_density": 2.25,
+      "near_ground_fog_noise_amount": 0.5,
+      "weather_effect_amount": 0,
+      "weather_effect_billboard_size": 12,
+      "weather_effect_billboard_opacity": 0,
+      "weather_effect_dustiness": 0,
+      "weather_effect_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sun_color_mult": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "weather_sun_intensity_mult": 0.800000012,
+      "weather_wetness": 0,
+      "heathaze_amount": 0,
+      "vista_cloud_amount": 0,
+      "vista_cloud_color": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "vista_cloud_size0": 2000,
+      "vista_cloud_size1": 1000,
+      "vista_cloud_size2": 4000,
+      "vista_cloud_spawn_height0": -200,
+      "vista_cloud_spawn_height1": -200,
+      "vista_cloud_spawn_height2": -200,
+      "vista_cloud_height_variance0": 0.5,
+      "vista_cloud_height_variance1": 1,
+      "vista_cloud_height_variance2": 0.75,
+      "day_aurora_intensity": 0,
+      "night_aurora_intensity": 0,
+      "camera_effects": [],
+      "distant_weather_effects": [],
+      "distant_weather_effects_frequency": 0,
+      "distant_weather_effects_distance_range": {
+        "x": 700,
+        "y": 3000
+      },
+      "distant_weather_effects_color": {
+        "x": 0.100000001,
+        "y": 0.600000024,
+        "z": 0.899999976
+      },
+      "distant_weather_effects_color_intensity": 10.1999998,
+      "distant_weather_effects_fade_in_out": {
+        "x": 0.0659999996,
+        "y": 0.25
+      },
+      "distant_weather_effects_fade_in_delay": 0,
+      "banter_event_type": "BanterEventType_None",
+      "ambient_diffuse_intensity": 1.60000002,
+      "ambient_diffuse_ground_bounce_intensity": 1.60000002,
       "ambience_audio_start_id": 0,
       "ambience_audio_stop_id": 0,
       "zone_fog_tint": {

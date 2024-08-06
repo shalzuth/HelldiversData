@@ -1,5 +1,6 @@
 { "AiSpawnerComponent" : {
     "member_id" : { "type": "uint", "description": "[string]The member id of the faction member to spawn from the enemy sheet." },
+    "fallback_member_id" : { "type": "uint", "description": "[string]If the first member ID is not available, use this instead." },
     "spawn_flag" : { "type": "AiEnemyFlag", "default": "AiEnemyFlag_None", "description": "Indicates with which flags are we going to spawn the enemy. " },
     "ability_activate" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when the spanwer activates." },
     "ability_deactivate" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play when the spanwer deactivates." },
@@ -21,7 +22,6 @@
     "spawn_delay" : { "type": "float", "default": 0, "description": "The delay between each individual spawn in a 'wave'." },
     "cooldown_variation" : { "type": "float", "default": 0.2, "description": "Varies the cooldown of each spawner by this amount +/-%." },
     "spawns_npcs" : { "type": "byte", "description": "[bool]Set to true to spawn friendly NPCs instead of enemies" },
-    "ignore_tags" : { "type": "byte", "description": "[bool]Set to true to ignore tag requirements" },
     "ignore_guard_force" : { "type": "byte", "description": "[bool]Set to true to spawn friendly NPCs instead of enemies" },
     "sequential_lanes" : { "type": "byte", "description": "[bool]Will use the spawn lanes sequentially for the duration of the spawn count" },
     "use_global_spawner_cooldown" : { "type": "byte", "description": "[bool]Indicates if this spawner will be affected by the global cooldown or not." },

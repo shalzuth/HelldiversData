@@ -23248,6 +23248,628 @@
           ]
         },
         {
+          "solar_system_name": "planet_forest_swamp_haunted_01",
+          "solar_system_sun_settings": {
+            "planet_type": 1154550565421421141,
+            "ring_type": 0,
+            "planet_object_settings": {
+              "unit_id": 0,
+              "material_id": 0,
+              "ring_unit_id": 0,
+              "ring_material_id": 0,
+              "ring_scale_mult": 0,
+              "billboard_unit_id": 0,
+              "billboard_material_id": 0,
+              "billboard_scale_mult": 1,
+              "surface_color": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+              },
+              "emissive_color": {
+                "x": 1,
+                "y": 0.910000026,
+                "z": 0.779999971
+              },
+              "emissive_intensity": 0,
+              "ring_sorting_type": "RingSortingTypes_saturn_ring",
+              "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+            },
+            "scale": {
+              "x": 10,
+              "y": 10
+            },
+            "planet_id": "SolarSystemPlanet_Mission",
+            "orbits_planet": "SolarSystemPlanet_PlanetCount",
+            "orbit_distance": 0,
+            "orbit_tilt": {
+              "x": 0,
+              "y": 45
+            },
+            "orbit_tilt_rotation": {
+              "x": 0,
+              "y": 360
+            },
+            "seconds_for_one_orbit": {
+              "x": -1,
+              "y": -1
+            },
+            "seconds_for_one_axis_rotation": {
+              "x": 1440,
+              "y": 172800
+            },
+            "seconds_for_one_ring_rotation": {
+              "x": 1440,
+              "y": 172800
+            },
+            "axis_tilt": {
+              "x": 0,
+              "y": 45
+            },
+            "axis_tilt_rotation": {
+              "x": 0,
+              "y": 360
+            },
+            "fog_light_intensity": 1,
+            "start_angle_range": {
+              "x": -1,
+              "y": -1
+            }
+          },
+          "solar_system_planet_settings": [
+            {
+              "planet_type": 0,
+              "ring_type": 0,
+              "planet_object_settings": {
+                "unit_id": 0,
+                "material_id": 0,
+                "ring_unit_id": 0,
+                "ring_material_id": 0,
+                "ring_scale_mult": 0,
+                "billboard_unit_id": 0,
+                "billboard_material_id": 0,
+                "billboard_scale_mult": 1,
+                "surface_color": {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "z": 0.5
+                },
+                "emissive_color": {
+                  "x": 1,
+                  "y": 0.910000026,
+                  "z": 0.779999971
+                },
+                "emissive_intensity": 0,
+                "ring_sorting_type": "RingSortingTypes_saturn_ring",
+                "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+              },
+              "scale": {
+                "x": 1,
+                "y": 1
+              },
+              "planet_id": "SolarSystemPlanet_Mission",
+              "orbits_planet": "SolarSystemPlanet_B",
+              "orbit_distance": 155,
+              "orbit_tilt": {
+                "x": 0,
+                "y": 3
+              },
+              "orbit_tilt_rotation": {
+                "x": 0,
+                "y": 0
+              },
+              "seconds_for_one_orbit": {
+                "x": 7200,
+                "y": 7600
+              },
+              "seconds_for_one_axis_rotation": {
+                "x": 1440,
+                "y": 172800
+              },
+              "seconds_for_one_ring_rotation": {
+                "x": 1440,
+                "y": 172800
+              },
+              "axis_tilt": {
+                "x": 0,
+                "y": 3
+              },
+              "axis_tilt_rotation": {
+                "x": 0,
+                "y": 0
+              },
+              "fog_light_intensity": 1,
+              "start_angle_range": {
+                "x": 330,
+                "y": 330
+              }
+            },
+            {
+              "planet_type": 8599329379766805025,
+              "ring_type": 0,
+              "planet_object_settings": {
+                "unit_id": 0,
+                "material_id": 0,
+                "ring_unit_id": 0,
+                "ring_material_id": 0,
+                "ring_scale_mult": 0,
+                "billboard_unit_id": 0,
+                "billboard_material_id": 0,
+                "billboard_scale_mult": 1,
+                "surface_color": {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "z": 0.5
+                },
+                "emissive_color": {
+                  "x": 1,
+                  "y": 0.910000026,
+                  "z": 0.779999971
+                },
+                "emissive_intensity": 0,
+                "ring_sorting_type": "RingSortingTypes_saturn_ring",
+                "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+              },
+              "scale": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "planet_id": "SolarSystemPlanet_A",
+              "orbits_planet": "SolarSystemPlanet_Mission",
+              "orbit_distance": 6,
+              "orbit_tilt": {
+                "x": 30,
+                "y": 30
+              },
+              "orbit_tilt_rotation": {
+                "x": 65,
+                "y": 70
+              },
+              "seconds_for_one_orbit": {
+                "x": 7860,
+                "y": 7860
+              },
+              "seconds_for_one_axis_rotation": {
+                "x": 1440,
+                "y": 100000
+              },
+              "seconds_for_one_ring_rotation": {
+                "x": 1440,
+                "y": 172800
+              },
+              "axis_tilt": {
+                "x": 0,
+                "y": 5
+              },
+              "axis_tilt_rotation": {
+                "x": 0,
+                "y": 360
+              },
+              "fog_light_intensity": 2,
+              "start_angle_range": {
+                "x": 60,
+                "y": 60
+              }
+            },
+            {
+              "planet_type": 2365587269818790469,
+              "ring_type": 0,
+              "planet_object_settings": {
+                "unit_id": 0,
+                "material_id": 0,
+                "ring_unit_id": 0,
+                "ring_material_id": 0,
+                "ring_scale_mult": 0,
+                "billboard_unit_id": 0,
+                "billboard_material_id": 0,
+                "billboard_scale_mult": 1,
+                "surface_color": {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "z": 0.5
+                },
+                "emissive_color": {
+                  "x": 1,
+                  "y": 0.910000026,
+                  "z": 0.779999971
+                },
+                "emissive_intensity": 0,
+                "ring_sorting_type": "RingSortingTypes_saturn_ring",
+                "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+              },
+              "scale": {
+                "x": 20,
+                "y": 20
+              },
+              "planet_id": "SolarSystemPlanet_B",
+              "orbits_planet": "SolarSystemPlanet_PlanetCount",
+              "orbit_distance": 1000,
+              "orbit_tilt": {
+                "x": 1,
+                "y": 1
+              },
+              "orbit_tilt_rotation": {
+                "x": 0,
+                "y": 0
+              },
+              "seconds_for_one_orbit": {
+                "x": 16500,
+                "y": 18000
+              },
+              "seconds_for_one_axis_rotation": {
+                "x": 5600,
+                "y": 7200
+              },
+              "seconds_for_one_ring_rotation": {
+                "x": 1440,
+                "y": 172800
+              },
+              "axis_tilt": {
+                "x": 0,
+                "y": 5
+              },
+              "axis_tilt_rotation": {
+                "x": 45,
+                "y": 45
+              },
+              "fog_light_intensity": 3,
+              "start_angle_range": {
+                "x": 5,
+                "y": 5
+              }
+            },
+            {
+              "planet_type": 1337342204059632180,
+              "ring_type": 0,
+              "planet_object_settings": {
+                "unit_id": 0,
+                "material_id": 0,
+                "ring_unit_id": 0,
+                "ring_material_id": 0,
+                "ring_scale_mult": 0,
+                "billboard_unit_id": 0,
+                "billboard_material_id": 0,
+                "billboard_scale_mult": 1,
+                "surface_color": {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "z": 0.5
+                },
+                "emissive_color": {
+                  "x": 1,
+                  "y": 0.910000026,
+                  "z": 0.779999971
+                },
+                "emissive_intensity": 0,
+                "ring_sorting_type": "RingSortingTypes_saturn_ring",
+                "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+              },
+              "scale": {
+                "x": 2,
+                "y": 2
+              },
+              "planet_id": "SolarSystemPlanet_C",
+              "orbits_planet": "SolarSystemPlanet_B",
+              "orbit_distance": 120,
+              "orbit_tilt": {
+                "x": 0,
+                "y": 1
+              },
+              "orbit_tilt_rotation": {
+                "x": 0,
+                "y": 0
+              },
+              "seconds_for_one_orbit": {
+                "x": 6500,
+                "y": 6800
+              },
+              "seconds_for_one_axis_rotation": {
+                "x": 1440,
+                "y": 100000
+              },
+              "seconds_for_one_ring_rotation": {
+                "x": 1440,
+                "y": 172800
+              },
+              "axis_tilt": {
+                "x": 5,
+                "y": 10
+              },
+              "axis_tilt_rotation": {
+                "x": 0,
+                "y": 360
+              },
+              "fog_light_intensity": 3,
+              "start_angle_range": {
+                "x": 205,
+                "y": 205
+              }
+            },
+            {
+              "planet_type": 8599329379766805025,
+              "ring_type": 0,
+              "planet_object_settings": {
+                "unit_id": 0,
+                "material_id": 0,
+                "ring_unit_id": 0,
+                "ring_material_id": 0,
+                "ring_scale_mult": 0,
+                "billboard_unit_id": 0,
+                "billboard_material_id": 0,
+                "billboard_scale_mult": 1,
+                "surface_color": {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "z": 0.5
+                },
+                "emissive_color": {
+                  "x": 1,
+                  "y": 0.910000026,
+                  "z": 0.779999971
+                },
+                "emissive_intensity": 0,
+                "ring_sorting_type": "RingSortingTypes_saturn_ring",
+                "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+              },
+              "scale": {
+                "x": 0.300000012,
+                "y": 0.300000012
+              },
+              "planet_id": "SolarSystemPlanet_D",
+              "orbits_planet": "SolarSystemPlanet_Mission",
+              "orbit_distance": 7,
+              "orbit_tilt": {
+                "x": 36,
+                "y": 36
+              },
+              "orbit_tilt_rotation": {
+                "x": 70,
+                "y": 75
+              },
+              "seconds_for_one_orbit": {
+                "x": 7860,
+                "y": 7860
+              },
+              "seconds_for_one_axis_rotation": {
+                "x": 1440,
+                "y": 100000
+              },
+              "seconds_for_one_ring_rotation": {
+                "x": 1440,
+                "y": 172800
+              },
+              "axis_tilt": {
+                "x": 8,
+                "y": 12
+              },
+              "axis_tilt_rotation": {
+                "x": 0,
+                "y": 360
+              },
+              "fog_light_intensity": 3,
+              "start_angle_range": {
+                "x": 265,
+                "y": 275
+              }
+            },
+            {
+              "planet_type": 12923692417760877139,
+              "ring_type": 0,
+              "planet_object_settings": {
+                "unit_id": 0,
+                "material_id": 0,
+                "ring_unit_id": 0,
+                "ring_material_id": 0,
+                "ring_scale_mult": 0,
+                "billboard_unit_id": 0,
+                "billboard_material_id": 0,
+                "billboard_scale_mult": 1,
+                "surface_color": {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "z": 0.5
+                },
+                "emissive_color": {
+                  "x": 1,
+                  "y": 0.910000026,
+                  "z": 0.779999971
+                },
+                "emissive_intensity": 0,
+                "ring_sorting_type": "RingSortingTypes_saturn_ring",
+                "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+              },
+              "scale": {
+                "x": 0.349999994,
+                "y": 0.349999994
+              },
+              "planet_id": "SolarSystemPlanet_E",
+              "orbits_planet": "SolarSystemPlanet_Mission",
+              "orbit_distance": 8,
+              "orbit_tilt": {
+                "x": 32,
+                "y": 32
+              },
+              "orbit_tilt_rotation": {
+                "x": 90,
+                "y": 90
+              },
+              "seconds_for_one_orbit": {
+                "x": 7860,
+                "y": 7860
+              },
+              "seconds_for_one_axis_rotation": {
+                "x": 1440,
+                "y": 100000
+              },
+              "seconds_for_one_ring_rotation": {
+                "x": 1440,
+                "y": 172800
+              },
+              "axis_tilt": {
+                "x": 5,
+                "y": 10
+              },
+              "axis_tilt_rotation": {
+                "x": 0,
+                "y": 360
+              },
+              "fog_light_intensity": 3,
+              "start_angle_range": {
+                "x": 165,
+                "y": 175
+              }
+            },
+            {
+              "planet_type": 15552351541206673665,
+              "ring_type": 0,
+              "planet_object_settings": {
+                "unit_id": 0,
+                "material_id": 0,
+                "ring_unit_id": 0,
+                "ring_material_id": 0,
+                "ring_scale_mult": 0,
+                "billboard_unit_id": 0,
+                "billboard_material_id": 0,
+                "billboard_scale_mult": 1,
+                "surface_color": {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "z": 0.5
+                },
+                "emissive_color": {
+                  "x": 1,
+                  "y": 0.910000026,
+                  "z": 0.779999971
+                },
+                "emissive_intensity": 0,
+                "ring_sorting_type": "RingSortingTypes_saturn_ring",
+                "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+              },
+              "scale": {
+                "x": 25,
+                "y": 25
+              },
+              "planet_id": "SolarSystemPlanet_F",
+              "orbits_planet": "SolarSystemPlanet_PlanetCount",
+              "orbit_distance": 1800,
+              "orbit_tilt": {
+                "x": 0,
+                "y": 0
+              },
+              "orbit_tilt_rotation": {
+                "x": 0,
+                "y": 0
+              },
+              "seconds_for_one_orbit": {
+                "x": 25000,
+                "y": 36000
+              },
+              "seconds_for_one_axis_rotation": {
+                "x": 1440,
+                "y": 100000
+              },
+              "seconds_for_one_ring_rotation": {
+                "x": 1440,
+                "y": 172800
+              },
+              "axis_tilt": {
+                "x": 0,
+                "y": 0
+              },
+              "axis_tilt_rotation": {
+                "x": 0,
+                "y": 0
+              },
+              "fog_light_intensity": 2.25,
+              "start_angle_range": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "planet_type": 7859116487092405064,
+              "ring_type": 0,
+              "planet_object_settings": {
+                "unit_id": 0,
+                "material_id": 0,
+                "ring_unit_id": 0,
+                "ring_material_id": 0,
+                "ring_scale_mult": 0,
+                "billboard_unit_id": 0,
+                "billboard_material_id": 0,
+                "billboard_scale_mult": 1,
+                "surface_color": {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "z": 0.5
+                },
+                "emissive_color": {
+                  "x": 1,
+                  "y": 0.910000026,
+                  "z": 0.779999971
+                },
+                "emissive_intensity": 0,
+                "ring_sorting_type": "RingSortingTypes_saturn_ring",
+                "solar_system_planet_type": "SolarSystemPlanetType_earthsized"
+              },
+              "scale": {
+                "x": 1.75,
+                "y": 1.75
+              },
+              "planet_id": "SolarSystemPlanet_G",
+              "orbits_planet": "SolarSystemPlanet_B",
+              "orbit_distance": 185,
+              "orbit_tilt": {
+                "x": 0,
+                "y": 1
+              },
+              "orbit_tilt_rotation": {
+                "x": 0,
+                "y": 0
+              },
+              "seconds_for_one_orbit": {
+                "x": 8200,
+                "y": 8600
+              },
+              "seconds_for_one_axis_rotation": {
+                "x": 1440,
+                "y": 100000
+              },
+              "seconds_for_one_ring_rotation": {
+                "x": 1440,
+                "y": 172800
+              },
+              "axis_tilt": {
+                "x": 0,
+                "y": 5
+              },
+              "axis_tilt_rotation": {
+                "x": 0,
+                "y": 360
+              },
+              "fog_light_intensity": 2,
+              "start_angle_range": {
+                "x": 35,
+                "y": 35
+              }
+            }
+          ],
+          "solar_system_ids": [
+            15652166661287128630
+          ],
+          "nighttime_reflectance_intensity_multipler": 1.25,
+          "fallback_light_color": {
+            "x": 0.792156994,
+            "y": 0.831372976,
+            "z": 1
+          },
+          "fallback_light_intensity": 1.35000002,
+          "fallback_fog_light_intensity": 1.35000002,
+          "needs_packages": [
+            11030322442520308123
+          ]
+        },
+        {
           "solar_system_name": "planet_desert_sandy_base_01",
           "solar_system_sun_settings": {
             "planet_type": 11753201422109595992,

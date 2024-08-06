@@ -25,5 +25,6 @@
     "do_knockback" : { "type": "byte" },
     "disable_default_surface_impact" : { "type": "byte" },
     "is_huge_explosion" : { "type": "byte" },
-    "look_for_audio_source_hijack" : { "type": "byte" }
+    "look_for_audio_source_hijack" : { "type": "byte" },
+    "requires_raycast_confirmation" : { "type": "byte" }
 }}

@@ -36795,168 +36795,8 @@
           "unit_resource": 15540715838714973718,
           "event_triggers": [
             {
-              "animation_event": 2303675578,
-              "sound_event": 0,
-              "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
-              "effect": {
-                "particle_effect": 8038565791857921227,
-                "offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "rotation_offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "node_id": 2008695318,
-                "trigger_emit_event": 0,
-                "link_option": "UnitEffectOrphanStrategy_Stop",
-                "inherit_rotation": 0,
-                "linked": 1,
-                "spawn_on_camera": 0
-              },
-              "camera_shake": {
-                "shake": 0,
-                "node_id": 0,
-                "offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "inner_radius": 1,
-                "inner_outer": 10,
-                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
-                "linked": 0
-              },
-              "set_visibility_group": [],
-              "scale_node": []
-            },
-            {
-              "animation_event": 1523383636,
-              "sound_event": 0,
-              "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
-              "effect": {
-                "particle_effect": 1973487011100491658,
-                "offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "rotation_offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "node_id": 3078133584,
-                "trigger_emit_event": 0,
-                "link_option": "UnitEffectOrphanStrategy_Stop",
-                "inherit_rotation": 1,
-                "linked": 1,
-                "spawn_on_camera": 0
-              },
-              "camera_shake": {
-                "shake": 0,
-                "node_id": 0,
-                "offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "inner_radius": 1,
-                "inner_outer": 10,
-                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
-                "linked": 0
-              },
-              "set_visibility_group": [],
-              "scale_node": []
-            },
-            {
-              "animation_event": 1523383636,
-              "sound_event": 0,
-              "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
-              "effect": {
-                "particle_effect": 8990512449795994355,
-                "offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "rotation_offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "node_id": 4166853619,
-                "trigger_emit_event": 0,
-                "link_option": "UnitEffectOrphanStrategy_Stop",
-                "inherit_rotation": 1,
-                "linked": 1,
-                "spawn_on_camera": 0
-              },
-              "camera_shake": {
-                "shake": 0,
-                "node_id": 0,
-                "offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "inner_radius": 1,
-                "inner_outer": 10,
-                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
-                "linked": 0
-              },
-              "set_visibility_group": [],
-              "scale_node": []
-            },
-            {
-              "animation_event": 1523383636,
-              "sound_event": 0,
-              "owner_specific_sound_event": 0,
-              "sound_node_id": 0,
-              "effect": {
-                "particle_effect": 2776557974037871712,
-                "offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "rotation_offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "node_id": 987999469,
-                "trigger_emit_event": 0,
-                "link_option": "UnitEffectOrphanStrategy_Stop",
-                "inherit_rotation": 1,
-                "linked": 1,
-                "spawn_on_camera": 0
-              },
-              "camera_shake": {
-                "shake": 0,
-                "node_id": 0,
-                "offset": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "inner_radius": 1,
-                "inner_outer": 10,
-                "orphaned_policy": "UnitEffectOrphanStrategy_Stop",
-                "linked": 0
-              },
-              "set_visibility_group": [],
-              "scale_node": []
-            },
-            {
               "animation_event": 72050415,
-              "sound_event": 0,
+              "sound_event": 1007897457,
               "owner_specific_sound_event": 0,
               "sound_node_id": 3590283737,
               "effect": {
@@ -36996,7 +36836,7 @@
             },
             {
               "animation_event": 1615697672,
-              "sound_event": 0,
+              "sound_event": 2371826913,
               "owner_specific_sound_event": 0,
               "sound_node_id": 1504755543,
               "effect": {
@@ -42185,6 +42025,14 @@
         },
         {
           "unit_resource": 11432560202897483622,
+          "event_triggers": []
+        },
+        {
+          "unit_resource": 7435299642389799754,
+          "event_triggers": []
+        },
+        {
+          "unit_resource": 15922730753540746811,
           "event_triggers": []
         }
       ]

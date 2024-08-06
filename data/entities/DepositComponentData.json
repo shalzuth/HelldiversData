@@ -468,9 +468,9 @@
     "assisted_reload_weapon_path": 2714034314705433838
   },
   "2692796710804508396": {
-    "capacity": 6,
-    "start_amount": 6,
-    "refill_amount": 6,
+    "capacity": 8,
+    "start_amount": 8,
+    "refill_amount": 8,
     "deduct_owner_vo_event": 195519030,
     "last_deduct_owner_vo_event": 3187204892,
     "drone_path": 11601043503813400874,
@@ -500,7 +500,7 @@
       0
     ],
     "node_hiding_order_post_anim_event": 0,
-    "refill_style": "DepositRefill_Supplies",
+    "refill_style": "DepositRefill_Ammo",
     "assisted_reload_weapon_path": 0
   },
   "16125342225783174778": {

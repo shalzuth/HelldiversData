@@ -7,7 +7,7 @@
           "damage_type": "DamageInfoType_Explosion_Boomer_AcidDeath",
           "fallback_damage_loc_name": 0,
           "inner_radius": 4,
-          "outer_radius": 8,
+          "outer_radius": 10,
           "stagger_radius": 11,
           "cone_angle": 0,
           "camera_shake_radius": 45,
@@ -31,7 +31,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Warrior_AcidDeath",
@@ -62,7 +63,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Scavenger_AcidDeath",
@@ -93,7 +95,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Scavenger_AcidBall",
@@ -122,7 +125,8 @@
           "do_knockback": 0,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Strider_AcidStream",
@@ -153,7 +157,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_TunnelerEmerge",
@@ -184,7 +189,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Strider_Stomp",
@@ -215,7 +221,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_BugTrap",
@@ -246,7 +253,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_BugHoleCollapse",
@@ -277,7 +285,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Bug_Artillery",
@@ -308,7 +317,40 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_Bug_Charger_Acid_Death",
+          "damage_type": "DamageInfoType_Explosion_Boomer_AcidDeath",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 5,
+          "outer_radius": 15,
+          "stagger_radius": 20,
+          "cone_angle": 0,
+          "camera_shake_radius": 65,
+          "shake_assets": [
+            4859335918958498102
+          ],
+          "particle_effect_path": 7219159158307390925,
+          "audio_event": 519735564,
+          "crater_type": "TerrainDeformationType_Small",
+          "surface_impact_type": "SurfaceImpactType_explosion_medium",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Large_Explosion_Orbital",
+          "wind_effect_template": "WindEffectTemplate_None",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 0,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_HandGrenade_Antitank",
@@ -339,7 +381,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_HandGrenade_HighExplosive",
@@ -356,7 +399,7 @@
           "particle_effect_path": 1502381858916378495,
           "audio_event": 2318801351,
           "crater_type": "TerrainDeformationType_Large",
-          "surface_impact_type": "SurfaceImpactType_explosion_large",
+          "surface_impact_type": "SurfaceImpactType_projectile_explosive_he",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -370,7 +413,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Mortar_Base_Shell_Explosion",
@@ -401,7 +445,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Projectile_LightCannon",
@@ -432,7 +477,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Projectile_HeavyCannon",
@@ -463,7 +509,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Projectile_SpawnerMountedCannon",
@@ -494,7 +541,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Projectile_Shotgun_Flakblast",
@@ -525,7 +573,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Projectile_LightRocket",
@@ -556,23 +605,24 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
-          "type": "ExplosionType_Cyborg_Projectile_HeavyRocket",
+          "type": "ExplosionType_Cyborg_Projectile_MediumRocket",
           "damage_type": "DamageInfoType_Explosion_Projectile_CyborgHeavyRocket",
           "fallback_damage_loc_name": 0,
           "inner_radius": 1,
-          "outer_radius": 10,
-          "stagger_radius": 25,
+          "outer_radius": 6,
+          "stagger_radius": 9,
           "cone_angle": 0,
-          "camera_shake_radius": 350,
+          "camera_shake_radius": 15,
           "shake_assets": [
             904086511851866345,
             18018031293114263148
           ],
           "particle_effect_path": 15924496016359710183,
-          "audio_event": 1703541148,
+          "audio_event": 2408045572,
           "crater_type": "TerrainDeformationType_Large",
           "surface_impact_type": "SurfaceImpactType_None",
           "hit_effect_damage_type": "HitEffectDamageType_None",
@@ -588,7 +638,74 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_Cyborg_Projectile_HeavyRocket",
+          "damage_type": "DamageInfoType_Explosion_Projectile_CyborgHeavyRocket",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 2,
+          "outer_radius": 10,
+          "stagger_radius": 20,
+          "cone_angle": 0,
+          "camera_shake_radius": 40,
+          "shake_assets": [
+            904086511851866345,
+            18018031293114263148
+          ],
+          "particle_effect_path": 15924496016359710183,
+          "audio_event": 2408045572,
+          "crater_type": "TerrainDeformationType_Large",
+          "surface_impact_type": "SurfaceImpactType_None",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Large_Explosion_Orbital",
+          "wind_effect_template": "WindEffectTemplate_LargeExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 1,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_Cyborg_Tank_Projectile_HeavyRocket",
+          "damage_type": "DamageInfoType_Explosion_Projectile_CyborgHeavyRocket",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 2,
+          "outer_radius": 10,
+          "stagger_radius": 20,
+          "cone_angle": 0,
+          "camera_shake_radius": 40,
+          "shake_assets": [
+            904086511851866345,
+            18018031293114263148
+          ],
+          "particle_effect_path": 15924496016359710183,
+          "audio_event": 3990017359,
+          "crater_type": "TerrainDeformationType_Large",
+          "surface_impact_type": "SurfaceImpactType_None",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Large_Explosion_Orbital",
+          "wind_effect_template": "WindEffectTemplate_LargeExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 1,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_PlasmaBackpackOverload",
@@ -619,7 +736,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_FlamerBackpackOverload",
@@ -650,7 +768,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Mine",
@@ -681,7 +800,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Vehicle_Medium_Death",
@@ -713,7 +833,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Tank_Turret_Death",
@@ -745,7 +866,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Vehicle_Large_Death_Air",
@@ -777,7 +899,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Dropship_Death_Air",
@@ -809,7 +932,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Fabricator_Fall_Impact",
@@ -840,7 +964,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Vehicle_Large_Death_Ground",
@@ -872,7 +997,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Vehicle_Medium_Death_Ground",
@@ -904,7 +1030,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Factory_Spawner",
@@ -936,7 +1063,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Dropship_Death_Ground",
@@ -968,7 +1096,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Fabricator_Large_Death_Ground",
@@ -1000,7 +1129,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Vehicle_Huge_Death",
@@ -1032,7 +1162,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_DropshipCrash",
@@ -1049,7 +1180,7 @@
           "particle_effect_path": 0,
           "audio_event": 764353710,
           "crater_type": "TerrainDeformationType_Medium",
-          "surface_impact_type": "SurfaceImpactType_explosion_large",
+          "surface_impact_type": "SurfaceImpactType_explosion_huge",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -1063,7 +1194,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_DropshipCrash_Medium",
@@ -1094,7 +1226,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_GunshipCrash_Medium",
@@ -1125,7 +1258,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_DropshipCrash_Large",
@@ -1156,7 +1290,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_GunshipCrash_Large",
@@ -1187,7 +1322,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_ThrusterExplosion",
@@ -1218,7 +1354,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Artillery",
@@ -1250,7 +1387,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Frag",
@@ -1281,7 +1419,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Flash",
@@ -1312,7 +1451,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Incendiary",
@@ -1343,7 +1483,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Thermite",
@@ -1374,7 +1515,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HighExplosive",
@@ -1405,7 +1547,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Impact",
@@ -1436,7 +1579,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_12g_Frag",
@@ -1467,7 +1611,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_12g_HE",
@@ -1498,7 +1643,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Plasma_Bolt_Small",
@@ -1529,7 +1675,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Plasma_Bolt_Medium",
@@ -1560,7 +1707,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Plasma_Bolt_Medium_Volatile",
@@ -1591,7 +1739,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Plasma_Bolt_Large",
@@ -1622,7 +1771,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Plasma_Rifle_Charge",
@@ -1653,7 +1803,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Punisher_Plasma_Explosion",
@@ -1684,7 +1835,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Plasma_Cone",
@@ -1715,36 +1867,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
-        },
-        {
-          "type": "ExplosionType_Punisher_Dragon_Cone",
-          "damage_type": "DamageInfoType_Projectile_Shotgun_10g_fir",
-          "fallback_damage_loc_name": 0,
-          "inner_radius": 8,
-          "outer_radius": 15,
-          "stagger_radius": 15.1000004,
-          "cone_angle": 15,
-          "camera_shake_radius": 15.1999998,
-          "shake_assets": [],
-          "particle_effect_path": 0,
-          "audio_event": 0,
-          "crater_type": "TerrainDeformationType_None",
-          "surface_impact_type": "SurfaceImpactType_None",
-          "hit_effect_damage_type": "HitEffectDamageType_None",
-          "num_shrapnel_projectiles": 0,
-          "shrapnel_projectile_type": "ProjectileType_None",
-          "noise_template": "NoiseTemplate_Small_Explosion_Frag",
-          "wind_effect_template": "WindEffectTemplate_SmallExplosion",
-          "fire_template": "FireTemplate_None",
-          "persistent_status_volume": "StatusEffectTemplateType_None",
-          "status_volume_effect_time": 0,
-          "status_volume_effect_audio_play": 0,
-          "status_volume_effect_audio_stop": 0,
-          "do_knockback": 1,
-          "disable_default_surface_impact": 1,
-          "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 1
         },
         {
           "type": "ExplosionType_Crossbow_Bolt",
@@ -1775,7 +1899,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_40mm_HE",
@@ -1806,7 +1931,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_40mm_HE_MK2",
@@ -1837,7 +1963,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_40mm_Stun",
@@ -1868,7 +1995,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_40mm_ProximityCone",
@@ -1899,7 +2027,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_40mm_Incendiary",
@@ -1930,7 +2059,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_Mortar_40mm_HE",
@@ -1961,7 +2091,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_Mortar_40mm_Staticfield",
@@ -1992,7 +2123,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_85mm_HE",
@@ -2023,7 +2155,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_85mm_HE_MK2",
@@ -2054,7 +2187,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_85mm_HEAT",
@@ -2085,7 +2219,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_85mm_HEAT_MK2",
@@ -2116,7 +2251,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_75mm_HEAT",
@@ -2147,7 +2283,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Flak_20mm",
@@ -2178,7 +2315,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_JarPhoenix_20mm",
@@ -2209,7 +2347,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_APHET_20mm",
@@ -2240,7 +2379,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Laser_Pulse",
@@ -2271,7 +2411,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HE_20mm",
@@ -2302,7 +2443,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cannon_23mm_silent",
@@ -2333,7 +2475,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 1
+          "look_for_audio_source_hijack": 1,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cannon_23mm",
@@ -2364,7 +2507,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 1
+          "look_for_audio_source_hijack": 1,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_APHE_30mm",
@@ -2395,7 +2539,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Flak_40mm",
@@ -2426,7 +2571,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_APHE_40mm",
@@ -2457,7 +2603,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalShot",
@@ -2489,7 +2636,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalShot_MK2",
@@ -2521,7 +2669,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalStrike",
@@ -2552,7 +2701,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalStrike_Cheap",
@@ -2583,7 +2733,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalBarrage",
@@ -2615,7 +2766,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_PrecisionStrike",
@@ -2647,7 +2799,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalBarrage_Cheap",
@@ -2679,7 +2832,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalBarrage_MK2",
@@ -2711,7 +2865,72 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_Orbital_Napalm",
+          "damage_type": "DamageInfoType_Explosion_Orbital_Napalm",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 3.29999995,
+          "outer_radius": 10,
+          "stagger_radius": 11,
+          "cone_angle": 0,
+          "camera_shake_radius": 60,
+          "shake_assets": [
+            4859335918958498102
+          ],
+          "particle_effect_path": 11815062126170890948,
+          "audio_event": 3060509309,
+          "crater_type": "TerrainDeformationType_Scorch",
+          "surface_impact_type": "SurfaceImpactType_explosion_large",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Large_Explosion_Orbital",
+          "wind_effect_template": "WindEffectTemplate_MediumExplosion",
+          "fire_template": "FireTemplate_Large",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 0,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_Orbital_Napalm_Cheap",
+          "damage_type": "DamageInfoType_Explosion_Orbital_Napalm",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 3.29999995,
+          "outer_radius": 10,
+          "stagger_radius": 11,
+          "cone_angle": 0,
+          "camera_shake_radius": 60,
+          "shake_assets": [
+            4859335918958498102
+          ],
+          "particle_effect_path": 11815062126170890948,
+          "audio_event": 3060509309,
+          "crater_type": "TerrainDeformationType_Scorch",
+          "surface_impact_type": "SurfaceImpactType_explosion_large_cheap",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Large_Explosion_Orbital",
+          "wind_effect_template": "WindEffectTemplate_MediumExplosion",
+          "fire_template": "FireTemplate_Large",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 0,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalStun",
@@ -2742,7 +2961,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalStun_MK2",
@@ -2773,7 +2993,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalStun_MK3",
@@ -2804,7 +3025,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalGas",
@@ -2821,7 +3043,7 @@
           "particle_effect_path": 12649169394248892414,
           "audio_event": 2712676507,
           "crater_type": "TerrainDeformationType_None",
-          "surface_impact_type": "SurfaceImpactType_explosion_small",
+          "surface_impact_type": "SurfaceImpactType_explosion_gas",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -2835,7 +3057,40 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_GasGrenade",
+          "damage_type": "DamageInfoType_Explosion_Projectile_OrbitalGas",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 1,
+          "outer_radius": 15,
+          "stagger_radius": 20,
+          "cone_angle": 0,
+          "camera_shake_radius": 75,
+          "shake_assets": [
+            4859335918958498102
+          ],
+          "particle_effect_path": 12649169394248892414,
+          "audio_event": 4052363041,
+          "crater_type": "TerrainDeformationType_None",
+          "surface_impact_type": "SurfaceImpactType_explosion_gas",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Small_Explosion_Frag",
+          "wind_effect_template": "WindEffectTemplate_MediumExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_Gas",
+          "status_volume_effect_time": 15,
+          "status_volume_effect_audio_play": 1581849071,
+          "status_volume_effect_audio_stop": 2063044354,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 1,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalGas_MK2",
@@ -2852,7 +3107,7 @@
           "particle_effect_path": 8975322651238734880,
           "audio_event": 2712676507,
           "crater_type": "TerrainDeformationType_None",
-          "surface_impact_type": "SurfaceImpactType_explosion_small",
+          "surface_impact_type": "SurfaceImpactType_explosion_gas",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -2866,7 +3121,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalGas_MK3",
@@ -2883,7 +3139,7 @@
           "particle_effect_path": 8975322651238734880,
           "audio_event": 2712676507,
           "crater_type": "TerrainDeformationType_None",
-          "surface_impact_type": "SurfaceImpactType_explosion_small",
+          "surface_impact_type": "SurfaceImpactType_explosion_gas",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -2897,7 +3153,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalSmoke",
@@ -2912,7 +3169,7 @@
           "particle_effect_path": 9092876917623866828,
           "audio_event": 3677737584,
           "crater_type": "TerrainDeformationType_None",
-          "surface_impact_type": "SurfaceImpactType_explosion_small",
+          "surface_impact_type": "SurfaceImpactType_explosion_smoke",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -2926,7 +3183,8 @@
           "do_knockback": 0,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_AirStrikeSmoke",
@@ -2941,7 +3199,7 @@
           "particle_effect_path": 620844143656664246,
           "audio_event": 3677737584,
           "crater_type": "TerrainDeformationType_None",
-          "surface_impact_type": "SurfaceImpactType_explosion_small",
+          "surface_impact_type": "SurfaceImpactType_explosion_smoke",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -2955,7 +3213,8 @@
           "do_knockback": 0,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OrbitalFlare",
@@ -2984,7 +3243,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Railcannon_Impact",
@@ -3015,7 +3275,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HeavyShrapnel",
@@ -3046,7 +3307,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HeavyShrapnel_Clusterbombs",
@@ -3077,7 +3339,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 1
+          "look_for_audio_source_hijack": 1,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HeavyShrapnel_MK2",
@@ -3108,7 +3371,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_MapBoundary",
@@ -3139,7 +3403,8 @@
           "do_knockback": 0,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HellpodImpact",
@@ -3170,7 +3435,200 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_TentacleImpact",
+          "damage_type": "DamageInfoType_Explosion_TentacleImpact",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 1.79999995,
+          "outer_radius": 2.79999995,
+          "stagger_radius": 2.79999995,
+          "cone_angle": 0,
+          "camera_shake_radius": 75,
+          "shake_assets": [
+            2751149187467011258
+          ],
+          "particle_effect_path": 0,
+          "audio_event": 0,
+          "crater_type": "TerrainDeformationType_Medium",
+          "surface_impact_type": "SurfaceImpactType_None",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
+          "wind_effect_template": "WindEffectTemplate_Hellpod",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 0,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_TentacleImpactFake",
+          "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 5,
+          "outer_radius": 5,
+          "stagger_radius": 5,
+          "cone_angle": 0,
+          "camera_shake_radius": 6,
+          "shake_assets": [
+            2751149187467011258
+          ],
+          "particle_effect_path": 0,
+          "audio_event": 0,
+          "crater_type": "TerrainDeformationType_Medium",
+          "surface_impact_type": "SurfaceImpactType_bug_impaler_tentacle_attack_impact",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
+          "wind_effect_template": "WindEffectTemplate_Hellpod",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 0,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_Impaler_Summon_Tentacles_Fake",
+          "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 5,
+          "outer_radius": 5,
+          "stagger_radius": 5,
+          "cone_angle": 0,
+          "camera_shake_radius": 6,
+          "shake_assets": [
+            2751149187467011258
+          ],
+          "particle_effect_path": 0,
+          "audio_event": 0,
+          "crater_type": "TerrainDeformationType_Medium",
+          "surface_impact_type": "SurfaceImpactType_bug_impaler_summon_tentacles",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
+          "wind_effect_template": "WindEffectTemplate_Hellpod",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 0,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_TentacleEmerge",
+          "damage_type": "DamageInfoType_Explosion_TentacleImpact",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 1.79999995,
+          "outer_radius": 2.79999995,
+          "stagger_radius": 2.79999995,
+          "cone_angle": 0,
+          "camera_shake_radius": 75,
+          "shake_assets": [
+            2751149187467011258
+          ],
+          "particle_effect_path": 0,
+          "audio_event": 0,
+          "crater_type": "TerrainDeformationType_Medium",
+          "surface_impact_type": "SurfaceImpactType_None",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
+          "wind_effect_template": "WindEffectTemplate_Hellpod",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 0,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_TentacleEmergeFake",
+          "damage_type": "DamageInfoType_None",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 5,
+          "outer_radius": 5,
+          "stagger_radius": 5,
+          "cone_angle": 0,
+          "camera_shake_radius": 6,
+          "shake_assets": [
+            2751149187467011258
+          ],
+          "particle_effect_path": 0,
+          "audio_event": 0,
+          "crater_type": "TerrainDeformationType_Medium",
+          "surface_impact_type": "SurfaceImpactType_bug_impaler_tentacle_ground_emerge",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Medium_Explosion_Vehicle",
+          "wind_effect_template": "WindEffectTemplate_Hellpod",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 0,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_HellpodImpact_FieryDrop",
+          "damage_type": "DamageInfoType_Explosion_HellpodImpact_FieryDrop",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 2,
+          "outer_radius": 4,
+          "stagger_radius": 4,
+          "cone_angle": 0,
+          "camera_shake_radius": 30,
+          "shake_assets": [
+            4859335918958498102
+          ],
+          "particle_effect_path": 14663182562327770387,
+          "audio_event": 2021596241,
+          "crater_type": "TerrainDeformationType_Scorch",
+          "surface_impact_type": "SurfaceImpactType_explosion_small",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Small_Explosion_Frag",
+          "wind_effect_template": "WindEffectTemplate_SmallExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 1,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HellpodImpact_Silent",
@@ -3199,7 +3657,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HellpodExplosion",
@@ -3230,7 +3689,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Hellbomb",
@@ -3247,7 +3707,7 @@
           "particle_effect_path": 4707019721569658447,
           "audio_event": 1160336653,
           "crater_type": "TerrainDeformationType_Nuke",
-          "surface_impact_type": "SurfaceImpactType_explosion_large",
+          "surface_impact_type": "SurfaceImpactType_explosion_500kg",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -3261,7 +3721,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 1,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_BackblastSmall",
@@ -3292,7 +3753,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_BackblastMedium",
@@ -3323,7 +3785,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_BackblastLarge",
@@ -3354,7 +3817,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_BackblastHuge",
@@ -3385,7 +3849,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Backblast_LargeConfined",
@@ -3416,7 +3881,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_RailgunOvercharge",
@@ -3447,7 +3913,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_ClusterBomb",
@@ -3479,7 +3946,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 1
+          "look_for_audio_source_hijack": 1,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleBomb_100kg",
@@ -3511,7 +3979,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleBomb_100kg_MK2",
@@ -3543,7 +4012,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleBomb_100kg_MK3",
@@ -3575,7 +4045,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleBomb_Napalm",
@@ -3606,7 +4077,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleBomb_Napalm_MK2",
@@ -3637,7 +4109,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleBomb_Napalm_MK3",
@@ -3668,7 +4141,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleBomb_500kg",
@@ -3686,7 +4160,7 @@
           "particle_effect_path": 6028680370941288839,
           "audio_event": 1703541148,
           "crater_type": "TerrainDeformationType_Large",
-          "surface_impact_type": "SurfaceImpactType_explosion_huge",
+          "surface_impact_type": "SurfaceImpactType_explosion_500kg",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -3700,7 +4174,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 1,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleBomb_500kg_MK2",
@@ -3718,7 +4193,7 @@
           "particle_effect_path": 6028680370941288839,
           "audio_event": 1703541148,
           "crater_type": "TerrainDeformationType_Large",
-          "surface_impact_type": "SurfaceImpactType_explosion_huge",
+          "surface_impact_type": "SurfaceImpactType_explosion_500kg",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -3732,7 +4207,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 1,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleBomb_500kg_MK3",
@@ -3750,7 +4226,7 @@
           "particle_effect_path": 6028680370941288839,
           "audio_event": 1703541148,
           "crater_type": "TerrainDeformationType_Large",
-          "surface_impact_type": "SurfaceImpactType_explosion_huge",
+          "surface_impact_type": "SurfaceImpactType_explosion_500kg",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -3764,7 +4240,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 1,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EagleMissile",
@@ -3795,7 +4272,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_FafMissile",
@@ -3826,7 +4304,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_FafMissile_MK2",
@@ -3857,7 +4336,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_StingerMissile",
@@ -3888,7 +4368,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Mini_Missile_Silo",
@@ -3906,7 +4387,7 @@
           "particle_effect_path": 14807490550540873943,
           "audio_event": 1703541148,
           "crater_type": "TerrainDeformationType_Large",
-          "surface_impact_type": "SurfaceImpactType_None",
+          "surface_impact_type": "SurfaceImpactType_explosion_500kg",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -3920,7 +4401,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Mini_Missile_Silo_MK2",
@@ -3938,7 +4420,7 @@
           "particle_effect_path": 14807490550540873943,
           "audio_event": 1703541148,
           "crater_type": "TerrainDeformationType_Large",
-          "surface_impact_type": "SurfaceImpactType_None",
+          "surface_impact_type": "SurfaceImpactType_explosion_500kg",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -3952,7 +4434,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Missile_66mm",
@@ -3983,7 +4466,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Missile_66mm_MK2",
@@ -4014,7 +4498,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Combat_Walker_Missile",
@@ -4045,7 +4530,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Combat_Walker_Missile_MK2",
@@ -4076,7 +4562,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Rocket_70mm_turret",
@@ -4107,7 +4594,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Rocket_70mm",
@@ -4138,7 +4626,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Rocket_70mm_HE",
@@ -4169,7 +4658,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Rocket_110mm",
@@ -4200,7 +4690,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Rocket_110mm_silent",
@@ -4231,7 +4722,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_CarpetBomb_200kg",
@@ -4249,7 +4741,7 @@
           "particle_effect_path": 9922925719279307245,
           "audio_event": 1703541148,
           "crater_type": "TerrainDeformationType_Large",
-          "surface_impact_type": "SurfaceImpactType_None",
+          "surface_impact_type": "SurfaceImpactType_explosion_huge",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -4263,7 +4755,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Vehicle_Explosion_Small",
@@ -4294,7 +4787,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Vehicle_Explosion_Medium",
@@ -4325,7 +4819,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Vehicle_Explosion_Large",
@@ -4356,7 +4851,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Vehicle_Explosion_CombatWalker",
@@ -4387,7 +4883,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_ContactMine",
@@ -4418,7 +4915,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_IncendiaryMine",
@@ -4449,7 +4947,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_AntiTankMine",
@@ -4480,7 +4979,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_ContactMine_MK2",
@@ -4511,7 +5011,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_ContactMine_Flash",
@@ -4542,7 +5043,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Bomb_Impact",
@@ -4559,7 +5061,7 @@
           "particle_effect_path": 0,
           "audio_event": 0,
           "crater_type": "TerrainDeformationType_Small",
-          "surface_impact_type": "SurfaceImpactType_projectile_500kgbomb",
+          "surface_impact_type": "SurfaceImpactType_projectile_explosive_he",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -4573,7 +5075,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Bomb_Impact_Smoke",
@@ -4590,7 +5093,7 @@
           "particle_effect_path": 0,
           "audio_event": 3703290885,
           "crater_type": "TerrainDeformationType_Small",
-          "surface_impact_type": "SurfaceImpactType_projectile_500kgbomb",
+          "surface_impact_type": "SurfaceImpactType_projectile_explosive_he",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -4604,7 +5107,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_500kg_Initial_Impact",
@@ -4621,7 +5125,7 @@
           "particle_effect_path": 0,
           "audio_event": 3803630160,
           "crater_type": "TerrainDeformationType_Small",
-          "surface_impact_type": "SurfaceImpactType_projectile_500kgbomb",
+          "surface_impact_type": "SurfaceImpactType_projectile_explosive_he",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -4635,7 +5139,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Turret_Destroyed",
@@ -4666,7 +5171,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Nuke",
@@ -4697,7 +5203,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 1,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Flashield",
@@ -4726,7 +5233,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_SAM_Missile",
@@ -4757,7 +5265,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Grenade_Smoke",
@@ -4772,7 +5281,7 @@
           "particle_effect_path": 9092876917623866828,
           "audio_event": 652370206,
           "crater_type": "TerrainDeformationType_None",
-          "surface_impact_type": "SurfaceImpactType_None",
+          "surface_impact_type": "SurfaceImpactType_explosion_smoke",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -4786,7 +5295,8 @@
           "do_knockback": 0,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Primary_Airburst",
@@ -4817,7 +5327,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_AirburstCluster",
@@ -4848,7 +5359,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_AirburstCluster_Bomb",
@@ -4879,7 +5391,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 1
+          "look_for_audio_source_hijack": 1,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Primary_Cluster",
@@ -4910,7 +5423,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Primary_ScatterShot",
@@ -4941,7 +5455,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_SEAF_Gun_Explosive",
@@ -4973,7 +5488,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_SEAF_Gun_High_Yield_Explosive",
@@ -4991,7 +5507,7 @@
           "particle_effect_path": 6028680370941288839,
           "audio_event": 1703541148,
           "crater_type": "TerrainDeformationType_Large",
-          "surface_impact_type": "SurfaceImpactType_explosion_huge",
+          "surface_impact_type": "SurfaceImpactType_explosion_500kg",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -5005,7 +5521,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_SEAF_Gun_Mini_Nuke",
@@ -5022,7 +5539,7 @@
           "particle_effect_path": 4707019721569658447,
           "audio_event": 1160336653,
           "crater_type": "TerrainDeformationType_Nuke",
-          "surface_impact_type": "SurfaceImpactType_explosion_large",
+          "surface_impact_type": "SurfaceImpactType_explosion_500kg",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -5036,7 +5553,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 1,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_SEAF_Gun_Smoke",
@@ -5051,7 +5569,7 @@
           "particle_effect_path": 9092876917623866828,
           "audio_event": 3677737584,
           "crater_type": "TerrainDeformationType_None",
-          "surface_impact_type": "SurfaceImpactType_explosion_small",
+          "surface_impact_type": "SurfaceImpactType_explosion_smoke",
           "hit_effect_damage_type": "HitEffectDamageType_None",
           "num_shrapnel_projectiles": 0,
           "shrapnel_projectile_type": "ProjectileType_None",
@@ -5065,7 +5583,8 @@
           "do_knockback": 0,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_SEAF_Gun_Napalm",
@@ -5096,7 +5615,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_SEAF_Gun_EMP",
@@ -5127,7 +5647,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Illuminate_IllusionistDeath",
@@ -5158,7 +5679,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Illuminate_TripodDeath",
@@ -5189,7 +5711,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Illuminate_StaffGuyGroundImpale",
@@ -5220,7 +5743,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Illuminate_Projectile_Huge",
@@ -5251,7 +5775,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Illuminate_IllusionistSmallball",
@@ -5282,7 +5807,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Illuminate_AdeptCircle",
@@ -5313,7 +5839,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_AdeptShockwave",
@@ -5344,7 +5871,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Illuminate_Medium",
@@ -5375,7 +5903,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_ICBM_takeoff",
@@ -5406,7 +5935,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_ICBM_takeoffIntense",
@@ -5435,7 +5965,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_ICBM_explode",
@@ -5466,7 +5997,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Prop_Small",
@@ -5497,7 +6029,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Prop_Medium",
@@ -5528,7 +6061,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Prop_Large",
@@ -5559,7 +6093,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Prop_Huge",
@@ -5590,7 +6125,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Building_Crumble_Small",
@@ -5621,7 +6157,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Building_Crumble_Medium",
@@ -5652,7 +6189,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Building_Crumble_Large",
@@ -5683,7 +6221,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Building_Crumble_Huge",
@@ -5714,7 +6253,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_BugDrill",
@@ -5745,7 +6285,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_fueltank_large",
@@ -5776,7 +6317,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_OilField",
@@ -5807,7 +6349,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Barrel_Small",
@@ -5838,7 +6381,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Barrel_Medium",
@@ -5869,7 +6413,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Barrel_Large",
@@ -5900,7 +6445,40 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
+        },
+        {
+          "type": "ExplosionType_Cyborg_Grinder",
+          "damage_type": "DamageInfoType_Explosion_Prop_Barrel",
+          "fallback_damage_loc_name": 0,
+          "inner_radius": 0.600000024,
+          "outer_radius": 6,
+          "stagger_radius": 15,
+          "cone_angle": 0,
+          "camera_shake_radius": 70,
+          "shake_assets": [
+            4859335918958498102
+          ],
+          "particle_effect_path": 10451108917084467210,
+          "audio_event": 0,
+          "crater_type": "TerrainDeformationType_Small",
+          "surface_impact_type": "SurfaceImpactType_explosion_large",
+          "hit_effect_damage_type": "HitEffectDamageType_None",
+          "num_shrapnel_projectiles": 0,
+          "shrapnel_projectile_type": "ProjectileType_None",
+          "noise_template": "NoiseTemplate_Small_Explosion_Frag",
+          "wind_effect_template": "WindEffectTemplate_MediumExplosion",
+          "fire_template": "FireTemplate_None",
+          "persistent_status_volume": "StatusEffectTemplateType_None",
+          "status_volume_effect_time": 0,
+          "status_volume_effect_audio_play": 0,
+          "status_volume_effect_audio_stop": 0,
+          "do_knockback": 1,
+          "disable_default_surface_impact": 1,
+          "is_huge_explosion": 0,
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Chemical_Backpack",
@@ -5931,7 +6509,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Retrieve_Larva_Backpack",
@@ -5962,7 +6541,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Ammo_Cache",
@@ -5994,7 +6574,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Cyborg_Fuel_Silo",
@@ -6026,7 +6607,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Tower_Collapse",
@@ -6057,7 +6639,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Dummy",
@@ -6086,7 +6669,8 @@
           "do_knockback": 0,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Geyser_Erupt_Small",
@@ -6117,7 +6701,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Geyser_Erupt_Medium",
@@ -6148,7 +6733,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Geyser_Erupt_Large",
@@ -6179,7 +6765,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_World_Meteor",
@@ -6211,7 +6798,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_World_Escape_Pod_Crash",
@@ -6243,7 +6831,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_World_Earthquake",
@@ -6274,7 +6863,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 1,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Ritual_Earthquake",
@@ -6305,7 +6895,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_GasChimney",
@@ -6336,7 +6927,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_World_VolcanoStrike",
@@ -6368,7 +6960,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 0,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HellDummy",
@@ -6399,7 +6992,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_MoorMushroom_Smoke",
@@ -6428,7 +7022,8 @@
           "do_knockback": 0,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_MoorMushroom_Burst",
@@ -6459,7 +7054,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_IlluminatePowerNode",
@@ -6490,7 +7086,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_GateCrush",
@@ -6521,7 +7118,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_EmbryoCluster_Burst",
@@ -6552,7 +7150,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Snowball_Stun",
@@ -6583,7 +7182,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Spikeplant_Shrapnel_Explosion",
@@ -6614,7 +7214,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Iceplant_Shatter",
@@ -6645,7 +7246,8 @@
           "do_knockback": 0,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Conscript_Backpack_Explosion",
@@ -6676,7 +7278,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Conscript_Backpack_LMG",
@@ -6707,7 +7310,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_Conscript_Backpack_Flamer",
@@ -6738,7 +7342,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_StaticField_Sentry",
@@ -6769,7 +7374,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         },
         {
           "type": "ExplosionType_HMD_Generator_Crumble",
@@ -6800,7 +7406,8 @@
           "do_knockback": 1,
           "disable_default_surface_impact": 1,
           "is_huge_explosion": 0,
-          "look_for_audio_source_hijack": 0
+          "look_for_audio_source_hijack": 0,
+          "requires_raycast_confirmation": 0
         }
       ]
     }

@@ -599,6 +599,66 @@
     "anim_variable_turn_speed": 1594106754,
     "anim_variable_turn_speed_max": 180
   },
+  "6116178405309884875": {
+    "turn_speed": 135,
+    "acceleration": 250,
+    "deceleration": 360,
+    "align_strategy": "AlignStrategy_Vertical",
+    "quad_distance_right": 1,
+    "quad_distance_forward": 1.5,
+    "quad_distance_back": 0,
+    "foot_ray_distance": 2,
+    "supression_strength": 1,
+    "feet_pivots": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "feet_extras": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "height_adjust_node": 0,
+    "foot_extension_max": 0,
+    "foot_extension_min": 0,
+    "can_fall": 0,
+    "always_check_against_terrain": 0,
+    "alignment_limits": {
+      "pitch_limit": -1,
+      "roll_limit": -1,
+      "pitch_fraction": 1,
+      "roll_fraction": 1
+    },
+    "anim_variable_turn_speed": 1594106754,
+    "anim_variable_turn_speed_max": 180
+  },
   "552747719338665864": {
     "turn_speed": 180,
     "acceleration": 900,
@@ -968,6 +1028,66 @@
     "quad_distance_forward": 1.5,
     "quad_distance_back": 0,
     "foot_ray_distance": 2,
+    "supression_strength": 1,
+    "feet_pivots": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "feet_extras": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "height_adjust_node": 0,
+    "foot_extension_max": 0,
+    "foot_extension_min": 0,
+    "can_fall": 0,
+    "always_check_against_terrain": 0,
+    "alignment_limits": {
+      "pitch_limit": -1,
+      "roll_limit": -1,
+      "pitch_fraction": 1,
+      "roll_fraction": 1
+    },
+    "anim_variable_turn_speed": 1594106754,
+    "anim_variable_turn_speed_max": 180
+  },
+  "12873251592757102566": {
+    "turn_speed": 180,
+    "acceleration": 360,
+    "deceleration": 450,
+    "align_strategy": "AlignStrategy_QuadGround",
+    "quad_distance_right": 0.5,
+    "quad_distance_forward": 0.699999988,
+    "quad_distance_back": 0,
+    "foot_ray_distance": 4,
     "supression_strength": 1,
     "feet_pivots": [
       {
@@ -2039,66 +2159,6 @@
     "anim_variable_turn_speed": 1594106754,
     "anim_variable_turn_speed_max": 180
   },
-  "3508555955240290181": {
-    "turn_speed": 540,
-    "acceleration": 400,
-    "deceleration": 500,
-    "align_strategy": "AlignStrategy_Vertical",
-    "quad_distance_right": 1,
-    "quad_distance_forward": 1.5,
-    "quad_distance_back": 0,
-    "foot_ray_distance": 2,
-    "supression_strength": 1,
-    "feet_pivots": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "feet_extras": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "height_adjust_node": 0,
-    "foot_extension_max": 0,
-    "foot_extension_min": 0,
-    "can_fall": 0,
-    "always_check_against_terrain": 0,
-    "alignment_limits": {
-      "pitch_limit": -1,
-      "roll_limit": -1,
-      "pitch_fraction": 1,
-      "roll_fraction": 1
-    },
-    "anim_variable_turn_speed": 1594106754,
-    "anim_variable_turn_speed_max": 180
-  },
   "12614471755071195045": {
     "turn_speed": 180,
     "acceleration": 540,
@@ -2223,6 +2283,66 @@
     "turn_speed": 180,
     "acceleration": 540,
     "deceleration": 540,
+    "align_strategy": "AlignStrategy_Vertical",
+    "quad_distance_right": 1,
+    "quad_distance_forward": 1.5,
+    "quad_distance_back": 0,
+    "foot_ray_distance": 2,
+    "supression_strength": 1,
+    "feet_pivots": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "feet_extras": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "height_adjust_node": 0,
+    "foot_extension_max": 0,
+    "foot_extension_min": 0,
+    "can_fall": 0,
+    "always_check_against_terrain": 0,
+    "alignment_limits": {
+      "pitch_limit": -1,
+      "roll_limit": -1,
+      "pitch_fraction": 1,
+      "roll_fraction": 1
+    },
+    "anim_variable_turn_speed": 1594106754,
+    "anim_variable_turn_speed_max": 180
+  },
+  "14278331370456096813": {
+    "turn_speed": 135,
+    "acceleration": 135,
+    "deceleration": 300,
     "align_strategy": "AlignStrategy_Vertical",
     "quad_distance_right": 1,
     "quad_distance_forward": 1.5,
@@ -3188,6 +3308,66 @@
     "quad_distance_forward": 1.5,
     "quad_distance_back": 0,
     "foot_ray_distance": 2,
+    "supression_strength": 1,
+    "feet_pivots": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "feet_extras": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "height_adjust_node": 0,
+    "foot_extension_max": 0,
+    "foot_extension_min": 0,
+    "can_fall": 0,
+    "always_check_against_terrain": 0,
+    "alignment_limits": {
+      "pitch_limit": -1,
+      "roll_limit": -1,
+      "pitch_fraction": 1,
+      "roll_fraction": 1
+    },
+    "anim_variable_turn_speed": 1594106754,
+    "anim_variable_turn_speed_max": 180
+  },
+  "17842374123104475103": {
+    "turn_speed": 250,
+    "acceleration": 250,
+    "deceleration": 600,
+    "align_strategy": "AlignStrategy_QuadGround",
+    "quad_distance_right": 0.5,
+    "quad_distance_forward": 0.699999988,
+    "quad_distance_back": 0,
+    "foot_ray_distance": 4,
     "supression_strength": 1,
     "feet_pivots": [
       {
@@ -4559,66 +4739,6 @@
     "anim_variable_turn_speed": 1594106754,
     "anim_variable_turn_speed_max": 180
   },
-  "7655267415106750589": {
-    "turn_speed": 540,
-    "acceleration": 400,
-    "deceleration": 500,
-    "align_strategy": "AlignStrategy_Vertical",
-    "quad_distance_right": 1,
-    "quad_distance_forward": 1.5,
-    "quad_distance_back": 0,
-    "foot_ray_distance": 2,
-    "supression_strength": 1,
-    "feet_pivots": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "feet_extras": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "height_adjust_node": 0,
-    "foot_extension_max": 0,
-    "foot_extension_min": 0,
-    "can_fall": 0,
-    "always_check_against_terrain": 0,
-    "alignment_limits": {
-      "pitch_limit": -1,
-      "roll_limit": -1,
-      "pitch_fraction": 1,
-      "roll_fraction": 1
-    },
-    "anim_variable_turn_speed": 1594106754,
-    "anim_variable_turn_speed_max": 180
-  },
   "2404044106251363533": {
     "turn_speed": 250,
     "acceleration": 600,
@@ -4677,6 +4797,66 @@
       "roll_fraction": 1
     },
     "anim_variable_turn_speed": 1594106754,
+    "anim_variable_turn_speed_max": 180
+  },
+  "7435299642389799754": {
+    "turn_speed": 180,
+    "acceleration": 360,
+    "deceleration": 450,
+    "align_strategy": "AlignStrategy_Vertical",
+    "quad_distance_right": 1,
+    "quad_distance_forward": 1.5,
+    "quad_distance_back": 0,
+    "foot_ray_distance": 2,
+    "supression_strength": 1,
+    "feet_pivots": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "feet_extras": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "height_adjust_node": 0,
+    "foot_extension_max": 0,
+    "foot_extension_min": 0,
+    "can_fall": 0,
+    "always_check_against_terrain": 0,
+    "alignment_limits": {
+      "pitch_limit": -1,
+      "roll_limit": -1,
+      "pitch_fraction": 1,
+      "roll_fraction": 1
+    },
+    "anim_variable_turn_speed": 0,
     "anim_variable_turn_speed_max": 180
   },
   "3626558530581732572": {
@@ -4868,66 +5048,6 @@
     "quad_distance_forward": 0.400000006,
     "quad_distance_back": 0,
     "foot_ray_distance": 3,
-    "supression_strength": 1,
-    "feet_pivots": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "feet_extras": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "height_adjust_node": 0,
-    "foot_extension_max": 0,
-    "foot_extension_min": 0,
-    "can_fall": 0,
-    "always_check_against_terrain": 0,
-    "alignment_limits": {
-      "pitch_limit": -1,
-      "roll_limit": -1,
-      "pitch_fraction": 1,
-      "roll_fraction": 1
-    },
-    "anim_variable_turn_speed": 1594106754,
-    "anim_variable_turn_speed_max": 180
-  },
-  "5250245939082938461": {
-    "turn_speed": 540,
-    "acceleration": 400,
-    "deceleration": 500,
-    "align_strategy": "AlignStrategy_Vertical",
-    "quad_distance_right": 1,
-    "quad_distance_forward": 1.5,
-    "quad_distance_back": 0,
-    "foot_ray_distance": 2,
     "supression_strength": 1,
     "feet_pivots": [
       {
@@ -5195,6 +5315,66 @@
       {
         "node": 0,
         "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "height_adjust_node": 0,
+    "foot_extension_max": 0,
+    "foot_extension_min": 0,
+    "can_fall": 0,
+    "always_check_against_terrain": 0,
+    "alignment_limits": {
+      "pitch_limit": -1,
+      "roll_limit": -1,
+      "pitch_fraction": 1,
+      "roll_fraction": 1
+    },
+    "anim_variable_turn_speed": 1594106754,
+    "anim_variable_turn_speed_max": 180
+  },
+  "10409770290790592053": {
+    "turn_speed": 40,
+    "acceleration": 180,
+    "deceleration": 180,
+    "align_strategy": "AlignStrategy_WalkerVertical",
+    "quad_distance_right": 1,
+    "quad_distance_forward": 1.5,
+    "quad_distance_back": 0,
+    "foot_ray_distance": 2,
+    "supression_strength": 1,
+    "feet_pivots": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "feet_extras": [
+      {
+        "node": 3208808195,
+        "anim_variable_distance_to_ground": 4007377797
+      },
+      {
+        "node": 2130199616,
+        "anim_variable_distance_to_ground": 602381008
       },
       {
         "node": 0,
@@ -6539,66 +6719,6 @@
     "anim_variable_turn_speed": 1594106754,
     "anim_variable_turn_speed_max": 180
   },
-  "8806287475843878476": {
-    "turn_speed": 540,
-    "acceleration": 400,
-    "deceleration": 500,
-    "align_strategy": "AlignStrategy_Vertical",
-    "quad_distance_right": 1,
-    "quad_distance_forward": 1.5,
-    "quad_distance_back": 0,
-    "foot_ray_distance": 2,
-    "supression_strength": 1,
-    "feet_pivots": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "feet_extras": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "height_adjust_node": 0,
-    "foot_extension_max": 0,
-    "foot_extension_min": 0,
-    "can_fall": 0,
-    "always_check_against_terrain": 0,
-    "alignment_limits": {
-      "pitch_limit": -1,
-      "roll_limit": -1,
-      "pitch_fraction": 1,
-      "roll_fraction": 1
-    },
-    "anim_variable_turn_speed": 1594106754,
-    "anim_variable_turn_speed_max": 180
-  },
   "15239773297738004195": {
     "turn_speed": 0,
     "acceleration": 0,
@@ -6657,66 +6777,6 @@
       "roll_fraction": 0.5
     },
     "anim_variable_turn_speed": 0,
-    "anim_variable_turn_speed_max": 180
-  },
-  "16653674489725268507": {
-    "turn_speed": 540,
-    "acceleration": 400,
-    "deceleration": 500,
-    "align_strategy": "AlignStrategy_Vertical",
-    "quad_distance_right": 1,
-    "quad_distance_forward": 1.5,
-    "quad_distance_back": 0,
-    "foot_ray_distance": 2,
-    "supression_strength": 1,
-    "feet_pivots": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "feet_extras": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "height_adjust_node": 0,
-    "foot_extension_max": 0,
-    "foot_extension_min": 0,
-    "can_fall": 0,
-    "always_check_against_terrain": 0,
-    "alignment_limits": {
-      "pitch_limit": -1,
-      "roll_limit": -1,
-      "pitch_fraction": 1,
-      "roll_fraction": 1
-    },
-    "anim_variable_turn_speed": 1594106754,
     "anim_variable_turn_speed_max": 180
   },
   "4960479884336891143": {
@@ -6837,66 +6897,6 @@
       "roll_fraction": 1
     },
     "anim_variable_turn_speed": 0,
-    "anim_variable_turn_speed_max": 180
-  },
-  "11457796999526261852": {
-    "turn_speed": 540,
-    "acceleration": 400,
-    "deceleration": 500,
-    "align_strategy": "AlignStrategy_Vertical",
-    "quad_distance_right": 1,
-    "quad_distance_forward": 1.5,
-    "quad_distance_back": 0,
-    "foot_ray_distance": 2,
-    "supression_strength": 1,
-    "feet_pivots": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "feet_extras": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "height_adjust_node": 0,
-    "foot_extension_max": 0,
-    "foot_extension_min": 0,
-    "can_fall": 0,
-    "always_check_against_terrain": 0,
-    "alignment_limits": {
-      "pitch_limit": -1,
-      "roll_limit": -1,
-      "pitch_fraction": 1,
-      "roll_fraction": 1
-    },
-    "anim_variable_turn_speed": 1594106754,
     "anim_variable_turn_speed_max": 180
   },
   "15621795958426619957": {
@@ -7559,6 +7559,66 @@
     "anim_variable_turn_speed": 1594106754,
     "anim_variable_turn_speed_max": 180
   },
+  "15922730753540746811": {
+    "turn_speed": 0,
+    "acceleration": 0,
+    "deceleration": 0,
+    "align_strategy": "AlignStrategy_QuadGround",
+    "quad_distance_right": 1,
+    "quad_distance_forward": 1,
+    "quad_distance_back": 0,
+    "foot_ray_distance": 2,
+    "supression_strength": 0.5,
+    "feet_pivots": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "feet_extras": [
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      },
+      {
+        "node": 0,
+        "anim_variable_distance_to_ground": 0
+      }
+    ],
+    "height_adjust_node": 0,
+    "foot_extension_max": 0,
+    "foot_extension_min": 0,
+    "can_fall": 1,
+    "always_check_against_terrain": 1,
+    "alignment_limits": {
+      "pitch_limit": 30,
+      "roll_limit": 30,
+      "pitch_fraction": 1,
+      "roll_fraction": 1
+    },
+    "anim_variable_turn_speed": 0,
+    "anim_variable_turn_speed_max": 180
+  },
   "14748816422034837943": {
     "turn_speed": 0,
     "acceleration": 0,
@@ -8037,66 +8097,6 @@
       "roll_fraction": 1
     },
     "anim_variable_turn_speed": 0,
-    "anim_variable_turn_speed_max": 180
-  },
-  "9549082741251590168": {
-    "turn_speed": 540,
-    "acceleration": 400,
-    "deceleration": 500,
-    "align_strategy": "AlignStrategy_Vertical",
-    "quad_distance_right": 1,
-    "quad_distance_forward": 1.5,
-    "quad_distance_back": 0,
-    "foot_ray_distance": 2,
-    "supression_strength": 1,
-    "feet_pivots": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "feet_extras": [
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      },
-      {
-        "node": 0,
-        "anim_variable_distance_to_ground": 0
-      }
-    ],
-    "height_adjust_node": 0,
-    "foot_extension_max": 0,
-    "foot_extension_min": 0,
-    "can_fall": 0,
-    "always_check_against_terrain": 0,
-    "alignment_limits": {
-      "pitch_limit": -1,
-      "roll_limit": -1,
-      "pitch_fraction": 1,
-      "roll_fraction": 1
-    },
-    "anim_variable_turn_speed": 1594106754,
     "anim_variable_turn_speed_max": 180
   },
   "12566139334605762628": {
