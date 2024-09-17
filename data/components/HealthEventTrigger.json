@@ -1,4 +1,7 @@
 { "HealthEventTrigger" : {
     "health_percent" : { "type": "float", "default": 0, "description": "Health percent we need to go under in order to trip the event." },
-    "event_name" : { "type": "uint", "description": "[string]Event name that gets fired off to the behavior." }
+    "event_name" : { "type": "uint", "description": "[string]Event name that gets fired off to the behavior." },
+    "reverse_event_name" : { "type": "uint", "description": "[string]Event name that gets fired off to the behavior when health is increasing instead of decreasing." },
+    "event_sound" : { "type": "uint", "description": "[wwise]Sound to play when event is triggered." },
+    "reverse_event_sound" : { "type": "uint", "description": "[wwise]Sound to play when the event is triggered when health is increasing instead of decreasing." }
 }}

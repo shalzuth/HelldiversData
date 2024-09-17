@@ -1,3 +1,9 @@
 { "BugholeComponent" : {
-    "radius" : { "type": "float", "default": 5, "description": "The radius from the root, that enemies may spawn from." }
+    "effects_offset" : { "type": "CApiVector3", "description": "Offsets the effects." },
+    "radius" : { "type": "float", "default": 5, "description": "The radius from the root, that enemies may spawn from." },
+    "encounter_hole_open_audio_event" : { "type": "uint", "default": 3546959766, "description": "[wwise]Audio event when the bug hole components is spawned." },
+    "encounter_hole_closed_audio_event" : { "type": "uint", "default": 3813946317, "description": "[wwise]Audio event when the bug hole components is removed." },
+    "on_burst_audio_event" : { "type": "uint", "default": 3586830401, "description": "[wwise]Audio event when the bug hole bursts." },
+    "on_effects_triggered_audio_event" : { "type": "uint", "default": 2301881880, "description": "[wwise]Audio event when the bug hole trigger effects." },
+    "trigger_effect" : { "type": "ulong", "description": "[particles]Particle effect to trigger." }
 }}

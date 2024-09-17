@@ -90,5 +90,7 @@
     "ambience_audio_stop_id" : { "type": "uint" },
     "zone_fog_tint" : { "type": "CApiVector3" },
     "weather_sight_range" : { "type": "float", "default": -1 },
-    "weather_color_set_internal" : { "type": "WeatherColorSet" }
+    "weather_color_set_internal" : { "type": "WeatherColorSet" },
+    "status_effect_template" : { "type": "StatusEffectTemplateType", "default": "StatusEffectTemplateType_None" },
+    "danger_warning" : { "type": "DangerWarningType", "default": "DangerWarningType_None" }
 }}

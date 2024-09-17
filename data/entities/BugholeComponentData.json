@@ -1,5 +1,15 @@
 {
   "17650576854393083163": {
-    "radius": 5
+    "effects_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "radius": 5,
+    "encounter_hole_open_audio_event": 3546959766,
+    "encounter_hole_closed_audio_event": 3813946317,
+    "on_burst_audio_event": 3586830401,
+    "on_effects_triggered_audio_event": 2301881880,
+    "trigger_effect": 7481357623622309301
   }
 }

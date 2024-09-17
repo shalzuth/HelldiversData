@@ -14,6 +14,8 @@
     "shield_idle_loop_stop_sound" : { "type": "uint", "description": "[wwise]Event to stop the idle loop sound." },
     "shield_bubble_loop_start_sound" : { "type": "uint", "description": "[wwise]Sound to play from the bubble while its up." },
     "shield_bubble_loop_stop_sound" : { "type": "uint", "description": "[wwise]Event to stop the bubble loop sound." },
+    "shield_surface_loop_start_sound" : { "type": "uint", "description": "[wwise]Sound to play from the surface of the shield" },
+    "shield_surface_loop_stop_sound" : { "type": "uint", "description": "[wwise]Event to stop the surface loop sound." },
     "start_offline" : { "type": "float", "default": 0, "description": "If above 0, how long until the shield comes online for the first time." },
     "shield_recharging_loop_start_sound" : { "type": "uint", "description": "[wwise]Sound to play while the shield is recharging." },
     "shield_recharging_loop_stop_sound" : { "type": "uint", "description": "[wwise]Event to stop the shield recharging sound." },
@@ -25,8 +27,11 @@
     "shield_activate_animation_event" : { "type": "uint", "default": 3470895594, "description": "[string]Animation event to play when the shield is activated." },
     "shield_deactivate_animation_event" : { "type": "uint", "default": 1922100775, "description": "[string]Animation event to play when the shield is deactivated." },
     "hit_effect_receiver_type" : { "type": "HitEffectReceiverType", "default": "HitEffectReceiverType_EnergyShield_Illuminate", "description": "The type of hit effect to play when the shield gets hit. If this is set to HitEffectReceiverType_Count, it will assume the hit effect of the HitEffectComponent." },
+    "inflict_pain" : { "type": "byte", "description": "[bool]Should damage done to the shield inflict pain to the entity?." },
     "block_melee_type" : { "type": "ShieldBlockMeleeType", "default": "ShieldBlockMeleeType_None", "description": "Determines how the shield should handle melee attacks." },
     "inside_shield_opacity" : { "type": "float", "default": 0, "description": "Sets the max opacity for the shading env for the effect to tint the world when camera is inside a shield." },
     "shield_color_type" : { "type": "ShieldColorFaction", "default": "ShieldColorFaction_None", "description": "Determines which shading env entity should be used when inside the shield." },
-    "linked_to_status_effect_volume" : { "type": "byte", "description": "[bool]Enables linking the shield state to a status effect volume component" }
+    "linked_to_status_effect_volume" : { "type": "byte", "description": "[bool]Enables linking the shield state to a status effect volume component" },
+    "charge_event_triggers" : { "type": "array", "subtype": "HealthEventTrigger", "description": "Events that get played at certain charge percentages." },
+    "charge_event_trigger_audio_node" : { "type": "uint", "description": "[string]The audio node to use to play the charge event trigger sounds." }
 }}

@@ -8,5 +8,6 @@
     "fire" : { "type": "ushort" },
     "aerial" : { "type": "ushort" },
     "turret" : { "type": "ushort" },
-    "straight_beacon" : { "type": "ushort" }
+    "straight_beacon" : { "type": "ushort" },
+    "gas" : { "type": "ushort" }
 }}

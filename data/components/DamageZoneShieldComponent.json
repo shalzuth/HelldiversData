@@ -1,0 +1,14 @@
+{ "DamageZoneShieldComponent" : {
+    "start_offline" : { "type": "byte", "description": "[bool]Should the shields start offline for this component?" },
+    "shieldable_zones" : { "type": "array", "subtype": "ShieldableZoneInfo", "description": "Contains all shield zones for the entity. Should have a matching damage zone in HealthComponent" },
+    "shield_unit_activate_sound" : { "type": "uint", "description": "[wwise]Sound event to play when the the shield is coming online." },
+    "shield_unit_deactivate_sound" : { "type": "uint", "description": "[wwise]Sound event to play when the the shield is going offline." },
+    "default_shield_recharge_sound" : { "type": "uint", "description": "[wwise]Sound event to play when the any shield zone starts recharging. Can be overriden per shield zone" },
+    "shield_activate_animation_event" : { "type": "uint", "default": 3470895594, "description": "[string]Animation event to play when the shield is activated." },
+    "shield_deactivate_animation_event" : { "type": "uint", "default": 1922100775, "description": "[string]Animation event to play when the shield is deactivated." },
+    "hit_effect_receiver_type" : { "type": "HitEffectReceiverType", "default": "HitEffectReceiverType_EnergyShield_Illuminate", "description": "The type of hit effect to play when the shield gets hit. If this is set to HitEffectReceiverType_Count, it will assume the hit effect of the HitEffectComponent." },
+    "inflict_pain" : { "type": "byte", "description": "[bool]Should damage done to the shield zones inflict pain to the entity?." },
+    "block_melee_type" : { "type": "ShieldBlockMeleeType", "default": "ShieldBlockMeleeType_None", "description": "Determines how the shield should handle melee attacks." },
+    "default_charge_event_triggers" : { "type": "array", "subtype": "HealthEventTrigger", "description": "Default events that get played at certain charge percentages. Can be overriden per shield zone." },
+    "shield_audio_node" : { "type": "uint", "description": "[string]Default audio node to use to play shield sounds. Can be overriden per shield zone." }
+}}

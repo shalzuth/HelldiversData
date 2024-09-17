@@ -24,9 +24,9 @@
       "speed_multiplier_min": 0.699999988,
       "speed_multiplier_overcharge": 1,
       "damage_multiplier_min": 1,
-      "damage_multiplier_overcharge": 1.5,
+      "damage_multiplier_overcharge": 2.5,
       "penetration_multiplier_min": 1,
-      "penetration_multiplier_overcharge": 1.5,
+      "penetration_multiplier_overcharge": 1,
       "distance_multiplier_min": 0.699999988,
       "distance_multiplier_overcharge": 1.39999998,
       "extra_arc_splits_min": 0.699999988,
@@ -48,7 +48,8 @@
     "charge_rate_anim_id": 0,
     "spin_speed_anim_id": 0,
     "auto_fire_in_safety": 0,
-    "dry_fire_audio_event": 1837771762
+    "dry_fire_audio_event": 1837771762,
+    "overcharge_explosion_type": "ExplosionType_RailgunOvercharge"
   },
   "18102809172282470538": {
     "charge_state_settings": [
@@ -99,7 +100,8 @@
     "charge_rate_anim_id": 0,
     "spin_speed_anim_id": 0,
     "auto_fire_in_safety": 0,
-    "dry_fire_audio_event": 1837771762
+    "dry_fire_audio_event": 1837771762,
+    "overcharge_explosion_type": "ExplosionType_DefaultOvercharge"
   },
   "2616888780303759269": {
     "charge_state_settings": [
@@ -150,7 +152,8 @@
     "charge_rate_anim_id": 0,
     "spin_speed_anim_id": 0,
     "auto_fire_in_safety": 1,
-    "dry_fire_audio_event": 0
+    "dry_fire_audio_event": 0,
+    "overcharge_explosion_type": "ExplosionType_DefaultOvercharge"
   },
   "10871298989420119782": {
     "charge_state_settings": [
@@ -201,6 +204,7 @@
     "charge_rate_anim_id": 1743663529,
     "spin_speed_anim_id": 1100284942,
     "auto_fire_in_safety": 0,
-    "dry_fire_audio_event": 0
+    "dry_fire_audio_event": 0,
+    "overcharge_explosion_type": "ExplosionType_DefaultOvercharge"
   }
 }

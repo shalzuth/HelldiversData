@@ -24,6 +24,7 @@
     "hit_direction_hint_effect" : { "type": "ulong", "description": "[particles]" },
     "projectile_unit_path" : { "type": "ulong", "description": "[unit]" },
     "explosion_threshold_angle" : { "type": "float", "default": 80 },
+    "can_expire_after_impact" : { "type": "byte" },
     "explosion_type_on_impact" : { "type": "ExplosionType", "default": "ExplosionType_None" },
     "explosion_proximity" : { "type": "float", "default": 0 },
     "explosion_delay" : { "type": "float", "default": 0 },
@@ -59,5 +60,8 @@
     "allow_long_distance_travel" : { "type": "ushort" },
     "look_for_audio_source_hijack" : { "type": "ushort" },
     "raycast_template" : { "type": "RaycastTemplate", "default": "RaycastTemplate_Damage" },
-    "proximity_explosion_collision_filter" : { "type": "uint", "default": 960337176 }
+    "proximity_explosion_collision_filter" : { "type": "uint", "default": 960337176 },
+    "apply_stim_on_target" : { "type": "byte" },
+    "projectile_auto_attach" : { "type": "byte" },
+    "projectile_attachment_local_offset" : { "type": "CApiVector3" }
 }}

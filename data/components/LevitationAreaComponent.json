@@ -1,0 +1,4 @@
+{ "LevitationAreaComponent" : {
+    "local_velocity" : { "type": "CApiVector3", "description": "Velocity vector (x=right, y=foward, z=up), relative to this entity, to apply to entities in radius" },
+    "radius" : { "type": "float", "default": 0, "description": "Radius where avatars are affected near this entity" }
+}}

@@ -15,5 +15,6 @@
     "charge_rate_anim_id" : { "type": "uint", "description": "[string]What the animation variable is for rotating the barrel." },
     "spin_speed_anim_id" : { "type": "uint", "description": "[string]What the animation variable is for rotating the barrel." },
     "auto_fire_in_safety" : { "type": "byte", "description": "[bool]If disabled, will allow the user to keep the charge as long as they are holding the trigger." },
-    "dry_fire_audio_event" : { "type": "uint", "description": "[string]." }
+    "dry_fire_audio_event" : { "type": "uint", "description": "[string]." },
+    "overcharge_explosion_type" : { "type": "ExplosionType", "default": "ExplosionType_DefaultOvercharge" }
 }}

@@ -22,5 +22,7 @@
     "no_susceptibility_required" : { "type": "byte" },
     "audio_event_master_only" : { "type": "byte" },
     "block_sprint" : { "type": "byte" },
-    "modified_stats_multipliers" : { "type": "array", "subtype": "ModifiableStatEntry" }
+    "modified_stats_multipliers" : { "type": "array", "subtype": "ModifiableStatEntry" },
+    "notify_event_on_added" : { "type": "uint" },
+    "notify_event_on_removed" : { "type": "uint" }
 }}

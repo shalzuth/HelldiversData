@@ -1,6 +1,6 @@
 {
-  "16468696380634166840": {
-    "upload_distance": 25,
+  "116979858003057948": {
+    "upload_distance": 15,
     "fail_distance": 30,
     "upload_duration": 40,
     "assignment_id": 0,
@@ -12,16 +12,29 @@
     "trigger_encounter": 1,
     "ui_help_text": 0
   },
-  "9837329084246247941": {
+  "17787598205174663652": {
     "upload_distance": 15,
     "fail_distance": 30,
-    "upload_duration": 40,
+    "upload_duration": 30,
     "assignment_id": 0,
-    "vo_id_examine": 0,
-    "vo_id_completed": 0,
-    "vo_id_ignored": 0,
+    "vo_id_examine": 1791288472,
+    "vo_id_completed": 867568099,
+    "vo_id_ignored": 1960587083,
     "trigger_for_everyone": 1,
-    "requires_interact": 0,
+    "requires_interact": 1,
+    "trigger_encounter": 1,
+    "ui_help_text": 2336243886
+  },
+  "4578814638903354553": {
+    "upload_distance": 15,
+    "fail_distance": 40,
+    "upload_duration": 3,
+    "assignment_id": 177150084,
+    "vo_id_examine": 1791288472,
+    "vo_id_completed": 867568099,
+    "vo_id_ignored": 1960587083,
+    "trigger_for_everyone": 0,
+    "requires_interact": 1,
     "trigger_encounter": 1,
     "ui_help_text": 0
   },
@@ -51,7 +64,7 @@
     "trigger_encounter": 1,
     "ui_help_text": 0
   },
-  "18089545462937747186": {
+  "9837329084246247941": {
     "upload_distance": 15,
     "fail_distance": 30,
     "upload_duration": 40,
@@ -64,21 +77,8 @@
     "trigger_encounter": 1,
     "ui_help_text": 0
   },
-  "16603652255537955886": {
-    "upload_distance": 15,
-    "fail_distance": 40,
-    "upload_duration": 3,
-    "assignment_id": 47094429,
-    "vo_id_examine": 1791288472,
-    "vo_id_completed": 867568099,
-    "vo_id_ignored": 1960587083,
-    "trigger_for_everyone": 0,
-    "requires_interact": 1,
-    "trigger_encounter": 1,
-    "ui_help_text": 0
-  },
-  "116979858003057948": {
-    "upload_distance": 15,
+  "16468696380634166840": {
+    "upload_distance": 25,
     "fail_distance": 30,
     "upload_duration": 40,
     "assignment_id": 0,
@@ -103,24 +103,11 @@
     "trigger_encounter": 1,
     "ui_help_text": 0
   },
-  "17787598205174663652": {
-    "upload_distance": 15,
-    "fail_distance": 30,
-    "upload_duration": 30,
-    "assignment_id": 0,
-    "vo_id_examine": 1791288472,
-    "vo_id_completed": 867568099,
-    "vo_id_ignored": 1960587083,
-    "trigger_for_everyone": 1,
-    "requires_interact": 1,
-    "trigger_encounter": 1,
-    "ui_help_text": 2336243886
-  },
-  "4578814638903354553": {
+  "16603652255537955886": {
     "upload_distance": 15,
     "fail_distance": 40,
     "upload_duration": 3,
-    "assignment_id": 177150084,
+    "assignment_id": 47094429,
     "vo_id_examine": 1791288472,
     "vo_id_completed": 867568099,
     "vo_id_ignored": 1960587083,

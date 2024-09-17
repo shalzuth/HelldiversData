@@ -1,4 +1,20 @@
 {
+  "10942957064970873712": {
+    "nearby_hint_id": 2626099757,
+    "trigger_radius": 20,
+    "node": 0,
+    "node_offset": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "on_spawn_hint_id": 0,
+    "highlight_entity": 1,
+    "on_kill_hint": 0,
+    "start_enabled": 1,
+    "enable_on_assignments_to_hand_in": 0,
+    "enable_on_unclaimed_mailbox_rewards": 0
+  },
   "8484362704672433843": {
     "nearby_hint_id": 0,
     "trigger_radius": 20,
@@ -1178,22 +1194,6 @@
     },
     "on_spawn_hint_id": 0,
     "highlight_entity": 0,
-    "on_kill_hint": 0,
-    "start_enabled": 1,
-    "enable_on_assignments_to_hand_in": 0,
-    "enable_on_unclaimed_mailbox_rewards": 0
-  },
-  "1446747808591037605": {
-    "nearby_hint_id": 0,
-    "trigger_radius": 20,
-    "node": 3835975789,
-    "node_offset": {
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "on_spawn_hint_id": 0,
-    "highlight_entity": 1,
     "on_kill_hint": 0,
     "start_enabled": 1,
     "enable_on_assignments_to_hand_in": 0,

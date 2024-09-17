@@ -1,5 +1,6 @@
 { "StatusEffectReceiverComponent" : {
     "zones" : { "type": "array", "subtype": "StatusEffectZoneInfo", "description": "List of status effect zones corresponding to damageable zones.!" },
     "volume_query_node_name" : { "type": "uint", "description": "[string]Override and use this nodes position for the volume query." },
-    "volume_query_size_radius" : { "type": "float", "default": 0, "description": "Override and use this size radius for the volume query." }
+    "volume_query_size_radius" : { "type": "float", "default": 0, "description": "Override and use this size radius for the volume query." },
+    "status_effect_resistances" : { "type": "array", "subtype": "StatusEffectResistanceInfo", "description": "Settings to affect an status effect for a specific receiver." }
 }}

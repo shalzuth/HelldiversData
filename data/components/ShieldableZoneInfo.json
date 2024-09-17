@@ -1,0 +1,11 @@
+{ "ShieldableZoneInfo" : {
+    "zone_name" : { "type": "uint", "description": "[string]The name of the zone to reference in the HealthComponent" },
+    "recharge_delay" : { "type": "float", "default": 5, "description": "How long after taking damage will the shield start to recharge?" },
+    "broken_recharge_delay" : { "type": "float", "default": 7, "description": "How long after the shield being destroyed will the shield start to recharge?" },
+    "recharge_rate" : { "type": "float", "default": 75, "description": "How much charge to recharge per second." },
+    "starter_charge_on_recharge" : { "type": "float", "default": 0, "description": "How much initial charge do we get once we are no longer broken?" },
+    "activated_visibility_mask" : { "type": "uint", "description": "[string]Visibility mask to show when this shield zone activates. Will hide when shield zone deactivates." },
+    "charge_event_triggers_override" : { "type": "array", "subtype": "HealthEventTrigger", "description": "Events that get played at certain charge percentages" },
+    "shield_audio_node_override" : { "type": "uint", "description": "[string]The audio node to use to play shield zone sounds. Overrides any audio node set by the DamageZoneShieldComponent" },
+    "shield_recharge_sound_override" : { "type": "uint", "description": "[wwise]Sound event to play when the shield zone starts recharging." }
+}}

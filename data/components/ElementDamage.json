@@ -1,0 +1,4 @@
+{ "ElementDamage" : {
+    "type" : { "type": "ElementType", "default": "ElementType_None", "description": "Element type of this damage" },
+    "multiplier" : { "type": "float", "default": 1, "description": "Damage multiplier value" }
+}}

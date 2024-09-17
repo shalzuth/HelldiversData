@@ -13,5 +13,6 @@
     "effect_type" : { "type": "HitEffectDamageType", "default": "HitEffectDamageType_None", "description": "When using collision events, this dictates what kind of damage effect to play on hits." },
     "particle_collision_trigger_mines" : { "type": "byte", "description": "[bool]Set to true if particle collision should trigger mines." },
     "last_drop_owner_vo_event" : { "type": "uint", "default": 2645484469, "description": "[string]VO event to play on the owner of the wepaon when the last bullet has been fired." },
-    "dry_fire_audio_event" : { "type": "uint", "description": "[string]A sound event to play when the ammo is 0 and the player is trying to shoot." }
+    "dry_fire_audio_event" : { "type": "uint", "description": "[string]A sound event to play when the ammo is 0 and the player is trying to shoot." },
+    "particle_collision_fire_template" : { "type": "FireTemplate", "default": "FireTemplate_Medium", "description": "Fire template to use when a particle collides against an invalid unit (terrain)" }
 }}

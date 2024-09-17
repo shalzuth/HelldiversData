@@ -15,6 +15,8 @@
     "shield_idle_loop_stop_sound": 0,
     "shield_bubble_loop_start_sound": 3942179094,
     "shield_bubble_loop_stop_sound": 377749160,
+    "shield_surface_loop_start_sound": 0,
+    "shield_surface_loop_stop_sound": 0,
     "start_offline": 0,
     "shield_recharging_loop_start_sound": 749920396,
     "shield_recharging_loop_stop_sound": 2719704982,
@@ -26,10 +28,42 @@
     "shield_activate_animation_event": 3470895594,
     "shield_deactivate_animation_event": 1922100775,
     "hit_effect_receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
+    "inflict_pain": 0,
     "block_melee_type": "ShieldBlockMeleeType_ProtectAll",
     "inside_shield_opacity": 0,
     "shield_color_type": "ShieldColorFaction_None",
-    "linked_to_status_effect_volume": 1
+    "linked_to_status_effect_volume": 1,
+    "charge_event_triggers": [
+      {
+        "health_percent": 0,
+        "event_name": 0,
+        "reverse_event_name": 0,
+        "event_sound": 0,
+        "reverse_event_sound": 0
+      },
+      {
+        "health_percent": 0,
+        "event_name": 0,
+        "reverse_event_name": 0,
+        "event_sound": 0,
+        "reverse_event_sound": 0
+      },
+      {
+        "health_percent": 0,
+        "event_name": 0,
+        "reverse_event_name": 0,
+        "event_sound": 0,
+        "reverse_event_sound": 0
+      },
+      {
+        "health_percent": 0,
+        "event_name": 0,
+        "reverse_event_name": 0,
+        "event_sound": 0,
+        "reverse_event_sound": 0
+      }
+    ],
+    "charge_event_trigger_audio_node": 0
   },
   "17083241647592728848": {
     "radius": 8,
@@ -47,6 +81,8 @@
     "shield_idle_loop_stop_sound": 0,
     "shield_bubble_loop_start_sound": 0,
     "shield_bubble_loop_stop_sound": 0,
+    "shield_surface_loop_start_sound": 0,
+    "shield_surface_loop_stop_sound": 0,
     "start_offline": 2,
     "shield_recharging_loop_start_sound": 0,
     "shield_recharging_loop_stop_sound": 0,
@@ -58,9 +94,41 @@
     "shield_activate_animation_event": 3470895594,
     "shield_deactivate_animation_event": 1922100775,
     "hit_effect_receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+    "inflict_pain": 0,
     "block_melee_type": "ShieldBlockMeleeType_None",
     "inside_shield_opacity": 0.649999976,
     "shield_color_type": "ShieldColorFaction_Helldivers_Orange",
-    "linked_to_status_effect_volume": 1
+    "linked_to_status_effect_volume": 1,
+    "charge_event_triggers": [
+      {
+        "health_percent": 0.75,
+        "event_name": 0,
+        "reverse_event_name": 0,
+        "event_sound": 3881139314,
+        "reverse_event_sound": 0
+      },
+      {
+        "health_percent": 0.5,
+        "event_name": 0,
+        "reverse_event_name": 0,
+        "event_sound": 3881139314,
+        "reverse_event_sound": 0
+      },
+      {
+        "health_percent": 0.25,
+        "event_name": 0,
+        "reverse_event_name": 0,
+        "event_sound": 3881139314,
+        "reverse_event_sound": 0
+      },
+      {
+        "health_percent": 0,
+        "event_name": 0,
+        "reverse_event_name": 0,
+        "event_sound": 0,
+        "reverse_event_sound": 0
+      }
+    ],
+    "charge_event_trigger_audio_node": 0
   }
 }

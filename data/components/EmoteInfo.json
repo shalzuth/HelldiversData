@@ -11,5 +11,6 @@
     "name_upper" : { "type": "uint", "description": "[string]The name of the emote (upper-case LAMS entry key)." },
     "name_cased" : { "type": "uint", "description": "[string]The name of the emote (mixed-case LAMS entry key)." },
     "icon" : { "type": "ulong", "description": "[material]The icon of the emote." },
+    "wheel_icon" : { "type": "ulong", "description": "[material]The icon of the emote in the emote wheel." },
     "response_data" : { "type": "EmoteResponseData" }
 }}

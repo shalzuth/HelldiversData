@@ -154,6 +154,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_PiercingSmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 464226491,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 464226491,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 464226491,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmall",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
@@ -184,12 +214,42 @@
         },
         {
           "damage_type": "HitEffectDamageType_PiercingSmall",
-          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1247164534,
+          "audio_event_3d": 63364440,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 63364440,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 63364440,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 695484039,
           "audio_stop_event_3d": 0
         },
         {
@@ -197,9 +257,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1247164534,
+          "audio_event_3d": 695484039,
           "audio_stop_event_3d": 0
         },
         {
@@ -207,9 +267,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1247164534,
+          "audio_event_3d": 695484039,
           "audio_stop_event_3d": 0
         },
         {
@@ -367,9 +427,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 2356885659,
           "audio_stop_event_3d": 0
         },
         {
@@ -377,9 +437,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 2356885659,
           "audio_stop_event_3d": 0
         },
         {
@@ -387,9 +447,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 2356885659,
           "audio_stop_event_3d": 0
         },
         {
@@ -397,9 +457,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2272576063,
           "audio_stop_event_3d": 0
         },
         {
@@ -407,9 +467,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 5565813734540084220,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2272576063,
           "audio_stop_event_3d": 0
         },
         {
@@ -417,9 +477,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 18433340897861449739,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2272576063,
           "audio_stop_event_3d": 0
         },
         {
@@ -574,6 +634,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_PiercingMedium",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2942254049,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingMedium",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2942254049,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingMedium",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2942254049,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingMedium",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
@@ -604,12 +694,42 @@
         },
         {
           "damage_type": "HitEffectDamageType_PiercingMedium",
-          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2710205325,
+          "audio_event_3d": 3578256505,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingMedium",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3578256505,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingMedium",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3578256505,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingMedium",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2178531741,
           "audio_stop_event_3d": 0
         },
         {
@@ -617,9 +737,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2710205325,
+          "audio_event_3d": 2178531741,
           "audio_stop_event_3d": 0
         },
         {
@@ -627,9 +747,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2710205325,
+          "audio_event_3d": 2178531741,
           "audio_stop_event_3d": 0
         },
         {
@@ -787,9 +907,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1304973355,
           "audio_stop_event_3d": 0
         },
         {
@@ -797,9 +917,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1304973355,
           "audio_stop_event_3d": 0
         },
         {
@@ -807,9 +927,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1304973355,
           "audio_stop_event_3d": 0
         },
         {
@@ -817,9 +937,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 57503137,
           "audio_stop_event_3d": 0
         },
         {
@@ -827,9 +947,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 5565813734540084220,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 57503137,
           "audio_stop_event_3d": 0
         },
         {
@@ -837,9 +957,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 18433340897861449739,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 57503137,
           "audio_stop_event_3d": 0
         },
         {
@@ -994,6 +1114,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_PiercingLarge",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 712304127376985286,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3409794433,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLarge",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3409794433,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLarge",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3409794433,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLarge",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
@@ -1024,12 +1174,42 @@
         },
         {
           "damage_type": "HitEffectDamageType_PiercingLarge",
-          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1888864020,
+          "audio_event_3d": 1778063308,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLarge",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1778063308,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLarge",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1778063308,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLarge",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 712304127376985286,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1490463530,
           "audio_stop_event_3d": 0
         },
         {
@@ -1037,9 +1217,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1888864020,
+          "audio_event_3d": 1490463530,
           "audio_stop_event_3d": 0
         },
         {
@@ -1047,9 +1227,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1888864020,
+          "audio_event_3d": 1490463530,
           "audio_stop_event_3d": 0
         },
         {
@@ -1207,9 +1387,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 977360068,
           "audio_stop_event_3d": 0
         },
         {
@@ -1217,9 +1397,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 977360068,
           "audio_stop_event_3d": 0
         },
         {
@@ -1227,9 +1407,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 977360068,
           "audio_stop_event_3d": 0
         },
         {
@@ -1237,9 +1417,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2544174104,
           "audio_stop_event_3d": 0
         },
         {
@@ -1247,9 +1427,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 5565813734540084220,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2544174104,
           "audio_stop_event_3d": 0
         },
         {
@@ -1257,9 +1437,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 18433340897861449739,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2544174104,
           "audio_stop_event_3d": 0
         },
         {
@@ -1414,6 +1594,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_PiercingLargeHEAT",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 712304127376985286,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 27360463,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLargeHEAT",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 27360463,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLargeHEAT",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 27360463,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLargeHEAT",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
@@ -1444,12 +1654,42 @@
         },
         {
           "damage_type": "HitEffectDamageType_PiercingLargeHEAT",
-          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1197130957,
+          "audio_event_3d": 2495777790,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLargeHEAT",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2495777790,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLargeHEAT",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2495777790,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingLargeHEAT",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 712304127376985286,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 275822529,
           "audio_stop_event_3d": 0
         },
         {
@@ -1457,9 +1697,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1197130957,
+          "audio_event_3d": 275822529,
           "audio_stop_event_3d": 0
         },
         {
@@ -1467,9 +1707,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1197130957,
+          "audio_event_3d": 275822529,
           "audio_stop_event_3d": 0
         },
         {
@@ -1627,9 +1867,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 3842174754,
           "audio_stop_event_3d": 0
         },
         {
@@ -1637,9 +1877,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 3842174754,
           "audio_stop_event_3d": 0
         },
         {
@@ -1647,9 +1887,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 3842174754,
           "audio_stop_event_3d": 0
         },
         {
@@ -1657,9 +1897,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 821021027,
           "audio_stop_event_3d": 0
         },
         {
@@ -1667,9 +1907,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 5565813734540084220,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 821021027,
           "audio_stop_event_3d": 0
         },
         {
@@ -1677,9 +1917,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 18433340897861449739,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 821021027,
           "audio_stop_event_3d": 0
         },
         {
@@ -1834,6 +2074,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_IncendiarySmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 429528943,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiarySmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 429528943,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiarySmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 429528943,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiarySmall",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
@@ -1864,12 +2134,42 @@
         },
         {
           "damage_type": "HitEffectDamageType_IncendiarySmall",
-          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2218148429,
+          "audio_event_3d": 1619654284,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiarySmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1619654284,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiarySmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1619654284,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiarySmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2173540807,
           "audio_stop_event_3d": 0
         },
         {
@@ -1877,9 +2177,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2218148429,
+          "audio_event_3d": 2173540807,
           "audio_stop_event_3d": 0
         },
         {
@@ -1887,9 +2187,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2218148429,
+          "audio_event_3d": 2173540807,
           "audio_stop_event_3d": 0
         },
         {
@@ -2047,9 +2347,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 3945176998,
           "audio_stop_event_3d": 0
         },
         {
@@ -2057,9 +2357,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 3945176998,
           "audio_stop_event_3d": 0
         },
         {
@@ -2067,9 +2367,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 3945176998,
           "audio_stop_event_3d": 0
         },
         {
@@ -2077,9 +2377,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 4257239822,
           "audio_stop_event_3d": 0
         },
         {
@@ -2087,9 +2387,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 5565813734540084220,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 4257239822,
           "audio_stop_event_3d": 0
         },
         {
@@ -2097,9 +2397,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 18433340897861449739,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 4257239822,
           "audio_stop_event_3d": 0
         },
         {
@@ -2254,6 +2554,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_IncendiaryMedium",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1489174503,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiaryMedium",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1489174503,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiaryMedium",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1489174503,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiaryMedium",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
@@ -2284,12 +2614,42 @@
         },
         {
           "damage_type": "HitEffectDamageType_IncendiaryMedium",
-          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2055252447,
+          "audio_event_3d": 445278147,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiaryMedium",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 445278147,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiaryMedium",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 2528499054662115930,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 445278147,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_IncendiaryMedium",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 71552631,
           "audio_stop_event_3d": 0
         },
         {
@@ -2297,9 +2657,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2055252447,
+          "audio_event_3d": 71552631,
           "audio_stop_event_3d": 0
         },
         {
@@ -2307,9 +2667,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2055252447,
+          "audio_event_3d": 71552631,
           "audio_stop_event_3d": 0
         },
         {
@@ -2467,9 +2827,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1993257370,
           "audio_stop_event_3d": 0
         },
         {
@@ -2477,9 +2837,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1993257370,
           "audio_stop_event_3d": 0
         },
         {
@@ -2487,9 +2847,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1993257370,
           "audio_stop_event_3d": 0
         },
         {
@@ -2497,9 +2857,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 1489825364,
           "audio_stop_event_3d": 0
         },
         {
@@ -2507,9 +2867,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 5565813734540084220,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 1489825364,
           "audio_stop_event_3d": 0
         },
         {
@@ -2517,9 +2877,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 18433340897861449739,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 1489825364,
           "audio_stop_event_3d": 0
         },
         {
@@ -2674,6 +3034,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3948996601,
+          "audio_stop_event_3d": 1606565905
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamSmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 4582999618392056212,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3948996601,
+          "audio_stop_event_3d": 1606565905
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamSmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 4582999618392056212,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3948996601,
+          "audio_stop_event_3d": 1606565905
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamSmall",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
@@ -2704,13 +3094,43 @@
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3948996601,
+          "audio_stop_event_3d": 1606565905
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamSmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 4582999618392056212,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3948996601,
+          "audio_stop_event_3d": 1606565905
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamSmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 4582999618392056212,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3948996601,
+          "audio_stop_event_3d": 1606565905
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamSmall",
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4036539869,
-          "audio_stop_event_3d": 2893645209
+          "audio_event_3d": 2887808571,
+          "audio_stop_event_3d": 1027913660
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
@@ -2719,8 +3139,8 @@
           "particle_effect": 4808614657431688830,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4036539869,
-          "audio_stop_event_3d": 2893645209
+          "audio_event_3d": 2887808571,
+          "audio_stop_event_3d": 1027913660
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
@@ -2729,8 +3149,8 @@
           "particle_effect": 4808614657431688830,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4036539869,
-          "audio_stop_event_3d": 2893645209
+          "audio_event_3d": 2887808571,
+          "audio_stop_event_3d": 1027913660
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
@@ -2889,8 +3309,8 @@
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1148116505,
-          "audio_stop_event_3d": 1710836978
+          "audio_event_3d": 2556797910,
+          "audio_stop_event_3d": 3487170019
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
@@ -2899,8 +3319,8 @@
           "particle_effect": 4808614657431688830,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1148116505,
-          "audio_stop_event_3d": 1710836978
+          "audio_event_3d": 2556797910,
+          "audio_stop_event_3d": 3487170019
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
@@ -2909,38 +3329,38 @@
           "particle_effect": 4808614657431688830,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1148116505,
-          "audio_stop_event_3d": 1710836978
+          "audio_event_3d": 2556797910,
+          "audio_stop_event_3d": 3487170019
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 2910144864,
-          "audio_stop_event_2d": 2537934633,
-          "audio_event_3d": 2910144864,
-          "audio_stop_event_3d": 2537934633
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2832997936,
+          "audio_stop_event_3d": 629247037
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 4577842428523083905,
-          "audio_event_2d": 2910144864,
-          "audio_stop_event_2d": 2537934633,
-          "audio_event_3d": 2910144864,
-          "audio_stop_event_3d": 2537934633
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2832997936,
+          "audio_stop_event_3d": 629247037
         },
         {
           "damage_type": "HitEffectDamageType_BeamSmall",
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 4577842428523083905,
-          "audio_event_2d": 2910144864,
-          "audio_stop_event_2d": 2537934633,
-          "audio_event_3d": 2910144864,
-          "audio_stop_event_3d": 2537934633
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2832997936,
+          "audio_stop_event_3d": 629247037
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
@@ -3094,6 +3514,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 712304127376985286,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2272530176,
+          "audio_stop_event_3d": 1209168628
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamLarge",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 4582999618392056212,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2272530176,
+          "audio_stop_event_3d": 1209168628
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamLarge",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 4582999618392056212,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2272530176,
+          "audio_stop_event_3d": 1209168628
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamLarge",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
@@ -3124,13 +3574,43 @@
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 712304127376985286,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2272530176,
+          "audio_stop_event_3d": 1209168628
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamLarge",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 4582999618392056212,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2272530176,
+          "audio_stop_event_3d": 1209168628
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamLarge",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 4582999618392056212,
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2272530176,
+          "audio_stop_event_3d": 1209168628
+        },
+        {
+          "damage_type": "HitEffectDamageType_BeamLarge",
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4065103347,
-          "audio_stop_event_3d": 3121336448
+          "audio_event_3d": 2454963244,
+          "audio_stop_event_3d": 1649946778
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
@@ -3139,8 +3619,8 @@
           "particle_effect": 4808614657431688830,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4065103347,
-          "audio_stop_event_3d": 3121336448
+          "audio_event_3d": 2454963244,
+          "audio_stop_event_3d": 1649946778
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
@@ -3149,8 +3629,8 @@
           "particle_effect": 4808614657431688830,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4065103347,
-          "audio_stop_event_3d": 3121336448
+          "audio_event_3d": 2454963244,
+          "audio_stop_event_3d": 1649946778
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
@@ -3309,8 +3789,8 @@
           "particle_effect": 712304127376985286,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1148116505,
-          "audio_stop_event_3d": 1710836978
+          "audio_event_3d": 3627224792,
+          "audio_stop_event_3d": 1446890412
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
@@ -3319,8 +3799,8 @@
           "particle_effect": 4808614657431688830,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1148116505,
-          "audio_stop_event_3d": 1710836978
+          "audio_event_3d": 3627224792,
+          "audio_stop_event_3d": 1446890412
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
@@ -3329,38 +3809,38 @@
           "particle_effect": 4808614657431688830,
           "audio_event_2d": 0,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1148116505,
-          "audio_stop_event_3d": 1710836978
+          "audio_event_3d": 3627224792,
+          "audio_stop_event_3d": 1446890412
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
-          "audio_event_2d": 2910144864,
-          "audio_stop_event_2d": 2537934633,
-          "audio_event_3d": 2910144864,
-          "audio_stop_event_3d": 2537934633
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1561750841,
+          "audio_stop_event_3d": 604290867
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 4577842428523083905,
-          "audio_event_2d": 2910144864,
-          "audio_stop_event_2d": 2537934633,
-          "audio_event_3d": 2910144864,
-          "audio_stop_event_3d": 2537934633
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1561750841,
+          "audio_stop_event_3d": 604290867
         },
         {
           "damage_type": "HitEffectDamageType_BeamLarge",
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 4577842428523083905,
-          "audio_event_2d": 2910144864,
-          "audio_stop_event_2d": 2537934633,
-          "audio_event_3d": 2910144864,
-          "audio_stop_event_3d": 2537934633
+          "audio_event_2d": 0,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1561750841,
+          "audio_stop_event_3d": 604290867
         },
         {
           "damage_type": "HitEffectDamageType_Blunt",
@@ -3514,6 +3994,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_Blunt",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1238895277,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_Blunt",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1238895277,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_Blunt",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1238895277,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_Blunt",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
@@ -3544,12 +4054,42 @@
         },
         {
           "damage_type": "HitEffectDamageType_Blunt",
-          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2244118800,
+          "audio_event_3d": 3899266316,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_Blunt",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3899266316,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_Blunt",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3899266316,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_Blunt",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3105823690,
           "audio_stop_event_3d": 0
         },
         {
@@ -3557,9 +4097,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2244118800,
+          "audio_event_3d": 3105823690,
           "audio_stop_event_3d": 0
         },
         {
@@ -3567,9 +4107,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2244118800,
+          "audio_event_3d": 3105823690,
           "audio_stop_event_3d": 0
         },
         {
@@ -3727,9 +4267,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1664520197,
           "audio_stop_event_3d": 0
         },
         {
@@ -3737,9 +4277,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1664520197,
           "audio_stop_event_3d": 0
         },
         {
@@ -3747,9 +4287,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1664520197,
           "audio_stop_event_3d": 0
         },
         {
@@ -3757,9 +4297,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 1720740309,
           "audio_stop_event_3d": 0
         },
         {
@@ -3767,9 +4307,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 8848921136544648320,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 1720740309,
           "audio_stop_event_3d": 0
         },
         {
@@ -3777,9 +4317,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 18015755953435231488,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 1720740309,
           "audio_stop_event_3d": 0
         },
         {
@@ -3934,6 +4474,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_SlashingSmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2490967318,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingSmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2490967318,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingSmall",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2490967318,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingSmall",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
@@ -3964,12 +4534,42 @@
         },
         {
           "damage_type": "HitEffectDamageType_SlashingSmall",
-          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4155305350,
+          "audio_event_3d": 82843067,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingSmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 82843067,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingSmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 82843067,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingSmall",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1028186634,
           "audio_stop_event_3d": 0
         },
         {
@@ -3977,9 +4577,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4155305350,
+          "audio_event_3d": 1028186634,
           "audio_stop_event_3d": 0
         },
         {
@@ -3987,9 +4587,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4155305350,
+          "audio_event_3d": 1028186634,
           "audio_stop_event_3d": 0
         },
         {
@@ -4147,9 +4747,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1697048094,
           "audio_stop_event_3d": 0
         },
         {
@@ -4157,9 +4757,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1697048094,
           "audio_stop_event_3d": 0
         },
         {
@@ -4167,9 +4767,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1697048094,
           "audio_stop_event_3d": 0
         },
         {
@@ -4177,9 +4777,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2873077193,
           "audio_stop_event_3d": 0
         },
         {
@@ -4187,9 +4787,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 16164303638812733769,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2873077193,
           "audio_stop_event_3d": 0
         },
         {
@@ -4197,9 +4797,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 8118947173097687893,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2873077193,
           "audio_stop_event_3d": 0
         },
         {
@@ -4354,6 +4954,36 @@
         },
         {
           "damage_type": "HitEffectDamageType_SlashingLarge",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 712304127376985286,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 496735488,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingLarge",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 496735488,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingLarge",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 496735488,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingLarge",
           "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
@@ -4384,12 +5014,42 @@
         },
         {
           "damage_type": "HitEffectDamageType_SlashingLarge",
-          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1114249004,
+          "audio_event_3d": 3320255629,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingLarge",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3320255629,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingLarge",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3320255629,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_SlashingLarge",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 712304127376985286,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 508749222,
           "audio_stop_event_3d": 0
         },
         {
@@ -4397,9 +5057,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1114249004,
+          "audio_event_3d": 508749222,
           "audio_stop_event_3d": 0
         },
         {
@@ -4407,9 +5067,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1114249004,
+          "audio_event_3d": 508749222,
           "audio_stop_event_3d": 0
         },
         {
@@ -4567,9 +5227,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1151210943,
           "audio_stop_event_3d": 0
         },
         {
@@ -4577,9 +5237,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1151210943,
           "audio_stop_event_3d": 0
         },
         {
@@ -4587,9 +5247,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 1151210943,
           "audio_stop_event_3d": 0
         },
         {
@@ -4597,9 +5257,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 712304127376985286,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 3358001677,
           "audio_stop_event_3d": 0
         },
         {
@@ -4607,9 +5267,9 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 1154830984706833699,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 3358001677,
           "audio_stop_event_3d": 0
         },
         {
@@ -4617,19 +5277,19 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 1154830984706833699,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 3358001677,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Bug",
           "level": "HitEffectLevel_None",
-          "particle_effect": 15019043522412221642,
+          "particle_effect": 15610115225036377850,
           "audio_event_2d": 2128336289,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1546375669,
+          "audio_event_3d": 1425003235,
           "audio_stop_event_3d": 0
         },
         {
@@ -4639,7 +5299,7 @@
           "particle_effect": 8973594282241160422,
           "audio_event_2d": 2128336289,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1546375669,
+          "audio_event_3d": 1425003235,
           "audio_stop_event_3d": 0
         },
         {
@@ -4649,17 +5309,17 @@
           "particle_effect": 8973594282241160422,
           "audio_event_2d": 2128336289,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1546375669,
+          "audio_event_3d": 1425003235,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Bug_Armor",
           "level": "HitEffectLevel_None",
-          "particle_effect": 15019043522412221642,
+          "particle_effect": 15610115225036377850,
           "audio_event_2d": 2128336289,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1546375669,
+          "audio_event_3d": 1425003235,
           "audio_stop_event_3d": 0
         },
         {
@@ -4669,7 +5329,7 @@
           "particle_effect": 8973594282241160422,
           "audio_event_2d": 2128336289,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1546375669,
+          "audio_event_3d": 1425003235,
           "audio_stop_event_3d": 0
         },
         {
@@ -4679,17 +5339,17 @@
           "particle_effect": 8973594282241160422,
           "audio_event_2d": 2128336289,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1546375669,
+          "audio_event_3d": 1425003235,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Cyborg",
           "level": "HitEffectLevel_None",
-          "particle_effect": 10830245437572828265,
+          "particle_effect": 15610115225036377850,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1604025168,
+          "audio_event_3d": 4098841077,
           "audio_stop_event_3d": 0
         },
         {
@@ -4699,7 +5359,7 @@
           "particle_effect": 14393236007834336632,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1604025168,
+          "audio_event_3d": 4098841077,
           "audio_stop_event_3d": 0
         },
         {
@@ -4709,17 +5369,17 @@
           "particle_effect": 14393236007834336632,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1604025168,
+          "audio_event_3d": 4098841077,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Cyborg_Armor",
           "level": "HitEffectLevel_None",
-          "particle_effect": 10830245437572828265,
+          "particle_effect": 15610115225036377850,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1604025168,
+          "audio_event_3d": 4098841077,
           "audio_stop_event_3d": 0
         },
         {
@@ -4729,7 +5389,7 @@
           "particle_effect": 14393236007834336632,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1604025168,
+          "audio_event_3d": 4098841077,
           "audio_stop_event_3d": 0
         },
         {
@@ -4739,17 +5399,17 @@
           "particle_effect": 14393236007834336632,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1604025168,
+          "audio_event_3d": 4098841077,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Illuminate",
           "level": "HitEffectLevel_None",
-          "particle_effect": 0,
+          "particle_effect": 15610115225036377850,
           "audio_event_2d": 67125090,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1719479496,
+          "audio_event_3d": 2736184227,
           "audio_stop_event_3d": 0
         },
         {
@@ -4759,7 +5419,7 @@
           "particle_effect": 13231171781884075597,
           "audio_event_2d": 67125090,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1719479496,
+          "audio_event_3d": 2736184227,
           "audio_stop_event_3d": 0
         },
         {
@@ -4769,7 +5429,37 @@
           "particle_effect": 13231171781884075597,
           "audio_event_2d": 67125090,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1719479496,
+          "audio_event_3d": 2736184227,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_VehicleStep",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 464226491,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_VehicleStep",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 464226491,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_VehicleStep",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 464226491,
           "audio_stop_event_3d": 0
         },
         {
@@ -4779,7 +5469,7 @@
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 3674397902,
+          "audio_event_3d": 3125920118,
           "audio_stop_event_3d": 0
         },
         {
@@ -4789,7 +5479,7 @@
           "particle_effect": 3069336950292109505,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 3674397902,
+          "audio_event_3d": 3125920118,
           "audio_stop_event_3d": 0
         },
         {
@@ -4799,7 +5489,37 @@
           "particle_effect": 3069336950292109505,
           "audio_event_2d": 272716961,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 3674397902,
+          "audio_event_3d": 3125920118,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_VehicleStep",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 63364440,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_VehicleStep",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 63364440,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_VehicleStep",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 63364440,
           "audio_stop_event_3d": 0
         },
         {
@@ -4807,9 +5527,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 362484871,
+          "audio_event_3d": 695484039,
           "audio_stop_event_3d": 0
         },
         {
@@ -4817,9 +5537,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 362484871,
+          "audio_event_3d": 695484039,
           "audio_stop_event_3d": 0
         },
         {
@@ -4827,39 +5547,39 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 486837610,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 362484871,
+          "audio_event_3d": 695484039,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Human",
           "level": "HitEffectLevel_None",
-          "particle_effect": 12671988063998532794,
+          "particle_effect": 15610115225036377850,
           "audio_event_2d": 1796448649,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 18681711,
+          "audio_event_3d": 953206548,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Human",
           "level": "HitEffectLevel_PartialPenetration",
-          "particle_effect": 7824603681264123538,
+          "particle_effect": 17782080687470053357,
           "audio_event_2d": 1796448649,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 18681711,
+          "audio_event_3d": 953206548,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Human",
           "level": "HitEffectLevel_FullPenetration",
-          "particle_effect": 7824603681264123538,
+          "particle_effect": 17782080687470053357,
           "audio_event_2d": 1796448649,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 18681711,
+          "audio_event_3d": 953206548,
           "audio_stop_event_3d": 0
         },
         {
@@ -4869,37 +5589,37 @@
           "particle_effect": 15610115225036377850,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2186332115,
+          "audio_event_3d": 3635379797,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_VehicleHull",
           "level": "HitEffectLevel_PartialPenetration",
-          "particle_effect": 8848921136544648320,
+          "particle_effect": 5565813734540084220,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2186332115,
+          "audio_event_3d": 3635379797,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_VehicleHull",
           "level": "HitEffectLevel_FullPenetration",
-          "particle_effect": 18015755953435231488,
+          "particle_effect": 18433340897861449739,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2186332115,
+          "audio_event_3d": 3635379797,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_VehicleWheel",
           "level": "HitEffectLevel_None",
-          "particle_effect": 0,
+          "particle_effect": 15610115225036377850,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 200220990,
+          "audio_event_3d": 2130127846,
           "audio_stop_event_3d": 0
         },
         {
@@ -4909,7 +5629,7 @@
           "particle_effect": 14703681478592729724,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 200220990,
+          "audio_event_3d": 2130127846,
           "audio_stop_event_3d": 0
         },
         {
@@ -4919,17 +5639,17 @@
           "particle_effect": 14703681478592729724,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 200220990,
+          "audio_event_3d": 2130127846,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_TutorialDummy",
           "level": "HitEffectLevel_None",
-          "particle_effect": 12671988063998532794,
+          "particle_effect": 15610115225036377850,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 117995030,
+          "audio_event_3d": 3361796635,
           "audio_stop_event_3d": 0
         },
         {
@@ -4939,7 +5659,7 @@
           "particle_effect": 9527556225118176979,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 117995030,
+          "audio_event_3d": 3361796635,
           "audio_stop_event_3d": 0
         },
         {
@@ -4949,37 +5669,37 @@
           "particle_effect": 9527556225118176979,
           "audio_event_2d": 1044632261,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 117995030,
+          "audio_event_3d": 3361796635,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Helldiver",
           "level": "HitEffectLevel_None",
-          "particle_effect": 0,
+          "particle_effect": 15610115225036377850,
           "audio_event_2d": 3601254116,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4126207935,
+          "audio_event_3d": 904729847,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Helldiver",
           "level": "HitEffectLevel_PartialPenetration",
-          "particle_effect": 7824603681264123538,
+          "particle_effect": 17782080687470053357,
           "audio_event_2d": 3601254116,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4126207935,
+          "audio_event_3d": 904729847,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_Helldiver",
           "level": "HitEffectLevel_FullPenetration",
-          "particle_effect": 7824603681264123538,
+          "particle_effect": 17782080687470053357,
           "audio_event_2d": 3601254116,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 4126207935,
+          "audio_event_3d": 904729847,
           "audio_stop_event_3d": 0
         },
         {
@@ -4987,9 +5707,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 2356885659,
           "audio_stop_event_3d": 0
         },
         {
@@ -4997,9 +5717,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 2356885659,
           "audio_stop_event_3d": 0
         },
         {
@@ -5007,9 +5727,9 @@
           "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
           "particle_effect": 14192906067023483539,
-          "audio_event_2d": 272716961,
+          "audio_event_2d": 2444160909,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 2341823528,
+          "audio_event_3d": 2356885659,
           "audio_stop_event_3d": 0
         },
         {
@@ -5017,29 +5737,509 @@
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_None",
           "particle_effect": 15610115225036377850,
-          "audio_event_2d": 1164978987,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2272576063,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_PartialPenetration",
-          "particle_effect": 8848921136544648320,
-          "audio_event_2d": 1164978987,
+          "particle_effect": 5565813734540084220,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2272576063,
           "audio_stop_event_3d": 0
         },
         {
           "damage_type": "HitEffectDamageType_VehicleStep",
           "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
           "level": "HitEffectLevel_FullPenetration",
-          "particle_effect": 18015755953435231488,
-          "audio_event_2d": 1164978987,
+          "particle_effect": 18433340897861449739,
+          "audio_event_2d": 3336139094,
           "audio_stop_event_2d": 0,
-          "audio_event_3d": 1164978987,
+          "audio_event_3d": 2272576063,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Bug",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 2128336289,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1425003235,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Bug",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 8973594282241160422,
+          "audio_event_2d": 2128336289,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1425003235,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Bug",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 8973594282241160422,
+          "audio_event_2d": 2128336289,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1425003235,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Bug_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 2128336289,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1425003235,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Bug_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 8973594282241160422,
+          "audio_event_2d": 2128336289,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1425003235,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Bug_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 8973594282241160422,
+          "audio_event_2d": 2128336289,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 1425003235,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Cyborg",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 4098841077,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Cyborg",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 14393236007834336632,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 4098841077,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Cyborg",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 14393236007834336632,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 4098841077,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Cyborg_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 4098841077,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Cyborg_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 14393236007834336632,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 4098841077,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Cyborg_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 14393236007834336632,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 4098841077,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Illuminate",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2736184227,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Illuminate",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 13231171781884075597,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2736184227,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Illuminate",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 13231171781884075597,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2736184227,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 464226491,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 464226491,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Illuminate_Armor",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 67125090,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 464226491,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3125920118,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3125920118,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3125920118,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 63364440,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 63364440,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Illuminate_Panel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 3069336950292109505,
+          "audio_event_2d": 272716961,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 63364440,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 695484039,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 14192906067023483539,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 695484039,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_SE",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 14192906067023483539,
+          "audio_event_2d": 486837610,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 695484039,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 2444160909,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2356885659,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 14192906067023483539,
+          "audio_event_2d": 2444160909,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2356885659,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_EnergyShield_Backpack",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 14192906067023483539,
+          "audio_event_2d": 2444160909,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2356885659,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Human",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 1796448649,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 953206548,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Human",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 17782080687470053357,
+          "audio_event_2d": 1796448649,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 953206548,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Human",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 17782080687470053357,
+          "audio_event_2d": 1796448649,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 953206548,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_VehicleHull",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3635379797,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_VehicleHull",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 5565813734540084220,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3635379797,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_VehicleHull",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 18433340897861449739,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3635379797,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_VehicleWheel",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2130127846,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_VehicleWheel",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 14703681478592729724,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2130127846,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_VehicleWheel",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 14703681478592729724,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2130127846,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_TutorialDummy",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3361796635,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_TutorialDummy",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 9527556225118176979,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3361796635,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_TutorialDummy",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 9527556225118176979,
+          "audio_event_2d": 1044632261,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 3361796635,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Helldiver",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 3601254116,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2250818347,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Helldiver",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 17782080687470053357,
+          "audio_event_2d": 3601254116,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2250818347,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_Helldiver",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 17782080687470053357,
+          "audio_event_2d": 3601254116,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2250818347,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
+          "level": "HitEffectLevel_None",
+          "particle_effect": 15610115225036377850,
+          "audio_event_2d": 3336139094,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2272576063,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
+          "level": "HitEffectLevel_PartialPenetration",
+          "particle_effect": 5565813734540084220,
+          "audio_event_2d": 3336139094,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2272576063,
+          "audio_stop_event_3d": 0
+        },
+        {
+          "damage_type": "HitEffectDamageType_PiercingSmallStim",
+          "receiver_type": "HitEffectReceiverType_BallisticShield_Backpack",
+          "level": "HitEffectLevel_FullPenetration",
+          "particle_effect": 18433340897861449739,
+          "audio_event_2d": 3336139094,
+          "audio_stop_event_2d": 0,
+          "audio_event_3d": 2272576063,
           "audio_stop_event_3d": 0
         }
       ]

@@ -79,7 +79,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 91175352,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -179,7 +180,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -279,7 +281,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -378,7 +381,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -478,7 +482,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -580,7 +585,111 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
+          },
+          "spottable_vo_line": 72834100,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [
+            621307500
+          ],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_Drone_GASPROJECTOR",
+          "id": 5185868,
+          "video_id": 1312777691,
+          "debug_name": "BACKPACK. GUARD DOG GAS PROJECTOR (Drone)",
+          "name_upper": 2499481182,
+          "name_cased": 2938726003,
+          "description": 1310660946,
+          "fluff": 1402219398,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Right",
+            "StratagemButtonDirection_Up"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 5,
+          "spawn_radius": 0,
+          "beacon_linger_time": 0,
+          "extra_travel_time": 0,
+          "cooldown_duration_success": 480,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 1,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            15628185827517046516,
+            8356509974227907605
+          ],
+          "package": 3887954821664028682,
+          "icon": 9552417325970455353,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Supply",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 1430173413,
+          "callout_vo": 3881886648,
+          "off_cooldown_vo": 0,
+          "damage_dealer": 0,
+          "matching_support_weapon": 0,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 0,
+            "hellpod": 1,
+            "explosive": 0,
+            "backpack": 1,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0,
+            "gas": 1
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -690,7 +799,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 308137367,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -799,7 +909,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 3990781768,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -901,7 +1012,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 1442186316,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1002,7 +1114,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 1512505365,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1103,7 +1216,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 1816922518,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1204,7 +1318,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 1572417151,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1304,7 +1419,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 1442186316,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1404,7 +1520,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 1572417151,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1505,7 +1622,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 1442186316,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1604,7 +1722,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_EagleCAS",
@@ -1701,7 +1820,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 610745673,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1801,7 +1921,8 @@
             "fire": 0,
             "aerial": 1,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 3137888600,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -1907,7 +2028,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 451144368,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2007,7 +2129,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 451144368,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2107,7 +2230,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2872231517,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2205,7 +2329,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2872231517,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2303,7 +2428,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2872231517,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2324,6 +2450,105 @@
             658390125,
             3591930318
           ],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_MineDeployer_GasMines",
+          "id": 644090457,
+          "video_id": 878542088,
+          "debug_name": "EMPLACEMENTS. GAS MINE DEPLOYER",
+          "name_upper": 3892287098,
+          "name_cased": 974448089,
+          "description": 763226325,
+          "fluff": 2401230564,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Right"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 3,
+          "spawn_radius": 0,
+          "beacon_linger_time": 0,
+          "extra_travel_time": 0,
+          "cooldown_duration_success": 180,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 1,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_Health",
+          "payload": [
+            12220563120145251703,
+            8356509974227907605
+          ],
+          "package": 17261975744290549939,
+          "icon": 8479731849073522019,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Defensive",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Red",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 265393217,
+          "callout_vo": 3315511509,
+          "off_cooldown_vo": 0,
+          "damage_dealer": 0,
+          "matching_support_weapon": 0,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 0,
+            "hellpod": 1,
+            "explosive": 1,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0,
+            "gas": 1
+          },
+          "spottable_vo_line": 2872231517,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [],
           "customizations": [],
           "allow_for_button_overlap": 0,
           "deploy_on_navmesh_only": 1,
@@ -2406,7 +2631,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 1,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2807717770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2513,7 +2739,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2620,7 +2847,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2721,7 +2949,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2820,7 +3049,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -2917,7 +3147,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3016,7 +3247,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3118,7 +3350,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2295699548,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3218,7 +3451,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 1
+            "straight_beacon": 1,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3318,7 +3552,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3419,7 +3654,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3517,7 +3753,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3617,7 +3854,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3717,7 +3955,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3817,7 +4056,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -3919,7 +4159,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4022,7 +4263,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4123,7 +4365,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4225,7 +4468,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4326,7 +4570,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4424,7 +4669,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4521,7 +4767,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2310216130,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4619,7 +4866,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4715,7 +4963,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 0,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4815,7 +5064,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -4914,7 +5164,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 1512505365,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5016,7 +5267,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5114,7 +5366,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5209,7 +5462,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 3345105453,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5309,7 +5563,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5409,7 +5664,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5511,7 +5767,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 3345105453,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5611,7 +5868,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 3345105453,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5712,7 +5970,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5814,7 +6073,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -5915,7 +6175,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 1
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6019,7 +6280,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2587559793,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6120,7 +6382,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 162237989,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6222,7 +6485,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 162237989,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6326,7 +6590,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 3714581889,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6427,7 +6692,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 3714581889,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6527,7 +6793,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6629,7 +6896,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312828521,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6738,7 +7006,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 3841304722,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6836,7 +7105,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 3990781768,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -6937,7 +7207,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2377291446,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7036,7 +7307,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7135,7 +7407,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 72834100,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7234,7 +7507,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2807717770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7333,7 +7607,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7439,7 +7714,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7545,7 +7821,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7647,7 +7924,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7750,7 +8028,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7850,7 +8129,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -7953,7 +8233,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8057,7 +8338,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8162,7 +8444,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8266,7 +8549,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8369,7 +8653,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8473,7 +8758,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8577,7 +8863,8 @@
             "fire": 1,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8680,7 +8967,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8783,7 +9071,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8887,7 +9176,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -8989,7 +9279,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9093,7 +9384,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 85101770,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9115,6 +9407,110 @@
             3901125769,
             1917390166,
             2297916711
+          ],
+          "customizations": [],
+          "allow_for_button_overlap": 0,
+          "deploy_on_navmesh_only": 1,
+          "payload_unit_customization": "UnitCustomizationCollectionType_Count"
+        },
+        {
+          "type": "StratagemType_Chem_Gun",
+          "id": 4152191751,
+          "video_id": 2841659442,
+          "debug_name": "TEAM WEAPONS. CHEM GUN",
+          "name_upper": 926933616,
+          "name_cased": 1223276667,
+          "description": 714923769,
+          "fluff": 1681650091,
+          "loading_loc": 764869094,
+          "category": "StratagemCategoryType_HellpodDeployment",
+          "button_combination": [
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Left",
+            "StratagemButtonDirection_Up",
+            "StratagemButtonDirection_Down",
+            "StratagemButtonDirection_Left"
+          ],
+          "uses": 4294967295,
+          "spawn_time": 3,
+          "spawn_radius": 0,
+          "beacon_linger_time": 4,
+          "extra_travel_time": 0,
+          "cooldown_duration_success": 480,
+          "cooldown_duration_fail": 0,
+          "origin_type": "StratagemOriginType_ShipSpecific",
+          "call_in_type": "StratagemCallInType_Throw",
+          "call_in_logic_flags": {
+            "use_objective_position": 0,
+            "objective_owner": 0,
+            "host_confirmation": 0,
+            "host_confirm_unique_instance": 0,
+            "host_confirm_objective_stratagem_usage": 0,
+            "blocked_by_stratagem_blocker": 1,
+            "available_after_mission_end": 0
+          },
+          "objective_drop_requirement": "StratagemObjectiveDropRequirement_None",
+          "mission_specific": 1,
+          "selectable": 1,
+          "triggers_war": 0,
+          "cooldown_type": "StratagemCooldownType_Individual",
+          "widget_info_type": "StratagemInfoType_None",
+          "payload": [
+            13534862741616025304,
+            8356509974227907605
+          ],
+          "package": 0,
+          "icon": 13455361080150423866,
+          "store_icon": 0,
+          "hud_type": "StratagemHUDType_Supply",
+          "cost": 1,
+          "enabled": 1,
+          "depends_on": "StratagemType_None",
+          "additional_stratagem": "StratagemType_None",
+          "max_in_loadout": 0,
+          "beacon_color": "StratagemBeaconColor_Blue",
+          "ship_laser_pointer": 0,
+          "ready_vo": 0,
+          "denied_vo": 648592619,
+          "confirmation_vo_owner": 213621228,
+          "callout_vo": 1267079926,
+          "off_cooldown_vo": 0,
+          "damage_dealer": 0,
+          "matching_support_weapon": 4152191751,
+          "dlc_pack_id": 0,
+          "is_clan_stratagem": 0,
+          "info_flags": {
+            "support_weapon": 1,
+            "hellpod": 1,
+            "explosive": 0,
+            "backpack": 0,
+            "orbital": 0,
+            "vehicle": 0,
+            "fire": 0,
+            "aerial": 0,
+            "turret": 0,
+            "straight_beacon": 0,
+            "gas": 1
+          },
+          "spottable_vo_line": 85101770,
+          "shared_stratagem_upgrades_type": "StratagemType_None",
+          "shared_stratagem_upgrades_categories": {
+            "extra_uses": 0,
+            "cooldown_reduction": 0,
+            "cooldown_reduction_alternate": 0,
+            "spawn_time_reduction": 0,
+            "entity_delta": 0,
+            "entity_swap": 0,
+            "multi_hellpod": 0
+          },
+          "use_alternate_cooldown": 0,
+          "extra_hellpods": 0,
+          "hellpod_target_offset": [],
+          "hellpod_additional_rotation_in_tau": [],
+          "equipment_tags": [
+            119576005,
+            362702031,
+            3589842568
           ],
           "customizations": [],
           "allow_for_button_overlap": 0,
@@ -9202,7 +9598,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 1,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9303,7 +9700,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 1,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9405,7 +9803,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 1,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9508,7 +9907,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 1,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9610,7 +10010,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 1,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9714,7 +10115,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 1,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2312499693,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9823,7 +10225,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -9924,7 +10327,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 580584596,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -10031,7 +10435,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2377291446,
           "shared_stratagem_upgrades_type": "StratagemType_None",
@@ -10134,7 +10539,8 @@
             "fire": 0,
             "aerial": 0,
             "turret": 0,
-            "straight_beacon": 0
+            "straight_beacon": 0,
+            "gas": 0
           },
           "spottable_vo_line": 2377291446,
           "shared_stratagem_upgrades_type": "StratagemType_None",

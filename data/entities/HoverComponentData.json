@@ -2,9 +2,12 @@
   "7208293264043292125": {
     "preferred_height_above_ground_min": 12,
     "preferred_height_above_ground_max": 15,
+    "environment_force_down_influence_scale": 12,
     "radius": 1,
     "view_radius": 15,
     "optimal_distance": 5,
-    "seperation_multiplier": 1
+    "seperation_multiplier": 1,
+    "hover_loop_start_sound": 0,
+    "hover_loop_stop_sound": 0
   }
 }

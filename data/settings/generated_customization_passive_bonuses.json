@@ -130,6 +130,21 @@
   },
   {
     "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Gas_Resistance",
+      "name_loc": 2096098484,
+      "icon": 1294838464127429781,
+      "modifiers": [
+        {
+          "modifier_id": 1855573221,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Multiply",
+          "value": 0.200000003,
+          "desc_loc": 2613716205
+        }
+      ]
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
       "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Hero",
       "name_loc": 1236709379,
       "icon": 9287252736164846125,

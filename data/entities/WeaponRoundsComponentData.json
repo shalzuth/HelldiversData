@@ -1,4 +1,157 @@
 {
+  "5972955417680186543": {
+    "ammo_infos": {
+      "primary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "primary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      "secondary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "secondary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    },
+    "ammo_types": {
+      "primary_projectile_type": "ProjectileType_Grenade_40mm_HEAT",
+      "alternate_projectile_type": "ProjectileType_None"
+    },
+    "magazine_capacity": {
+      "x": 1,
+      "y": 0
+    },
+    "ammo_capacity": 6,
+    "ammo_refill": 4,
+    "ammo": 4,
+    "reload_amount": 1,
+    "reload_thresholds": {
+      "x": 0,
+      "y": 0
+    },
+    "chambered": 1,
+    "magazine_switch_audio": 0,
+    "magazine_0_weapon_anim": 0,
+    "magazine_0_wielder_anim": 0,
+    "magazine_1_weapon_anim": 0,
+    "magazine_1_wielder_anim": 0,
+    "magazine_anim_variable": 0
+  },
+  "10177381595962512386": {
+    "ammo_infos": {
+      "primary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "primary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      "secondary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "secondary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    },
+    "ammo_types": {
+      "primary_projectile_type": "ProjectileType_Pistol_13x40mm_fmj",
+      "alternate_projectile_type": "ProjectileType_None"
+    },
+    "magazine_capacity": {
+      "x": 6,
+      "y": 0
+    },
+    "ammo_capacity": 40,
+    "ammo_refill": 40,
+    "ammo": 32,
+    "reload_amount": 1,
+    "reload_thresholds": {
+      "x": 0,
+      "y": 0
+    },
+    "chambered": 0,
+    "magazine_switch_audio": 0,
+    "magazine_0_weapon_anim": 0,
+    "magazine_0_wielder_anim": 0,
+    "magazine_1_weapon_anim": 0,
+    "magazine_1_wielder_anim": 0,
+    "magazine_anim_variable": 0
+  },
+  "13601459612566041022": {
+    "ammo_infos": {
+      "primary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "primary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      "secondary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "secondary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    },
+    "ammo_types": {
+      "primary_projectile_type": "ProjectileType_Shotgun_10g_buc",
+      "alternate_projectile_type": "ProjectileType_Shotgun_10g_buc"
+    },
+    "magazine_capacity": {
+      "x": 8,
+      "y": 8
+    },
+    "ammo_capacity": 60,
+    "ammo_refill": 60,
+    "ammo": 32,
+    "reload_amount": 1,
+    "reload_thresholds": {
+      "x": 0,
+      "y": 0
+    },
+    "chambered": 1,
+    "magazine_switch_audio": 2751498770,
+    "magazine_0_weapon_anim": 2386575183,
+    "magazine_0_wielder_anim": 3334969633,
+    "magazine_1_weapon_anim": 2144827903,
+    "magazine_1_wielder_anim": 1204198336,
+    "magazine_anim_variable": 1258484571
+  },
   "3109983482551492476": {
     "ammo_infos": {
       "primary_recoil_modifiers": {
@@ -50,7 +203,7 @@
     "magazine_1_wielder_anim": 0,
     "magazine_anim_variable": 0
   },
-  "5972955417680186543": {
+  "5725374950499373869": {
     "ammo_infos": {
       "primary_recoil_modifiers": {
         "horizontal_multiplier": 1,
@@ -78,22 +231,73 @@
       }
     },
     "ammo_types": {
-      "primary_projectile_type": "ProjectileType_Grenade_40mm_HEAT",
-      "alternate_projectile_type": "ProjectileType_None"
+      "primary_projectile_type": "ProjectileType_Shotgun_10g_slug",
+      "alternate_projectile_type": "ProjectileType_Shotgun_10g_slug"
     },
     "magazine_capacity": {
-      "x": 1,
-      "y": 0
+      "x": 8,
+      "y": 8
     },
-    "ammo_capacity": 6,
-    "ammo_refill": 4,
-    "ammo": 4,
+    "ammo_capacity": 60,
+    "ammo_refill": 60,
+    "ammo": 32,
     "reload_amount": 1,
     "reload_thresholds": {
       "x": 0,
       "y": 0
     },
     "chambered": 1,
+    "magazine_switch_audio": 2751498770,
+    "magazine_0_weapon_anim": 2386575183,
+    "magazine_0_wielder_anim": 3334969633,
+    "magazine_1_weapon_anim": 2144827903,
+    "magazine_1_wielder_anim": 1204198336,
+    "magazine_anim_variable": 1258484571
+  },
+  "15470422196992643923": {
+    "ammo_infos": {
+      "primary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "primary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      },
+      "secondary_recoil_modifiers": {
+        "horizontal_multiplier": 1,
+        "vertical_multiplier": 1,
+        "drift_horizontal_multiplier": 1,
+        "drift_vertical_multiplier": 1,
+        "climb_horizontal_multiplier": 1,
+        "climb_vertical_multiplier": 1
+      },
+      "secondary_spread_modifiers": {
+        "horizontal": 1,
+        "vertical": 1
+      }
+    },
+    "ammo_types": {
+      "primary_projectile_type": "ProjectileType_Pistol_Stim",
+      "alternate_projectile_type": "ProjectileType_None"
+    },
+    "magazine_capacity": {
+      "x": 6,
+      "y": 0
+    },
+    "ammo_capacity": 24,
+    "ammo_refill": 18,
+    "ammo": 18,
+    "reload_amount": 1,
+    "reload_thresholds": {
+      "x": 0,
+      "y": 0
+    },
+    "chambered": 0,
     "magazine_switch_audio": 0,
     "magazine_0_weapon_anim": 0,
     "magazine_0_wielder_anim": 0,
@@ -152,7 +356,7 @@
     "magazine_1_wielder_anim": 1204198336,
     "magazine_anim_variable": 1258484571
   },
-  "15214248472323070124": {
+  "8896268509512551590": {
     "ammo_infos": {
       "primary_recoil_modifiers": {
         "horizontal_multiplier": 1,
@@ -180,30 +384,30 @@
       }
     },
     "ammo_types": {
-      "primary_projectile_type": "ProjectileType_Shotgun_Dragon_10g_flm",
-      "alternate_projectile_type": "ProjectileType_Shotgun_Dragon_10g_flm"
+      "primary_projectile_type": "ProjectileType_Rifle_Constitution",
+      "alternate_projectile_type": "ProjectileType_None"
     },
     "magazine_capacity": {
-      "x": 8,
-      "y": 8
+      "x": 5,
+      "y": 0
     },
-    "ammo_capacity": 60,
-    "ammo_refill": 60,
-    "ammo": 32,
+    "ammo_capacity": 99,
+    "ammo_refill": 99,
+    "ammo": 60,
     "reload_amount": 1,
     "reload_thresholds": {
       "x": 0,
       "y": 0
     },
     "chambered": 1,
-    "magazine_switch_audio": 2751498770,
-    "magazine_0_weapon_anim": 2386575183,
-    "magazine_0_wielder_anim": 3334969633,
-    "magazine_1_weapon_anim": 2144827903,
-    "magazine_1_wielder_anim": 1204198336,
-    "magazine_anim_variable": 1258484571
+    "magazine_switch_audio": 0,
+    "magazine_0_weapon_anim": 0,
+    "magazine_0_wielder_anim": 0,
+    "magazine_1_weapon_anim": 0,
+    "magazine_1_wielder_anim": 0,
+    "magazine_anim_variable": 0
   },
-  "10177381595962512386": {
+  "5910727434981086692": {
     "ammo_infos": {
       "primary_recoil_modifiers": {
         "horizontal_multiplier": 1,
@@ -231,16 +435,16 @@
       }
     },
     "ammo_types": {
-      "primary_projectile_type": "ProjectileType_Pistol_13x40mm_fmj",
+      "primary_projectile_type": "ProjectileType_Shotgun_10g_mag",
       "alternate_projectile_type": "ProjectileType_None"
     },
     "magazine_capacity": {
-      "x": 6,
+      "x": 2,
       "y": 0
     },
     "ammo_capacity": 40,
     "ammo_refill": 20,
-    "ammo": 32,
+    "ammo": 20,
     "reload_amount": 1,
     "reload_thresholds": {
       "x": 0,
@@ -305,7 +509,7 @@
     "magazine_1_wielder_anim": 0,
     "magazine_anim_variable": 0
   },
-  "13601459612566041022": {
+  "15214248472323070124": {
     "ammo_infos": {
       "primary_recoil_modifiers": {
         "horizontal_multiplier": 1,
@@ -333,110 +537,8 @@
       }
     },
     "ammo_types": {
-      "primary_projectile_type": "ProjectileType_Shotgun_10g_buc",
-      "alternate_projectile_type": "ProjectileType_Shotgun_10g_buc"
-    },
-    "magazine_capacity": {
-      "x": 8,
-      "y": 8
-    },
-    "ammo_capacity": 60,
-    "ammo_refill": 60,
-    "ammo": 32,
-    "reload_amount": 1,
-    "reload_thresholds": {
-      "x": 0,
-      "y": 0
-    },
-    "chambered": 1,
-    "magazine_switch_audio": 2751498770,
-    "magazine_0_weapon_anim": 2386575183,
-    "magazine_0_wielder_anim": 3334969633,
-    "magazine_1_weapon_anim": 2144827903,
-    "magazine_1_wielder_anim": 1204198336,
-    "magazine_anim_variable": 1258484571
-  },
-  "5910727434981086692": {
-    "ammo_infos": {
-      "primary_recoil_modifiers": {
-        "horizontal_multiplier": 1,
-        "vertical_multiplier": 1,
-        "drift_horizontal_multiplier": 1,
-        "drift_vertical_multiplier": 1,
-        "climb_horizontal_multiplier": 1,
-        "climb_vertical_multiplier": 1
-      },
-      "primary_spread_modifiers": {
-        "horizontal": 1,
-        "vertical": 1
-      },
-      "secondary_recoil_modifiers": {
-        "horizontal_multiplier": 1,
-        "vertical_multiplier": 1,
-        "drift_horizontal_multiplier": 1,
-        "drift_vertical_multiplier": 1,
-        "climb_horizontal_multiplier": 1,
-        "climb_vertical_multiplier": 1
-      },
-      "secondary_spread_modifiers": {
-        "horizontal": 1,
-        "vertical": 1
-      }
-    },
-    "ammo_types": {
-      "primary_projectile_type": "ProjectileType_Shotgun_10g_mag",
-      "alternate_projectile_type": "ProjectileType_None"
-    },
-    "magazine_capacity": {
-      "x": 2,
-      "y": 0
-    },
-    "ammo_capacity": 40,
-    "ammo_refill": 20,
-    "ammo": 20,
-    "reload_amount": 1,
-    "reload_thresholds": {
-      "x": 0,
-      "y": 0
-    },
-    "chambered": 0,
-    "magazine_switch_audio": 0,
-    "magazine_0_weapon_anim": 0,
-    "magazine_0_wielder_anim": 0,
-    "magazine_1_weapon_anim": 0,
-    "magazine_1_wielder_anim": 0,
-    "magazine_anim_variable": 0
-  },
-  "5725374950499373869": {
-    "ammo_infos": {
-      "primary_recoil_modifiers": {
-        "horizontal_multiplier": 1,
-        "vertical_multiplier": 1,
-        "drift_horizontal_multiplier": 1,
-        "drift_vertical_multiplier": 1,
-        "climb_horizontal_multiplier": 1,
-        "climb_vertical_multiplier": 1
-      },
-      "primary_spread_modifiers": {
-        "horizontal": 1,
-        "vertical": 1
-      },
-      "secondary_recoil_modifiers": {
-        "horizontal_multiplier": 1,
-        "vertical_multiplier": 1,
-        "drift_horizontal_multiplier": 1,
-        "drift_vertical_multiplier": 1,
-        "climb_horizontal_multiplier": 1,
-        "climb_vertical_multiplier": 1
-      },
-      "secondary_spread_modifiers": {
-        "horizontal": 1,
-        "vertical": 1
-      }
-    },
-    "ammo_types": {
-      "primary_projectile_type": "ProjectileType_Shotgun_10g_slug",
-      "alternate_projectile_type": "ProjectileType_Shotgun_10g_slug"
+      "primary_projectile_type": "ProjectileType_Shotgun_Dragon_10g_flm",
+      "alternate_projectile_type": "ProjectileType_Shotgun_Dragon_10g_flm"
     },
     "magazine_capacity": {
       "x": 8,

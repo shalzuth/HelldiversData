@@ -1,6 +1,7 @@
 { "SpawnLane" : {
     "ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The name of ability to play when spawned in this lane." },
     "ability_spawn" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play on the spawner when an enemy is spawned." },
+    "ability_spawn_start" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "The ability to play on the spawner when an enemy is about to be spawned." },
     "node" : { "type": "uint", "description": "[string]The node where to spawn the enemy." },
     "attach_spawn_to_node" : { "type": "byte", "description": "[bool]Should the spawned entity be attached to the spawn node?" }
 }}

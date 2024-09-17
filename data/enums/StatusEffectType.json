@@ -26,6 +26,7 @@
     "StatusEffectType_StimFx",
     "StatusEffectType_StimStamina",
     "StatusEffectType_StimHeal",
+    "StatusEffectType_StimPistolHeal",
     "StatusEffectType_StimCombatDrugs",
     "StatusEffectType_DownedStimHeal",
     "StatusEffectType_DownedStimVisual",
@@ -41,6 +42,7 @@
     "StatusEffectType_StunMassive",
     "StatusEffectType_StunIlluminate",
     "StatusEffectType_Gas",
+    "StatusEffectType_Gas_Confusion",
     "StatusEffectType_Gas_MK2",
     "StatusEffectType_Inverted_Aim_Assist",
     "StatusEffectType_Flashlighted",
@@ -55,5 +57,6 @@
     "StatusEffectType_ThickFog",
     "StatusEffectType_Protected",
     "StatusEffectType_DustDevil",
+    "StatusEffectType_DarkFluid",
     "StatusEffectType_Count"
 ]}

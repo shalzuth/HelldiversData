@@ -1,88 +1,4 @@
 {
-  "17613848926527811920": {
-    "encounter_on_time_per_difficulty": [
-      20,
-      25,
-      30,
-      40,
-      45,
-      45,
-      50,
-      60,
-      60,
-      60
-    ],
-    "encounter_off_time_per_difficulty": [
-      15,
-      25,
-      35,
-      45,
-      55,
-      65,
-      80,
-      90,
-      90,
-      90
-    ],
-    "continue_on_completion": 0,
-    "continue_after_mission_time": 1
-  },
-  "9944277644647265182": {
-    "encounter_on_time_per_difficulty": [
-      30,
-      35,
-      40,
-      45,
-      50,
-      55,
-      60,
-      60,
-      60,
-      60
-    ],
-    "encounter_off_time_per_difficulty": [
-      30,
-      35,
-      40,
-      45,
-      50,
-      55,
-      60,
-      60,
-      60,
-      60
-    ],
-    "continue_on_completion": 0,
-    "continue_after_mission_time": 0
-  },
-  "5270180603555517763": {
-    "encounter_on_time_per_difficulty": [
-      10,
-      10,
-      10,
-      15,
-      15,
-      15,
-      20,
-      20,
-      20,
-      20
-    ],
-    "encounter_off_time_per_difficulty": [
-      30,
-      30,
-      30,
-      35,
-      35,
-      35,
-      40,
-      40,
-      40,
-      40
-    ],
-    "continue_on_completion": 0,
-    "continue_after_mission_time": 0
-  },
   "4882226405607636345": {
     "encounter_on_time_per_difficulty": [
       20,
@@ -138,5 +54,61 @@
     ],
     "continue_on_completion": 0,
     "continue_after_mission_time": 1
+  },
+  "5270180603555517763": {
+    "encounter_on_time_per_difficulty": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20
+    ],
+    "encounter_off_time_per_difficulty": [
+      30,
+      30,
+      30,
+      35,
+      35,
+      35,
+      40,
+      40,
+      40,
+      40
+    ],
+    "continue_on_completion": 0,
+    "continue_after_mission_time": 0
+  },
+  "9944277644647265182": {
+    "encounter_on_time_per_difficulty": [
+      30,
+      35,
+      40,
+      45,
+      50,
+      55,
+      60,
+      60,
+      60,
+      60
+    ],
+    "encounter_off_time_per_difficulty": [
+      30,
+      35,
+      40,
+      45,
+      50,
+      55,
+      60,
+      60,
+      60,
+      60
+    ],
+    "continue_on_completion": 0,
+    "continue_after_mission_time": 0
   }
 }

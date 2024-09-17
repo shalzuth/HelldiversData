@@ -1,4 +1,5 @@
 { "AiEnemyFollowCurveSettings" : {
+    "curve_template" : { "type": "AttackCurveTemplate", "default": "AttackCurveTemplate_ShriekerAttack" },
     "time_anim_events" : { "type": "array", "subtype": "AiEnemyFollowCurveAnimEvent" },
     "exit_anim_event" : { "type": "uint", "description": "[string]" },
     "exit_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid", "description": "Ability to play while exiting the curve." },

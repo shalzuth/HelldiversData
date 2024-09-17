@@ -42,11 +42,13 @@
     "regeneration_enabled" : { "type": "byte", "description": "[bool]If true, this damage zone will regenerate when the health components regeneration cooldown isn't active." },
     "bleedout_enabled" : { "type": "byte", "description": "[bool]If true, this damage zone will start to bleedout when it's entered constitution." },
     "affected_by_explosions" : { "type": "byte", "description": "[bool]If true, explosions are applied to this damage zone. If not, the default zone is affected." },
+    "explosion_damage_multiplier" : { "type": "float", "default": 1, "description": "A multiplier on explosion damage." },
     "affected_by_collision_impact" : { "type": "byte", "description": "[bool]If true, collision damage will hurt this zone, currently only for vehicles." },
     "on_dead_disable_all_actors" : { "type": "byte", "description": "[bool]If true, we disable all actors in this damage zone as it dies." },
     "explosion_verification_mode" : { "type": "ExplosionVerificationMode", "default": "ExplosionVerificationMode_OuterRadius", "description": "Defines when explosions are verified by raycast." },
     "main_health_affect_capped_by_zone_health" : { "type": "byte", "description": "[bool]If true, the main health contribution is capped by the health + constitutiuon of the damage zone. Should be true for zones that can be gibbed/dismembered." },
     "hit_effect_receiver_type" : { "type": "HitEffectReceiverType", "default": "HitEffectReceiverType_Count", "description": "The type of hit effect to play when the zone gets hit. If this is set to HitEffectReceiverType_Count, it will assume the hit effect of the HitEffectComponent." },
     "use_surface_effect" : { "type": "byte", "description": "[bool]If enabled, will use the surface effect rather than the hit effect." },
-    "health_event_triggers" : { "type": "array", "subtype": "HealthEventTrigger", "description": "Events that get played at certain health percentages." }
+    "health_event_triggers" : { "type": "array", "subtype": "HealthEventTrigger", "description": "Events that get played at certain health percentages." },
+    "health_event_trigger_audio_node" : { "type": "uint", "description": "[string]The audio node to use to play the health event trigger sounds." }
 }}
