@@ -12,7 +12,8 @@
     "explosion_type": "ExplosionType_Cyborg_Mine",
     "ai_avoidance_radius": 19,
     "agent_type": 0,
-    "trigger_on_touch": 1
+    "trigger_on_touch": 1,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "13919159664058817929": {
     "mine_unit_path": 10695854393089637431,
@@ -27,7 +28,8 @@
     "explosion_type": "ExplosionType_Cyborg_Mine",
     "ai_avoidance_radius": 19,
     "agent_type": 0,
-    "trigger_on_touch": 1
+    "trigger_on_touch": 1,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "3578086008623815565": {
     "mine_unit_path": 10695854393089637431,
@@ -42,7 +44,8 @@
     "explosion_type": "ExplosionType_Cyborg_Mine",
     "ai_avoidance_radius": 0,
     "agent_type": 0,
-    "trigger_on_touch": 1
+    "trigger_on_touch": 1,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "12220563120145251703": {
     "mine_unit_path": 0,
@@ -57,7 +60,8 @@
     "explosion_type": "ExplosionType_GasMine",
     "ai_avoidance_radius": 0,
     "agent_type": 0,
-    "trigger_on_touch": 0
+    "trigger_on_touch": 0,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "17297258079668724512": {
     "mine_unit_path": 0,
@@ -72,7 +76,8 @@
     "explosion_type": "ExplosionType_ContactMine",
     "ai_avoidance_radius": 0,
     "agent_type": 0,
-    "trigger_on_touch": 0
+    "trigger_on_touch": 0,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "931605081112590873": {
     "mine_unit_path": 10695854393089637431,
@@ -87,7 +92,8 @@
     "explosion_type": "ExplosionType_Cyborg_Mine",
     "ai_avoidance_radius": 19,
     "agent_type": 0,
-    "trigger_on_touch": 1
+    "trigger_on_touch": 1,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "8479962019228554418": {
     "mine_unit_path": 10695854393089637431,
@@ -102,7 +108,8 @@
     "explosion_type": "ExplosionType_Cyborg_Mine",
     "ai_avoidance_radius": 19,
     "agent_type": 0,
-    "trigger_on_touch": 1
+    "trigger_on_touch": 1,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "13777321776887997010": {
     "mine_unit_path": 0,
@@ -117,7 +124,8 @@
     "explosion_type": "ExplosionType_IncendiaryMine",
     "ai_avoidance_radius": 0,
     "agent_type": 0,
-    "trigger_on_touch": 0
+    "trigger_on_touch": 0,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "2712008117028049500": {
     "mine_unit_path": 0,
@@ -132,7 +140,8 @@
     "explosion_type": "ExplosionType_AntiTankMine",
     "ai_avoidance_radius": 0,
     "agent_type": 0,
-    "trigger_on_touch": 1
+    "trigger_on_touch": 1,
+    "step_detection_min_unit_size": "UnitSize_Large"
   },
   "14446953359610197390": {
     "mine_unit_path": 10695854393089637431,
@@ -147,7 +156,8 @@
     "explosion_type": "ExplosionType_Cyborg_Mine",
     "ai_avoidance_radius": 19,
     "agent_type": 0,
-    "trigger_on_touch": 1
+    "trigger_on_touch": 1,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "289442314985484474": {
     "mine_unit_path": 10695854393089637431,
@@ -162,7 +172,8 @@
     "explosion_type": "ExplosionType_Cyborg_Mine",
     "ai_avoidance_radius": 19,
     "agent_type": 0,
-    "trigger_on_touch": 1
+    "trigger_on_touch": 1,
+    "step_detection_min_unit_size": "UnitSize_Small"
   },
   "5200820166822610051": {
     "mine_unit_path": 10695854393089637431,
@@ -177,6 +188,7 @@
     "explosion_type": "ExplosionType_Cyborg_Mine",
     "ai_avoidance_radius": 19,
     "agent_type": 0,
-    "trigger_on_touch": 1
+    "trigger_on_touch": 1,
+    "step_detection_min_unit_size": "UnitSize_Small"
   }
 }

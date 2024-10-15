@@ -7825,10 +7825,10 @@
     "duration": 3
   },
   "2485324727522105523": {
-    "magazine_capacity": 15,
-    "magazines": 4,
-    "magazines_refill": 6,
-    "magazines_max": 6,
+    "magazine_capacity": 20,
+    "magazines": 3,
+    "magazines_refill": 5,
+    "magazines_max": 5,
     "chambered": 0
   },
   "17579117517332156085": {
@@ -8127,27 +8127,11 @@
   },
   "9291105500383269587": {
     "magazine_path": 9291105500383269587,
-    "magazine_capacity": 23,
+    "magazine_capacity": 20,
     "magazines": 3,
-    "magazines_refill": 4,
-    "magazines_max": 4,
-    "chambered": 0,
-    "weapon_stat_modifiers[0].type": "WeaponStatModifierType_Add_Ergonomics",
-    "weapon_stat_modifiers[0].value": -5,
-    "weapon_stat_modifiers[1].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[1].value": 0,
-    "weapon_stat_modifiers[2].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[2].value": 0,
-    "weapon_stat_modifiers[3].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[3].value": 0,
-    "weapon_stat_modifiers[4].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[4].value": 0,
-    "weapon_stat_modifiers[5].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[5].value": 0,
-    "weapon_stat_modifiers[6].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[6].value": 0,
-    "weapon_stat_modifiers[7].type": "WeaponStatModifierType_Count",
-    "weapon_stat_modifiers[7].value": 0
+    "magazines_refill": 5,
+    "magazines_max": 5,
+    "chambered": 0
   },
   "6674992161887185107": {
     "material_override.material_path": 13455967927169360639,
@@ -12448,7 +12432,7 @@
     "duration": 2
   },
   "13998813368191186925": {
-    "magazine_capacity": 25,
+    "magazine_capacity": 30,
     "magazines": 6,
     "magazines_max": 8,
     "magazines_refill": 8,

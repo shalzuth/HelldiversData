@@ -22,10 +22,10 @@
     "ability_thrusters_deactivate": "AbilityId_tcs_03_darkfluid_thrusters_deactivate"
   },
   "6468799106264970105": {
-    "takeoff_force": 25,
+    "takeoff_force": 40,
     "takeoff_duration": 0.5,
     "boosted_takeoff_duration": 0.75,
-    "takeoff_forward_frac": 0.0500000007,
+    "takeoff_forward_frac": 0.400000006,
     "landing_thrust_force": 60,
     "landing_thrust_duration": 1,
     "landing_thrust_backward_frac": 0.100000001,

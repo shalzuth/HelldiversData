@@ -2,7 +2,7 @@
   "10845250369047350884": {
     "recoil_info": {
       "drift": {
-        "horizontal_recoil": 10,
+        "horizontal_recoil": 7,
         "vertical_recoil": 10,
         "horizontal_bias": 0,
         "random_amount": {
@@ -6131,7 +6131,7 @@
       "z": 0
     },
     "scope_lens_hides_weapon": 0,
-    "ergonomics": 25,
+    "ergonomics": 40,
     "constrained_aim_leading": 1,
     "allow_fpv": 1,
     "allow_aiming": 1,
@@ -8476,7 +8476,7 @@
       "z": 0
     },
     "scope_lens_hides_weapon": 0,
-    "ergonomics": 25,
+    "ergonomics": 40,
     "constrained_aim_leading": 1,
     "allow_fpv": 1,
     "allow_aiming": 1,
@@ -12161,7 +12161,7 @@
       "z": 0
     },
     "scope_lens_hides_weapon": 0,
-    "ergonomics": 25,
+    "ergonomics": 40,
     "constrained_aim_leading": 1,
     "allow_fpv": 1,
     "allow_aiming": 1,
@@ -13501,7 +13501,7 @@
       "z": 0
     },
     "scope_lens_hides_weapon": 0,
-    "ergonomics": 25,
+    "ergonomics": 40,
     "constrained_aim_leading": 1,
     "allow_fpv": 1,
     "allow_aiming": 1,
@@ -22782,7 +22782,7 @@
   "6912088101323449320": {
     "recoil_info": {
       "drift": {
-        "horizontal_recoil": 25,
+        "horizontal_recoil": 17,
         "vertical_recoil": 35,
         "horizontal_bias": 0,
         "random_amount": {
@@ -27236,7 +27236,7 @@
       "z": 0
     },
     "scope_lens_hides_weapon": 0,
-    "ergonomics": 25,
+    "ergonomics": 40,
     "constrained_aim_leading": 1,
     "allow_fpv": 1,
     "allow_aiming": 1,
@@ -30152,7 +30152,7 @@
   "12100643055971655455": {
     "recoil_info": {
       "drift": {
-        "horizontal_recoil": 20,
+        "horizontal_recoil": 14,
         "vertical_recoil": 20,
         "horizontal_bias": 0,
         "random_amount": {
@@ -30251,7 +30251,7 @@
       "z": 0
     },
     "scope_lens_hides_weapon": 0,
-    "ergonomics": 65,
+    "ergonomics": 70,
     "constrained_aim_leading": 1,
     "allow_fpv": 1,
     "allow_aiming": 1,
@@ -30537,7 +30537,7 @@
     "secondary_fire_mode": "FireMode_None",
     "tertiary_fire_mode": "FireMode_None",
     "function_info": {
-      "left": "WeaponFunctionType_None",
+      "left": "WeaponFunctionType_ProgrammableAmmo",
       "right": "WeaponFunctionType_None"
     },
     "crosshair": 4063643672045351739,
@@ -32497,8 +32497,8 @@
   "15470422196992643923": {
     "recoil_info": {
       "drift": {
-        "horizontal_recoil": 10,
-        "vertical_recoil": 30,
+        "horizontal_recoil": 5,
+        "vertical_recoil": 10,
         "horizontal_bias": 0,
         "random_amount": {
           "x": 0.100000001,
@@ -32506,8 +32506,8 @@
         }
       },
       "climb": {
-        "horizontal_recoil": 5,
-        "vertical_recoil": 25,
+        "horizontal_recoil": 2,
+        "vertical_recoil": 5,
         "horizontal_bias": 0,
         "random_amount": {
           "x": 0.100000001,
@@ -32524,8 +32524,8 @@
       "climb_vertical_multiplier": 1
     },
     "spread_info": {
-      "horizontal": 30,
-      "vertical": 30
+      "horizontal": 5,
+      "vertical": 5
     },
     "spread_modifiers": {
       "horizontal": 1,
@@ -32600,7 +32600,7 @@
     "constrained_aim_leading": 1,
     "allow_fpv": 1,
     "allow_aiming": 1,
-    "crosshair_type": "CrosshairWeaponType_Revolver",
+    "crosshair_type": "CrosshairWeaponType_Pistol",
     "first_person_sight_node": 1383898227,
     "first_person_optic_attach_node": 1294297178,
     "auto_drop_ability": "AbilityId_Invalid",
@@ -41927,7 +41927,7 @@
     "secondary_fire_mode": "FireMode_Automatic",
     "tertiary_fire_mode": "FireMode_None",
     "function_info": {
-      "left": "WeaponFunctionType_None",
+      "left": "WeaponFunctionType_ProgrammableAmmo",
       "right": "WeaponFunctionType_Firemode"
     },
     "crosshair": 4063643672045351739,
@@ -42574,8 +42574,8 @@
       "climb_vertical_multiplier": 1
     },
     "spread_info": {
-      "horizontal": 150,
-      "vertical": 150
+      "horizontal": 200,
+      "vertical": 200
     },
     "spread_modifiers": {
       "horizontal": 1,
@@ -44991,7 +44991,7 @@
       "z": 0
     },
     "scope_lens_hides_weapon": 0,
-    "ergonomics": 25,
+    "ergonomics": 40,
     "constrained_aim_leading": 1,
     "allow_fpv": 1,
     "allow_aiming": 1,
@@ -58292,7 +58292,7 @@
   "4885016034561106550": {
     "recoil_info": {
       "drift": {
-        "horizontal_recoil": 15,
+        "horizontal_recoil": 10,
         "vertical_recoil": 15,
         "horizontal_bias": 0,
         "random_amount": {
@@ -58962,8 +58962,8 @@
   "421324886246020354": {
     "recoil_info": {
       "drift": {
-        "horizontal_recoil": 40,
-        "vertical_recoil": 40,
+        "horizontal_recoil": 30,
+        "vertical_recoil": 30,
         "horizontal_bias": 0,
         "random_amount": {
           "x": 0.100000001,
@@ -58971,8 +58971,8 @@
         }
       },
       "climb": {
-        "horizontal_recoil": 50,
-        "vertical_recoil": 180,
+        "horizontal_recoil": 4,
+        "vertical_recoil": 40,
         "horizontal_bias": 0.5,
         "random_amount": {
           "x": 0.100000001,
@@ -60014,11 +60014,11 @@
     "visibility_modifier": 1,
     "num_burst_rounds": 3,
     "primary_fire_mode": "FireMode_Single",
-    "secondary_fire_mode": "FireMode_None",
+    "secondary_fire_mode": "FireMode_Automatic",
     "tertiary_fire_mode": "FireMode_None",
     "function_info": {
       "left": "WeaponFunctionType_None",
-      "right": "WeaponFunctionType_None"
+      "right": "WeaponFunctionType_Firemode"
     },
     "crosshair": 4063643672045351739,
     "always_show_crosshair": 0,
@@ -60352,7 +60352,7 @@
     "secondary_fire_mode": "FireMode_Single",
     "tertiary_fire_mode": "FireMode_Burst",
     "function_info": {
-      "left": "WeaponFunctionType_None",
+      "left": "WeaponFunctionType_ROF",
       "right": "WeaponFunctionType_Firemode"
     },
     "crosshair": 4063643672045351739,

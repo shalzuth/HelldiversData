@@ -12,6 +12,7 @@
     "idle_ability" : { "type": "AbilityId", "default": "AbilityId_Invalid" },
     "navigation_agent_type" : { "type": "uint", "description": "[string]The agent type to use when navigating in combat. Agent types are specified in global.havok_ai_properties." },
     "rotate_target_intercept_time" : { "type": "float", "default": 0.4, "description": "How far ahead to predict movement in seconds, when determining rotation towards target." },
+    "time_until_reengagement" : { "type": "float", "default": 15, "description": "The amount of time an agent can spend without line of sight to target until it has to establish line of sight again." },
     "rotate_toward_target" : { "type": "byte", "description": "[bool]Attempts to always rotate towards target by default. Remember that other systems/abilities can override this behavior." },
     "follow_squad_leader" : { "type": "byte", "description": "[bool]If not the leader, then by default move towards them" }
 }}

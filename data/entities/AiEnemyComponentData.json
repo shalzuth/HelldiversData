@@ -72,6 +72,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.200000003,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -299,6 +300,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -526,6 +528,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -753,6 +756,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -980,6 +984,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -1172,7 +1177,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 4.19999981,
+        "speed": 5,
         "locomotion_set": 691778481
       },
       "strafe": {
@@ -1207,6 +1212,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -1434,6 +1440,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -1661,6 +1668,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -1853,7 +1861,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 2.5,
+        "speed": 3,
         "locomotion_set": 3268827391
       },
       "strafe": {
@@ -1888,6 +1896,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -2115,6 +2124,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 2324552550,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -2342,6 +2352,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -2569,6 +2580,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -2796,6 +2808,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -3023,6 +3036,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -3250,6 +3264,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -3442,7 +3457,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 3,
+        "speed": 3.5,
         "locomotion_set": 3268827391
       },
       "strafe": {
@@ -3477,6 +3492,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -3704,6 +3720,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -3896,7 +3913,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 4.19999981,
+        "speed": 5,
         "locomotion_set": 691778481
       },
       "strafe": {
@@ -3931,6 +3948,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -4158,6 +4176,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -4385,6 +4404,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -4612,6 +4632,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -4839,6 +4860,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -5066,6 +5088,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -5293,6 +5316,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -5520,6 +5544,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -5712,7 +5737,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 3.5,
+        "speed": 4.25,
         "locomotion_set": 3268827391
       },
       "strafe": {
@@ -5747,6 +5772,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -5974,6 +6000,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -6201,6 +6228,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -6428,6 +6456,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -6655,6 +6684,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -6882,6 +6912,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -7074,7 +7105,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 3,
+        "speed": 4,
         "locomotion_set": 3268827391
       },
       "strafe": {
@@ -7109,6 +7140,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -7336,6 +7368,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -7563,6 +7596,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -7790,6 +7824,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 2324552550,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -8017,6 +8052,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -8244,6 +8280,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -8471,6 +8508,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -8698,6 +8736,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.200000003,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -8925,6 +8964,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -9152,6 +9192,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -9379,6 +9420,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -9606,6 +9648,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -9833,6 +9876,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -10060,6 +10104,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -10287,6 +10332,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -10514,6 +10560,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -10741,6 +10788,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -10968,6 +11016,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -11195,6 +11244,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 0,
       "follow_squad_leader": 0
     },
@@ -11422,6 +11472,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 0,
       "follow_squad_leader": 0
     },
@@ -11649,6 +11700,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -11876,6 +11928,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -12103,6 +12156,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -12330,6 +12384,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -12557,6 +12612,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -12784,6 +12840,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.200000003,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -13011,6 +13068,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 0,
       "follow_squad_leader": 0
     },
@@ -13238,6 +13296,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 2324552550,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -13465,6 +13524,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -13692,6 +13752,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -13919,6 +13980,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -14146,6 +14208,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 2324552550,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -14373,6 +14436,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -14600,6 +14664,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -14827,6 +14892,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -15054,6 +15120,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -15281,6 +15348,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -15508,6 +15576,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -15735,6 +15804,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -15962,6 +16032,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -16189,6 +16260,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -16381,7 +16453,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 3.5,
+        "speed": 4,
         "locomotion_set": 3268827391
       },
       "strafe": {
@@ -16416,6 +16488,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -16643,6 +16716,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -16870,6 +16944,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -17097,6 +17172,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.200000003,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -17324,6 +17400,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -17516,7 +17593,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 3.25,
+        "speed": 4,
         "locomotion_set": 3268827391
       },
       "strafe": {
@@ -17551,6 +17628,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -17743,7 +17821,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 4.19999981,
+        "speed": 5,
         "locomotion_set": 1562213581
       },
       "strafe": {
@@ -17778,6 +17856,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -17970,7 +18049,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 4,
+        "speed": 4.5,
         "locomotion_set": 3268827391
       },
       "strafe": {
@@ -18005,6 +18084,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 1980326034,
       "rotate_target_intercept_time": 0,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -18232,6 +18312,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -18459,6 +18540,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -18686,6 +18768,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -18913,6 +18996,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 0,
       "follow_squad_leader": 0
     },
@@ -19140,6 +19224,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 2324552550,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -19332,7 +19417,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 4.19999981,
+        "speed": 5,
         "locomotion_set": 691778481
       },
       "strafe": {
@@ -19367,6 +19452,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -19594,6 +19680,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },
@@ -19786,7 +19873,7 @@
     },
     "combat": {
       "movement": {
-        "speed": 4.19999981,
+        "speed": 5,
         "locomotion_set": 691778481
       },
       "strafe": {
@@ -19821,6 +19908,7 @@
       "idle_ability": "AbilityId_Invalid",
       "navigation_agent_type": 0,
       "rotate_target_intercept_time": 0.400000006,
+      "time_until_reengagement": 15,
       "rotate_toward_target": 1,
       "follow_squad_leader": 0
     },

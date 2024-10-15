@@ -126,8 +126,8 @@
         {
           "type": "DamageInfoType_Projectile_Scavenger_AcidBall",
           "damage": [
-            10,
-            10
+            15,
+            15
           ],
           "armor_penetration_per_angle": [
             3,
@@ -231,7 +231,7 @@
         {
           "type": "DamageInfoType_Projectile_CyborgRifle",
           "damage": [
-            40,
+            35,
             4
           ],
           "armor_penetration_per_angle": [
@@ -859,15 +859,15 @@
           ]
         },
         {
-          "type": "DamageInfoType_Projectile_Plasma_Rifle_Charge",
+          "type": "DamageInfoType_Projectile_Plasma_Punisher",
           "damage": [
             100,
             50
           ],
           "armor_penetration_per_angle": [
-            3,
-            3,
-            3,
+            2,
+            2,
+            2,
             0
           ],
           "demolition_strength": 10,
@@ -894,9 +894,9 @@
           ]
         },
         {
-          "type": "DamageInfoType_Projectile_Plasma_Bolt_Charge",
+          "type": "DamageInfoType_Projectile_Plasma_Rifle_Charge",
           "damage": [
-            250,
+            200,
             100
           ],
           "armor_penetration_per_angle": [
@@ -1632,16 +1632,16 @@
           "type": "DamageInfoType_Projectile_Pistol_Magnum",
           "damage": [
             125,
-            12
+            32
           ],
           "armor_penetration_per_angle": [
-            2,
-            2,
-            2,
+            3,
+            3,
+            3,
             0
           ],
           "demolition_strength": 10,
-          "force_strength": 12,
+          "force_strength": 15,
           "force_impulse": 10,
           "element_type": "ElementType_None",
           "status_effects": [
@@ -1701,13 +1701,13 @@
         {
           "type": "DamageInfoType_Projectile_Pistol_13x40mm_fmj",
           "damage": [
-            175,
-            35
+            200,
+            70
           ],
           "armor_penetration_per_angle": [
-            3,
-            3,
-            3,
+            4,
+            4,
+            4,
             0
           ],
           "demolition_strength": 10,
@@ -2646,8 +2646,8 @@
         {
           "type": "DamageInfoType_Projectile_Battle_Rifle",
           "damage": [
-            80,
-            16
+            90,
+            23
           ],
           "armor_penetration_per_angle": [
             3,
@@ -4466,8 +4466,8 @@
         {
           "type": "DamageInfoType_Projectile_CyborgHmg",
           "damage": [
-            65,
-            7
+            60,
+            6
           ],
           "armor_penetration_per_angle": [
             3,
@@ -4956,8 +4956,8 @@
         {
           "type": "DamageInfoType_Projectile_CyborgLightCannon",
           "damage": [
-            90,
-            90
+            80,
+            80
           ],
           "armor_penetration_per_angle": [
             4,
@@ -5278,7 +5278,7 @@
             7,
             7,
             7,
-            0
+            7
           ],
           "demolition_strength": 40,
           "force_strength": 20,
@@ -5306,8 +5306,8 @@
         {
           "type": "DamageInfoType_Projectile_Grenade_85mm_HE",
           "damage": [
-            500,
-            500
+            750,
+            750
           ],
           "armor_penetration_per_angle": [
             5,
@@ -5315,7 +5315,7 @@
             5,
             0
           ],
-          "demolition_strength": 40,
+          "demolition_strength": 30,
           "force_strength": 50,
           "force_impulse": 25,
           "element_type": "ElementType_None",
@@ -5523,7 +5523,7 @@
             7,
             7,
             7,
-            0
+            7
           ],
           "demolition_strength": 40,
           "force_strength": 50,
@@ -5654,6 +5654,41 @@
           ]
         },
         {
+          "type": "DamageInfoType_Projectile_Missile_SAM",
+          "damage": [
+            4000,
+            4000
+          ],
+          "armor_penetration_per_angle": [
+            7,
+            7,
+            7,
+            0
+          ],
+          "demolition_strength": 40,
+          "force_strength": 40,
+          "force_impulse": 30,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
           "type": "DamageInfoType_Projectile_Strider_Spike",
           "damage": [
             300,
@@ -5698,7 +5733,7 @@
             7,
             7,
             7,
-            0
+            7
           ],
           "demolition_strength": 50,
           "force_strength": 20,
@@ -5838,7 +5873,7 @@
             7,
             7,
             6,
-            0
+            6
           ],
           "demolition_strength": 50,
           "force_strength": 60,
@@ -5873,7 +5908,7 @@
             7,
             7,
             6,
-            0
+            6
           ],
           "demolition_strength": 50,
           "force_strength": 20,
@@ -5908,7 +5943,7 @@
             8,
             7,
             6,
-            0
+            6
           ],
           "demolition_strength": 50,
           "force_strength": 50,
@@ -6013,7 +6048,7 @@
             7,
             7,
             7,
-            0
+            7
           ],
           "demolition_strength": 50,
           "force_strength": 60,
@@ -6496,8 +6531,8 @@
         {
           "type": "DamageInfoType_Explosion_Scavenger_AcidBall",
           "damage": [
-            10,
-            10
+            15,
+            15
           ],
           "armor_penetration_per_angle": [
             6,
@@ -6846,8 +6881,8 @@
         {
           "type": "DamageInfoType_Explosion_Projectile_PlasmaBolt_Medium_Volatile",
           "damage": [
-            150,
-            150
+            100,
+            100
           ],
           "armor_penetration_per_angle": [
             3,
@@ -6914,10 +6949,80 @@
           ]
         },
         {
-          "type": "DamageInfoType_Explosion_Plasma_Rifle_Charge",
+          "type": "DamageInfoType_Explosion_Projectile_Plasma_Punisher",
           "damage": [
             150,
             150
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            3,
+            3,
+            0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 35,
+          "force_impulse": 30,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Explosion_Projectile_Plasma_Rifle_Charge_Medium",
+          "damage": [
+            75,
+            75
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            0,
+            0,
+            0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 10,
+          "force_impulse": 7,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Explosion_Projectile_Plasma_Rifle_Charge",
+          "damage": [
+            300,
+            300
           ],
           "armor_penetration_per_angle": [
             3,
@@ -7511,8 +7616,8 @@
         {
           "type": "DamageInfoType_Explosion_HandGrenade_Frag",
           "damage": [
-            250,
-            250
+            500,
+            500
           ],
           "armor_penetration_per_angle": [
             3,
@@ -7580,6 +7685,41 @@
         },
         {
           "type": "DamageInfoType_Explosion_HandGrenade_Incendiary",
+          "damage": [
+            300,
+            300
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            0,
+            0,
+            0
+          ],
+          "demolition_strength": 30,
+          "force_strength": 20,
+          "force_impulse": 15,
+          "element_type": "ElementType_Fire",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_Fire",
+              "value": 100
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Explosion_HandGrenade_Incendiary_Impact",
           "damage": [
             150,
             150
@@ -7726,6 +7866,41 @@
           ],
           "armor_penetration_per_angle": [
             3,
+            0,
+            0,
+            0
+          ],
+          "demolition_strength": 20,
+          "force_strength": 50,
+          "force_impulse": 40,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Explosion_Vehicle_RocketTankBody",
+          "damage": [
+            3000,
+            3000
+          ],
+          "armor_penetration_per_angle": [
+            6,
             0,
             0,
             0
@@ -8001,6 +8176,41 @@
         {
           "type": "DamageInfoType_Explosion_HandGrenade_HighExplosive",
           "damage": [
+            800,
+            800
+          ],
+          "armor_penetration_per_angle": [
+            4,
+            0,
+            0,
+            0
+          ],
+          "demolition_strength": 30,
+          "force_strength": 30,
+          "force_impulse": 40,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Explosion_HandGrenade_HighExplosive_Impact",
+          "damage": [
             400,
             400
           ],
@@ -8036,8 +8246,8 @@
         {
           "type": "DamageInfoType_Explosion_Projectile_Cannon_Eagle_23mm",
           "damage": [
-            250,
-            250
+            350,
+            350
           ],
           "armor_penetration_per_angle": [
             3,
@@ -9121,13 +9331,13 @@
         {
           "type": "DamageInfoType_Explosion_AntiTankMine",
           "damage": [
-            1000,
-            1000
+            2000,
+            2000
           ],
           "armor_penetration_per_angle": [
             5,
-            5,
-            5,
+            0,
+            0,
             0
           ],
           "demolition_strength": 30,
@@ -9331,11 +9541,11 @@
         {
           "type": "DamageInfoType_Explosion_Projectile_Grenade_85mm_HE",
           "damage": [
-            550,
-            550
+            800,
+            800
           ],
           "armor_penetration_per_angle": [
-            3,
+            4,
             0,
             0,
             0
@@ -10490,7 +10700,7 @@
             300
           ],
           "armor_penetration_per_angle": [
-            3,
+            6,
             0,
             0,
             0
@@ -12131,18 +12341,18 @@
         {
           "type": "DamageInfoType_Ability_Avatar_Melee_Bayonet",
           "damage": [
-            75,
-            7
+            110,
+            55
           ],
           "armor_penetration_per_angle": [
-            2,
+            3,
             0,
             0,
             0
           ],
           "demolition_strength": 10,
-          "force_strength": 10,
-          "force_impulse": 150,
+          "force_strength": 20,
+          "force_impulse": 70,
           "element_type": "ElementType_None",
           "status_effects": [
             {
@@ -12761,7 +12971,7 @@
         {
           "type": "DamageInfoType_Ability_Bug_Scavenger_Stab",
           "damage": [
-            35,
+            40,
             20
           ],
           "armor_penetration_per_angle": [
@@ -13041,11 +13251,11 @@
         {
           "type": "DamageInfoType_Ability_Cyborg_Conscript_Shove",
           "damage": [
-            20,
+            35,
             10
           ],
           "armor_penetration_per_angle": [
-            1,
+            2,
             0,
             0,
             0
@@ -13076,8 +13286,8 @@
         {
           "type": "DamageInfoType_Ability_Cyborg_Conscript_Assaultfist",
           "damage": [
-            40,
-            20
+            60,
+            30
           ],
           "armor_penetration_per_angle": [
             3,
@@ -13111,8 +13321,8 @@
         {
           "type": "DamageInfoType_Ability_Cyborg_Lieutenant_Shove",
           "damage": [
-            65,
-            40
+            80,
+            50
           ],
           "armor_penetration_per_angle": [
             3,

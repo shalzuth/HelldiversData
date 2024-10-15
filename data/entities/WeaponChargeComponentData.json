@@ -54,31 +54,31 @@
   "18102809172282470538": {
     "charge_state_settings": [
       {
-        "charge_time": 1,
-        "projectile_type": "ProjectileType_None",
+        "charge_time": 0.00999999978,
+        "projectile_type": "ProjectileType_Plasma_Bolt_Charge_Medium",
         "muzzle_flash_effect": 0,
         "fire_single_audio": 0
       },
       {
         "charge_time": 1,
-        "projectile_type": "ProjectileType_None",
+        "projectile_type": "ProjectileType_Plasma_Rifle_Charge",
         "muzzle_flash_effect": 0,
         "fire_single_audio": 0
       },
       {
         "charge_time": 1,
-        "projectile_type": "ProjectileType_None",
+        "projectile_type": "ProjectileType_Plasma_Rifle_Charge",
         "muzzle_flash_effect": 0,
         "fire_single_audio": 0
       }
     ],
     "projectile_multipliers": {
-      "speed_multiplier_min": 0.699999988,
+      "speed_multiplier_min": 1,
       "speed_multiplier_overcharge": 1,
-      "damage_multiplier_min": 0.300000012,
-      "damage_multiplier_overcharge": 3,
-      "penetration_multiplier_min": 0.300000012,
-      "penetration_multiplier_overcharge": 3,
+      "damage_multiplier_min": 0.5,
+      "damage_multiplier_overcharge": 1,
+      "penetration_multiplier_min": 1,
+      "penetration_multiplier_overcharge": 1,
       "distance_multiplier_min": 0.699999988,
       "distance_multiplier_overcharge": 1.39999998,
       "extra_arc_splits_min": 0.699999988,

@@ -515,7 +515,7 @@
     "ignore_friendly_fire": 0,
     "impact_distance": 3,
     "impact_airburst_distance": 0.5,
-    "explosion_type": "ExplosionType_Incendiary",
+    "explosion_type": "ExplosionType_Incendiary_Impact",
     "impact_explosion_type": "ExplosionType_None",
     "on_exploded_sound": 0,
     "on_status_effect_done_sound": 0,

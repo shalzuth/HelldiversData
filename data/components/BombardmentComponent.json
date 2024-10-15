@@ -20,5 +20,9 @@
     "destroyer_stratagem_fire" : { "type": "uint", "default": 3511619768, "description": "[wwise]We are triggering a loop for this so we do not get event spamming" },
     "destroyer_stratagem_fire_stop" : { "type": "uint", "default": 948676210, "description": "[wwise]" },
     "tag_avoidances" : { "type": "array", "subtype": "Tag", "description": "List of tags to avoid for each individual projectile this bombardment spawns." },
-    "tag_avoidance_distance" : { "type": "float", "default": 0, "description": "The minimum distance from entities with that has a tag in 'tag_avoidance' for each individual projectile." }
+    "tag_avoidance_distance" : { "type": "float", "default": 0, "description": "The minimum distance from entities with that has a tag in 'tag_avoidance' for each individual projectile." },
+    "spawned_audio_event" : { "type": "uint", "description": "[wwise]Called Wwise event when spawned." },
+    "first_projectile_destroyed_audio_event" : { "type": "uint", "description": "[wwise]Called when the first projectile is destroyed (Projectile destroyed event is called if not set)" },
+    "projectile_destroyed_audio_event" : { "type": "uint", "description": "[wwise]Called when a projectile is destroyed (and there's not another override)" },
+    "final_projectile_destroyed_audio_event" : { "type": "uint", "description": "[wwise]Called when the last projectile is destroyed (Projectile destroyed event is called if not set)" }
 }}

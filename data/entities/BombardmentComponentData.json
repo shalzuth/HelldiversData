@@ -37,7 +37,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "2036607187954284541": {
     "initial_delay": 0,
@@ -77,7 +81,11 @@
       "Tag_HazardBlocker",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 16
+    "tag_avoidance_distance": 16,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "3397257356679758881": {
     "initial_delay": 0,
@@ -117,7 +125,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "4400483397467331392": {
     "initial_delay": 0,
@@ -157,7 +169,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "17250673437555536342": {
     "initial_delay": 0,
@@ -197,7 +213,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "14454233564159978284": {
     "initial_delay": 0,
@@ -237,7 +257,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "2918844402145947936": {
     "initial_delay": 0,
@@ -277,7 +301,11 @@
       "Tag_HazardBlocker",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 16
+    "tag_avoidance_distance": 16,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "4822214108367178297": {
     "initial_delay": 0,
@@ -317,7 +345,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "8480614394778878677": {
     "initial_delay": 0,
@@ -325,8 +357,8 @@
     "bomb_interval": 0,
     "wander_offset_radius_min": 0,
     "wander_offset_radius_max": 0,
-    "num_salvos": 3,
-    "salvo_interval": 3,
+    "num_salvos": 4,
+    "salvo_interval": 4,
     "area_size": 2,
     "wander_start_area_radius": 0,
     "fire_height": 3000,
@@ -357,7 +389,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "9802092988557504399": {
     "initial_delay": 0,
@@ -397,7 +433,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "3259427501513118129": {
     "initial_delay": 0,
@@ -437,7 +477,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "15741945895218221769": {
     "initial_delay": 0,
@@ -477,7 +521,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "11631307996670093680": {
     "initial_delay": 0,
@@ -517,7 +565,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "428906543397164902": {
     "initial_delay": 0,
@@ -557,7 +609,11 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   },
   "6193421986545774326": {
     "initial_delay": 0,
@@ -597,6 +653,10 @@
       "Tag_None",
       "Tag_None"
     ],
-    "tag_avoidance_distance": 0
+    "tag_avoidance_distance": 0,
+    "spawned_audio_event": 0,
+    "first_projectile_destroyed_audio_event": 0,
+    "projectile_destroyed_audio_event": 0,
+    "final_projectile_destroyed_audio_event": 0
   }
 }

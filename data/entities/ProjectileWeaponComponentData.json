@@ -5962,7 +5962,7 @@
     "projectile_type": "ProjectileType_Plasma_Punisher_Projectile",
     "rounds_per_minute": {
       "x": 0,
-      "y": 80,
+      "y": 100,
       "z": 0
     },
     "zeroing_slots": {
@@ -6265,7 +6265,7 @@
     "projectile_type": "ProjectileType_Plasma_Bolt_Medium",
     "rounds_per_minute": {
       "x": 0,
-      "y": 250,
+      "y": 350,
       "z": 0
     },
     "zeroing_slots": {
@@ -6464,7 +6464,7 @@
     "weapon_function_projectile_type": "ProjectileType_None"
   },
   "11756121139324203897": {
-    "projectile_type": "ProjectileType_Rifle_5p5x50mm_fmj",
+    "projectile_type": "ProjectileType_Rifle_5p5x50mm_ap",
     "rounds_per_minute": {
       "x": 0,
       "y": 660,
@@ -9295,7 +9295,7 @@
     "projectile_type": "ProjectileType_Plasma_Rifle_Charge",
     "rounds_per_minute": {
       "x": 0,
-      "y": 250,
+      "y": 1000,
       "z": 0
     },
     "zeroing_slots": {
@@ -9700,7 +9700,7 @@
     "rounds_per_minute": {
       "x": 0,
       "y": 600,
-      "z": 0
+      "z": 850
     },
     "zeroing_slots": {
       "x": 75,
@@ -10400,7 +10400,7 @@
     "casing_eject_disabled_on_fire": 0,
     "burst_fire_rate": 0,
     "weapon_function_muzzle_velocity": 150,
-    "weapon_function_projectile_type": "ProjectileType_None"
+    "weapon_function_projectile_type": "ProjectileType_Grenade_85mm_HE"
   },
   "5289274991058480552": {
     "projectile_type": "ProjectileType_Cyborg_Hmg",
@@ -11814,7 +11814,7 @@
     "casing_eject_disabled_on_fire": 0,
     "burst_fire_rate": 0,
     "weapon_function_muzzle_velocity": 150,
-    "weapon_function_projectile_type": "ProjectileType_None"
+    "weapon_function_projectile_type": "ProjectileType_Cannon_20mm_Flak"
   },
   "6582409209889722787": {
     "projectile_type": "ProjectileType_Cyborg_Hmg",
@@ -15022,7 +15022,7 @@
     "midi_stop_delay": 0,
     "fire_loop_start_audio_event": 0,
     "fire_loop_stop_audio_event": 0,
-    "fire_single_audio_event": 2007629292,
+    "fire_single_audio_event": 3864280205,
     "fire_all_barrel_audio_event": 0,
     "fire_reflect_audio_event": 0,
     "silenced_fire_reflect_audio_event": 0,

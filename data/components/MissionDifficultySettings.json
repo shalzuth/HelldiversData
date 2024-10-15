@@ -1,6 +1,7 @@
 { "MissionDifficultySettings" : {
     "progress_settings" : { "type": "MissionDifficultyProgressSettings", "description": "Mission progression settings" },
     "influence_settings" : { "type": "MissionDifficultyInfluenceSettings", "description": "Influence settings" },
+    "extraction_settings" : { "type": "MissionDifficultyInfluenceSettings", "description": "Extraction settings" },
     "encounter_points_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How are encounter points modified?" },
     "encounter_cooldown_rate_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the encounter cooldown affected?" },
     "patrol_count_max_modifier" : { "type": "MissionDifficultyModifierSettings", "description": "How is the patrol count maximum modified?" },

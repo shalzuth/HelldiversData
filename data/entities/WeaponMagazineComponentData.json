@@ -498,7 +498,7 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 75,
+    "magazine_capacity": 100,
     "magazines": 1,
     "magazines_refill": 2,
     "magazines_max": 2,
@@ -2384,7 +2384,7 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 400,
+    "magazine_capacity": 500,
     "magazines": 0,
     "magazines_refill": 6,
     "magazines_max": 0,
@@ -2660,9 +2660,9 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 15,
-    "magazines": 3,
-    "magazines_refill": 3,
+    "magazine_capacity": 20,
+    "magazines": 4,
+    "magazines_refill": 4,
     "magazines_max": 6,
     "reload_threshold": 0,
     "chambered": 0
@@ -2752,7 +2752,7 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 30,
+    "magazine_capacity": 45,
     "magazines": 6,
     "magazines_refill": 6,
     "magazines_max": 12,
@@ -3626,8 +3626,8 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 150,
-    "magazines": 1,
+    "magazine_capacity": 175,
+    "magazines": 2,
     "magazines_refill": 2,
     "magazines_max": 3,
     "reload_threshold": 0,
@@ -3856,7 +3856,7 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 400,
+    "magazine_capacity": 500,
     "magazines": 0,
     "magazines_refill": 6,
     "magazines_max": 0,
@@ -4133,8 +4133,8 @@
       "first_projectile": "ProjectileType_None"
     },
     "magazine_capacity": 15,
-    "magazines": 3,
-    "magazines_refill": 3,
+    "magazines": 4,
+    "magazines_refill": 4,
     "magazines_max": 6,
     "reload_threshold": 0,
     "chambered": 0
@@ -5512,7 +5512,7 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 400,
+    "magazine_capacity": 500,
     "magazines": 0,
     "magazines_refill": 6,
     "magazines_max": 0,
@@ -6110,7 +6110,7 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 30,
+    "magazine_capacity": 45,
     "magazines": 6,
     "magazines_refill": 6,
     "magazines_max": 12,
@@ -6386,10 +6386,10 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 30,
-    "magazines": 6,
-    "magazines_refill": 6,
-    "magazines_max": 12,
+    "magazine_capacity": 45,
+    "magazines": 5,
+    "magazines_refill": 7,
+    "magazines_max": 7,
     "reload_threshold": 0,
     "chambered": 1
   },
@@ -6892,7 +6892,7 @@
       ],
       "first_projectile": "ProjectileType_None"
     },
-    "magazine_capacity": 125,
+    "magazine_capacity": 175,
     "magazines": 0,
     "magazines_refill": 6,
     "magazines_max": 0,

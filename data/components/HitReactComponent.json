@@ -1,4 +1,5 @@
 { "HitReactComponent" : {
+    "propagation_target" : { "type": "HitReactPropagationTarget", "default": "HitReactPropagationTarget_Self", "description": "To what target do we propagate this hit-react." },
     "hit_react_sets" : { "type": "array", "subtype": "HitReactSet", "description": "Contains all hit react sets." },
     "hit_react_abilities" : { "type": "array", "subtype": "HitReactAbility", "description": "The array of possible abilities to trigger on hit react." },
     "can_get_knocked_back" : { "type": "byte", "description": "[bool]If set, the entity may enter knockback state. Should have a ragdoll or dynamic actors for this to work." },
