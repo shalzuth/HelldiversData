@@ -1,0 +1,4 @@
+{ "GalacticPresenceCutsceneSettings" : {
+    "cutscene_id" : { "type": "uint", "default": 1846667129 },
+    "script_random_values" : { "type": "array", "subtype": "float" }
+}}

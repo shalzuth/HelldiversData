@@ -7,5 +7,10 @@
     "optimal_distance" : { "type": "float", "default": 15, "description": "The distance away from other flyers it will strive towards." },
     "seperation_multiplier" : { "type": "float", "default": 1, "description": "Multiplier of the seperation force (away from other flyers)." },
     "hover_loop_start_sound" : { "type": "uint", "description": "[string]Audio event to play on hover start" },
-    "hover_loop_stop_sound" : { "type": "uint", "description": "[string]Audio event to play on hover stop" }
+    "hover_loop_stop_sound" : { "type": "uint", "description": "[string]Audio event to play on hover stop" },
+    "avoidance_distance_at_min_speed" : { "type": "float", "default": 8, "description": "The min distance the hover entity check avoidance at when statnding still" },
+    "avoidance_distance_at_max_speed" : { "type": "float", "default": 28 },
+    "avoidance_angle_at_min_speed" : { "type": "float", "default": 90, "description": "The angle the hover entity check avoidance at when statnding still" },
+    "avoidance_angle_at_max_speed" : { "type": "float", "default": 30 },
+    "avoidance_hover_check_max_speed" : { "type": "float", "default": 10, "description": "At what hover speed do we check the avoidance at max distance" }
 }}

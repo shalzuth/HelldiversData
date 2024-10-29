@@ -8,6 +8,11 @@
     "optimal_distance": 5,
     "seperation_multiplier": 1,
     "hover_loop_start_sound": 0,
-    "hover_loop_stop_sound": 0
+    "hover_loop_stop_sound": 0,
+    "avoidance_distance_at_min_speed": 8,
+    "avoidance_distance_at_max_speed": 28,
+    "avoidance_angle_at_min_speed": 90,
+    "avoidance_angle_at_max_speed": 30,
+    "avoidance_hover_check_max_speed": 10
   }
 }

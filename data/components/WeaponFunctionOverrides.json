@@ -1,0 +1,5 @@
+{ "WeaponFunctionOverrides" : {
+    "weapon_function_type_filter" : { "type": "WeaponFunctionType", "default": "WeaponFunctionType_None", "description": "Which weapon function type would apply these overrides." },
+    "weapon_function_value_filter" : { "type": "uint", "description": "Which weapon function value would apply these overrides." },
+    "fire_single_audio_event" : { "type": "uint", "description": "[string]Overrides fire_single_audio_event if this weapon function filter is active" }
+}}

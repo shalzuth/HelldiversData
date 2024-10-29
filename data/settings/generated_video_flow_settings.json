@@ -4,7 +4,7 @@
       "video_segments": [
         {
           "video_category": 0,
-          "video_id": 3835294367,
+          "video_id": 1777759609,
           "random_video_from_list": [],
           "vo_event": 0,
           "vo_event_stop": 0,
@@ -14,7 +14,23 @@
           "padding_after_vo": 0,
           "loop_until_vo_done": 0,
           "ui_ids": [],
-          "req_story_beat_id": 3414329813,
+          "req_story_beat_id": 1028956999,
+          "req_major_order_success": 0,
+          "req_major_order_fail": 0
+        },
+        {
+          "video_category": 0,
+          "video_id": 1465742424,
+          "random_video_from_list": [],
+          "vo_event": 0,
+          "vo_event_stop": 0,
+          "random_vo_from_list": [],
+          "use_vo_system": 1,
+          "time": -1,
+          "padding_after_vo": 0,
+          "loop_until_vo_done": 0,
+          "ui_ids": [],
+          "req_story_beat_id": 878623361,
           "req_major_order_success": 0,
           "req_major_order_fail": 0
         },

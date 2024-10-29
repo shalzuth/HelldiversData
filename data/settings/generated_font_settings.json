@@ -147,6 +147,22 @@
             "font_size": 20,
             "shadow_range": 0.649999976
           }
+        },
+        {
+          "style": "HudFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
         }
       ],
       "menu": [
@@ -251,6 +267,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
             "shadow_range": 0
           }
         },
@@ -421,6 +453,22 @@
             "font_size": 20,
             "shadow_range": 0.649999976
           }
+        },
+        {
+          "style": "HudFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
         }
       ],
       "menu": [
@@ -525,6 +573,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
             "shadow_range": 0
           }
         },
@@ -726,6 +790,22 @@
             "font_size": 20,
             "shadow_range": 0.649999976
           }
+        },
+        {
+          "style": "HudFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
         }
       ],
       "menu": [
@@ -830,6 +910,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
             "shadow_range": 0
           }
         },
@@ -1000,6 +1096,22 @@
             "font_size": 20,
             "shadow_range": 0.649999976
           }
+        },
+        {
+          "style": "HudFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
         }
       ],
       "menu": [
@@ -1104,6 +1216,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
             "shadow_range": 0
           }
         },
@@ -1274,6 +1402,22 @@
             "font_size": 20,
             "shadow_range": 0.649999976
           }
+        },
+        {
+          "style": "HudFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
         }
       ],
       "menu": [
@@ -1378,6 +1522,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
             "shadow_range": 0
           }
         },
@@ -1548,6 +1708,22 @@
             "font_size": 20,
             "shadow_range": 0.649999976
           }
+        },
+        {
+          "style": "HudFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
+        },
+        {
+          "style": "HudFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
+            "shadow_range": 0.600000024
+          }
         }
       ],
       "menu": [
@@ -1652,6 +1828,22 @@
           "settings": {
             "type": "FontType_Runtime_Body",
             "font_size": 24,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_HeaderSmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Header",
+            "font_size": 16,
+            "shadow_range": 0
+          }
+        },
+        {
+          "style": "MenuFontStyle_BodySmallRuntime",
+          "settings": {
+            "type": "FontType_Runtime_Body",
+            "font_size": 16,
             "shadow_range": 0
           }
         },

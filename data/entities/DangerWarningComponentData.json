@@ -1,17 +1,22 @@
 {
+  "2036607187954284541": {
+    "warning_type": "DangerWarningType_MeteorShower",
+    "trigger_radius": 165,
+    "start_active": 1
+  },
+  "8850657780063593973": {
+    "warning_type": "DangerWarningType_Earthquake",
+    "trigger_radius": 100,
+    "start_active": 1
+  },
   "16930826278911679558": {
     "warning_type": "DangerWarningType_AcidStorm",
     "trigger_radius": -1,
     "start_active": 0
   },
-  "13034425871421685749": {
-    "warning_type": "DangerWarningType_ThickFog",
-    "trigger_radius": -1,
-    "start_active": 1
-  },
-  "2578414789566162565": {
+  "5214047829727418014": {
     "warning_type": "DangerWarningType_Modifier_StratagemScramble",
-    "trigger_radius": 150,
+    "trigger_radius": 40,
     "start_active": 1
   },
   "12587270281642273949": {
@@ -19,29 +24,9 @@
     "trigger_radius": 150,
     "start_active": 1
   },
-  "5214047829727418014": {
+  "8924623437272706588": {
     "warning_type": "DangerWarningType_Modifier_StratagemScramble",
-    "trigger_radius": 40,
-    "start_active": 1
-  },
-  "17591740805331981563": {
-    "warning_type": "DangerWarningType_Snowstorm",
-    "trigger_radius": -1,
-    "start_active": 0
-  },
-  "3312206059057944298": {
-    "warning_type": "DangerWarningType_FireTornado",
-    "trigger_radius": -1,
-    "start_active": 0
-  },
-  "2036607187954284541": {
-    "warning_type": "DangerWarningType_MeteorShower",
-    "trigger_radius": 165,
-    "start_active": 1
-  },
-  "4822214108367178297": {
-    "warning_type": "DangerWarningType_EnemyOrbital",
-    "trigger_radius": 35,
+    "trigger_radius": 150,
     "start_active": 1
   },
   "6196760958746040749": {
@@ -49,9 +34,29 @@
     "trigger_radius": -1,
     "start_active": 0
   },
-  "14005216303325302728": {
-    "warning_type": "DangerWarningType_FireTornado",
-    "trigger_radius": 100,
+  "4822214108367178297": {
+    "warning_type": "DangerWarningType_EnemyOrbital",
+    "trigger_radius": 35,
+    "start_active": 1
+  },
+  "780403294432782447": {
+    "warning_type": "DangerWarningType_DustDevils",
+    "trigger_radius": -1,
+    "start_active": 0
+  },
+  "15543627206611261570": {
+    "warning_type": "DangerWarningType_Sandstorm",
+    "trigger_radius": -1,
+    "start_active": 0
+  },
+  "17591740805331981563": {
+    "warning_type": "DangerWarningType_Snowstorm",
+    "trigger_radius": -1,
+    "start_active": 0
+  },
+  "6069338700713478060": {
+    "warning_type": "DangerWarningType_DSS_EagleStorm",
+    "trigger_radius": -1,
     "start_active": 1
   },
   "2918844402145947936": {
@@ -64,24 +69,39 @@
     "trigger_radius": 100,
     "start_active": 1
   },
-  "8850657780063593973": {
-    "warning_type": "DangerWarningType_Earthquake",
-    "trigger_radius": 100,
-    "start_active": 1
-  },
-  "8924623437272706588": {
+  "2578414789566162565": {
     "warning_type": "DangerWarningType_Modifier_StratagemScramble",
     "trigger_radius": 150,
     "start_active": 1
   },
-  "15543627206611261570": {
-    "warning_type": "DangerWarningType_Sandstorm",
+  "9717601978335302972": {
+    "warning_type": "DangerWarningType_DSS_EagleStorm_Warning",
+    "trigger_radius": 160,
+    "start_active": 1
+  },
+  "14005216303325302728": {
+    "warning_type": "DangerWarningType_FireTornado",
+    "trigger_radius": 100,
+    "start_active": 1
+  },
+  "14177525508982049922": {
+    "warning_type": "DangerWarningType_DSS_PlanetBombardment",
+    "trigger_radius": -1,
+    "start_active": 1
+  },
+  "13034425871421685749": {
+    "warning_type": "DangerWarningType_ThickFog",
+    "trigger_radius": -1,
+    "start_active": 1
+  },
+  "3312206059057944298": {
+    "warning_type": "DangerWarningType_FireTornado",
     "trigger_radius": -1,
     "start_active": 0
   },
-  "780403294432782447": {
-    "warning_type": "DangerWarningType_DustDevils",
-    "trigger_radius": -1,
-    "start_active": 0
+  "12523933911409224779": {
+    "warning_type": "DangerWarningType_DSS_PlanetBombardment_Warning",
+    "trigger_radius": 150,
+    "start_active": 1
   }
 }

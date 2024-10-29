@@ -7,6 +7,7 @@
     "strength" : { "type": "float", "default": 0 },
     "duration" : { "type": "float", "default": 0 },
     "damage_info_type" : { "type": "DamageInfoType", "default": "DamageInfoType_None" },
+    "damage_ignore_avatar_armor" : { "type": "byte" },
     "particle_effect_path" : { "type": "ulong" },
     "script_event_start" : { "type": "uint" },
     "script_event_stop" : { "type": "uint" },

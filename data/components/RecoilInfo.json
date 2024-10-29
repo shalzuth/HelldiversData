@@ -1,4 +1,5 @@
 { "RecoilInfo" : {
     "drift" : { "type": "RecoilComponentInfo", "description": "In what way the gun is affected by the recoil." },
-    "climb" : { "type": "RecoilComponentInfo", "description": "In what way the camera is affected by the recoil." }
+    "climb" : { "type": "RecoilComponentInfo", "description": "In what way the camera is affected by the recoil." },
+    "wielder_animiation_recoil_amount_increment_per_shot" : { "type": "float", "default": 0.5, "description": "How much we increment the wielder animation recoil parameter per shot." }
 }}

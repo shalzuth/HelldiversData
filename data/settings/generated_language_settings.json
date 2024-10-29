@@ -14,7 +14,7 @@
           "psn_name": "en-US",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -51,7 +51,7 @@
           "psn_name": "en-GB",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -88,7 +88,7 @@
           "psn_name": "pt-BR",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -124,8 +124,8 @@
           "psn_chunk": 5,
           "psn_name": "de-DE",
           "locale_info": {
-            "whitespace": " -",
-            "soft_dividers": " ",
+            "whitespace": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -162,7 +162,7 @@
           "psn_name": "es-ES",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -199,7 +199,7 @@
           "psn_name": "fr-FR",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -236,7 +236,7 @@
           "psn_name": "it-IT",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -273,7 +273,7 @@
           "psn_name": "ja-JP",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -310,7 +310,7 @@
           "psn_name": "ko-KR",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -347,7 +347,7 @@
           "psn_name": "es-419",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -384,7 +384,7 @@
           "psn_name": "pl-PL",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -421,7 +421,7 @@
           "psn_name": "pt-PT",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -458,7 +458,7 @@
           "psn_name": "ru-RU",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -495,7 +495,7 @@
           "psn_name": "zh-Hans",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",
@@ -532,7 +532,7 @@
           "psn_name": "zh-Hant",
           "locale_info": {
             "whitespace": " ",
-            "soft_dividers": " ",
+            "soft_dividers": " -",
             "return_dividers": "\n",
             "not_last": "",
             "not_first": "",

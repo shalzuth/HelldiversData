@@ -1,0 +1,5 @@
+{ "HelldiverCustomizationStatModifier" : {
+    "type" : { "type": "ModifiableStatType", "default": "ModifiableStatType_None" },
+    "add_value" : { "type": "float", "default": 0 },
+    "mul_value" : { "type": "float", "default": 1 }
+}}

@@ -1,0 +1,8 @@
+{ "EagleSpawnerComponent" : {
+    "min_lifetime" : { "type": "float", "default": 50, "description": "The minimum lifetime of the EagleSpawner" },
+    "max_lifetime" : { "type": "float", "default": 80, "description": "The maximum lifetime of the EagleSpawner" },
+    "min_spawn_cooldown" : { "type": "float", "default": 2, "description": "The minimum cooldown time before next eagle will be spawned" },
+    "max_spawn_cooldown" : { "type": "float", "default": 5, "description": "The maximum cooldown time before next eagle will be spawned" },
+    "eagle_storm_radius" : { "type": "float", "default": 15, "description": "Defines the radius of the sphere around the player that should be scanned for enemies" },
+    "eagle_type" : { "type": "StratagemType", "default": "StratagemType_EagleAirstrike", "description": "Eagle type to spawn" }
+}}

@@ -639,26 +639,6 @@
       }
     ]
   },
-  "15125779956101896786": {
-    "spawn_abilities": [
-      {
-        "job": "AiJob_Encounter",
-        "ability": "AbilityId_bug_stalker_spawn_encounter"
-      },
-      {
-        "job": "AiJob_Any",
-        "ability": "AbilityId_Invalid"
-      },
-      {
-        "job": "AiJob_Any",
-        "ability": "AbilityId_Invalid"
-      },
-      {
-        "job": "AiJob_Any",
-        "ability": "AbilityId_Invalid"
-      }
-    ]
-  },
   "12508512869271882154": {
     "spawn_abilities": [
       {
@@ -1164,26 +1144,6 @@
       {
         "job": "AiJob_Any",
         "ability": "AbilityId_Invalid"
-      },
-      {
-        "job": "AiJob_Any",
-        "ability": "AbilityId_Invalid"
-      },
-      {
-        "job": "AiJob_Any",
-        "ability": "AbilityId_Invalid"
-      },
-      {
-        "job": "AiJob_Any",
-        "ability": "AbilityId_Invalid"
-      }
-    ]
-  },
-  "9814471339792705014": {
-    "spawn_abilities": [
-      {
-        "job": "AiJob_Encounter",
-        "ability": "AbilityId_bug_hunter_spawn_encounter"
       },
       {
         "job": "AiJob_Any",
@@ -3940,6 +3900,26 @@
     ]
   },
   "11297499216687771913": {
+    "spawn_abilities": [
+      {
+        "job": "AiJob_Any",
+        "ability": "AbilityId_Invalid"
+      },
+      {
+        "job": "AiJob_Any",
+        "ability": "AbilityId_Invalid"
+      },
+      {
+        "job": "AiJob_Any",
+        "ability": "AbilityId_Invalid"
+      },
+      {
+        "job": "AiJob_Any",
+        "ability": "AbilityId_Invalid"
+      }
+    ]
+  },
+  "5634296840427219794": {
     "spawn_abilities": [
       {
         "job": "AiJob_Any",
@@ -8040,6 +8020,26 @@
     ]
   },
   "144519363866445884": {
+    "spawn_abilities": [
+      {
+        "job": "AiJob_Any",
+        "ability": "AbilityId_Invalid"
+      },
+      {
+        "job": "AiJob_Any",
+        "ability": "AbilityId_Invalid"
+      },
+      {
+        "job": "AiJob_Any",
+        "ability": "AbilityId_Invalid"
+      },
+      {
+        "job": "AiJob_Any",
+        "ability": "AbilityId_Invalid"
+      }
+    ]
+  },
+  "10717884433990741653": {
     "spawn_abilities": [
       {
         "job": "AiJob_Any",

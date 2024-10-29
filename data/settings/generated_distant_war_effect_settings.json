@@ -154,6 +154,53 @@
   },
   {
     "DistantWarEffectPool": {
+      "pool_type": "DistantWarEffectPoolType_DSS_Eagle",
+      "load_type": "DistantWarEffectPoolLoadType_Persistent",
+      "package": 6029325920795614846,
+      "spawn_range": {
+        "x": 750,
+        "y": 1500
+      },
+      "cooldown_time": {
+        "x": 0.100000001,
+        "y": 0.400000006
+      },
+      "effects": [
+        {
+          "effect": 4494189510137819585,
+          "audio_event": 0,
+          "weight": 5,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 4494189510137819585,
+          "audio_event": 0,
+          "weight": 8,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 3800432765555768421,
+          "audio_event": 0,
+          "weight": 40,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 11898704972879646362,
+          "audio_event": 0,
+          "weight": 40,
+          "immediate_spawn": 0
+        },
+        {
+          "effect": 3412462863348389198,
+          "audio_event": 0,
+          "weight": 80,
+          "immediate_spawn": 0
+        }
+      ]
+    }
+  },
+  {
+    "DistantWarEffectPool": {
       "pool_type": "DistantWarEffectPoolType_Neutral",
       "load_type": "DistantWarEffectPoolLoadType_Persistent",
       "package": 6029325920795614846,

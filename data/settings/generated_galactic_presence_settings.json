@@ -1,0 +1,1812 @@
+[
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "bugs_super_predator",
+      "show_in_ui": 1,
+      "race": "RaceType_Bugs",
+      "name_loc": 853684841,
+      "description_loc": 276825548,
+      "icon": 4719622314213571845,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_BugsSuperPredator",
+      "hologram_item_offset": {
+        "x": 0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 0,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "campaign_story",
+      "show_in_ui": 0,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 0,
+      "description_loc": 0,
+      "icon": 0,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 14293363373451253521,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 0,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/civilian_template",
+      "debug_name": "civilian_cargo",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 2657511835,
+      "description_loc": 257295247,
+      "icon": 7848367666820454048,
+      "planet_preview_override": 13618770475026070552,
+      "hologram_planet_icon": 7848367666820454048,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/civilian_template",
+      "debug_name": "civilian_generic",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 550486606,
+      "description_loc": 3588770635,
+      "icon": 7848367666820454048,
+      "planet_preview_override": 1085770613243321859,
+      "hologram_planet_icon": 7848367666820454048,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/democracy_station_template",
+      "debug_name": "democracy_station_final",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 319758935,
+      "description_loc": 1674562767,
+      "icon": 13551743243925034000,
+      "planet_preview_override": 14861592220733756866,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_DSS",
+      "hologram_item_offset": {
+        "x": -0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_CanTravelTo",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 1,
+      "space_light_color": {
+        "x": 0.5,
+        "y": 0.300000012,
+        "z": 0
+      },
+      "space_light_intensity": 2,
+      "space_shadow_max_distance": 14000,
+      "extra_space_package": 4985338685668614596,
+      "prefab_path": 6453803948413276232,
+      "prefab_position": {
+        "x": -3500,
+        "y": 10360,
+        "z": -3250
+      },
+      "prefab_rotation": {
+        "x": 3.14159012,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 3.5,
+        "y": 3.5,
+        "z": 3.5
+      },
+      "game_event_on_prefab_spawned": 718106293,
+      "prefab_cutscene_scale": {
+        "x": 2.5,
+        "y": 2.5,
+        "z": 2.5
+      },
+      "prefab_cutscene_offset_forward_min": 14000,
+      "prefab_cutscene_offset_forward_max": 14000,
+      "prefab_cutscene_offset_right_min": -1900,
+      "prefab_cutscene_offset_right_max": -1700,
+      "prefab_cutscene_offset_up_min": -2000,
+      "prefab_cutscene_offset_up_max": -1800,
+      "prefab_cutscene_offset_yaw_min": 5.6500001,
+      "prefab_cutscene_offset_yaw_max": 6.28318024,
+      "prefab_visible_in_cutscenes": [
+        3427183769,
+        4229741005,
+        3490076317
+      ],
+      "prefab_animate_out_on_inactive": 1,
+      "cutscene_settings": [
+        {
+          "cutscene_id": 4229741005,
+          "script_random_values": [
+            2
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/democracy_station_template",
+      "debug_name": "democracy_station_phase_1",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 1297500110,
+      "description_loc": 2075705502,
+      "icon": 15663219612085731552,
+      "planet_preview_override": 11412081909494539667,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_DSS_Constructing",
+      "hologram_item_offset": {
+        "x": -0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_CanTravelTo",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 1,
+      "space_light_color": {
+        "x": 0.5,
+        "y": 0.300000012,
+        "z": 0
+      },
+      "space_light_intensity": 2,
+      "space_shadow_max_distance": 14000,
+      "extra_space_package": 10968725391250301071,
+      "prefab_path": 16909418985628334982,
+      "prefab_position": {
+        "x": -3500,
+        "y": 10360,
+        "z": -3250
+      },
+      "prefab_rotation": {
+        "x": 3.14159012,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 3.5,
+        "y": 3.5,
+        "z": 3.5
+      },
+      "game_event_on_prefab_spawned": 3729949566,
+      "prefab_cutscene_scale": {
+        "x": 2.5,
+        "y": 2.5,
+        "z": 2.5
+      },
+      "prefab_cutscene_offset_forward_min": 14000,
+      "prefab_cutscene_offset_forward_max": 14000,
+      "prefab_cutscene_offset_right_min": -1900,
+      "prefab_cutscene_offset_right_max": -1700,
+      "prefab_cutscene_offset_up_min": -2000,
+      "prefab_cutscene_offset_up_max": -1800,
+      "prefab_cutscene_offset_yaw_min": 5.6500001,
+      "prefab_cutscene_offset_yaw_max": 6.28318024,
+      "prefab_visible_in_cutscenes": [
+        3427183769,
+        4229741005,
+        3490076317
+      ],
+      "prefab_animate_out_on_inactive": 1,
+      "cutscene_settings": [
+        {
+          "cutscene_id": 4229741005,
+          "script_random_values": [
+            2
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/democracy_station_template",
+      "debug_name": "democracy_station_phase_2",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 2464554102,
+      "description_loc": 295451118,
+      "icon": 15663219612085731552,
+      "planet_preview_override": 11848761889517560559,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_DSS_Constructing",
+      "hologram_item_offset": {
+        "x": -0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_CanTravelTo",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 1,
+      "space_light_color": {
+        "x": 0.5,
+        "y": 0.300000012,
+        "z": 0
+      },
+      "space_light_intensity": 2,
+      "space_shadow_max_distance": 14000,
+      "extra_space_package": 3239732594876524094,
+      "prefab_path": 863923600052957573,
+      "prefab_position": {
+        "x": -3500,
+        "y": 10360,
+        "z": -3250
+      },
+      "prefab_rotation": {
+        "x": 3.14159012,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 3.5,
+        "y": 3.5,
+        "z": 3.5
+      },
+      "game_event_on_prefab_spawned": 1795472185,
+      "prefab_cutscene_scale": {
+        "x": 2.5,
+        "y": 2.5,
+        "z": 2.5
+      },
+      "prefab_cutscene_offset_forward_min": 14000,
+      "prefab_cutscene_offset_forward_max": 14000,
+      "prefab_cutscene_offset_right_min": -1900,
+      "prefab_cutscene_offset_right_max": -1700,
+      "prefab_cutscene_offset_up_min": -2000,
+      "prefab_cutscene_offset_up_max": -1800,
+      "prefab_cutscene_offset_yaw_min": 5.6500001,
+      "prefab_cutscene_offset_yaw_max": 6.28318024,
+      "prefab_visible_in_cutscenes": [
+        3427183769,
+        4229741005,
+        3490076317
+      ],
+      "prefab_animate_out_on_inactive": 1,
+      "cutscene_settings": [
+        {
+          "cutscene_id": 4229741005,
+          "script_random_values": [
+            2
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/democracy_station_template",
+      "debug_name": "democracy_station_phase_3",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 61811930,
+      "description_loc": 1114624260,
+      "icon": 15663219612085731552,
+      "planet_preview_override": 14572722872302918104,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_DSS_Constructing",
+      "hologram_item_offset": {
+        "x": -0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_CanTravelTo",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 1,
+      "space_light_color": {
+        "x": 0.5,
+        "y": 0.300000012,
+        "z": 0
+      },
+      "space_light_intensity": 2,
+      "space_shadow_max_distance": 14000,
+      "extra_space_package": 14733249555712357018,
+      "prefab_path": 16867325134255920272,
+      "prefab_position": {
+        "x": -3500,
+        "y": 10360,
+        "z": -3250
+      },
+      "prefab_rotation": {
+        "x": 3.14159012,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 3.5,
+        "y": 3.5,
+        "z": 3.5
+      },
+      "game_event_on_prefab_spawned": 2810785878,
+      "prefab_cutscene_scale": {
+        "x": 2.5,
+        "y": 2.5,
+        "z": 2.5
+      },
+      "prefab_cutscene_offset_forward_min": 14000,
+      "prefab_cutscene_offset_forward_max": 14000,
+      "prefab_cutscene_offset_right_min": -1900,
+      "prefab_cutscene_offset_right_max": -1700,
+      "prefab_cutscene_offset_up_min": -2000,
+      "prefab_cutscene_offset_up_max": -1800,
+      "prefab_cutscene_offset_yaw_min": 5.6500001,
+      "prefab_cutscene_offset_yaw_max": 6.28318024,
+      "prefab_visible_in_cutscenes": [
+        3427183769,
+        4229741005,
+        3490076317
+      ],
+      "prefab_animate_out_on_inactive": 1,
+      "cutscene_settings": [
+        {
+          "cutscene_id": 4229741005,
+          "script_random_values": [
+            2
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "elite_bot_jumpattack",
+      "show_in_ui": 1,
+      "race": "RaceType_Cyborg",
+      "name_loc": 1760171012,
+      "description_loc": 796165462,
+      "icon": 6167554726598419599,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_EliteBotJumpAttack",
+      "hologram_item_offset": {
+        "x": 0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 0,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/manufacturing_template",
+      "debug_name": "manufacturing_forge",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 2798682948,
+      "description_loc": 2792856870,
+      "icon": 8539579074590828949,
+      "planet_preview_override": 13384703645982376548,
+      "hologram_planet_icon": 8539579074590828949,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/manufacturing_template",
+      "debug_name": "manufacturing_generic",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 2757673367,
+      "description_loc": 1716114649,
+      "icon": 8539579074590828949,
+      "planet_preview_override": 16700488830062389435,
+      "hologram_planet_icon": 8539579074590828949,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/manufacturing_template",
+      "debug_name": "manufacturing_industry",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 3372702334,
+      "description_loc": 779490921,
+      "icon": 8539579074590828949,
+      "planet_preview_override": 16891413164744983029,
+      "hologram_planet_icon": 8539579074590828949,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/military_template",
+      "debug_name": "military_generic",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 3409838466,
+      "description_loc": 359043006,
+      "icon": 6349769636580501519,
+      "planet_preview_override": 8410107973645623835,
+      "hologram_planet_icon": 6349769636580501519,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/military_template",
+      "debug_name": "military_landing_pads",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 1202698051,
+      "description_loc": 3108634152,
+      "icon": 6349769636580501519,
+      "planet_preview_override": 14644261109075032157,
+      "hologram_planet_icon": 6349769636580501519,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/military_template",
+      "debug_name": "military_tower",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 1561068448,
+      "description_loc": 1914367317,
+      "icon": 6349769636580501519,
+      "planet_preview_override": 16237997298055150375,
+      "hologram_planet_icon": 6349769636580501519,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/research_template",
+      "debug_name": "research_bio_research",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 4101241081,
+      "description_loc": 3669186559,
+      "icon": 11427733358240521351,
+      "planet_preview_override": 2155045480271943681,
+      "hologram_planet_icon": 11427733358240521351,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/research_template",
+      "debug_name": "research_generic",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 2750913230,
+      "description_loc": 3974317902,
+      "icon": 11427733358240521351,
+      "planet_preview_override": 15309640173671516971,
+      "hologram_planet_icon": 11427733358240521351,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/research_template",
+      "debug_name": "research_lab",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 3610215261,
+      "description_loc": 76002444,
+      "icon": 11427733358240521351,
+      "planet_preview_override": 3465979436967185888,
+      "hologram_planet_icon": 11427733358240521351,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "tactical_action_defensive_lockdown",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 3075730854,
+      "description_loc": 1824396202,
+      "icon": 1376273422598563866,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_DSS_TacticalAction_DefensiveLockdown",
+      "hologram_item_offset": {
+        "x": -0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 0,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/democracy_station_positioning_template",
+      "debug_name": "tactical_action_eagle_storm",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 3326001771,
+      "description_loc": 901564350,
+      "icon": 9676316054883488923,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_DSS_TacticalAction_EagleStorm",
+      "hologram_item_offset": {
+        "x": -0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 0,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_DSS_Eagle",
+      "has_space_env_settings": 1,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 17854008337560092614,
+      "prefab_path": 10850360273799109990,
+      "prefab_position": {
+        "x": -3500,
+        "y": 10360,
+        "z": -3250
+      },
+      "prefab_rotation": {
+        "x": 3.14159012,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 3.5,
+        "y": 3.5,
+        "z": 3.5
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 1,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "tactical_action_planetary_bombardment",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 2921216438,
+      "description_loc": 3294946153,
+      "icon": 15276520435377959794,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_DSS_TacticalAction_PlanetaryBombardment",
+      "hologram_item_offset": {
+        "x": -0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 0,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 0,
+      "description_loc": 0,
+      "icon": 7848367666820454048,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 7848367666820454048,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "",
+      "show_in_ui": 1,
+      "race": "RaceType_None",
+      "name_loc": 0,
+      "description_loc": 0,
+      "icon": 0,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 0,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": -3500,
+        "y": 10360,
+        "z": -3250
+      },
+      "prefab_rotation": {
+        "x": 3.14159012,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 3.5,
+        "y": 3.5,
+        "z": 3.5
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "content/galactic_presence_settings/templates/democracy_station_positioning_template",
+      "debug_name": "",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 0,
+      "description_loc": 0,
+      "icon": 15663219612085731552,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 0,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_GalacticPresence_DSS_Constructing",
+      "hologram_item_offset": {
+        "x": -0.0199999996,
+        "y": 0.00800000038,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_CanTravelTo",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 1,
+      "space_light_color": {
+        "x": 0.5,
+        "y": 0.300000012,
+        "z": 0
+      },
+      "space_light_intensity": 2,
+      "space_shadow_max_distance": 14000,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": -3500,
+        "y": 10360,
+        "z": -3250
+      },
+      "prefab_rotation": {
+        "x": 3.14159012,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 3.5,
+        "y": 3.5,
+        "z": 3.5
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 2.5,
+        "y": 2.5,
+        "z": 2.5
+      },
+      "prefab_cutscene_offset_forward_min": 14000,
+      "prefab_cutscene_offset_forward_max": 14000,
+      "prefab_cutscene_offset_right_min": -1900,
+      "prefab_cutscene_offset_right_max": -1700,
+      "prefab_cutscene_offset_up_min": -2000,
+      "prefab_cutscene_offset_up_max": -1800,
+      "prefab_cutscene_offset_yaw_min": 5.6500001,
+      "prefab_cutscene_offset_yaw_max": 6.28318024,
+      "prefab_visible_in_cutscenes": [
+        3427183769,
+        4229741005,
+        3490076317
+      ],
+      "prefab_animate_out_on_inactive": 1,
+      "cutscene_settings": [
+        {
+          "cutscene_id": 4229741005,
+          "script_random_values": [
+            2
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 0,
+      "description_loc": 0,
+      "icon": 8539579074590828949,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 8539579074590828949,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 0,
+      "description_loc": 0,
+      "icon": 6349769636580501519,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 6349769636580501519,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  },
+  {
+    "GalacticPresenceSettings": {
+      "inherits": "",
+      "debug_name": "",
+      "show_in_ui": 1,
+      "race": "RaceType_SuperEarth",
+      "name_loc": 0,
+      "description_loc": 0,
+      "icon": 11427733358240521351,
+      "planet_preview_override": 0,
+      "hologram_planet_icon": 11427733358240521351,
+      "hologram_tactical_action_icon": 0,
+      "hologram_item": "HologramItem_None",
+      "hologram_item_offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "allow_on_uncontested_super_earth_planet": 1,
+      "planet_selection_type": "PlanetSelectableType_None",
+      "add_distant_war_effect_pool_type": "DistantWarEffectPoolType_Neutral",
+      "has_space_env_settings": 0,
+      "space_light_color": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "space_light_intensity": 0,
+      "space_shadow_max_distance": 0,
+      "extra_space_package": 0,
+      "prefab_path": 0,
+      "prefab_position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "game_event_on_prefab_spawned": 0,
+      "prefab_cutscene_scale": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "prefab_cutscene_offset_forward_min": 0,
+      "prefab_cutscene_offset_forward_max": 0,
+      "prefab_cutscene_offset_right_min": 0,
+      "prefab_cutscene_offset_right_max": 0,
+      "prefab_cutscene_offset_up_min": 0,
+      "prefab_cutscene_offset_up_max": 0,
+      "prefab_cutscene_offset_yaw_min": 0,
+      "prefab_cutscene_offset_yaw_max": 0,
+      "prefab_visible_in_cutscenes": [],
+      "prefab_animate_out_on_inactive": 0,
+      "cutscene_settings": []
+    }
+  }
+]

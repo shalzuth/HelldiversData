@@ -11,7 +11,8 @@
           "value": 1,
           "desc_loc": 1802981327
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -32,7 +33,8 @@
           "value": 1.5,
           "desc_loc": 2398339361
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -53,7 +55,8 @@
           "value": 2,
           "desc_loc": 4144979903
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -74,7 +77,8 @@
           "value": 2,
           "desc_loc": 2230489000
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -89,7 +93,8 @@
           "value": 0.0500000007,
           "desc_loc": 980701584
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -104,7 +109,8 @@
           "value": 0.25,
           "desc_loc": 283424312
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -125,7 +131,8 @@
           "value": 0.5,
           "desc_loc": 3110966073
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -140,7 +147,8 @@
           "value": 0.200000003,
           "desc_loc": 2613716205
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -161,7 +169,8 @@
           "value": 0,
           "desc_loc": 2277719467
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -181,6 +190,29 @@
           "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Add",
           "value": 0.300000012,
           "desc_loc": 3548404646
+        }
+      ],
+      "stat_modifiers": []
+    }
+  },
+  {
+    "HelldiverCustomizationPassiveBonusSettings": {
+      "passive_bonus": "HelldiverCustomizationPassiveBonus_Armor_Reduced_Pain_Flinch",
+      "name_loc": 3851872716,
+      "icon": 14820629881858212753,
+      "modifiers": [
+        {
+          "modifier_id": 1936936295,
+          "modifier_type": "HelldiverCustomizationPassiveBonusModifierType_Set",
+          "value": 0,
+          "desc_loc": 158969120
+        }
+      ],
+      "stat_modifiers": [
+        {
+          "type": "ModifiableStatType_WeaponDamageRecoilScale",
+          "add_value": 0,
+          "mul_value": 0.0500000007
         }
       ]
     }
@@ -203,7 +235,8 @@
           "value": 0.699999988,
           "desc_loc": 3031268253
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   },
   {
@@ -218,7 +251,8 @@
           "value": 0,
           "desc_loc": 2716085286
         }
-      ]
+      ],
+      "stat_modifiers": []
     }
   }
 ]

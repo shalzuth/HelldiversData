@@ -53,5 +53,6 @@
     "infinite_ammo" : { "type": "byte", "description": "[bool]Should this weapon have infinite ammo" },
     "weapon_stat_modifiers" : { "type": "array", "subtype": "WeaponStatModifierSetting", "description": "Used by attachments to specify what stat they modify and not override via normal ADD formatting." },
     "ammo_icon_inner" : { "type": "ulong", "description": "[material]The inner icon for the magazine that shows up on the HUD." },
-    "ammo_icon_outer" : { "type": "ulong", "description": "[material]The outer icon for the magazine that shows up on the HUD." }
+    "ammo_icon_outer" : { "type": "ulong", "description": "[material]The outer icon for the magazine that shows up on the HUD." },
+    "projectile_function_overrides" : { "type": "array", "subtype": "WeaponFunctionOverrides", "description": "Allows overriding weapon settings per weapon function." }
 }}

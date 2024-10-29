@@ -1,6 +1,8 @@
 { "CacheLootTable" : {
     "id" : { "type": "uint" },
-    "chance" : { "type": "uint" },
+    "chance" : { "type": "int" },
+    "min_difficulty" : { "type": "int" },
+    "max_difficulty" : { "type": "int" },
     "max_packages_allowed" : { "type": "int" },
     "entries" : { "type": "array", "subtype": "CacheLootTableEntry" }
 }}

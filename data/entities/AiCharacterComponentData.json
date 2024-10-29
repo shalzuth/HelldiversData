@@ -1,5 +1,30 @@
 {
-  "5663271064929335883": {
+  "15659331049401757247": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "11669807341511884260": {
     "preferred_speed": 5,
     "maximum_speed": 10,
     "fire_avoidance": 0,
@@ -13,8 +38,8 @@
       "dodging_penalty": 0.100000001,
       "velocity_hysteresis": 0.5,
       "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 5
+      "weight": 10,
+      "priority": 10
     },
     "sensor_aabb": {
       "bottom_extent": 0.5,
@@ -24,7 +49,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "9414910092732904122": {
+  "767968035755763": {
     "preferred_speed": 5,
     "maximum_speed": 8,
     "fire_avoidance": 0,
@@ -49,32 +74,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "8261922003134896957": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "2210598302234166538": {
+  "11843619417684963016": {
     "preferred_speed": 1.5,
     "maximum_speed": 4,
     "fire_avoidance": 0,
@@ -149,57 +149,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "5077454099412397096": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "1903375976943875074": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "17943362722330235151": {
+  "1024464436030047776": {
     "preferred_speed": 4,
     "maximum_speed": 7,
     "fire_avoidance": 0,
@@ -214,6 +164,31 @@
       "velocity_hysteresis": 0.200000003,
       "sidedness_changing_penalty": 0.200000003,
       "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "16451308563134815530": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
       "priority": 0
     },
     "sensor_aabb": {
@@ -249,84 +224,9 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "17875655752828743943": {
-    "preferred_speed": 1.35000002,
-    "maximum_speed": 1.35000002,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 2,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "12165351853986040244": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "7587445649108074590": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "17842374123104475103": {
+  "2404044106251363533": {
     "preferred_speed": 5,
-    "maximum_speed": 10,
+    "maximum_speed": 8,
     "fire_avoidance": 0,
     "boids_cohesion_strength": 0.200000003,
     "boids_optimal_distance": 2,
@@ -336,15 +236,65 @@
       "penetration_penalty": 100,
       "wall_following_angle": 0.25,
       "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
+      "velocity_hysteresis": 0.100000001,
       "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 5
+      "weight": 0.5,
+      "priority": 0
     },
     "sensor_aabb": {
       "bottom_extent": 0.5,
       "top_extent": 2,
-      "half_width": 13
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "9513169167295339035": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "11841423120880866036": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
     },
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
@@ -374,632 +324,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "850711056443892715": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "7196537832909981064": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 100,
-      "weight": 100,
-      "priority": 100
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "3626558530581732572": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 5
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 13
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "7719208875390099550": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 100,
-      "priority": 100
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "13575269880792024885": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "13340847352459495240": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "12566139334605762628": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "7057055776013546117": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "13707236614338800569": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 5
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 13
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "5903841343181520462": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "152751642744350684": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "11135777548304851724": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "10770873609175974470": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "9137331974793918131": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "4469039597602705386": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "12013007335500498924": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "11398074038506794973": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 500,
-      "priority": 500
-    },
-    "sensor_aabb": {
-      "bottom_extent": 1,
-      "top_extent": 10,
-      "half_width": 80
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15922730753540746811": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 110,
-      "priority": 110
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "31641368152217202": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "3583430772214091149": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 100,
-      "weight": 100,
-      "priority": 100
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15125779956101896786": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 50,
-      "priority": 50
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "8604848163181421628": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "6676641717166653626": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "12706617161845284909": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15382378127438146468": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "552747719338665864": {
+  "2210598302234166538": {
     "preferred_speed": 1.5,
     "maximum_speed": 4,
     "fire_avoidance": 0,
@@ -1049,157 +374,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "2701456486977900736": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "1346028121179999955": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "18129582262547983427": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "3939129929398354246": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 20,
-      "priority": 20
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "14731312854664874139": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 20,
-      "priority": 20
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "10405460102960147340": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "10828817397904429935": {
+  "10514734670540770044": {
     "preferred_speed": 2,
     "maximum_speed": 3,
     "fire_avoidance": 0,
@@ -1214,256 +389,6 @@
       "velocity_hysteresis": 0.100000001,
       "sidedness_changing_penalty": 0.100000001,
       "weight": 5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "18047604708754565239": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "16121421951002036444": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15239773297738004195": {
-    "preferred_speed": 2,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 500,
-      "priority": 500
-    },
-    "sensor_aabb": {
-      "bottom_extent": 1,
-      "top_extent": 10,
-      "half_width": 70
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "6041739005686103399": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 100,
-      "weight": 100,
-      "priority": 100
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "14054387432745785364": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "17246256129031935938": {
-    "preferred_speed": 1.35000002,
-    "maximum_speed": 1.35000002,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 2,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "12023841631339054706": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "5909160229139284606": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "1909471264691872944": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 100,
-      "priority": 100
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "7258218216136199873": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
       "priority": 0
     },
     "sensor_aabb": {
@@ -1499,57 +424,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "9614788353289254415": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "2108432737919758797": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15529686099596640908": {
+  "4083821917710944045": {
     "preferred_speed": 1.5,
     "maximum_speed": 8,
     "fire_avoidance": 0,
@@ -1599,7 +474,82 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "4251221953861716889": {
+  "17672347716099392046": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 50,
+      "priority": 50
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "17921415124075533547": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "2108432737919758797": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "7719208875390099550": {
     "preferred_speed": 5,
     "maximum_speed": 10,
     "fire_avoidance": 0,
@@ -1620,6 +570,206 @@
       "bottom_extent": 0.5,
       "top_extent": 2,
       "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "10409770290790592053": {
+    "preferred_speed": 1.35000002,
+    "maximum_speed": 1.35000002,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 2,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "15336140906172278556": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "15922730753540746811": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 110,
+      "priority": 110
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "14278331370456096813": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "7196537832909981064": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 100,
+      "weight": 100,
+      "priority": 100
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "12873251592757102566": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 5
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 13
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "13707236614338800569": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 5
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 13
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "3626558530581732572": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 5
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 13
     },
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
@@ -1649,7 +799,157 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "15809454270358060682": {
+  "14286719829563111324": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 100,
+      "weight": 100,
+      "priority": 100
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "1239378520908923324": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "1903375976943875074": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "10861016308832836833": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "16841371283351459334": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "10405460102960147340": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "7587445649108074590": {
     "preferred_speed": 1.5,
     "maximum_speed": 4,
     "fire_avoidance": 0,
@@ -1699,57 +999,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "4960479884336891143": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "8883573249939290241": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "11841423120880866036": {
+  "12562787704342269592": {
     "preferred_speed": 5,
     "maximum_speed": 8,
     "fire_avoidance": 0,
@@ -1799,7 +1049,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "1239378520908923324": {
+  "5077454099412397096": {
     "preferred_speed": 1.5,
     "maximum_speed": 4,
     "fire_avoidance": 0,
@@ -1813,356 +1063,6 @@
       "dodging_penalty": 0.100000001,
       "velocity_hysteresis": 0.5,
       "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "12873251592757102566": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 5
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 13
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "12562787704342269592": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "17921415124075533547": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "16451308563134815530": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "11297499216687771913": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "7208293264043292125": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "11353844921854370643": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "3128706810926128882": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "7512712492736498702": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "14828710641940459992": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "12300518439027380185": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "13723659040410201638": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "9576485996670470682": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "1024464436030047776": {
-    "preferred_speed": 4,
-    "maximum_speed": 7,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 50,
-      "penetration_penalty": 150,
-      "wall_following_angle": 0.300000012,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.200000003,
-      "sidedness_changing_penalty": 0.200000003,
       "weight": 0.100000001,
       "priority": 0
     },
@@ -2199,9 +1099,9 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "3031503431338798614": {
+  "17842374123104475103": {
     "preferred_speed": 5,
-    "maximum_speed": 8,
+    "maximum_speed": 10,
     "fire_avoidance": 0,
     "boids_cohesion_strength": 0.200000003,
     "boids_optimal_distance": 2,
@@ -2211,170 +1111,20 @@
       "penetration_penalty": 100,
       "wall_following_angle": 0.25,
       "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "5492393195882837684": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "3660840294738278623": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "14278331370456096813": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
+      "velocity_hysteresis": 0.5,
       "sidedness_changing_penalty": 0.100000001,
       "weight": 5,
-      "priority": 0
+      "priority": 5
     },
     "sensor_aabb": {
       "bottom_extent": 0.5,
       "top_extent": 2,
-      "half_width": 10
+      "half_width": 13
     },
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "17672347716099392046": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 50,
-      "priority": 50
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "363124815175446673": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "9513169167295339035": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "3517035000518974420": {
+  "5909160229139284606": {
     "preferred_speed": 5,
     "maximum_speed": 8,
     "fire_avoidance": 0,
@@ -2389,56 +1139,6 @@
       "velocity_hysteresis": 0.100000001,
       "sidedness_changing_penalty": 0.100000001,
       "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "9814471339792705014": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15701184648926402687": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
       "priority": 0
     },
     "sensor_aabb": {
@@ -2474,11 +1174,11 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "1825817556220264183": {
-    "preferred_speed": 1.5,
+  "3031503431338798614": {
+    "preferred_speed": 5,
     "maximum_speed": 8,
     "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
+    "boids_cohesion_strength": 0.200000003,
     "boids_optimal_distance": 2,
     "boids_view_radius": 10,
     "steering_properties": {
@@ -2499,11 +1199,11 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "2404044106251363533": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
+  "552747719338665864": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
     "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
+    "boids_cohesion_strength": 0,
     "boids_optimal_distance": 2,
     "boids_view_radius": 10,
     "steering_properties": {
@@ -2511,9 +1211,59 @@
       "penetration_penalty": 100,
       "wall_following_angle": 0.25,
       "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
+      "velocity_hysteresis": 0.5,
       "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "14054387432745785364": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "7057055776013546117": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
       "priority": 0
     },
     "sensor_aabb": {
@@ -2549,7 +1299,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "767968035755763": {
+  "9414910092732904122": {
     "preferred_speed": 5,
     "maximum_speed": 8,
     "fire_avoidance": 0,
@@ -2574,36 +1324,11 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "16919711124802745493": {
+  "7258218216136199873": {
     "preferred_speed": 5,
-    "maximum_speed": 10,
+    "maximum_speed": 8,
     "fire_avoidance": 0,
     "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 5
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 13
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "10514734670540770044": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
     "boids_optimal_distance": 2,
     "boids_view_radius": 10,
     "steering_properties": {
@@ -2612,181 +1337,6 @@
       "wall_following_angle": 0.25,
       "dodging_penalty": 0.100000001,
       "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "18198461672611034237": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "1155202780614770422": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 5,
-      "priority": 5
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 13
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "11669807341511884260": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 10,
-      "priority": 10
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 13
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "5650246641905721936": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15599629815890585244": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15336140906172278556": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15659331049401757247": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
       "sidedness_changing_penalty": 0.100000001,
       "weight": 0.5,
       "priority": 0
@@ -2799,33 +1349,8 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "14748816422034837943": {
+  "3660840294738278623": {
     "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 20,
-      "priority": 20
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "4083821917710944045": {
-    "preferred_speed": 1.5,
     "maximum_speed": 8,
     "fire_avoidance": 0,
     "boids_cohesion_strength": 0,
@@ -2874,7 +1399,1457 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "11843619417684963016": {
+  "7208293264043292125": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "6676641717166653626": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "8604848163181421628": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "12566139334605762628": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "9137331974793918131": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "3128706810926128882": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "5663271064929335883": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 5
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 13
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "13575269880792024885": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "4469039597602705386": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "13723659040410201638": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "4251221953861716889": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 100,
+      "priority": 100
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "14731312854664874139": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 20,
+      "priority": 20
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "4960479884336891143": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "11353844921854370643": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "3583430772214091149": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 100,
+      "weight": 100,
+      "priority": 100
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "6041739005686103399": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 100,
+      "weight": 100,
+      "priority": 100
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "17943362722330235151": {
+    "preferred_speed": 4,
+    "maximum_speed": 7,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 50,
+      "penetration_penalty": 150,
+      "wall_following_angle": 0.300000012,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.200000003,
+      "sidedness_changing_penalty": 0.200000003,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "15529686099596640908": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "12706617161845284909": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "11297499216687771913": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "9614788353289254415": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "2190700087544369166": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "3517035000518974420": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "1155202780614770422": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 5
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 13
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "363124815175446673": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "6927066342767148424": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 20,
+      "priority": 20
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "12013007335500498924": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "18129582262547983427": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "15809454270358060682": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "9576485996670470682": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "1825817556220264183": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "5492393195882837684": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "152751642744350684": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "12300518439027380185": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "10828817397904429935": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "5650246641905721936": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "15701184648926402687": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "17246256129031935938": {
+    "preferred_speed": 1.35000002,
+    "maximum_speed": 1.35000002,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 2,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "14748816422034837943": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 20,
+      "priority": 20
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "17875655752828743943": {
+    "preferred_speed": 1.35000002,
+    "maximum_speed": 1.35000002,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 2,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "16121421951002036444": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "1909471264691872944": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 100,
+      "priority": 100
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "15239773297738004195": {
+    "preferred_speed": 2,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 500,
+      "priority": 500
+    },
+    "sensor_aabb": {
+      "bottom_extent": 1,
+      "top_extent": 10,
+      "half_width": 70
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "7512712492736498702": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "31641368152217202": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "1346028121179999955": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "12023841631339054706": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "8261922003134896957": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "15621795958426619957": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "5903841343181520462": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "850711056443892715": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "15382378127438146468": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "10770873609175974470": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "11398074038506794973": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 500,
+      "priority": 500
+    },
+    "sensor_aabb": {
+      "bottom_extent": 1,
+      "top_extent": 10,
+      "half_width": 80
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "5268813631875709973": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "11135777548304851724": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "2701456486977900736": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "18198461672611034237": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "18047604708754565239": {
     "preferred_speed": 1.5,
     "maximum_speed": 4,
     "fire_avoidance": 0,
@@ -2924,9 +2899,34 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "2190700087544369166": {
+  "4399458158766252490": {
     "preferred_speed": 5,
-    "maximum_speed": 8,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "13340847352459495240": {
+    "preferred_speed": 2,
+    "maximum_speed": 3,
     "fire_avoidance": 0,
     "boids_cohesion_strength": 0,
     "boids_optimal_distance": 2,
@@ -2938,7 +2938,132 @@
       "dodging_penalty": 0.100000001,
       "velocity_hysteresis": 0.100000001,
       "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "8883573249939290241": {
+    "preferred_speed": 5,
+    "maximum_speed": 8,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.100000001,
+      "sidedness_changing_penalty": 0.100000001,
       "weight": 0.5,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "14828710641940459992": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "16919711124802745493": {
+    "preferred_speed": 5,
+    "maximum_speed": 10,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0.200000003,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 5,
+      "priority": 5
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 13
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "15599629815890585244": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
+      "priority": 0
+    },
+    "sensor_aabb": {
+      "bottom_extent": 0.5,
+      "top_extent": 2,
+      "half_width": 10
+    },
+    "default_mode": "AiCharacterMode_Havok",
+    "modulate_movespeed_on_turns": 1
+  },
+  "12165351853986040244": {
+    "preferred_speed": 1.5,
+    "maximum_speed": 4,
+    "fire_avoidance": 0,
+    "boids_cohesion_strength": 0,
+    "boids_optimal_distance": 2,
+    "boids_view_radius": 10,
+    "steering_properties": {
+      "collision_penalty": 100,
+      "penetration_penalty": 100,
+      "wall_following_angle": 0.25,
+      "dodging_penalty": 0.100000001,
+      "velocity_hysteresis": 0.5,
+      "sidedness_changing_penalty": 0.100000001,
+      "weight": 0.100000001,
       "priority": 0
     },
     "sensor_aabb": {
@@ -2974,7 +3099,7 @@
     "default_mode": "AiCharacterMode_Havok",
     "modulate_movespeed_on_turns": 1
   },
-  "6927066342767148424": {
+  "3939129929398354246": {
     "preferred_speed": 5,
     "maximum_speed": 10,
     "fire_avoidance": 0,
@@ -2990,181 +3115,6 @@
       "sidedness_changing_penalty": 0.100000001,
       "weight": 20,
       "priority": 20
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "16841371283351459334": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "15621795958426619957": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0.200000003,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "14286719829563111324": {
-    "preferred_speed": 2,
-    "maximum_speed": 3,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 100,
-      "weight": 100,
-      "priority": 100
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "4399458158766252490": {
-    "preferred_speed": 5,
-    "maximum_speed": 10,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "10409770290790592053": {
-    "preferred_speed": 1.35000002,
-    "maximum_speed": 1.35000002,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 2,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "10861016308832836833": {
-    "preferred_speed": 5,
-    "maximum_speed": 8,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.100000001,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.5,
-      "priority": 0
-    },
-    "sensor_aabb": {
-      "bottom_extent": 0.5,
-      "top_extent": 2,
-      "half_width": 10
-    },
-    "default_mode": "AiCharacterMode_Havok",
-    "modulate_movespeed_on_turns": 1
-  },
-  "5268813631875709973": {
-    "preferred_speed": 1.5,
-    "maximum_speed": 4,
-    "fire_avoidance": 0,
-    "boids_cohesion_strength": 0,
-    "boids_optimal_distance": 2,
-    "boids_view_radius": 10,
-    "steering_properties": {
-      "collision_penalty": 100,
-      "penetration_penalty": 100,
-      "wall_following_angle": 0.25,
-      "dodging_penalty": 0.100000001,
-      "velocity_hysteresis": 0.5,
-      "sidedness_changing_penalty": 0.100000001,
-      "weight": 0.100000001,
-      "priority": 0
     },
     "sensor_aabb": {
       "bottom_extent": 0.5,

@@ -824,6 +824,41 @@
           ]
         },
         {
+          "type": "DamageInfoType_Projectile_Plasma_Pistol_Base",
+          "damage": [
+            100,
+            50
+          ],
+          "armor_penetration_per_angle": [
+            2,
+            2,
+            2,
+            0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 20,
+          "force_impulse": 10,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
           "type": "DamageInfoType_Projectile_Plasma_Bolt",
           "damage": [
             100,
@@ -868,6 +903,41 @@
             2,
             2,
             2,
+            0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 20,
+          "force_impulse": 10,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Projectile_Plasma_Pistol_Charge",
+          "damage": [
+            150,
+            75
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            3,
+            3,
             0
           ],
           "demolition_strength": 10,
@@ -1630,6 +1700,41 @@
         },
         {
           "type": "DamageInfoType_Projectile_Pistol_Magnum",
+          "damage": [
+            125,
+            32
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            3,
+            3,
+            0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 15,
+          "force_impulse": 10,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Projectile_SMG_Rhino",
           "damage": [
             125,
             32
@@ -3451,8 +3556,8 @@
         {
           "type": "DamageInfoType_Projectile_Shotgun_10g_fle",
           "damage": [
-            20,
-            4
+            35,
+            10
           ],
           "armor_penetration_per_angle": [
             3,
@@ -3764,6 +3869,41 @@
           ]
         },
         {
+          "type": "DamageInfoType_Projectile_Shotgun_10g_stun",
+          "damage": [
+            6,
+            2
+          ],
+          "armor_penetration_per_angle": [
+            2,
+            2,
+            2,
+            0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 15,
+          "force_impulse": 10,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_StunMedium",
+              "value": 1
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
           "type": "DamageInfoType_Projectile_Shotgun_10g_slug",
           "damage": [
             250,
@@ -3941,8 +4081,8 @@
         {
           "type": "DamageInfoType_Projectile_Shotgun_12g_fle",
           "damage": [
-            20,
-            4
+            35,
+            20
           ],
           "armor_penetration_per_angle": [
             3,
@@ -6953,6 +7093,76 @@
           "damage": [
             150,
             150
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            3,
+            3,
+            0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 35,
+          "force_impulse": 30,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Explosion_Projectile_Plasma_Pistol_Charge_Medium",
+          "damage": [
+            75,
+            75
+          ],
+          "armor_penetration_per_angle": [
+            3,
+            0,
+            0,
+            0
+          ],
+          "demolition_strength": 10,
+          "force_strength": 10,
+          "force_impulse": 7,
+          "element_type": "ElementType_None",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_Explosion_Projectile_Plasma_Pistol_Charge",
+          "damage": [
+            225,
+            225
           ],
           "armor_penetration_per_angle": [
             3,
@@ -12214,6 +12424,41 @@
           "force_strength": 0,
           "force_impulse": 0,
           "element_type": "ElementType_Bleed",
+          "status_effects": [
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            },
+            {
+              "type": "StatusEffectType_None",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "type": "DamageInfoType_DPS_DeathMarch",
+          "damage": [
+            5,
+            5
+          ],
+          "armor_penetration_per_angle": [
+            9,
+            9,
+            9,
+            9
+          ],
+          "demolition_strength": 0,
+          "force_strength": 0,
+          "force_impulse": 0,
+          "element_type": "ElementType_None",
           "status_effects": [
             {
               "type": "StatusEffectType_None",

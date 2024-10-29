@@ -2,5 +2,6 @@
     "is_opportunity_mission" : { "type": "byte" },
     "is_tutorial_mission" : { "type": "byte" },
     "is_blitz_mission" : { "type": "byte" },
-    "is_horde_mission" : { "type": "byte" }
+    "is_horde_mission" : { "type": "byte" },
+    "is_gloom_mission" : { "type": "byte" }
 }}

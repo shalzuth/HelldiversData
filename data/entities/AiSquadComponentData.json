@@ -1,5 +1,5 @@
 {
-  "17664573392975623128": {
+  "204075488202026058": {
     "replenish_members_on_exit_ghost": 0,
     "catch_up_start_distance": 21,
     "catch_up_stop_distance": 17,
@@ -7,6 +7,16 @@
     "squad_type": "SquadType_None",
     "squad_members": [
       {
+        "member_path": 7208293264043292125,
+        "amount": 6,
+        "node": 0
+      },
+      {
+        "member_path": 0,
+        "amount": 0,
+        "node": 0
+      },
+      {
         "member_path": 0,
         "amount": 0,
         "node": 0
@@ -19,6 +29,35 @@
       {
         "member_path": 0,
         "amount": 0,
+        "node": 0
+      },
+      {
+        "member_path": 0,
+        "amount": 0,
+        "node": 0
+      }
+    ]
+  },
+  "5102465671637479928": {
+    "replenish_members_on_exit_ghost": 0,
+    "catch_up_start_distance": 21,
+    "catch_up_stop_distance": 17,
+    "cohesion_multiplier": 0.0399999991,
+    "squad_type": "SquadType_None",
+    "squad_members": [
+      {
+        "member_path": 5903841343181520462,
+        "amount": 5,
+        "node": 0
+      },
+      {
+        "member_path": 13707236614338800569,
+        "amount": 3,
+        "node": 0
+      },
+      {
+        "member_path": 3626558530581732572,
+        "amount": 2,
         "node": 0
       },
       {
@@ -116,7 +155,7 @@
       }
     ]
   },
-  "1992162250168776749": {
+  "9360053548772838040": {
     "replenish_members_on_exit_ghost": 0,
     "catch_up_start_distance": 21,
     "catch_up_stop_distance": 17,
@@ -124,55 +163,16 @@
     "squad_type": "SquadType_None",
     "squad_members": [
       {
-        "member_path": 13707236614338800569,
-        "amount": 3,
-        "node": 0
-      },
-      {
-        "member_path": 3626558530581732572,
-        "amount": 2,
-        "node": 0
-      },
-      {
-        "member_path": 15358116161893188517,
-        "amount": 1,
-        "node": 0
-      },
-      {
-        "member_path": 4399458158766252490,
-        "amount": 2,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      }
-    ]
-  },
-  "7920632755280539327": {
-    "replenish_members_on_exit_ghost": 0,
-    "catch_up_start_distance": 21,
-    "catch_up_stop_distance": 17,
-    "cohesion_multiplier": 0.0399999991,
-    "squad_type": "SquadType_None",
-    "squad_members": [
-      {
-        "member_path": 15125779956101896786,
-        "amount": 1,
-        "node": 0
-      },
-      {
-        "member_path": 4399458158766252490,
+        "member_path": 4618830856548850870,
         "amount": 4,
         "node": 0
       },
       {
+        "member_path": 12566139334605762628,
+        "amount": 1,
+        "node": 0
+      },
+      {
         "member_path": 0,
         "amount": 0,
         "node": 0
@@ -194,7 +194,7 @@
       }
     ]
   },
-  "5102465671637479928": {
+  "368460834513215015": {
     "replenish_members_on_exit_ghost": 0,
     "catch_up_start_distance": 21,
     "catch_up_stop_distance": 17,
@@ -202,18 +202,18 @@
     "squad_type": "SquadType_None",
     "squad_members": [
       {
-        "member_path": 5903841343181520462,
-        "amount": 5,
+        "member_path": 4618830856548850870,
+        "amount": 1,
         "node": 0
       },
       {
-        "member_path": 13707236614338800569,
-        "amount": 3,
-        "node": 0
-      },
-      {
-        "member_path": 3626558530581732572,
+        "member_path": 12566139334605762628,
         "amount": 2,
+        "node": 0
+      },
+      {
+        "member_path": 0,
+        "amount": 0,
         "node": 0
       },
       {
@@ -272,7 +272,7 @@
       }
     ]
   },
-  "9360053548772838040": {
+  "17664573392975623128": {
     "replenish_members_on_exit_ghost": 0,
     "catch_up_start_distance": 21,
     "catch_up_stop_distance": 17,
@@ -280,23 +280,62 @@
     "squad_type": "SquadType_None",
     "squad_members": [
       {
-        "member_path": 4618830856548850870,
-        "amount": 4,
+        "member_path": 0,
+        "amount": 0,
         "node": 0
       },
       {
-        "member_path": 12566139334605762628,
+        "member_path": 0,
+        "amount": 0,
+        "node": 0
+      },
+      {
+        "member_path": 0,
+        "amount": 0,
+        "node": 0
+      },
+      {
+        "member_path": 0,
+        "amount": 0,
+        "node": 0
+      },
+      {
+        "member_path": 0,
+        "amount": 0,
+        "node": 0
+      },
+      {
+        "member_path": 0,
+        "amount": 0,
+        "node": 0
+      }
+    ]
+  },
+  "1992162250168776749": {
+    "replenish_members_on_exit_ghost": 0,
+    "catch_up_start_distance": 21,
+    "catch_up_stop_distance": 17,
+    "cohesion_multiplier": 0.0399999991,
+    "squad_type": "SquadType_None",
+    "squad_members": [
+      {
+        "member_path": 13707236614338800569,
+        "amount": 3,
+        "node": 0
+      },
+      {
+        "member_path": 3626558530581732572,
+        "amount": 2,
+        "node": 0
+      },
+      {
+        "member_path": 15358116161893188517,
         "amount": 1,
         "node": 0
       },
       {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
+        "member_path": 4399458158766252490,
+        "amount": 2,
         "node": 0
       },
       {
@@ -350,45 +389,6 @@
       }
     ]
   },
-  "204075488202026058": {
-    "replenish_members_on_exit_ghost": 0,
-    "catch_up_start_distance": 21,
-    "catch_up_stop_distance": 17,
-    "cohesion_multiplier": 0.0399999991,
-    "squad_type": "SquadType_None",
-    "squad_members": [
-      {
-        "member_path": 7208293264043292125,
-        "amount": 6,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      }
-    ]
-  },
   "6261276598951891725": {
     "replenish_members_on_exit_ghost": 0,
     "catch_up_start_distance": 21,
@@ -404,45 +404,6 @@
       {
         "member_path": 0,
         "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      },
-      {
-        "member_path": 0,
-        "amount": 0,
-        "node": 0
-      }
-    ]
-  },
-  "368460834513215015": {
-    "replenish_members_on_exit_ghost": 0,
-    "catch_up_start_distance": 21,
-    "catch_up_stop_distance": 17,
-    "cohesion_multiplier": 0.0399999991,
-    "squad_type": "SquadType_None",
-    "squad_members": [
-      {
-        "member_path": 4618830856548850870,
-        "amount": 1,
-        "node": 0
-      },
-      {
-        "member_path": 12566139334605762628,
-        "amount": 2,
         "node": 0
       },
       {

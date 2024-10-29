@@ -1,0 +1,5 @@
+{ "StratagemAudioEvent" : {
+    "audio_event" : { "type": "ulong" },
+    "trigger_spawn_time_offset" : { "type": "float", "default": 0 },
+    "trigger_life_time" : { "type": "float", "default": 0 }
+}}

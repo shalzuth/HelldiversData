@@ -23605,7 +23605,7 @@
       "wind_speed_max": 15,
       "cloud_weather_map": 12327468225717319642,
       "cloud_opacity": 0.0500000007,
-      "cloud_coverage": 0.75,
+      "cloud_coverage": 0.5,
       "cloud_beer": 25,
       "cloud_altitude": 600,
       "cloud_height_mult": 1,
@@ -23708,8 +23708,8 @@
       "vista_cloud_height_variance0": 0.5,
       "vista_cloud_height_variance1": 1,
       "vista_cloud_height_variance2": 0.75,
-      "day_aurora_intensity": 0,
-      "night_aurora_intensity": 0,
+      "day_aurora_intensity": 1,
+      "night_aurora_intensity": 1,
       "camera_effects": [
         {
           "rotation_type": "RotationType_None",
@@ -23865,7 +23865,7 @@
       "wind_speed_max": 15,
       "cloud_weather_map": 12327468225717319642,
       "cloud_opacity": 0.600000024,
-      "cloud_coverage": 0.75,
+      "cloud_coverage": 0.5,
       "cloud_beer": 25,
       "cloud_altitude": 600,
       "cloud_height_mult": 1,
@@ -23968,8 +23968,8 @@
       "vista_cloud_height_variance0": 0.5,
       "vista_cloud_height_variance1": 1,
       "vista_cloud_height_variance2": 0.75,
-      "day_aurora_intensity": 0,
-      "night_aurora_intensity": 0,
+      "day_aurora_intensity": 1,
+      "night_aurora_intensity": 1,
       "camera_effects": [
         {
           "rotation_type": "RotationType_None",
@@ -24619,7 +24619,7 @@
       "wind_speed_max": 15,
       "cloud_weather_map": 12327468225717319642,
       "cloud_opacity": 0.0500000007,
-      "cloud_coverage": 0.75,
+      "cloud_coverage": 0.5,
       "cloud_beer": 25,
       "cloud_altitude": 600,
       "cloud_height_mult": 1,
@@ -24722,8 +24722,8 @@
       "vista_cloud_height_variance0": 0.5,
       "vista_cloud_height_variance1": 1,
       "vista_cloud_height_variance2": 0.75,
-      "day_aurora_intensity": 0,
-      "night_aurora_intensity": 0,
+      "day_aurora_intensity": 1,
+      "night_aurora_intensity": 1,
       "camera_effects": [
         {
           "rotation_type": "RotationType_None",
@@ -24879,7 +24879,7 @@
       "wind_speed_max": 15,
       "cloud_weather_map": 12327468225717319642,
       "cloud_opacity": 0.600000024,
-      "cloud_coverage": 0.75,
+      "cloud_coverage": 0.5,
       "cloud_beer": 25,
       "cloud_altitude": 600,
       "cloud_height_mult": 1,
@@ -24982,8 +24982,8 @@
       "vista_cloud_height_variance0": 0.5,
       "vista_cloud_height_variance1": 1,
       "vista_cloud_height_variance2": 0.75,
-      "day_aurora_intensity": 0,
-      "night_aurora_intensity": 0,
+      "day_aurora_intensity": 1,
+      "night_aurora_intensity": 1,
       "camera_effects": [
         {
           "rotation_type": "RotationType_None",
@@ -25733,7 +25733,7 @@
       },
       "weather_sun_intensity_mult": -1,
       "weather_wetness": 0,
-      "heathaze_amount": 0.300000012,
+      "heathaze_amount": 0,
       "vista_cloud_amount": 0,
       "vista_cloud_color": {
         "x": -1,
@@ -26027,7 +26027,7 @@
       },
       "weather_sun_intensity_mult": -1,
       "weather_wetness": 0,
-      "heathaze_amount": 0.300000012,
+      "heathaze_amount": 0,
       "vista_cloud_amount": 0,
       "vista_cloud_color": {
         "x": -1,
@@ -26321,7 +26321,7 @@
       },
       "weather_sun_intensity_mult": -1,
       "weather_wetness": 0,
-      "heathaze_amount": 0.300000012,
+      "heathaze_amount": 0,
       "vista_cloud_amount": 0,
       "vista_cloud_color": {
         "x": -1,
@@ -26602,7 +26602,7 @@
       },
       "weather_sun_intensity_mult": -1,
       "weather_wetness": 0,
-      "heathaze_amount": 0.300000012,
+      "heathaze_amount": 0,
       "vista_cloud_amount": 0,
       "vista_cloud_color": {
         "x": -1,
@@ -27910,7 +27910,7 @@
       },
       "weather_sun_intensity_mult": -1,
       "weather_wetness": 0.349999994,
-      "heathaze_amount": 1,
+      "heathaze_amount": 0,
       "vista_cloud_amount": 1,
       "vista_cloud_color": {
         "x": 0.129411995,
@@ -28183,7 +28183,7 @@
       },
       "weather_sun_intensity_mult": -1,
       "weather_wetness": 0,
-      "heathaze_amount": 0.300000012,
+      "heathaze_amount": 0,
       "vista_cloud_amount": 0,
       "vista_cloud_color": {
         "x": -1,
@@ -28842,7 +28842,7 @@
       "wind_speed_min": 9,
       "wind_speed_max": 10,
       "cloud_weather_map": 12327468225717319642,
-      "cloud_opacity": 1,
+      "cloud_opacity": 0.800000012,
       "cloud_coverage": 0,
       "cloud_beer": 15,
       "cloud_altitude": 400,
@@ -28946,8 +28946,8 @@
       "vista_cloud_height_variance0": 0.5,
       "vista_cloud_height_variance1": 1,
       "vista_cloud_height_variance2": 0.75,
-      "day_aurora_intensity": 0,
-      "night_aurora_intensity": 0,
+      "day_aurora_intensity": 1,
+      "night_aurora_intensity": 1,
       "camera_effects": [
         {
           "rotation_type": "RotationType_None",
@@ -29206,8 +29206,8 @@
       "vista_cloud_height_variance0": 0.5,
       "vista_cloud_height_variance1": 1,
       "vista_cloud_height_variance2": 0.75,
-      "day_aurora_intensity": 0,
-      "night_aurora_intensity": 0,
+      "day_aurora_intensity": 1,
+      "night_aurora_intensity": 1,
       "camera_effects": [
         {
           "rotation_type": "RotationType_None",
@@ -33756,8 +33756,8 @@
       "vista_cloud_height_variance0": 0.5,
       "vista_cloud_height_variance1": 1,
       "vista_cloud_height_variance2": 0.75,
-      "day_aurora_intensity": 0,
-      "night_aurora_intensity": 0,
+      "day_aurora_intensity": 1,
+      "night_aurora_intensity": 1,
       "camera_effects": [
         {
           "rotation_type": "RotationType_None",
@@ -34016,8 +34016,8 @@
       "vista_cloud_height_variance0": 0.5,
       "vista_cloud_height_variance1": 1,
       "vista_cloud_height_variance2": 0.75,
-      "day_aurora_intensity": 0,
-      "night_aurora_intensity": 0,
+      "day_aurora_intensity": 1,
+      "night_aurora_intensity": 1,
       "camera_effects": [
         {
           "rotation_type": "RotationType_None",

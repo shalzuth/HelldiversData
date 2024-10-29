@@ -1121,6 +1121,32 @@
           ]
         },
         {
+          "debug_name": "SHOTGUN 10g. Stun",
+          "id": 1589626439,
+          "name_upper": 3317342803,
+          "name_cased": 2138837812,
+          "description": 479466402,
+          "fluff": 0,
+          "add_path": 12197413991147192027,
+          "icon": 364732971653736662,
+          "slots": [
+            "WeaponCustomizationSlot_AmmoType"
+          ]
+        },
+        {
+          "debug_name": "SHOTGUN 10g. Stun ALTERNATE",
+          "id": 2781836744,
+          "name_upper": 3317342803,
+          "name_cased": 2138837812,
+          "description": 479466402,
+          "fluff": 0,
+          "add_path": 14485739291695130526,
+          "icon": 364732971653736662,
+          "slots": [
+            "WeaponCustomizationSlot_AmmoTypeAlternate"
+          ]
+        },
+        {
           "debug_name": "SHOTGUN 12g. BIRDSHOT",
           "id": 3870329559,
           "name_upper": 3500789039,

@@ -43,6 +43,7 @@
     "confirmation_vo_owner" : { "type": "uint" },
     "callout_vo" : { "type": "uint" },
     "off_cooldown_vo" : { "type": "uint" },
+    "synced_audio_events" : { "type": "array", "subtype": "StratagemAudioEvent" },
     "damage_dealer" : { "type": "ulong" },
     "matching_support_weapon" : { "type": "uint" },
     "dlc_pack_id" : { "type": "uint" },
