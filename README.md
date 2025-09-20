@@ -2,6 +2,8 @@
  Datamining for Helldivers 2, supporting the guts of https://helldivers.io/ and others. 
  
  Review the data in an easy frontend @ https://data.helldivers.io/
+
+ .dl_bin format is a modified datalibrary @ https://github.com/wc-duck/datalibrary
 # Tutorial on how to get planet effects:
  - Go to https://data.helldivers.io/?settings=generated_planet_data
  - Click the planet you want (i.e. Hellmire) https://data.helldivers.io/?settings=generated_planet_data&index=36
